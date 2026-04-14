@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChabadPedia Knowledge Graph - Cytoscape.js</title>
     <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/cytoscape-cose-bilkent@4.1.0/cytoscape-cose-bilkent.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -540,14 +539,16 @@
                     name: 'cose',
                     animate: true,
                     animationDuration: 500,
-                    idealEdgeLength: 60,
-                    nodeOverlap: 20,
+                    animationEasing: undefined,
+                    animationThreshold: 250,
                     refresh: 20,
                     fit: true,
                     padding: 30,
                     randomize: false,
                     componentSpacing: 100,
                     nodeRepulsion: 400000,
+                    nodeOverlap: 20,
+                    idealEdgeLength: 60,
                     edgeElasticity: 100,
                     nestingFactor: 5,
                     gravity: 80,
