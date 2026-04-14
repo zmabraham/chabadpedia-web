@@ -589,7 +589,11 @@
                     }
                 }
 
+                // Create a set of all valid node IDs
+                const validNodeIds = new Set();
+
                 for (const node of nodesArray) {
+                    validNodeIds.add(node.title);
                     elements.push({
                         group: 'nodes',
                         data: {
@@ -606,6 +610,7 @@
                 const edgeSet = new Set();
                 const maxEdges = segmentId === 'full' ? 50000 : data.edges.length;
                 let edgeCount = 0;
+                let skippedEdges = 0;
 
                 for (const edge of data.edges) {
                     if (edgeCount >= maxEdges) break;
@@ -613,7 +618,9 @@
                     const source = typeof edge === 'string' ? edge : edge[0];
                     const target = typeof edge === 'string' ? edge : edge[1];
 
-                    if (source && target && source !== target) {
+                    // Only add edges where both source and target nodes exist
+                    if (source && target && source !== target &&
+                        validNodeIds.has(source) && validNodeIds.has(target)) {
                         const edgeKey = `${source}|${target}`;
                         if (!edgeSet.has(edgeKey)) {
                             edgeSet.add(edgeKey);
@@ -626,10 +633,15 @@
                             });
                             edgeCount++;
                         }
+                    } else if (source && target) {
+                        skippedEdges++;
                     }
                 }
 
-                // Show warning if edges were limited
+                // Show warning if edges were limited or skipped
+                if (skippedEdges > 0) {
+                    console.log(`Skipped ${skippedEdges} edges with missing nodes`);
+                }
                 if (segmentId === 'full' && data.edges.length > maxEdges) {
                     console.log(`Limited to ${maxEdges} edges out of ${data.edges.length} for performance`);
                 }
