@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChabadPedia Knowledge Graph</title>
+    <title>ChabadPedia Knowledge Graph - Full</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { 
+        body {
             font-family: 'Segoe TAH', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             color: #eee;
+            overflow: hidden;
         }
         #container {
             display: flex;
@@ -18,10 +19,11 @@
         }
         #sidebar {
             width: 320px;
-            background: rgba(0,0,0,0.3);
+            background: rgba(0,0,0,0.4);
             padding: 20px;
             overflow-y: auto;
             border-right: 1px solid rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
         }
         #main {
             flex: 1;
@@ -32,12 +34,12 @@
             height: 100%;
         }
         h1 {
-            font-size: 1.4rem;
-            margin-bottom: 20px;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
             color: #ffd700;
         }
         h2 {
-            font-size: 1rem;
+            font-size: 0.95rem;
             margin: 15px 0 10px;
             color: #87ceeb;
         }
@@ -47,17 +49,17 @@
             margin: 5px 0;
             border-radius: 5px;
         }
-        .stat-label { font-size: 0.8rem; color: #aaa; }
-        .stat-value { font-size: 1.2rem; font-weight: bold; color: #4fc3f7; }
+        .stat-label { font-size: 0.75rem; color: #aaa; }
+        .stat-value { font-size: 1.1rem; font-weight: bold; color: #4fc3f7; }
         .legend-item {
             display: flex;
             align-items: center;
             margin: 8px 0;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
         }
         .legend-color {
-            width: 20px;
-            height: 20px;
+            width: 16px;
+            height: 16px;
             border-radius: 50%;
             margin-right: 10px;
         }
@@ -74,14 +76,16 @@
         .search-box::placeholder { color: #888; }
         #tooltip {
             position: absolute;
-            background: rgba(0,0,0,0.9);
-            padding: 15px;
+            background: rgba(0,0,0,0.95);
+            padding: 12px;
             border-radius: 8px;
             pointer-events: none;
             opacity: 0;
             transition: opacity 0.2s;
-            max-width: 300px;
+            max-width: 280px;
             border: 1px solid rgba(255,255,255,0.2);
+            font-size: 0.85rem;
+            z-index: 1000;
         }
         .controls {
             margin: 15px 0;
@@ -90,11 +94,11 @@
             background: #4fc3f7;
             color: #000;
             border: none;
-            padding: 8px 16px;
+            padding: 8px 14px;
             margin: 5px 5px 5px 0;
             border-radius: 5px;
             cursor: pointer;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
         }
         button:hover { background: #29b6f6; }
         .node-info {
@@ -102,7 +106,43 @@
             padding: 10px;
             margin: 10px 0;
             border-radius: 5px;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
+        }
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            font-size: 1.2rem;
+            color: #4fc3f7;
+        }
+        .spinner {
+            border: 4px solid rgba(255,255,255,0.1);
+            border-top: 4px solid #4fc3f7;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .neighbors-list {
+            max-height: 200px;
+            overflow-y: auto;
+            font-size: 0.75rem;
+        }
+        .neighbor-item {
+            padding: 3px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        #results-info {
+            font-size: 0.75rem;
+            color: #888;
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -110,22 +150,23 @@
     <div id="container">
         <div id="sidebar">
             <h1>🌐 ChabadPedia<br>Knowledge Graph</h1>
-            
-            <input type="text" class="search-box" id="search" placeholder="🔍 Search nodes...">
-            
+
+            <input type="text" class="search-box" id="search" placeholder="🔍 Search 15,530 nodes...">
+
             <div class="controls">
-                <button onclick="resetZoom()">🔄 Reset View</button>
+                <button onclick="resetZoom()">🔄 Reset</button>
                 <button onclick="toggleLabels()">🏷️ Labels</button>
+                <button onclick="isolateSelected()">🎯 Focus</button>
             </div>
-            
+
             <h2>📊 Statistics</h2>
             <div class="stat">
                 <div class="stat-label">Total Nodes</div>
-                <div class="stat-value">15,530</div>
+                <div class="stat-value" id="nodeCount">Loading...</div>
             </div>
             <div class="stat">
                 <div class="stat-label">Total Edges</div>
-                <div class="stat-value">325,274</div>
+                <div class="stat-value" id="edgeCount">Loading...</div>
             </div>
             <div class="stat">
                 <div class="stat-label">Content Pages</div>
@@ -133,257 +174,437 @@
             </div>
             <div class="stat">
                 <div class="stat-label">Categories</div>
-                <div class="stat-value">200+</div>
+                <div class="stat-value">2,551</div>
             </div>
-            
+
             <h2>🏷️ Node Types</h2>
             <div class="legend-item">
                 <div class="legend-color" style="background: #ffd700;"></div>
-                <span>People (חסידים)</span>
+                <span>People (אישים, חסידים)</span>
             </div>
             <div class="legend-item">
                 <div class="legend-color" style="background: #4fc3f7;"></div>
-                <span>Places (מקומות)</span>
+                <span>Places (מקומות, ערים)</span>
             </div>
             <div class="legend-item">
                 <div class="legend-color" style="background: #66bb6a;"></div>
-                <span>Concepts (מושגים)</span>
+                <span>Concepts (מושגים, רעיונות)</span>
             </div>
             <div class="legend-item">
                 <div class="legend-color" style="background: #ff7043;"></div>
-                <span>Organizations</span>
+                <span>Organizations (מוסדות)</span>
             </div>
             <div class="legend-item">
                 <div class="legend-color" style="background: #ab47bc;"></div>
+                <span>Publications (ספרים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ec407a;"></div>
+                <span>Events (אירועים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #78909c;"></div>
                 <span>Other</span>
             </div>
-            
+
+            <div id="results-info"></div>
             <div id="nodeInfo"></div>
         </div>
         <div id="main">
             <svg id="graph"></svg>
             <div id="tooltip"></div>
+            <div id="loading">
+                <div class="spinner"></div>
+                <div>Loading ChabadPedia Knowledge Graph...</div>
+                <div style="font-size: 0.9rem; color: #888; margin-top: 10px;">15,530 nodes • 325,274 edges</div>
+            </div>
         </div>
     </div>
 
     <script>
-        // Graph data will be loaded here
         let graphData = { nodes: [], links: [] };
+        let filteredData = { nodes: [], links: [] };
         let simulation, svg, g, zoom;
-        let showLabels = true;
-        
-        const width = window.innerWidth - 320;
+        let showLabels = false;
+        let selectedNode = null;
+
+        const sidebarWidth = 320;
+        const width = window.innerWidth - sidebarWidth;
         const height = window.innerHeight;
-        
-        // Color scale for node types
+
+        // Color scale for node types - enhanced logic
         function getNodeColor(node) {
             const cats = node.categories || [];
-            if (cats.some(c => c.includes('חסיד') || c.includes('אישי'))) return '#ffd700';
-            if (cats.some(c => c.includes('ירושלים') || c.includes('קראון') || c.includes('כפר'))) return '#4fc3f7';
-            if (cats.some(c => c.includes('תורת') || c.includes('מושג') || c.includes('פירוש'))) return '#66bb6a';
-            if (cats.some(c => c.includes('מוסד') || c.includes('ועד') || c.includes('ארגון'))) return '#ff7043';
-            return '#ab47bc';
+            const title = (node.id || '').toLowerCase();
+
+            // People - gold/yellow
+            if (cats.some(c =>
+                c.includes('חסיד') || c.includes('אדמו"ר') || c.includes('רב') ||
+                c.includes('אישי') || c.includes('משפ') || c.includes('משיח')
+            ) || title.includes('רבי') || title.includes('admor')) {
+                return '#ffd700';
+            }
+
+            // Places - blue (including cities, countries, neighborhoods)
+            if (cats.some(c =>
+                c.includes('מקום') || c.includes('עיר') || c.includes('ארץ') ||
+                c.includes('שכונ') || c.includes('יישוב') || c.includes('אזור')
+            ) ||
+            title.includes('ירושלים') || title.includes('קראון') ||
+            title.includes('כפר') || title.includes('חב"ד') ||
+            title.includes('770') || title.includes('ארץ ישראל') ||
+            title.includes('רוסיה') || title.includes('אמריקה') ||
+            title.includes('ברית') || title.includes('פולין') ||
+            title.includes('ליטא') || title.includes('לטביה')) {
+                return '#4fc3f7';
+            }
+
+            // Concepts - green
+            if (cats.some(c =>
+                c.includes('מושג') || c.includes('רעיון') || c.includes('עקרון') ||
+                c.includes('תורת') || c.includes('פירוש') || c.includes('הלכה') ||
+                c.includes('חסידות') || c.includes('עבודה')
+            )) {
+                return '#66bb6a';
+            }
+
+            // Organizations - orange
+            if (cats.some(c =>
+                c.includes('מוסד') || c.includes('ועד') || c.includes('ארגון') ||
+                c.includes('התאחדות') || c.includes('קהיל') || c.includes('ישיבה')
+            )) {
+                return '#ff7043';
+            }
+
+            // Publications - purple
+            if (cats.some(c =>
+                c.includes('ספר') || c.includes('מאמר') || c.includes('קובץ') ||
+                c.includes('כתב') || c.includes('הוצאה')
+            )) {
+                return '#ab47bc';
+            }
+
+            // Events - pink
+            if (cats.some(c =>
+                c.includes('אירוע') || c.includes('מלחמה') || c.includes('מהפכה')
+            )) {
+                return '#ec407a';
+            }
+
+            return '#78909c';
         }
-        
+
+        async function loadGraphData() {
+            try {
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                const data = await response.json();
+
+                // Process nodes with computed properties
+                graphData.nodes = data.nodes.map(n => ({
+                    id: n.title,
+                    categories: n.categories || [],
+                    links_count: n.links_count || 0,
+                    is_redirect: n.is_redirect || false,
+                    radius: Math.max(3, Math.min(12, Math.sqrt((n.links_count || 0) / 20) + 3))
+                }));
+
+                // Process links - convert indices to node references
+                const nodeIndex = new Map(graphData.nodes.map((n, i) => [n.id, i]));
+                graphData.links = [];
+
+                if (data.edges) {
+                    data.edges.forEach(edge => {
+                        const sourceIdx = nodeIndex.get(edge.source);
+                        const targetIdx = nodeIndex.get(edge.target);
+                        if (sourceIdx !== undefined && targetIdx !== undefined) {
+                            graphData.links.push({
+                                source: sourceIdx,
+                                target: targetIdx
+                            });
+                        }
+                    });
+                }
+
+                filteredData = { ...graphData };
+
+                // Update stats
+                document.getElementById('nodeCount').textContent = graphData.nodes.length.toLocaleString();
+                document.getElementById('edgeCount').textContent = graphData.links.length.toLocaleString();
+
+                // Hide loading
+                document.getElementById('loading').style.display = 'none';
+
+                // Render graph
+                render();
+
+            } catch (error) {
+                console.error('Error loading graph:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Error loading graph data</div>
+                    <div style="font-size: 0.9rem; color: #888;">${error.message}</div>
+                `;
+            }
+        }
+
         function initGraph() {
             svg = d3.select('#graph')
                 .attr('width', width)
                 .attr('height', height);
-            
+
             g = svg.append('g');
-            
+
             zoom = d3.zoom()
-                .scaleExtent([0.1, 4])
+                .scaleExtent([0.05, 3])
                 .on('zoom', (event) => {
                     g.attr('transform', event.transform);
                 });
-            
+
             svg.call(zoom);
-            
-            // Load sample data (top nodes for performance)
-            loadSampleData();
         }
-        
-        function loadSampleData() {
-            // Create a sample of the graph with top connected nodes
-            const sampleNodes = [];
-            const sampleLinks = [];
-            const nodeSet = new Set();
-            
-            // Add top hub nodes
-            const topNodes = [
-                { id: 'הרבי', categories: ['חסידים'], links_count: 2097 },
-                { id: 'חב"ד אינפו', categories: ['מוסדות'], links_count: 1366 },
-                { id: 'אדמו"ר הריי"צ', categories: ['חסידים'], links_count: 1128 },
-                { id: 'ירושלים', categories: ['מקומות'], links_count: 1019 },
-                { id: '770', categories: ['מקומות'], links_count: 900 },
-                { id: 'כפר חב"ד', categories: ['מקומות'], links_count: 877 },
-                { id: 'אדמו"ר הזקן', categories: ['חסידים'], links_count: 823 },
-                { id: 'קראון הייטס', categories: ['מקומות'], links_count: 800 },
-                { id: 'משפיע', categories: ['חסידים'], links_count: 757 },
-                { id: 'ארץ ישראל', categories: ['מקומות'], links_count: 584 },
-                { id: 'רוסיה', categories: ['מקומות'], links_count: 579 },
-                { id: 'ארצות הברית', categories: ['מקומות'], links_count: 530 },
-                { id: 'יחידות', categories: ['מושגים'], links_count: 530 },
-                { id: 'אדמו"ר הרש"ב', categories: ['חסידים'], links_count: 771 },
-                { id: 'הרש"ב', categories: ['חסידים'], links_count: 400 }
-            ];
-            
-            topNodes.forEach(n => {
-                sampleNodes.push({ ...n, radius: Math.sqrt(n.links_count) / 3 + 5 });
-                nodeSet.add(n.id);
-            });
-            
-            // Create connections
-            const connections = [
-                ['הרבי', '770'], ['הרבי', 'כפר חב"ד'], ['הרבי', 'ירושלים'],
-                ['הרבי', 'אדמו"ר הזקן'], ['הרבי', 'אדמו"ר הרש"ב'], ['הרבי', 'אדמו"ר הריי"צ'],
-                ['חב"ד אינפו', '770'], ['חב"ד אינפו', 'כפר חב"ד'],
-                ['אדמו"ר הריי"צ', 'אדמו"ר הזקן'], ['אדמו"ר הריי"צ', 'אדמו"ר הרש"ב'],
-                ['אדמו"ר הרש"ב', 'אדמו"ר הזקן'], ['770', 'קראון הייטס'],
-                ['כפר חב"ד', 'ירושלים'], ['ירושלים', 'ארץ ישראל'],
-                ['רוסיה', 'אדמו"ר הזקן'], ['ארצות הברית', 'הרבי'],
-                ['משפיע', 'חסידים'], ['יחידות', 'תורת החסידות']
-            ];
-            
-            connections.forEach(([s, t]) => {
-                if (nodeSet.has(s) && nodeSet.has(t)) {
-                    sampleLinks.push({ source: s, target: t });
-                }
-            });
-            
-            graphData = { nodes: sampleNodes, links: sampleLinks };
-            render();
-        }
-        
+
         function render() {
             g.selectAll('*').remove();
-            
-            // Create links
+
+            // Create links with opacity based on importance
             const link = g.append('g')
                 .selectAll('line')
-                .data(graphData.links)
+                .data(filteredData.links)
                 .join('line')
-                .attr('stroke', 'rgba(255,255,255,0.2)')
-                .attr('stroke-width', 1);
-            
+                .attr('stroke', 'rgba(255,255,255,0.15)')
+                .attr('stroke-width', 0.5)
+                .attr('stroke-opacity', 0.3);
+
             // Create nodes
             const node = g.append('g')
                 .selectAll('circle')
-                .data(graphData.nodes)
+                .data(filteredData.nodes)
                 .join('circle')
                 .attr('r', d => d.radius)
                 .attr('fill', d => getNodeColor(d))
-                .attr('stroke', 'rgba(255,255,255,0.3)')
-                .attr('stroke-width', 2)
+                .attr('stroke', 'rgba(255,255,255,0.2)')
+                .attr('stroke-width', 1)
                 .style('cursor', 'pointer')
+                .attr('opacity', 0.9)
                 .call(d3.drag()
                     .on('start', dragstarted)
                     .on('drag', dragged)
                     .on('end', dragended));
-            
-            // Add labels
+
+            // Add labels (hidden by default for performance)
             const labels = g.append('g')
                 .selectAll('text')
-                .data(graphData.nodes)
+                .data(filteredData.nodes)
                 .join('text')
                 .text(d => d.id)
-                .attr('font-size', 12)
+                .attr('font-size', d => Math.min(10, d.radius + 4))
                 .attr('fill', '#fff')
                 .attr('text-anchor', 'middle')
-                .attr('dy', d => d.radius + 15)
+                .attr('dy', d => d.radius + 12)
                 .style('pointer-events', 'none')
-                .style('opacity', showLabels ? 1 : 0);
-            
+                .style('opacity', showLabels ? 0.7 : 0);
+
             // Tooltip
             const tooltip = d3.select('#tooltip');
-            
+            const nodeInfo = document.getElementById('nodeInfo');
+
             node.on('mouseover', function(event, d) {
                 tooltip.style('opacity', 1)
                     .html(`
-                        <strong>${d.id}</strong><br>
-                        Links: ${d.links_count}<br>
-                        Type: ${d.categories[0] || 'Other'}
+                        <strong style="color: #4fc3f7;">${d.id}</strong><br>
+                        <span style="color: #888;">Connections:</span> ${d.links_count}<br>
+                        <span style="color: #888;">Type:</span> ${d.categories[0] || 'Other'}
                     `)
                     .style('left', (event.pageX + 15) + 'px')
                     .style('top', (event.pageY - 15) + 'px');
-                
-                d3.select(this).attr('stroke', '#fff').attr('stroke-width', 3);
-                
-                document.getElementById('nodeInfo').innerHTML = `
-                    <h2>📌 ${d.id}</h2>
+
+                d3.select(this)
+                    .attr('stroke', '#fff')
+                    .attr('stroke-width', 2)
+                    .attr('opacity', 1);
+
+                // Find neighbors
+                const neighbors = getNeighbors(d);
+                nodeInfo.innerHTML = `
+                    <h2 style="color: #ffd700; margin-bottom: 10px;">📌 ${d.id}</h2>
                     <div class="node-info">
-                        <strong>Links:</strong> ${d.links_count}<br>
-                        <strong>Category:</strong> ${d.categories[0] || 'N/A'}
+                        <div><strong>Links:</strong> ${d.links_count}</div>
+                        <div><strong>Categories:</strong></div>
+                        ${d.categories.slice(0, 3).map(c => `<div style="color: #4fc3f7;">• ${c}</div>`).join('')}
+                        ${d.categories.length > 3 ? `<div style="color: #888;">+ ${d.categories.length - 3} more</div>` : ''}
+                    </div>
+                    <div class="node-info">
+                        <strong>Connected to (${neighbors.length}):</strong>
+                        <div class="neighbors-list">
+                            ${neighbors.slice(0, 20).map(n => `
+                                <div class="neighbor-item" style="color: ${getNodeColor({categories: n.categories})};">
+                                    • ${n.id}
+                                </div>
+                            `).join('')}
+                            ${neighbors.length > 20 ? `<div style="color: #888;">+ ${neighbors.length - 20} more</div>` : ''}
+                        </div>
                     </div>
                 `;
+
+                // Highlight neighbors
+                const neighborIds = new Set(neighbors.map(n => filteredData.nodes.indexOf(n)));
+                node.attr('opacity', n => {
+                    const nodeIdx = filteredData.nodes.indexOf(n);
+                    return nodeIdx === filteredData.nodes.indexOf(d) || neighborIds.has(nodeIdx) ? 1 : 0.2;
+                });
+                link.attr('opacity', l => {
+                    return l.source === d || l.target === d ? 0.6 : 0.05;
+                });
             })
             .on('mouseout', function() {
                 tooltip.style('opacity', 0);
-                d3.select(this).attr('stroke', 'rgba(255,255,255,0.3)').attr('stroke-width', 2);
+                node.attr('opacity', 0.9)
+                    .attr('stroke', 'rgba(255,255,255,0.2)')
+                    .attr('stroke-width', 1);
+                link.attr('opacity', 0.3);
+            })
+            .on('click', function(event, d) {
+                selectedNode = d;
+                event.stopPropagation();
             });
-            
-            // Simulation
-            simulation = d3.forceSimulation(graphData.nodes)
-                .force('link', d3.forceLink(graphData.links).id(d => d.id).distance(100))
-                .force('charge', d3.forceManyBody().strength(-300))
+
+            // Simulation - optimized for large graphs
+            simulation = d3.forceSimulation(filteredData.nodes)
+                .force('link', d3.forceLink(filteredData.links)
+                    .id(d => d.id)
+                    .distance(d => 30 + Math.random() * 20))
+                .force('charge', d3.forceManyBody().strength(-50))
                 .force('center', d3.forceCenter(width / 2, height / 2))
-                .force('collision', d3.forceCollide().radius(d => d.radius + 5))
+                .force('collision', d3.forceCollide().radius(d => d.radius + 2))
+                .alphaDecay(0.02)
                 .on('tick', () => {
                     link
                         .attr('x1', d => d.source.x)
                         .attr('y1', d => d.source.y)
                         .attr('x2', d => d.target.x)
                         .attr('y2', d => d.target.y);
-                    
+
                     node
                         .attr('cx', d => d.x)
                         .attr('cy', d => d.y);
-                    
+
                     labels
                         .attr('x', d => d.x)
                         .attr('y', d => d.y);
                 });
         }
-        
+
+        function getNeighbors(node) {
+            const neighbors = [];
+            const nodeIdx = filteredData.nodes.indexOf(node);
+
+            filteredData.links.forEach(link => {
+                if (link.source === nodeIdx) {
+                    neighbors.push(filteredData.nodes[link.target]);
+                } else if (link.target === nodeIdx) {
+                    neighbors.push(filteredData.nodes[link.source]);
+                }
+            });
+
+            return neighbors.sort((a, b) => b.links_count - a.links_count);
+        }
+
         function dragstarted(event, d) {
             if (!event.active) simulation.alphaTarget(0.3).restart();
             d.fx = d.x;
             d.fy = d.y;
         }
-        
+
         function dragged(event, d) {
             d.fx = event.x;
             d.fy = event.y;
         }
-        
+
         function dragended(event, d) {
             if (!event.active) simulation.alphaTarget(0);
             d.fx = null;
             d.fy = null;
         }
-        
+
         function resetZoom() {
             svg.transition().duration(500).call(
                 zoom.transform,
                 d3.zoomIdentity
             );
         }
-        
+
         function toggleLabels() {
             showLabels = !showLabels;
-            g.selectAll('text').style('opacity', showLabels ? 1 : 0);
+            g.selectAll('text').style('opacity', showLabels ? 0.7 : 0);
         }
-        
+
+        function isolateSelected() {
+            if (!selectedNode) {
+                alert('Click on a node first to select it');
+                return;
+            }
+
+            const neighbors = getNeighbors(selectedNode);
+            const nodeSet = new Set([selectedNode, ...neighbors]);
+
+            filteredData.nodes = graphData.nodes.filter(n => nodeSet.has(n));
+            filteredData.links = graphData.links.filter(l =>
+                nodeSet.has(l.source) && nodeSet.has(l.target)
+            );
+
+            document.getElementById('results-info').textContent =
+                `Showing ${filteredData.nodes.length} connected nodes`;
+
+            render();
+        }
+
         // Search functionality
         document.getElementById('search').addEventListener('input', function(e) {
-            const query = e.target.value.toLowerCase();
-            g.selectAll('circle')
-                .attr('opacity', d => d.id.toLowerCase().includes(query) ? 1 : 0.2);
+            const query = e.target.value.toLowerCase().trim();
+
+            if (!query) {
+                filteredData = { ...graphData };
+                document.getElementById('results-info').textContent = '';
+                render();
+                return;
+            }
+
+            // Find matching nodes
+            const matchedNodes = new Set();
+            graphData.nodes.forEach(node => {
+                if (node.id.toLowerCase().includes(query)) {
+                    matchedNodes.add(graphData.nodes.indexOf(node));
+                }
+            });
+
+            // Include neighbors
+            matchedNodes.forEach(nodeIdx => {
+                graphData.links.forEach(link => {
+                    if (link.source === nodeIdx) matchedNodes.add(link.target);
+                    if (link.target === nodeIdx) matchedNodes.add(link.source);
+                });
+            });
+
+            filteredData.nodes = graphData.nodes.filter((_, i) => matchedNodes.has(i));
+            filteredData.links = graphData.links.filter(l =>
+                matchedNodes.has(typeof l.source === 'object' ? graphData.nodes.indexOf(l.source) : l.source) &&
+                matchedNodes.has(typeof l.target === 'object' ? graphData.nodes.indexOf(l.target) : l.target)
+            );
+
+            document.getElementById('results-info').textContent =
+                `Found ${filteredData.nodes.length} nodes matching "${query}"`;
+
+            render();
         });
-        
-        // Initialize
+
+        // Click on background to reset selection
+        svg.on('click', function() {
+            if (!selectedNode) return;
+            selectedNode = null;
+        });
+
+        // Initialize and load data
         initGraph();
+        loadGraphData();
     </script>
 </body>
 </html>
