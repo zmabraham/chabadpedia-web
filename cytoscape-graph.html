@@ -578,8 +578,18 @@
                 // Convert data to Cytoscape format
                 const elements = [];
 
-                // Add nodes
-                for (const node of data.nodes) {
+                // Add nodes - handle both array and object formats
+                let nodesArray = [];
+                if (Array.isArray(data.nodes)) {
+                    nodesArray = data.nodes;
+                } else {
+                    // Convert object to array
+                    for (const key in data.nodes) {
+                        nodesArray.push(data.nodes[key]);
+                    }
+                }
+
+                for (const node of nodesArray) {
                     elements.push({
                         group: 'nodes',
                         data: {
