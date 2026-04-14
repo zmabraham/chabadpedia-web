@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChabadPedia Knowledge Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe TAH', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #eee;
+        }
+        #container {
+            display: flex;
+            height: 100vh;
+        }
+        #sidebar {
+            width: 320px;
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            overflow-y: auto;
+            border-right: 1px solid rgba(255,255,255,0.1);
+        }
+        #main {
+            flex: 1;
+            position: relative;
+        }
+        #graph {
+            width: 100%;
+            height: 100%;
+        }
+        h1 {
+            font-size: 1.4rem;
+            margin-bottom: 20px;
+            color: #ffd700;
+        }
+        h2 {
+            font-size: 1rem;
+            margin: 15px 0 10px;
+            color: #87ceeb;
+        }
+        .stat {
+            background: rgba(255,255,255,0.05);
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        .stat-label { font-size: 0.8rem; color: #aaa; }
+        .stat-value { font-size: 1.2rem; font-weight: bold; color: #4fc3f7; }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 8px 0;
+            font-size: 0.9rem;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        .search-box {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 5px;
+            color: #fff;
+            font-size: 0.9rem;
+        }
+        .search-box::placeholder { color: #888; }
+        #tooltip {
+            position: absolute;
+            background: rgba(0,0,0,0.9);
+            padding: 15px;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            max-width: 300px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .controls {
+            margin: 15px 0;
+        }
+        button {
+            background: #4fc3f7;
+            color: #000;
+            border: none;
+            padding: 8px 16px;
+            margin: 5px 5px 5px 0;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        button:hover { background: #29b6f6; }
+        .node-info {
+            background: rgba(255,255,255,0.05);
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="sidebar">
+            <h1>🌐 ChabadPedia<br>Knowledge Graph</h1>
+            
+            <input type="text" class="search-box" id="search" placeholder="🔍 Search nodes...">
+            
+            <div class="controls">
+                <button onclick="resetZoom()">🔄 Reset View</button>
+                <button onclick="toggleLabels()">🏷️ Labels</button>
+            </div>
+            
+            <h2>📊 Statistics</h2>
+            <div class="stat">
+                <div class="stat-label">Total Nodes</div>
+                <div class="stat-value">15,530</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Total Edges</div>
+                <div class="stat-value">325,274</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Content Pages</div>
+                <div class="stat-value">5,846</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Categories</div>
+                <div class="stat-value">200+</div>
+            </div>
+            
+            <h2>🏷️ Node Types</h2>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ffd700;"></div>
+                <span>People (חסידים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #4fc3f7;"></div>
+                <span>Places (מקומות)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #66bb6a;"></div>
+                <span>Concepts (מושגים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ff7043;"></div>
+                <span>Organizations</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ab47bc;"></div>
+                <span>Other</span>
+            </div>
+            
+            <div id="nodeInfo"></div>
+        </div>
+        <div id="main">
+            <svg id="graph"></svg>
+            <div id="tooltip"></div>
+        </div>
+    </div>
+
+    <script>
+        // Graph data will be loaded here
+        let graphData = { nodes: [], links: [] };
+        let simulation, svg, g, zoom;
+        let showLabels = true;
+        
+        const width = window.innerWidth - 320;
+        const height = window.innerHeight;
+        
+        // Color scale for node types
+        function getNodeColor(node) {
+            const cats = node.categories || [];
+            if (cats.some(c => c.includes('חסיד') || c.includes('אישי'))) return '#ffd700';
+            if (cats.some(c => c.includes('ירושלים') || c.includes('קראון') || c.includes('כפר'))) return '#4fc3f7';
+            if (cats.some(c => c.includes('תורת') || c.includes('מושג') || c.includes('פירוש'))) return '#66bb6a';
+            if (cats.some(c => c.includes('מוסד') || c.includes('ועד') || c.includes('ארגון'))) return '#ff7043';
+            return '#ab47bc';
+        }
+        
+        function initGraph() {
+            svg = d3.select('#graph')
+                .attr('width', width)
+                .attr('height', height);
+            
+            g = svg.append('g');
+            
+            zoom = d3.zoom()
+                .scaleExtent([0.1, 4])
+                .on('zoom', (event) => {
+                    g.attr('transform', event.transform);
+                });
+            
+            svg.call(zoom);
+            
+            // Load sample data (top nodes for performance)
+            loadSampleData();
+        }
+        
+        function loadSampleData() {
+            // Create a sample of the graph with top connected nodes
+            const sampleNodes = [];
+            const sampleLinks = [];
+            const nodeSet = new Set();
+            
+            // Add top hub nodes
+            const topNodes = [
+                { id: 'הרבי', categories: ['חסידים'], links_count: 2097 },
+                { id: 'חב"ד אינפו', categories: ['מוסדות'], links_count: 1366 },
+                { id: 'אדמו"ר הריי"צ', categories: ['חסידים'], links_count: 1128 },
+                { id: 'ירושלים', categories: ['מקומות'], links_count: 1019 },
+                { id: '770', categories: ['מקומות'], links_count: 900 },
+                { id: 'כפר חב"ד', categories: ['מקומות'], links_count: 877 },
+                { id: 'אדמו"ר הזקן', categories: ['חסידים'], links_count: 823 },
+                { id: 'קראון הייטס', categories: ['מקומות'], links_count: 800 },
+                { id: 'משפיע', categories: ['חסידים'], links_count: 757 },
+                { id: 'ארץ ישראל', categories: ['מקומות'], links_count: 584 },
+                { id: 'רוסיה', categories: ['מקומות'], links_count: 579 },
+                { id: 'ארצות הברית', categories: ['מקומות'], links_count: 530 },
+                { id: 'יחידות', categories: ['מושגים'], links_count: 530 },
+                { id: 'אדמו"ר הרש"ב', categories: ['חסידים'], links_count: 771 },
+                { id: 'הרש"ב', categories: ['חסידים'], links_count: 400 }
+            ];
+            
+            topNodes.forEach(n => {
+                sampleNodes.push({ ...n, radius: Math.sqrt(n.links_count) / 3 + 5 });
+                nodeSet.add(n.id);
+            });
+            
+            // Create connections
+            const connections = [
+                ['הרבי', '770'], ['הרבי', 'כפר חב"ד'], ['הרבי', 'ירושלים'],
+                ['הרבי', 'אדמו"ר הזקן'], ['הרבי', 'אדמו"ר הרש"ב'], ['הרבי', 'אדמו"ר הריי"צ'],
+                ['חב"ד אינפו', '770'], ['חב"ד אינפו', 'כפר חב"ד'],
+                ['אדמו"ר הריי"צ', 'אדמו"ר הזקן'], ['אדמו"ר הריי"צ', 'אדמו"ר הרש"ב'],
+                ['אדמו"ר הרש"ב', 'אדמו"ר הזקן'], ['770', 'קראון הייטס'],
+                ['כפר חב"ד', 'ירושלים'], ['ירושלים', 'ארץ ישראל'],
+                ['רוסיה', 'אדמו"ר הזקן'], ['ארצות הברית', 'הרבי'],
+                ['משפיע', 'חסידים'], ['יחידות', 'תורת החסידות']
+            ];
+            
+            connections.forEach(([s, t]) => {
+                if (nodeSet.has(s) && nodeSet.has(t)) {
+                    sampleLinks.push({ source: s, target: t });
+                }
+            });
+            
+            graphData = { nodes: sampleNodes, links: sampleLinks };
+            render();
+        }
+        
+        function render() {
+            g.selectAll('*').remove();
+            
+            // Create links
+            const link = g.append('g')
+                .selectAll('line')
+                .data(graphData.links)
+                .join('line')
+                .attr('stroke', 'rgba(255,255,255,0.2)')
+                .attr('stroke-width', 1);
+            
+            // Create nodes
+            const node = g.append('g')
+                .selectAll('circle')
+                .data(graphData.nodes)
+                .join('circle')
+                .attr('r', d => d.radius)
+                .attr('fill', d => getNodeColor(d))
+                .attr('stroke', 'rgba(255,255,255,0.3)')
+                .attr('stroke-width', 2)
+                .style('cursor', 'pointer')
+                .call(d3.drag()
+                    .on('start', dragstarted)
+                    .on('drag', dragged)
+                    .on('end', dragended));
+            
+            // Add labels
+            const labels = g.append('g')
+                .selectAll('text')
+                .data(graphData.nodes)
+                .join('text')
+                .text(d => d.id)
+                .attr('font-size', 12)
+                .attr('fill', '#fff')
+                .attr('text-anchor', 'middle')
+                .attr('dy', d => d.radius + 15)
+                .style('pointer-events', 'none')
+                .style('opacity', showLabels ? 1 : 0);
+            
+            // Tooltip
+            const tooltip = d3.select('#tooltip');
+            
+            node.on('mouseover', function(event, d) {
+                tooltip.style('opacity', 1)
+                    .html(`
+                        <strong>${d.id}</strong><br>
+                        Links: ${d.links_count}<br>
+                        Type: ${d.categories[0] || 'Other'}
+                    `)
+                    .style('left', (event.pageX + 15) + 'px')
+                    .style('top', (event.pageY - 15) + 'px');
+                
+                d3.select(this).attr('stroke', '#fff').attr('stroke-width', 3);
+                
+                document.getElementById('nodeInfo').innerHTML = `
+                    <h2>📌 ${d.id}</h2>
+                    <div class="node-info">
+                        <strong>Links:</strong> ${d.links_count}<br>
+                        <strong>Category:</strong> ${d.categories[0] || 'N/A'}
+                    </div>
+                `;
+            })
+            .on('mouseout', function() {
+                tooltip.style('opacity', 0);
+                d3.select(this).attr('stroke', 'rgba(255,255,255,0.3)').attr('stroke-width', 2);
+            });
+            
+            // Simulation
+            simulation = d3.forceSimulation(graphData.nodes)
+                .force('link', d3.forceLink(graphData.links).id(d => d.id).distance(100))
+                .force('charge', d3.forceManyBody().strength(-300))
+                .force('center', d3.forceCenter(width / 2, height / 2))
+                .force('collision', d3.forceCollide().radius(d => d.radius + 5))
+                .on('tick', () => {
+                    link
+                        .attr('x1', d => d.source.x)
+                        .attr('y1', d => d.source.y)
+                        .attr('x2', d => d.target.x)
+                        .attr('y2', d => d.target.y);
+                    
+                    node
+                        .attr('cx', d => d.x)
+                        .attr('cy', d => d.y);
+                    
+                    labels
+                        .attr('x', d => d.x)
+                        .attr('y', d => d.y);
+                });
+        }
+        
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+        
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+        
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+        
+        function resetZoom() {
+            svg.transition().duration(500).call(
+                zoom.transform,
+                d3.zoomIdentity
+            );
+        }
+        
+        function toggleLabels() {
+            showLabels = !showLabels;
+            g.selectAll('text').style('opacity', showLabels ? 1 : 0);
+        }
+        
+        // Search functionality
+        document.getElementById('search').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            g.selectAll('circle')
+                .attr('opacity', d => d.id.toLowerCase().includes(query) ? 1 : 0.2);
+        });
+        
+        // Initialize
+        initGraph();
+    </script>
+</body>
+</html>

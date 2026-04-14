@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChabadPedia RAG Search</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe TAH', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #eee;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { 
+            text-align: center; 
+            color: #ffd700; 
+            margin-bottom: 30px;
+            font-size: 2rem;
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        #query {
+            flex: 1;
+            padding: 15px;
+            font-size: 1.1rem;
+            border: 2px solid rgba(255,255,255,0.2);
+            border-radius: 10px;
+            background: rgba(0,0,0,0.3);
+            color: #fff;
+        }
+        button {
+            padding: 15px 30px;
+            font-size: 1.1rem;
+            background: #4fc3f7;
+            color: #000;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover { background: #29b6f6; }
+        #results {
+            display: grid;
+            gap: 15px;
+        }
+        .result {
+            background: rgba(255,255,255,0.05);
+            border-radius: 10px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: transform 0.2s;
+        }
+        .result:hover {
+            transform: translateY(-2px);
+            background: rgba(255,255,255,0.08);
+        }
+        .result-title {
+            font-size: 1.2rem;
+            color: #4fc3f7;
+            margin-bottom: 10px;
+        }
+        .result-content {
+            color: #ccc;
+            line-height: 1.6;
+        }
+        .result-meta {
+            margin-top: 10px;
+            font-size: 0.85rem;
+            color: #888;
+        }
+        .category-tag {
+            display: inline-block;
+            background: rgba(255,215,0,0.2);
+            color: #ffd700;
+            padding: 3px 10px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            margin-right: 5px;
+        }
+        #stats {
+            text-align: center;
+            margin: 20px 0;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 ChabadPedia RAG Search</h1>
+        
+        <div class="search-box">
+            <input type="text" id="query" placeholder="Search ChabadPedia..." autofocus>
+            <button onclick="search()">Search</button>
+        </div>
+        
+        <div id="stats">
+            <span id="statText">Loading index...</span>
+        </div>
+        
+        <div id="results"></div>
+    </div>
+
+    <script>
+        let index = null;
+        
+        async function loadIndex() {
+            try {
+                const response = await fetch('chabadpedia_index.json');
+                index = await response.json();
+                document.getElementById('statText').textContent = 
+                    `Indexed: ${index.metadata.total_pages.toLocaleString()} pages from ChabadPedia`;
+            } catch (e) {
+                document.getElementById('statText').textContent = 'Error loading index';
+            }
+        }
+        
+        function search() {
+            if (!index) return;
+            
+            const query = document.getElementById('query').value.toLowerCase().trim();
+            if (!query) return;
+            
+            const results = [];
+            const queryWords = query.split(/\s+/);
+            
+            // Search in title index
+            for (const word of queryWords) {
+                if (index.title_index[word]) {
+                    index.title_index[word].forEach(pageId => {
+                        if (!results.find(r => r.id === pageId)) {
+                            const page = index.pages[pageId];
+                            if (page) {
+                                results.push({ ...page, score: 10 });
+                            }
+                        }
+                    });
+                }
+            }
+            
+            // Search in content index
+            for (const word of queryWords) {
+                if (index.content_index[word]) {
+                    index.content_index[word].forEach(pageId => {
+                        const existing = results.find(r => r.id === pageId);
+                        if (existing) {
+                            existing.score += 3;
+                        } else {
+                            const page = index.pages[pageId];
+                            if (page) {
+                                results.push({ ...page, score: 3 });
+                            }
+                        }
+                    });
+                }
+            }
+            
+            // Sort by score and limit to 20 results
+            results.sort((a, b) => b.score - a.score);
+            const topResults = results.slice(0, 20);
+            
+            displayResults(topResults);
+        }
+        
+        function displayResults(results) {
+            const container = document.getElementById('results');
+            
+            if (results.length === 0) {
+                container.innerHTML = '<div class="result"><div class="result-content">No results found.</div></div>';
+                return;
+            }
+            
+            container.innerHTML = results.map(r => `
+                <div class="result">
+                    <div class="result-title">${escapeHtml(r.title)}</div>
+                    <div class="result-content">${escapeHtml(r.content)}...</div>
+                    <div class="result-meta">
+                        ${r.categories.map(c => `<span class="category-tag">${escapeHtml(c)}</span>`).join('')}
+                        ${r.links_count} links | Score: ${r.score}
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Enter key to search
+        document.getElementById('query').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') search();
+        });
+        
+        // Load index on page load
+        loadIndex();
+    </script>
+</body>
+</html>
