@@ -892,6 +892,20 @@
             const select = document.getElementById('segmentSelect');
             select.innerHTML = '';
 
+            // Add default "choose" option
+            const defaultOption = document.createElement('option');
+            defaultOption.value = "";
+            defaultOption.textContent = "👇 Select a segment to load...";
+            defaultOption.disabled = false;
+            defaultOption.selected = true;
+            select.appendChild(defaultOption);
+
+            // Add separator
+            const separator = document.createElement('option');
+            separator.disabled = true;
+            separator.textContent = "─────────────────────────";
+            select.appendChild(separator);
+
             for (const [id, segment] of Object.entries(segments)) {
                 const option = document.createElement('option');
                 option.value = id;
@@ -900,7 +914,9 @@
             }
 
             select.addEventListener('change', function() {
-                loadSegment(this.value);
+                if (this.value) {
+                    loadSegment(this.value);
+                }
             });
         }
 
@@ -915,8 +931,16 @@
                 }
             });
 
-            // Load full graph by default
-            loadSegment('full');
+            // Don't auto-load - let user choose
+            document.getElementById('loading').innerHTML = `
+                <div style="color: #4fc3f7; font-size: 1.2rem;">👆 Select a segment to begin</div>
+                <div style="color: #888; font-size: 0.9rem; margin-top: 10px;">
+                    Choose from the dropdown in the sidebar
+                </div>
+            `;
+
+            // Pre-select "Select a segment..." option
+            document.getElementById('segmentSelect').value = "";
         });
     </script>
 </body>
