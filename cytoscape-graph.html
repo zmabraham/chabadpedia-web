@@ -443,11 +443,30 @@
 
         // Initialize Cytoscape
         function initCytoscape(elements) {
-            if (cy) {
-                cy.destroy();
-            }
+            try {
+                if (cy) {
+                    cy.destroy();
+                }
 
-            cy = cytoscape({
+                // Validate elements before creating graph
+                const nodeIds = new Set(elements.filter(e => e.group === 'nodes').map(e => e.data.id));
+                const validElements = elements.filter(e => {
+                    if (e.group === 'nodes') return true;
+                    if (e.group === 'edges') {
+                        const hasSource = nodeIds.has(e.data.source);
+                        const hasTarget = nodeIds.has(e.data.target);
+                        if (!hasSource || !hasTarget) {
+                            console.warn(`Skipping edge: missing ${!hasSource ? 'source' : ''} ${!hasSource && !hasTarget ? 'and ' : ''}${!hasTarget ? 'target' : ''}`, e.data);
+                            return false;
+                        }
+                        return true;
+                    }
+                    return false;
+                });
+
+                console.log(`Valid elements: ${validElements.length} (${nodeIds.size} nodes, ${validElements.filter(e => e.group === 'edges').length} edges)`);
+
+                cy = cytoscape({
                 container: document.getElementById('cy'),
                 elements: elements,
                 style: [
@@ -561,6 +580,15 @@
                     `;
                 }
             });
+
+            } catch (error) {
+                console.error('Error initializing Cytoscape:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Error creating graph</div>
+                    <div style="font-size: 0.9rem; color: #888; margin-top: 10px;">${error.message}</div>
+                    <div style="font-size: 0.8rem; color: #666; margin-top: 20px;">Try selecting a different segment</div>
+                `;
+            }
         }
 
         // Load segment data
@@ -647,6 +675,10 @@
                 }
 
                 fullGraphData = { elements: elements, metadata: data.metadata };
+
+                console.log(`Loading segment: ${segmentId}`);
+                console.log(`Elements: ${elements.length} (${elements.filter(e => e.group === 'nodes').length} nodes, ${elements.filter(e => e.group === 'edges').length} edges)`);
+
                 initCytoscape(elements);
 
                 // Update stats
