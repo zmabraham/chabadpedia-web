@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChabadPedia Knowledge Graph - Cytoscape.js</title>
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape-cose-bilkent@4.1.0/cytoscape-cose-bilkent.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 50%, #16213e 100%);
+            color: #e0e0e0;
+            overflow: hidden;
+        }
+        #container {
+            display: flex;
+            height: 100vh;
+        }
+        #sidebar {
+            width: 340px;
+            background: rgba(15, 15, 30, 0.95);
+            padding: 20px;
+            overflow-y: auto;
+            border-right: 1px solid rgba(255, 215, 0, 0.2);
+            backdrop-filter: blur(10px);
+            flex-shrink: 0;
+        }
+        #main {
+            flex: 1;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+        }
+        #cy {
+            flex: 1;
+            width: 100%;
+            background: transparent;
+        }
+        #header {
+            padding: 15px 20px;
+            background: rgba(15, 15, 30, 0.8);
+            border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        h1 {
+            font-size: 1.2rem;
+            color: #ffd700;
+            margin-bottom: 5px;
+        }
+        h2 {
+            font-size: 0.95rem;
+            color: #87ceeb;
+            margin: 20px 0 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        h3 {
+            font-size: 0.85rem;
+            color: #aaa;
+            margin: 15px 0 8px;
+        }
+        .stat {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 10px 12px;
+            margin: 5px 0;
+            border-radius: 6px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .stat-label { font-size: 0.7rem; color: #888; text-transform: uppercase; }
+        .stat-value { font-size: 1.1rem; font-weight: bold; color: #4fc3f7; }
+        select, input, button {
+            width: 100%;
+            padding: 10px 12px;
+            margin: 5px 0;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 6px;
+            color: #fff;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        select:hover, input:hover, button:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 215, 0, 0.5);
+        }
+        select:focus, input:focus {
+            outline: none;
+            border-color: #ffd700;
+        }
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            font-weight: 600;
+        }
+        button:hover {
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+            transform: translateY(-1px);
+        }
+        button:active {
+            transform: translateY(0);
+        }
+        button.secondary {
+            background: rgba(255, 255, 255, 0.1);
+        }
+        button.secondary:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        .button-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 5px;
+            margin: 5px 0;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 6px 0;
+            font-size: 0.8rem;
+            padding: 4px 0;
+        }
+        .legend-color {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            margin-right: 10px;
+            flex-shrink: 0;
+        }
+        .hop-buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 4px;
+            margin: 5px 0;
+        }
+        .hop-buttons button {
+            font-size: 0.75rem;
+            padding: 6px 4px;
+            margin: 0;
+        }
+        #nodeInfo {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 12px;
+            border-radius: 8px;
+            margin: 15px 0;
+            font-size: 0.8rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        #nodeInfo h4 {
+            color: #ffd700;
+            margin-bottom: 8px;
+            font-size: 0.9rem;
+        }
+        #nodeInfo .detail {
+            margin: 4px 0;
+            color: #ccc;
+        }
+        #nodeInfo .detail strong {
+            color: #4fc3f7;
+        }
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            z-index: 1000;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(255, 255, 255, 0.1);
+            border-top-color: #ffd700;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .neighbors-list {
+            margin-top: 10px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .neighbor-item {
+            padding: 3px 0;
+            font-size: 0.75rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            cursor: pointer;
+            padding: 4px 6px;
+            border-radius: 3px;
+            transition: background 0.2s;
+        }
+        .neighbor-item:hover {
+            background: rgba(255, 215, 0, 0.1);
+        }
+        .segment-info {
+            font-size: 0.75rem;
+            color: #888;
+            margin-top: 5px;
+            font-style: italic;
+        }
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: rgba(0, 0, 0, 0.2);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 215, 0, 0.3);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 215, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="sidebar">
+            <h1>🌐 ChabadPedia Knowledge Graph</h1>
+
+            <h2>Data Segment</h2>
+            <select id="segmentSelect">
+                <option value="">Loading segments...</option>
+            </select>
+            <div class="segment-info" id="segmentInfo"></div>
+
+            <h2>🔍 Search</h2>
+            <input type="text" id="searchInput" placeholder="Search nodes...">
+            <div class="button-group">
+                <button onclick="searchGraph()">Search</button>
+                <button class="secondary" onclick="clearSearch()">Clear</button>
+            </div>
+
+            <h2>🎯 Isolate Node</h2>
+            <p style="font-size: 0.75rem; color: #888;">Click any node, then:</p>
+            <div class="hop-buttons">
+                <button onclick="isolateNode(1)">1-Hop</button>
+                <button onclick="isolateNode(2)">2-Hop</button>
+                <button onclick="isolateNode(3)">3-Hop</button>
+                <button onclick="isolateNode(0)">Full</button>
+            </div>
+            <div class="button-group">
+                <button onclick="showNeighbors()">Show Neighbors</button>
+                <button class="secondary" onclick="resetView()">Reset View</button>
+            </div>
+
+            <h2>📐 Layout</h2>
+            <select id="layoutSelect" onchange="changeLayout()">
+                <option value="cose">Force Directed</option>
+                <option value="concentric">Concentric</option>
+                <option value="circle">Circle</option>
+                <option value="grid">Grid</option>
+                <option value="random">Random</option>
+            </select>
+
+            <h2>🏷️ Display Options</h2>
+            <div class="button-group">
+                <button onclick="toggleLabels()">Toggle Labels</button>
+                <button onclick="fitGraph()">Fit Graph</button>
+            </div>
+
+            <h2>📊 Statistics</h2>
+            <div class="stat">
+                <div class="stat-label">Nodes</div>
+                <div class="stat-value" id="nodeCount">-</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Edges</div>
+                <div class="stat-value" id="edgeCount">-</div>
+            </div>
+
+            <h2>🏷️ Legend</h2>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ffd700;"></div>
+                <span>People (אישים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #4fc3f7;"></div>
+                <span>Places (מקומות)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #66bb6a;"></div>
+                <span>Concepts (מושגים)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ff7043;"></div>
+                <span>Organizations</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #ab47bc;"></div>
+                <span>Publications</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background: #78909c;"></div>
+                <span>Other</span>
+            </div>
+
+            <div id="nodeInfo">
+                <div style="text-align: center; color: #666; padding: 20px;">
+                    Click a node to see details
+                </div>
+            </div>
+        </div>
+        <div id="main">
+            <div id="header">
+                <span style="color: #888; font-size: 0.85rem;">
+                    Scroll to zoom • Drag to pan • Click node to select
+                </span>
+                <span id="segmentLabel" style="color: #ffd700; font-weight: 600;"></span>
+            </div>
+            <div id="cy"></div>
+            <div id="loading">
+                <div class="spinner"></div>
+                <div style="color: #4fc3f7;">Loading Knowledge Graph...</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let cy = null;
+        let fullGraphData = { nodes: [], edges: [] };
+        let currentSegment = 'full';
+        let selectedNode = null;
+        let showLabels = false;
+
+        // Segment definitions
+        const segments = {
+            full: {
+                name: 'Full ChabadPedia',
+                file: 'chabadpedia_knowledge_graph.json',
+                nodes: 15530,
+                edges: 50000
+            },
+            people: {
+                name: 'People (אישים)',
+                file: 'chabadpedia_knowledge_graph_people.json',
+                nodes: 3721,
+                edges: 27018
+            },
+            places: {
+                name: 'Places (מקומות)',
+                file: 'chabadpedia_knowledge_graph_places.json',
+                nodes: 1388,
+                edges: 13030
+            },
+            concepts: {
+                name: 'Concepts (מושגים)',
+                file: 'chabadpedia_knowledge_graph_concepts.json',
+                nodes: 1071,
+                edges: 10441
+            },
+            publications: {
+                name: 'Publications (ספרים)',
+                file: 'chabadpedia_knowledge_graph_publications.json',
+                nodes: 816,
+                edges: 10208
+            },
+            organizations: {
+                name: 'Organizations',
+                file: 'chabadpedia_knowledge_graph_organizations.json',
+                nodes: 981,
+                edges: 10519
+            },
+            rebbes: {
+                name: 'Rebbes (אדמור"ש)',
+                file: 'chabadpedia_knowledge_graph_rebbes.json',
+                nodes: 2634,
+                edges: 20363
+            }
+        };
+
+        // Get node color based on categories and title
+        function getNodeColor(node) {
+            const cats = node.data('categories') || [];
+            const title = (node.data('label') || '').toLowerCase();
+
+            // People - gold/yellow
+            for (const cat of cats) {
+                if (cat.includes('חסיד') || cat.includes('אדמו"ר') || cat.includes('רב') ||
+                    cat.includes('אישי') || cat.includes('משפ') || cat.includes('משיח') ||
+                    cat.includes('שליח') || cat.includes('משפיע') || cat.includes('בוגר')) {
+                    return '#ffd700';
+                }
+            }
+
+            // Places - blue
+            for (const cat of cats) {
+                if (cat.includes('מקום') || cat.includes('עיר') || cat.includes('ארץ') ||
+                    cat.includes('שכונ') || cat.includes('יישוב') || cat.includes('קהיל')) {
+                    return '#4fc3f7';
+                }
+            }
+            if (title.includes('ירושלים') || title.includes('קראון') || title.includes('כפר') ||
+                title.includes('חב"ד') || title.includes('770') || title.includes('ביתר') ||
+                title.includes('לוד') || title.includes('צפת') || title.includes('חיפה')) {
+                return '#4fc3f7';
+            }
+
+            // Concepts - green
+            for (const cat of cats) {
+                if (cat.includes('מושג') || cat.includes('רעיון') || cat.includes('עקרון') ||
+                    cat.includes('תורת') || cat.includes('פירוש') || cat.includes('הלכה') ||
+                    cat.includes('חסידות') || cat.includes('עבודה') || cat.includes('השקפה')) {
+                    return '#66bb6a';
+                }
+            }
+
+            // Organizations - orange
+            for (const cat of cats) {
+                if (cat.includes('מוסד') || cat.includes('ועד') || cat.includes('ארגון') ||
+                    cat.includes('התאחדות') || cat.includes('קהיל') || cat.includes('ישיבה') ||
+                    cat.includes('הוצאה') || cat.includes('תומכי תמימים')) {
+                    return '#ff7043';
+                }
+            }
+
+            // Publications - purple
+            for (const cat of cats) {
+                if (cat.includes('ספר') || cat.includes('מאמר') || cat.includes('קובץ') ||
+                    cat.includes('כתב') || cat.includes('הוצאה') || cat.includes('שיחות') ||
+                    cat.includes('ניגונ')) {
+                    return '#ab47bc';
+                }
+            }
+
+            return '#78909c';
+        }
+
+        // Get node size based on connections
+        function getNodeSize(node) {
+            const links = node.data('links_count') || 0;
+            return Math.max(20, Math.min(80, Math.sqrt(links) * 3 + 20));
+        }
+
+        // Initialize Cytoscape
+        function initCytoscape(elements) {
+            if (cy) {
+                cy.destroy();
+            }
+
+            cy = cytoscape({
+                container: document.getElementById('cy'),
+                elements: elements,
+                style: [
+                    {
+                        selector: 'node',
+                        style: {
+                            'background-color': function(ele) { return getNodeColor(ele); },
+                            'label': function(ele) { return showLabels ? ele.data('label') : ''; },
+                            'width': function(ele) { return getNodeSize(ele); },
+                            'height': function(ele) { return getNodeSize(ele); },
+                            'font-size': function(ele) { return Math.min(12, getNodeSize(ele) / 3); },
+                            'color': '#fff',
+                            'text-valign': 'center',
+                            'text-halign': 'center',
+                            'border-width': 2,
+                            'border-color': 'rgba(255,255,255,0.3)',
+                            'text-outline-width': 2,
+                            'text-outline-color': '#000',
+                            'transition-property': 'border-color, width, height',
+                            'transition-duration': '0.2s'
+                        }
+                    },
+                    {
+                        selector: 'node:selected',
+                        style: {
+                            'border-width': 4,
+                            'border-color': '#ffd700'
+                        }
+                    },
+                    {
+                        selector: 'node.highlighted',
+                        style: {
+                            'border-width': 3,
+                            'border-color': '#4fc3f7',
+                            'border-opacity': 1
+                        }
+                    },
+                    {
+                        selector: 'node.dimmed',
+                        style: {
+                            'opacity': 0.3
+                        }
+                    },
+                    {
+                        selector: 'edge',
+                        style: {
+                            'width': 1,
+                            'line-color': 'rgba(255,255,255,0.2)',
+                            'target-arrow-color': 'rgba(255,255,255,0.2)',
+                            'target-arrow-shape': 'triangle',
+                            'curve-style': 'bezier',
+                            'opacity': 0.4
+                        }
+                    },
+                    {
+                        selector: 'edge.highlighted',
+                        style: {
+                            'width': 2,
+                            'line-color': '#4fc3f7',
+                            'opacity': 0.8
+                        }
+                    },
+                    {
+                        selector: 'edge.dimmed',
+                        style: {
+                            'opacity': 0.1
+                        }
+                    }
+                ],
+                layout: {
+                    name: 'cose',
+                    animate: true,
+                    animationDuration: 500,
+                    idealEdgeLength: 60,
+                    nodeOverlap: 20,
+                    refresh: 20,
+                    fit: true,
+                    padding: 30,
+                    randomize: false,
+                    componentSpacing: 100,
+                    nodeRepulsion: 400000,
+                    edgeElasticity: 100,
+                    nestingFactor: 5,
+                    gravity: 80,
+                    numIter: 1000,
+                    initialTemp: 200,
+                    coolingFactor: 0.95,
+                    minTemp: 1.0
+                },
+                minZoom: 0.1,
+                maxZoom: 5,
+                wheelSensitivity: 0.2
+            });
+
+            // Event handlers
+            cy.on('tap', 'node', function(evt) {
+                const node = evt.target;
+                selectedNode = node;
+                showNodeInfo(node);
+                highlightNeighbors(node);
+            });
+
+            cy.on('tap', function(evt) {
+                if (evt.target === cy) {
+                    selectedNode = null;
+                    clearHighlights();
+                    document.getElementById('nodeInfo').innerHTML = `
+                        <div style="text-align: center; color: #666; padding: 20px;">
+                            Click a node to see details
+                        </div>
+                    `;
+                }
+            });
+        }
+
+        // Load segment data
+        async function loadSegment(segmentId) {
+            currentSegment = segmentId;
+            const segment = segments[segmentId];
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('segmentLabel').textContent = segment.name;
+
+            try {
+                const response = await fetch(segment.file);
+                const data = await response.json();
+
+                // Convert data to Cytoscape format
+                const elements = [];
+
+                // Add nodes
+                for (const node of data.nodes) {
+                    elements.push({
+                        group: 'nodes',
+                        data: {
+                            id: node.title,
+                            label: node.title,
+                            categories: node.categories || [],
+                            links_count: node.links_count || 0,
+                            is_redirect: node.is_redirect || false
+                        }
+                    });
+                }
+
+                // Add edges
+                const edgeSet = new Set();
+                for (const edge of data.edges) {
+                    const source = typeof edge === 'string' ? edge : edge[0];
+                    const target = typeof edge === 'string' ? edge : edge[1];
+
+                    if (source && target && source !== target) {
+                        const edgeKey = `${source}|${target}`;
+                        if (!edgeSet.has(edgeKey)) {
+                            edgeSet.add(edgeKey);
+                            elements.push({
+                                group: 'edges',
+                                data: {
+                                    source: source,
+                                    target: target
+                                }
+                            });
+                        }
+                    }
+                }
+
+                fullGraphData = { elements: elements, metadata: data.metadata };
+                initCytoscape(elements);
+
+                // Update stats
+                document.getElementById('nodeCount').textContent = data.metadata?.total_nodes || elements.filter(e => e.group === 'nodes').length;
+                document.getElementById('edgeCount').textContent = data.metadata?.total_edges || elements.filter(e => e.group === 'edges').length;
+                document.getElementById('segmentInfo').textContent = `${segment.nodes.toLocaleString()} nodes, ${segment.edges.toLocaleString()} edges`;
+
+                document.getElementById('loading').style.display = 'none';
+
+            } catch (error) {
+                console.error('Error loading segment:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Error loading graph</div>
+                    <div style="font-size: 0.9rem; color: #888;">${error.message}</div>
+                `;
+            }
+        }
+
+        // Show node information
+        function showNodeInfo(node) {
+            const data = node.data();
+            const neighbors = getNeighbors(node);
+
+            let html = `
+                <h4 style="font-size: 1rem; margin-bottom: 10px;">${data.label}</h4>
+                <div class="detail"><strong>Connections:</strong> ${data.links_count || 0}</div>
+                <div class="detail"><strong>Categories:</strong></div>
+            `;
+
+            if (data.categories && data.categories.length > 0) {
+                html += data.categories.slice(0, 5).map(c => `<div style="color: #4fc3f7; font-size: 0.75rem; margin: 2px 0;">• ${c}</div>`).join('');
+                if (data.categories.length > 5) {
+                    html += `<div style="color: #888; font-size: 0.7rem;">+ ${data.categories.length - 5} more</div>`;
+                }
+            }
+
+            html += `
+                <div class="detail" style="margin-top: 10px;"><strong>Connected to (${neighbors.length}):</strong></div>
+                <div class="neighbors-list">
+            `;
+
+            neighbors.slice(0, 15).forEach(n => {
+                html += `<div class="neighbor-item" onclick="selectNodeById('${n.data('id')}')">${n.data('label')}</div>`;
+            });
+
+            if (neighbors.length > 15) {
+                html += `<div style="color: #888; font-size: 0.7rem; padding: 5px;">+ ${neighbors.length - 15} more</div>`;
+            }
+
+            html += '</div>';
+
+            document.getElementById('nodeInfo').innerHTML = html;
+        }
+
+        // Get neighbors of a node
+        function getNeighbors(node) {
+            const neighborhood = node.closedNeighborhood();
+            return neighborhood.filter(n => n.id() !== node.id());
+        }
+
+        // Highlight neighbors
+        function highlightNeighbors(node) {
+            const neighborhood = node.closedNeighborhood();
+            const others = cy.elements().not(neighborhood);
+
+            neighborhood.addClass('highlighted');
+            others.addClass('dimmed');
+        }
+
+        // Clear highlights
+        function clearHighlights() {
+            cy.elements().removeClass('highlighted dimmed');
+        }
+
+        // Select node by ID
+        function selectNodeById(id) {
+            const node = cy.getElementById(id);
+            if (node.length > 0) {
+                node.select();
+                selectedNode = node;
+                showNodeInfo(node);
+                highlightNeighbors(node);
+                cy.animate({
+                    center: { eles: node },
+                    zoom: 1.5
+                }, { duration: 300 });
+            }
+        }
+
+        // Isolate node with hops
+        function isolateNode(hops) {
+            if (!selectedNode) {
+                alert('Please select a node first by clicking on it');
+                return;
+            }
+
+            if (hops === 0) {
+                // Show full graph
+                initCytoscape(fullGraphData.elements);
+                return;
+            }
+
+            let nodesToShow = new Set([selectedNode.id()]);
+            let currentLevel = new Set([selectedNode.id()]);
+
+            for (let i = 0; i < hops; i++) {
+                let nextLevel = new Set();
+                currentLevel.forEach(nodeId => {
+                    const node = cy.getElementById(nodeId);
+                    const edges = node.connectedEdges();
+                    edges.forEach(edge => {
+                        const source = edge.source().id();
+                        const target = edge.target().id();
+                        if (source !== nodeId) nextLevel.add(source);
+                        if (target !== nodeId) nextLevel.add(target);
+                    });
+                });
+                nextLevel.forEach(id => nodesToShow.add(id));
+                currentLevel = nextLevel;
+            }
+
+            // Filter elements
+            const filteredElements = fullGraphData.elements.filter(e => {
+                if (e.group === 'nodes') {
+                    return nodesToShow.has(e.data.id);
+                } else {
+                    return nodesToShow.has(e.data.source) && nodesToShow.has(e.data.target);
+                }
+            });
+
+            initCytoscape(filteredElements);
+
+            // Re-select the node
+            setTimeout(() => {
+                selectNodeById(selectedNode.id());
+            }, 100);
+        }
+
+        // Show neighbors
+        function showNeighbors() {
+            isolateNode(1);
+        }
+
+        // Search
+        function searchGraph() {
+            const query = document.getElementById('searchInput').value.toLowerCase().trim();
+            if (!query) return;
+
+            const matches = cy.nodes().filter(n => {
+                return n.data('label').toLowerCase().includes(query);
+            });
+
+            if (matches.length > 0) {
+                clearHighlights();
+                matches.addClass('highlighted');
+                cy.animate({
+                    center: { eles: matches },
+                    zoom: 1.2
+                }, { duration: 300 });
+
+                if (matches.length === 1) {
+                    selectNodeById(matches[0].id());
+                }
+            } else {
+                alert('No matches found');
+            }
+        }
+
+        // Clear search
+        function clearSearch() {
+            document.getElementById('searchInput').value = '';
+            clearHighlights();
+        }
+
+        // Change layout
+        function changeLayout() {
+            const layout = document.getElementById('layoutSelect').value;
+            cy.layout({
+                name: layout,
+                animate: true,
+                animationDuration: 500,
+                fit: true
+            }).run();
+        }
+
+        // Toggle labels
+        function toggleLabels() {
+            showLabels = !showLabels;
+            cy.style()
+                .selector('node')
+                .style('label', function(ele) { return showLabels ? ele.data('label') : ''; })
+                .update();
+        }
+
+        // Fit graph
+        function fitGraph() {
+            cy.fit(null, 50);
+        }
+
+        // Reset view
+        function resetView() {
+            cy.fit(null, 50);
+            clearHighlights();
+            if (currentSegment && currentSegment !== 'full') {
+                loadSegment(currentSegment);
+            }
+        }
+
+        // Initialize segment selector
+        function initSegmentSelector() {
+            const select = document.getElementById('segmentSelect');
+            select.innerHTML = '';
+
+            for (const [id, segment] of Object.entries(segments)) {
+                const option = document.createElement('option');
+                option.value = id;
+                option.textContent = `${segment.name} (${segment.nodes.toLocaleString()} nodes)`;
+                select.appendChild(option);
+            }
+
+            select.addEventListener('change', function() {
+                loadSegment(this.value);
+            });
+        }
+
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', function() {
+            initSegmentSelector();
+
+            // Enter key for search
+            document.getElementById('searchInput').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    searchGraph();
+                }
+            });
+
+            // Load full graph by default
+            loadSegment('full');
+        });
+    </script>
+</body>
+</html>
