@@ -602,9 +602,14 @@
                     });
                 }
 
-                // Add edges
+                // Add edges (limit for performance on full graph)
                 const edgeSet = new Set();
+                const maxEdges = segmentId === 'full' ? 50000 : data.edges.length;
+                let edgeCount = 0;
+
                 for (const edge of data.edges) {
+                    if (edgeCount >= maxEdges) break;
+
                     const source = typeof edge === 'string' ? edge : edge[0];
                     const target = typeof edge === 'string' ? edge : edge[1];
 
@@ -619,8 +624,14 @@
                                     target: target
                                 }
                             });
+                            edgeCount++;
                         }
                     }
+                }
+
+                // Show warning if edges were limited
+                if (segmentId === 'full' && data.edges.length > maxEdges) {
+                    console.log(`Limited to ${maxEdges} edges out of ${data.edges.length} for performance`);
                 }
 
                 fullGraphData = { elements: elements, metadata: data.metadata };
