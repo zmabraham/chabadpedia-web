@@ -1142,7 +1142,8 @@
 
                 const elements = [];
 
-                // Add all connected nodes
+                // Add all connected nodes and track successfully added nodes
+                const successfullyAddedNodes = new Set();
                 for (const nodeId of connectedNodeIds) {
                     const nodeData = nodesArray.find(n => n.title === nodeId);
                     if (nodeData) {
@@ -1157,6 +1158,8 @@
                             }
                         });
 
+                        successfullyAddedNodes.add(nodeData.title);
+
                         // Update autocomplete data
                         if (!allNodeTitles.includes(nodeData.title)) {
                             allNodeTitles.push(nodeData.title);
@@ -1169,12 +1172,17 @@
                     }
                 }
 
-                // Add edges
+                // Add edges only if both endpoints exist
                 for (const edge of connectedEdges) {
-                    elements.push({
-                        group: 'edges',
-                        data: { source: edge[0], target: edge[1] }
-                    });
+                    const source = edge[0];
+                    const target = edge[1];
+                    // Only add edge if both source and target were successfully added as nodes
+                    if (successfullyAddedNodes.has(source) && successfullyAddedNodes.has(target)) {
+                        elements.push({
+                            group: 'edges',
+                            data: { source: source, target: target }
+                        });
+                    }
                 }
 
                 // Initialize graph with neighborhood
