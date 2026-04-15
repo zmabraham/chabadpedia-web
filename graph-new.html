@@ -1403,7 +1403,14 @@
                 return title;
             }
             visited.add(title);
-            return resolveRedirect(redirectMap[title], visited);
+
+            // Decode HTML entities in redirect target (e.g., &quot; -> ")
+            let target = redirectMap[title];
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = target;
+            target = tempDiv.textContent || target;
+
+            return resolveRedirect(target, visited);
         }
 
         async function openArticleViewer(nodeTitle) {
