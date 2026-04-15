@@ -1091,22 +1091,117 @@
         // Global cache for full graph data
         let fullGraphRawData = null;
 
-        // Expand to load all connections - loads full graph and centers on node
+        // Expand to load all connections - loads only the node's neighborhood
         async function expandAllConnections(nodeId) {
             // Show loading state
             const btn = document.querySelector('.expand-all-btn');
             if (btn) {
-                btn.textContent = '⏳ Loading full graph...';
+                btn.textContent = '⏳ Loading connections...';
                 btn.disabled = true;
             }
 
-            // Load the full graph
-            await loadSegment('full');
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loadingTitle').textContent = 'Loading connections...';
 
-            // After loading, center on the node
-            setTimeout(() => {
-                selectNodeById(nodeId);
-            }, 1000);
+            try {
+                // Load full graph data
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                const data = await response.json();
+
+                // Convert nodes to array
+                let nodesArray = [];
+                if (Array.isArray(data.nodes)) {
+                    nodesArray = data.nodes;
+                } else {
+                    for (const key in data.nodes) {
+                        nodesArray.push(data.nodes[key]);
+                    }
+                }
+
+                // Find all nodes that connect to our target node
+                const connectedNodeIds = new Set([nodeId]);
+                const connectedEdges = [];
+
+                for (const edge of data.edges) {
+                    const source = typeof edge === 'string' ? edge : edge[0];
+                    const target = typeof edge === 'string' ? edge : edge[1];
+
+                    if (source === nodeId) {
+                        connectedNodeIds.add(target);
+                        connectedEdges.push([source, target]);
+                    } else if (target === nodeId) {
+                        connectedNodeIds.add(source);
+                        connectedEdges.push([source, target]);
+                    }
+                }
+
+                console.log(`Found ${connectedNodeIds.size - 1} connected nodes, ${connectedEdges.length} edges`);
+
+                // Clear current graph and build neighborhood graph
+                cy.elements().remove();
+
+                const elements = [];
+
+                // Add all connected nodes
+                for (const nodeId of connectedNodeIds) {
+                    const nodeData = nodesArray.find(n => n.title === nodeId);
+                    if (nodeData) {
+                        elements.push({
+                            group: 'nodes',
+                            data: {
+                                id: nodeData.title,
+                                label: nodeData.title,
+                                categories: nodeData.categories || [],
+                                links_count: nodeData.links_count || 0,
+                                is_redirect: nodeData.is_redirect || false
+                            }
+                        });
+
+                        // Update autocomplete data
+                        if (!allNodeTitles.includes(nodeData.title)) {
+                            allNodeTitles.push(nodeData.title);
+                            allNodeData.push({
+                                title: nodeData.title,
+                                categories: nodeData.categories || [],
+                                links_count: nodeData.links_count || 0
+                            });
+                        }
+                    }
+                }
+
+                // Add edges
+                for (const edge of connectedEdges) {
+                    elements.push({
+                        group: 'edges',
+                        data: { source: edge[0], target: edge[1] }
+                    });
+                }
+
+                // Initialize graph with neighborhood
+                initCytoscape(elements);
+
+                // Update stats
+                document.getElementById('nodeCount').textContent = connectedNodeIds.size;
+                document.getElementById('edgeCount').textContent = connectedEdges.length;
+                document.getElementById('segmentInfo').textContent = `${connectedNodeIds.size.toLocaleString()} nodes (neighborhood view)`;
+                document.getElementById('segmentLabel').textContent = 'Neighborhood';
+
+                // Center on the node after layout
+                setTimeout(() => {
+                    selectNodeById(nodeId);
+                }, 500);
+
+            } catch (error) {
+                console.error('Error loading connections:', error);
+                alert('Error loading connections');
+            } finally {
+                // Reset button
+                const btn = document.querySelector('.expand-all-btn');
+                if (btn) {
+                    btn.textContent = '✓ Loaded';
+                    setTimeout(() => btn.style.display = 'none', 2000);
+                }
+            }
         }
 
         // Get neighbors of a node
