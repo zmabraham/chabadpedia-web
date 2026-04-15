@@ -887,9 +887,9 @@
 
                 updateProgress(3, 50); // Processing edges
 
-                // Add edges (limit for performance on full graph)
+                // Add edges - load all edges for complete connections
                 const edgeSet = new Set();
-                const maxEdges = segmentId === 'full' ? 50000 : data.edges.length;
+                const maxEdges = data.edges.length; // Load ALL edges
                 let edgeCount = 0;
                 let skippedEdges = 0;
 
@@ -919,13 +919,11 @@
                     }
                 }
 
-                // Show warning if edges were limited or skipped
+                // Show info about skipped edges (if any)
                 if (skippedEdges > 0) {
                     console.log(`Skipped ${skippedEdges} edges with missing nodes`);
                 }
-                if (segmentId === 'full' && data.edges.length > maxEdges) {
-                    console.log(`Limited to ${maxEdges} edges out of ${data.edges.length} for performance`);
-                }
+                console.log(`Loaded ${edgeCount} edges out of ${data.edges.length} total`);
 
                 updateProgress(4, 70); // Building graph
 
