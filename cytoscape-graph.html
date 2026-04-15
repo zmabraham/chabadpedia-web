@@ -1301,11 +1301,12 @@
             isolateNode(1);
         }
 
-        // Search
+        // Search - searches in current graph, if not found, loads from full dataset
         function searchGraph() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
             if (!query) return;
 
+            // First try to find in current graph
             const matches = cy.nodes().filter(n => {
                 return n.data('label').toLowerCase().includes(query);
             });
@@ -1320,6 +1321,23 @@
 
                 if (matches.length === 1) {
                     selectNodeById(matches[0].id());
+                }
+                hideSuggestions();
+                return;
+            }
+
+            // Not found in current graph - search in full dataset
+            const fullMatches = allNodeData.filter(n =>
+                n.title.toLowerCase().includes(query)
+            );
+
+            if (fullMatches.length > 0) {
+                // Load the first match's neighborhood
+                if (fullMatches.length === 1) {
+                    loadGraphAndFindNode(fullMatches[0].title);
+                } else {
+                    // Multiple matches - show options or load first one
+                    loadGraphAndFindNode(fullMatches[0].title);
                 }
             } else {
                 alert('No matches found');
