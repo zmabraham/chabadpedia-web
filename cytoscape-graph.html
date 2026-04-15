@@ -785,6 +785,18 @@
             currentSegment = segmentId;
             const segment = segments[segmentId];
 
+            // Remove welcome message if exists
+            const welcomeMsg = document.getElementById('welcomeMessage');
+            if (welcomeMsg) {
+                welcomeMsg.remove();
+            }
+
+            // Show progress bar and steps
+            const progressBar = document.querySelector('.progress-bar');
+            const loadingSteps = document.querySelector('.loading-steps');
+            if (progressBar) progressBar.style.display = 'block';
+            if (loadingSteps) loadingSteps.style.display = 'block';
+
             resetLoadingUI();
             document.getElementById('loading').style.display = 'block';
             document.getElementById('segmentLabel').textContent = segment.name;
@@ -1635,8 +1647,22 @@
             });
 
             // Don't auto-load - let user choose
-            document.getElementById('loading').innerHTML = `
-                <div style="color: #4fc3f7; font-size: 1.3rem;">🌐 ChabadPedia Knowledge Graph</div>
+            const loadingTitle = document.getElementById('loadingTitle');
+            if (loadingTitle) {
+                loadingTitle.innerHTML = '🌐 ChabadPedia Knowledge Graph';
+            }
+
+            // Hide the progress bar and steps for welcome message
+            const progressBar = document.querySelector('.progress-bar');
+            const loadingSteps = document.querySelector('.loading-steps');
+            if (progressBar) progressBar.style.display = 'none';
+            if (loadingSteps) loadingSteps.style.display = 'none';
+
+            // Add welcome message
+            const loadingDiv = document.getElementById('loading');
+            const welcomeDiv = document.createElement('div');
+            welcomeDiv.id = 'welcomeMessage';
+            welcomeDiv.innerHTML = `
                 <div style="color: #ffd700; font-size: 1rem; margin-top: 15px;">👇 Select a segment to begin</div>
                 <div style="color: #888; font-size: 0.9rem; margin-top: 10px;">
                     Choose from the dropdown in the sidebar
@@ -1645,6 +1671,7 @@
                     Faster segments: Concepts (1K), Publications (816), Places (1.4K)
                 </div>
             `;
+            loadingDiv.appendChild(welcomeDiv);
 
             // Pre-select "Select a segment..." option
             document.getElementById('segmentSelect').value = "";
