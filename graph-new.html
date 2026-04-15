@@ -1471,7 +1471,13 @@
                 parse.text['*'] :
                 '<p>No content available for this page.</p>';
 
-            // Rewrite image URLs to point to ChabadPedia
+            // Fix image URLs BEFORE setting innerHTML (browser loads images immediately)
+            articleHtml = articleHtml
+                .replace(/src="\/images\//gi, 'src="https://chabadpedia.co.il/images/')
+                .replace(/src='\/images\//gi, "src='https://chabadpedia.co.il/images/")
+                .replace(/srcset="([^"]*)\/images\//gi, 'srcset="$1https://chabadpedia.co.il/images/')
+                .replace(/srcset='([^']*)\/images\//gi, "srcset='$1https://chabadpedia.co.il/images/");
+
             content.innerHTML = `
                 <div class="mw-parser-output">
                     ${articleHtml}
