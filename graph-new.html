@@ -430,6 +430,150 @@
         ::-webkit-scrollbar-thumb:hover {
             background: rgba(255, 215, 0, 0.5);
         }
+
+        /* Article Viewer Styles */
+        .article-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+        }
+        .article-modal {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+            max-width: 900px;
+            height: 85vh;
+            background: #1a1a2e;
+            border-radius: 12px;
+            z-index: 1001;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid rgba(255, 215, 0, 0.3);
+            box-shadow: 0 10px 50px rgba(0, 0, 0, 0.5);
+        }
+        .article-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 25px;
+            border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+            background: rgba(15, 15, 30, 0.9);
+            border-radius: 12px 12px 0 0;
+        }
+        .article-header h2 {
+            margin: 0;
+            color: #ffd700;
+            font-size: 1.4rem;
+            flex: 1;
+            direction: rtl;
+        }
+        .article-close {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: #fff;
+            font-size: 2rem;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            line-height: 1;
+        }
+        .article-close:hover {
+            background: rgba(255, 0, 0, 0.3);
+        }
+        .article-meta {
+            padding: 10px 25px;
+            background: rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            direction: rtl;
+        }
+        .article-meta span {
+            color: #888;
+            font-size: 0.85rem;
+        }
+        .article-category {
+            display: inline-block;
+            background: rgba(76, 175, 80, 0.2);
+            color: #66bb6a;
+            padding: 3px 10px;
+            margin: 3px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+        .article-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 25px;
+            direction: rtl;
+            text-align: right;
+            color: #e0e0e0;
+        }
+        .article-content h2,
+        .article-content h3,
+        .article-content h4 {
+            color: #ffd700;
+            margin: 20px 0 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid rgba(255, 215, 0, 0.2);
+        }
+        .article-content p {
+            margin: 10px 0;
+            line-height: 1.7;
+        }
+        .article-content ul,
+        .article-content ol {
+            margin: 10px 20px;
+        }
+        .article-content li {
+            margin: 5px 0;
+        }
+        .article-content a {
+            color: #4fc3f7;
+            text-decoration: none;
+        }
+        .article-content a:hover {
+            text-decoration: underline;
+        }
+        .article-loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+            color: #888;
+        }
+        .article-error {
+            color: #ff7043;
+            padding: 20px;
+            text-align: center;
+        }
+        .article-not-found {
+            color: #888;
+            padding: 40px;
+            text-align: center;
+        }
+        /* MediaWiki content styles */
+        .article-content .mw-parser-output {
+            font-size: 1rem;
+        }
+        .article-content .redirectMsg {
+            background: rgba(255, 193, 7, 0.1);
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        #articleViewer {
+            direction: rtl;
+        }
     </style>
 </head>
 <body>
@@ -592,6 +736,23 @@
                     <div class="loading-step" id="step4">○ Building graph...</div>
                     <div class="loading-step" id="step5">○ Running layout...</div>
                     <div class="loading-step" id="step6">○ Done!</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Article Viewer Modal -->
+        <div id="articleViewer" style="display: none;">
+            <div id="articleOverlay" class="article-overlay"></div>
+            <div class="article-modal">
+                <div class="article-header">
+                    <h2 id="articleTitle">Article Title</h2>
+                    <button class="article-close" id="closeArticle">&times;</button>
+                </div>
+                <div class="article-meta" id="articleMeta">
+                    <span id="articleCategories"></span>
+                </div>
+                <div class="article-content" id="articleContent">
+                    <div class="article-loading">Loading article...</div>
                 </div>
             </div>
         </div>
@@ -1103,6 +1264,13 @@
                 }
             }
 
+            // Add "View Article" button
+            html += `
+                <button class="view-article-btn" data-node-id="${data.id}" style="width: 100%; margin-top: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    📖 View Full Article
+                </button>
+            `;
+
             // Add "Load All Connections" button if node has more connections than visible
             const totalConnections = data.links_count || 0;
             const visibleConnections = neighbors.length;
@@ -1173,6 +1341,112 @@
             });
 
             neighborsList.innerHTML = html;
+        }
+
+        // Article Viewer Functions
+        const articleCache = new Map(); // Cache for loaded articles
+
+        async function openArticleViewer(nodeTitle) {
+            const viewer = document.getElementById('articleViewer');
+            const content = document.getElementById('articleContent');
+            const title = document.getElementById('articleTitle');
+
+            // Show viewer
+            viewer.style.display = 'block';
+            title.textContent = nodeTitle;
+            content.innerHTML = '<div class="article-loading">Loading article...</div>';
+
+            try {
+                await loadArticle(nodeTitle);
+            } catch (error) {
+                console.error('Error loading article:', error);
+                content.innerHTML = `
+                    <div class="article-error">
+                        <h3>Error Loading Article</h3>
+                        <p>${error.message}</p>
+                        <p>The article content may not be available yet.</p>
+                    </div>
+                `;
+            }
+        }
+
+        async function loadArticle(nodeTitle) {
+            const content = document.getElementById('articleContent');
+            const meta = document.getElementById('articleCategories');
+
+            // Check cache first
+            if (articleCache.has(nodeTitle)) {
+                displayArticle(articleCache.get(nodeTitle));
+                return;
+            }
+
+            // Encode the node title for URL
+            const encodedTitle = encodeURIComponent(nodeTitle);
+            const articleUrl = `pages/${encodedTitle}.json`;
+
+            try {
+                const response = await fetch(articleUrl);
+
+                if (!response.ok) {
+                    throw new Error(`Article not found: ${nodeTitle}`);
+                }
+
+                const data = await response.json();
+
+                // Cache the article
+                articleCache.set(nodeTitle, data);
+
+                // Display the article
+                displayArticle(data);
+            } catch (error) {
+                // If article not found in pages directory, show helpful message
+                content.innerHTML = `
+                    <div class="article-not-found">
+                        <h3>Article Not Available</h3>
+                        <p>The full article for "<strong>${nodeTitle}</strong>" is not currently available.</p>
+                        <p style="margin-top: 20px; color: #888;">This feature requires article content to be deployed. Currently, only the knowledge graph connections are available.</p>
+                    </div>
+                `;
+                meta.innerHTML = '';
+            }
+        }
+
+        function displayArticle(data) {
+            const content = document.getElementById('articleContent');
+            const meta = document.getElementById('articleCategories');
+
+            if (!data || !data.parse) {
+                content.innerHTML = '<div class="article-error">Invalid article data</div>';
+                return;
+            }
+
+            const parse = data.parse;
+
+            // Display categories
+            if (parse.categories && parse.categories.length > 0) {
+                const categoryHtml = parse.categories
+                    .slice(0, 10)
+                    .map(cat => `<span class="article-category">${cat['*']}</span>`)
+                    .join('');
+                meta.innerHTML = categoryHtml + (parse.categories.length > 10 ? `<span style="color: #666;">+${parse.categories.length - 10} more</span>` : '');
+            } else {
+                meta.innerHTML = '';
+            }
+
+            // Display article content
+            const articleHtml = parse.text && parse.text['*'] ?
+                parse.text['*'] :
+                '<p>No content available for this page.</p>';
+
+            content.innerHTML = `
+                <div class="mw-parser-output">
+                    ${articleHtml}
+                </div>
+            `;
+        }
+
+        function closeArticleViewer() {
+            document.getElementById('articleViewer').style.display = 'none';
         }
 
         // Global cache for full graph data
@@ -1569,6 +1843,29 @@
                 if (nodeId) {
                     expandAllConnections(nodeId);
                 }
+                return;
+            }
+
+            // Handle "view article" button click
+            const articleBtn = e.target.closest('.view-article-btn');
+            if (articleBtn) {
+                const nodeId = articleBtn.getAttribute('data-node-id');
+                if (nodeId) {
+                    openArticleViewer(nodeId);
+                }
+                return;
+            }
+
+            // Handle close article button
+            const closeArticleBtn = e.target.closest('#closeArticle');
+            if (closeArticleBtn) {
+                closeArticleViewer();
+                return;
+            }
+
+            // Handle article overlay click
+            if (e.target.closest('#articleOverlay')) {
+                closeArticleViewer();
                 return;
             }
 
