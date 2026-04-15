@@ -1508,7 +1508,14 @@
         // Initialize segment selector
         function initSegmentSelector() {
             const select = document.getElementById('segmentSelect');
-            select.innerHTML = '';
+
+            // Remove existing event listener if any (by cloning)
+            const newSelect = select.cloneNode(true);
+            select.parentNode.replaceChild(newSelect, select);
+
+            // Get the new select reference
+            const selectElement = document.getElementById('segmentSelect');
+            selectElement.innerHTML = '';
 
             // Add default "choose" option
             const defaultOption = document.createElement('option');
@@ -1516,26 +1523,29 @@
             defaultOption.textContent = "👇 Select a segment to load...";
             defaultOption.disabled = false;
             defaultOption.selected = true;
-            select.appendChild(defaultOption);
+            selectElement.appendChild(defaultOption);
 
             // Add separator
             const separator = document.createElement('option');
             separator.disabled = true;
             separator.textContent = "─────────────────────────";
-            select.appendChild(separator);
+            selectElement.appendChild(separator);
 
             for (const [id, segment] of Object.entries(segments)) {
                 const option = document.createElement('option');
                 option.value = id;
                 option.textContent = `${segment.name} (${segment.nodes.toLocaleString()} nodes)`;
-                select.appendChild(option);
+                selectElement.appendChild(option);
             }
 
-            select.addEventListener('change', function() {
+            selectElement.addEventListener('change', function() {
+                console.log('Segment selected:', this.value);
                 if (this.value) {
                     loadSegment(this.value);
                 }
             });
+
+            console.log('Segment selector initialized with', Object.keys(segments).length, 'segments');
         }
 
         // Initialize on load
