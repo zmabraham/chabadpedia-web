@@ -474,6 +474,7 @@
     </div>
 
     <script>
+        console.log('Script loaded - ChabadPedia Knowledge Graph');
         // Global variables
         let cy = null;
         let fullGraphData = { nodes: [], edges: [] };
@@ -1612,7 +1613,9 @@
 
         // Initialize on load
         document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOMContentLoaded fired - initializing...');
             initSegmentSelector();
+            console.log('initSegmentSelector completed');
 
             // Enter key for search
             document.getElementById('searchInput').addEventListener('keypress', function(e) {
