@@ -1464,7 +1464,108 @@
         function selectSuggestion(title) {
             document.getElementById('searchInput').value = title;
             hideSuggestions();
-            searchGraph();
+
+            // Check if node exists in current graph
+            const node = cy.getElementById(title);
+            if (node && node.length > 0) {
+                // Node exists, navigate to it
+                selectNodeById(title);
+            } else {
+                // Node not in current graph, load full graph and find it
+                loadGraphAndFindNode(title);
+            }
+        }
+
+        // Load full graph and navigate to a specific node
+        async function loadGraphAndFindNode(nodeTitle) {
+            // Show loading
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loadingTitle').textContent = `Loading full graph to find "${nodeTitle}"...`;
+
+            try {
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                const data = await response.json();
+
+                // Convert data to Cytoscape format
+                const elements = [];
+                let nodesArray = [];
+
+                if (Array.isArray(data.nodes)) {
+                    nodesArray = data.nodes;
+                } else {
+                    for (const key in data.nodes) {
+                        nodesArray.push(data.nodes[key]);
+                    }
+                }
+
+                const validNodeIds = new Set();
+
+                // Reset autocomplete data
+                allNodeTitles = [];
+                allNodeData = [];
+
+                for (const node of nodesArray) {
+                    validNodeIds.add(node.title);
+                    allNodeTitles.push(node.title);
+                    allNodeData.push({
+                        title: node.title,
+                        categories: node.categories || [],
+                        links_count: node.links_count || 0
+                    });
+
+                    elements.push({
+                        group: 'nodes',
+                        data: {
+                            id: node.title,
+                            label: node.title,
+                            categories: node.categories || [],
+                            links_count: node.links_count || 0,
+                            is_redirect: node.is_redirect || false
+                        }
+                    });
+                }
+
+                // Add all edges
+                const edgeSet = new Set();
+                for (const edge of data.edges) {
+                    const source = typeof edge === 'string' ? edge : edge[0];
+                    const target = typeof edge === 'string' ? edge : edge[1];
+
+                    if (source && target && source !== target &&
+                        validNodeIds.has(source) && validNodeIds.has(target)) {
+                        const edgeKey = `${source}|${target}`;
+                        if (!edgeSet.has(edgeKey)) {
+                            edgeSet.add(edgeKey);
+                            elements.push({
+                                group: 'edges',
+                                data: {
+                                    source: source,
+                                    target: target
+                                }
+                            });
+                        }
+                    }
+                }
+
+                // Initialize graph
+                currentSegment = 'full';
+                initCytoscape(elements);
+
+                // Update stats
+                document.getElementById('nodeCount').textContent = nodesArray.length;
+                document.getElementById('edgeCount').textContent = data.edges.length;
+                document.getElementById('segmentInfo').textContent = `${nodesArray.length.toLocaleString()} nodes, ${data.edges.length.toLocaleString()} edges`;
+
+                // Navigate to the node after a short delay
+                setTimeout(() => {
+                    selectNodeById(nodeTitle);
+                }, 500);
+
+            } catch (error) {
+                console.error('Error loading graph:', error);
+                alert('Error loading graph to find node');
+                document.getElementById('loading').style.display = 'none';
+            }
         }
 
         // Switch between search and explore modes
@@ -1847,6 +1948,41 @@
             }
         }
 
+        // Load full node index for autocomplete (lightweight - just names)
+        async function loadFullNodeIndex() {
+            try {
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                const data = await response.json();
+
+                // Convert nodes to array
+                let nodesArray = [];
+                if (Array.isArray(data.nodes)) {
+                    nodesArray = data.nodes;
+                } else {
+                    for (const key in data.nodes) {
+                        nodesArray.push(data.nodes[key]);
+                    }
+                }
+
+                // Populate autocomplete data with all nodes
+                allNodeTitles = [];
+                allNodeData = [];
+
+                for (const node of nodesArray) {
+                    allNodeTitles.push(node.title);
+                    allNodeData.push({
+                        title: node.title,
+                        categories: node.categories || [],
+                        links_count: node.links_count || 0
+                    });
+                }
+
+                console.log(`Loaded full node index: ${allNodeData.length} nodes for autocomplete`);
+            } catch (error) {
+                console.error('Error loading full node index:', error);
+            }
+        }
+
         // Initialize segment selector
         function initSegmentSelector() {
             const select = document.getElementById('segmentSelect');
@@ -1895,6 +2031,9 @@
             console.log('DOMContentLoaded fired - initializing...');
             initSegmentSelector();
             console.log('initSegmentSelector completed');
+
+            // Load full node index for autocomplete (async, non-blocking)
+            loadFullNodeIndex();
 
             // Enter key for search
             document.getElementById('searchInput').addEventListener('keypress', function(e) {
