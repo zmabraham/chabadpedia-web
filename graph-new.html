@@ -1413,8 +1413,9 @@
                 return;
             }
 
-            // File names are stored as-is (not URL-encoded) with literal Hebrew characters
-            const articleUrl = `pages/${nodeTitle}.json`;
+            // Encode the node title for URL (needed for Hebrew characters and spaces)
+            const encodedTitle = encodeURIComponent(nodeTitle);
+            const articleUrl = `pages/${encodedTitle}.json`;
 
             try {
                 const response = await fetch(articleUrl);
