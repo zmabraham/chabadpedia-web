@@ -1,0 +1,241 @@
+{
+  "parse": {
+    "title": "בנימין זאב גנדל",
+    "pageid": 68015,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg\" class=\"mw-file-description\"><img src=\"/images/thumb/7/75/%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg/220px-%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg\" decoding=\"async\" width=\"220\" height=\"147\" class=\"mw-file-element\" srcset=\"/images/thumb/7/75/%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg/330px-%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg 1.5x, /images/thumb/7/75/%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg/440px-%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_-_%D7%A1%D7%95%D7%A3_%D7%AA%D7%A9%D7%A4%22%D7%92.jpeg 2x\" /></a><figcaption>הרב בנימין זאב גנדל, אלול תשפ\"ג</figcaption></figure>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/5/5d/%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg/220px-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg\" decoding=\"async\" width=\"220\" height=\"147\" class=\"mw-file-element\" srcset=\"/images/thumb/5/5d/%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg/330px-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg 1.5x, /images/thumb/5/5d/%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg/440px-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%AA%D7%A9%D7%A4%22%D7%94.jpg 2x\" /></a><figcaption>הרב בנימין זאב גנדל, אייר תשפ\"ה</figcaption></figure>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/1/18/27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg/220px-27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg\" decoding=\"async\" width=\"220\" height=\"147\" class=\"mw-file-element\" srcset=\"/images/thumb/1/18/27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg/330px-27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg 1.5x, /images/thumb/1/18/27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg/440px-27-08-2025-10-41-20-%D7%94%D7%A8%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94_.jpg 2x\" /></a><figcaption>הרב בנימין זאב גנדל בתפילה, אלול תשפ\"ה</figcaption></figure>\n<p>הרב <b>בנימין זאב גנדל</b> (נולד ב<a href=\"/index.php/%D7%99%22%D7%96_%D7%97%D7%A9%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"י&quot;ז חשוון\">י\"ז חשוון</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%96\" title=\"תשמ&quot;ז\">תשמ\"ז</a>, 1986) הוא <a href=\"/index.php/%D7%9E%D7%A9%D7%A4%D7%99%D7%A2\" title=\"משפיע\">משפיע</a> ב<a href=\"/index.php/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%97%D7%A1%D7%99%D7%93%D7%99_%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9_%D7%A6%D7%A4%D7%AA_(%D7%A7%D7%98%D7%A0%D7%94)\" title=\"ישיבת חסידי חב&quot;ד ליובאוויטש צפת (קטנה)\">ישיבת חסידי חב\"ד ליובאוויטש צפת (קטנה)</a>. שימש בעבר כחבר הצוות החינוכי בישיבות ב<a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A0%D7%AA%D7%A0%D7%99%D7%94\" class=\"mw-redirect\" title=\"תומכי תמימים נתניה\">תומכי תמימים נתניה</a>, <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A2%D7%9E%D7%A0%D7%95%D7%90%D7%9C\" title=\"תומכי תמימים עמנואל\">תומכי תמימים עמנואל</a> ו<a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A0%D7%95%D7%A3_%D7%94%D7%92%D7%9C%D7%99%D7%9C\" class=\"mw-redirect\" title=\"תומכי תמימים נוף הגליל\">תומכי תמימים נוף הגליל</a>.\n</p>\n<h2><span id=\".D7.AA.D7.95.D7.9C.D7.93.D7.95.D7.AA_.D7.97.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"תולדות_חיים\">תולדות חיים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;תולדות חיים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: תולדות חיים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>נולד ב<a href=\"/index.php/%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA\" title=\"רחובות\">רחובות</a> לרב <a href=\"/index.php/%D7%99%D7%A6%D7%97%D7%A7_%D7%A0%D7%AA%D7%9F_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%92%D7%A0%D7%93%D7%9C\" class=\"mw-redirect\" title=\"יצחק נתן ישראל גנדל\">יצחק נתן ישראל גנדל</a> ולעופרה גנדל (למשפחת בס), בילדותו עברה משפחתו להתגורר ב<a href=\"/index.php/%D7%A2%D7%9E%D7%A0%D7%95%D7%90%D7%9C\" title=\"עמנואל\">עמנואל</a>.\n</p><p>כנער למד בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A0%D7%AA%D7%A0%D7%99%D7%94\" class=\"mw-redirect\" title=\"תומכי תמימים נתניה\">תומכי תמימים נתניה</a> וב<a href=\"/index.php/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%97%D7%A1%D7%99%D7%93%D7%99_%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9_%D7%A6%D7%A4%D7%AA_(%D7%92%D7%93%D7%95%D7%9C%D7%94)\" title=\"ישיבת חסידי חב&quot;ד ליובאוויטש צפת (גדולה)\">ישיבת חסידי חב\"ד ליובאוויטש צפת (גדולה)</a>.\n</p><p>לקראת שנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%96\" title=\"תשס&quot;ז\">תשס\"ז</a>, נסע ללמוד בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%94%D7%9E%D7%A8%D7%9B%D7%96%D7%99%D7%AA\" class=\"mw-redirect\" title=\"תומכי תמימים המרכזית\">תומכי תמימים המרכזית</a> בחצר הרבי ב-<a href=\"/index.php/770\" class=\"mw-redirect\" title=\"770\">770</a> במסגרת שנת ה'<a href=\"/index.php/%D7%A7%D7%91%D7%95%D7%A6%D7%94\" title=\"קבוצה\">קבוצה</a>'.\n</p><p>כבר כבחור התייחד ב<a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"עבודת התפילה\">עבודת התפילה</a> שלו ובעיסוק מיוחד בלימוד עניני <a href=\"/index.php/%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"גאולה ומשיח\">גאולה ומשיח</a>.\n</p><p>שימש כמשפיע בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A2%D7%9E%D7%A0%D7%95%D7%90%D7%9C\" title=\"תומכי תמימים עמנואל\">תומכי תמימים עמנואל</a>.  \n</p><p>לאחר נישואיו עם נסיה בת הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%9D_%D7%93%D7%95%D7%91%D7%A2%D7%A8_%D7%95%D7%95%D7%9C%D7%A4%D7%90\" title=\"שלום דובער וולפא\">שלום דובער וולפא</a> התיישב ב<a href=\"/index.php/%D7%A0%D7%AA%D7%A0%D7%99%D7%94\" title=\"נתניה\">נתניה</a> ושימש מספר שנים כ<a href=\"/index.php/%D7%9E%D7%A9%D7%A4%D7%99%D7%A2\" title=\"משפיע\">משפיע</a> בישיבת חב\"ד המקומית, לאחריהם עבר לשמש כמשגיח ראשי וחבר ההנהלה החינוכית של ישיבה קטנה <a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%99_%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9_%D7%A0%D7%95%D7%A3_%D7%94%D7%92%D7%9C%D7%99%D7%9C_(%D7%A7%D7%98%D7%A0%D7%94)\" class=\"mw-redirect\" title=\"חסידי חב&quot;ד ליובאוויטש נוף הגליל (קטנה)\">חסידי חב\"ד ליובאוויטש נוף הגליל</a>, וכיום משמש כמשפיע ב<a href=\"/index.php/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%97%D7%A1%D7%99%D7%93%D7%99_%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9_%D7%A6%D7%A4%D7%AA_(%D7%A7%D7%98%D7%A0%D7%94)\" title=\"ישיבת חסידי חב&quot;ד ליובאוויטש צפת (קטנה)\">ישיבת חסידי חב\"ד ליובאוויטש צפת (קטנה)</a>. \n</p><p>מתגורר כיום בשכונת כנען ב<a href=\"/index.php/%D7%A6%D7%A4%D7%AA\" title=\"צפת\">צפת</a>. \n</p>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>מנחם כהנא<b>, <a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/moshiach/1101801/\">\"צריך להיות פשוט אצלינו שהרבי מתגלה היום!\",</a></b> שבועון בית משיח גליון 1364.</li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/tag/%D7%94%D7%A8%D7%91-%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F-%D7%92%D7%A0%D7%93%D7%9C/\">תגית: בנימין גנדל</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabadlive.org/category/%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%9f-%d7%92%d7%a0%d7%93%d7%9c\">תגית: הרב בנימין גנדל</a></b>, באתר '<a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%99%D7%91\" class=\"mw-redirect\" title=\"חב&quot;ד לייב\">חב\"ד לייב</a>' <span typeof=\"mw:File\"><a href=\"/index.php/%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%AA%D7%99%D7%AA\" title=\"לחלוחית גאולתית\"><img src=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/27px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg\" decoding=\"async\" width=\"27\" height=\"18\" class=\"mw-file-element\" srcset=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/41px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 1.5x, /images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/54px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 2x\" /></a></span></li>\n<li>הרב גנדל: \"כיצד נראית הנסיעה למלך המשיח\" - פודקאסט הרב גנדל בתכנית אזניים לשמוע מבית את\"ה העולמי <a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/news/995567/\">באתר חב\"ד אינפו</a> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabadlive.org/2025/06/%d7%a0%d7%90%d7%95%d7%9d-%d7%a1%d7%95%d7%97%d7%a3-%d7%9b%d7%93%d7%99-%d7%9c%d7%94%d7%91%d7%99%d7%90-%d7%9e%d7%a9%d7%99%d7%97-%d7%a2%d7%9b%d7%a9%d7%99%d7%95-%d7%99%d7%a9-%d7%9c%d7%94%d7%a9%d7%a7.html\">הרב גנדל בנאום סוחף: כדי להביא משיח עכשיו - יש להשקיע בעבודת התפילה</a></b>, באתר '<a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%9C%D7%99%D7%99%D7%91\" class=\"mw-redirect\" title=\"חב&quot;ד לייב\">חב\"ד לייב</a>' <span typeof=\"mw:File\"><a href=\"/index.php/%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%AA%D7%99%D7%AA\" title=\"לחלוחית גאולתית\"><img src=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/27px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg\" decoding=\"async\" width=\"27\" height=\"18\" class=\"mw-file-element\" srcset=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/41px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 1.5x, /images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/54px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 2x\" /></a></span> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span></li></ul>\n<div class=\"stub\" style=\"background-color:#FFFCFC; border-color:#CCCCCC; border-style:double; border-width:3px; clear:both; padding-top:4px; padding-bottom:4px; padding-right:7px; margin:0.5em 0 0.5em 0;vertical-align:middle;\"><span typeof=\"mw:File\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png\" class=\"mw-file-description\"><img src=\"/images/thumb/e/e6/%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png/50px-%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png\" decoding=\"async\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"/images/thumb/e/e6/%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png/75px-%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png 1.5x, /images/thumb/e/e6/%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png/100px-%D7%A1%D7%9E%D7%9C_%D7%97%D7%91%D7%93%D7%A4%D7%93%D7%99%D7%94.png 2x\" /></a></span> &#160; ערך זה הוא <a href=\"/index.php/%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99%D7%94:%D7%A7%D7%A6%D7%A8%D7%9E%D7%A8\" title=\"חב&quot;דפדיה:קצרמר\">קצרמר</a>&#160;בנושא <a href=\"/index.php/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A7%D7%A6%D7%A8%D7%9E%D7%A8_%D7%90%D7%99%D7%A9%D7%99%D7%9D\" title=\"קטגוריה:קצרמר אישים\">אישים</a>. אתם מוזמנים <a href=\"/index.php/%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99%D7%94:%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D_%D7%94%D7%91%D7%90%D7%99%D7%9D#כתיבה_בחב&quot;דפדיה\" title=\"חב&quot;דפדיה:ברוכים הבאים\">לתרום</a> לחב\"דפדיה ו<b><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://chabadpedia.co.il/index.php?title=%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%96%D7%90%D7%91_%D7%92%D7%A0%D7%93%D7%9C&amp;action=edit&amp;editintro=%D7%AA%D7%91%D7%A0%D7%99%D7%AA%3A%D7%A7%D7%A6%D7%A8%D7%9E%D7%A8%2F%D7%94%D7%A8%D7%97%D7%91%D7%94%2F%D7%90%D7%99%D7%A9%D7%99%D7%9D\">להרחיב אותו</a></span></b>.</div>\n<!-- \nNewPP limit report\nCached time: 20260413094223\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.051 seconds\nReal time usage: 0.353 seconds\nPreprocessor visited node count: 134/1000000\nPost‐expand include size: 3913/2097152 bytes\nTemplate argument size: 169/2097152 bytes\nHighest expansion depth: 9/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  159.817      1 -total\n 61.91%   98.945      1 תבנית:קצרמר\n 53.26%   85.121      1 תבנית:קצרמר/קוד\n 16.29%   26.037      2 תבנית:לחלוחית\n 13.16%   21.027      2 תבנית:אינפו\n 11.21%   17.914      1 תבנית:קצרמר/נושא_נוסף\n 11.15%   17.822      2 תבנית:קטגוריה_בתבנית\n  8.35%   13.338      1 תבנית:וידאו\n  6.68%   10.683      1 תבנית:רווח_קשיח\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:68015-0!canonical and timestamp 20260413094223 and revision id 841081. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "קצרמר_אישים"
+      },
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "קצרמר_-_כל_הערכים"
+      },
+      {
+        "sortkey": "",
+        "*": "חסידים_בתקופת_אדמו\"ר_שליט\"א"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_שנולדו_בשנת_תשמ\"ז"
+      },
+      {
+        "sortkey": "",
+        "*": "קבוצה_תשס\"ז"
+      },
+      {
+        "sortkey": "",
+        "*": "בוגרי_ישיבת_חח\"ל_צפת"
+      },
+      {
+        "sortkey": "",
+        "*": "בוגרי_תומכי_תמימים_נתניה"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_בצפת"
+      },
+      {
+        "sortkey": "",
+        "*": "צוות_ישיבת_חח\"ל_צפת"
+      },
+      {
+        "sortkey": "",
+        "*": "משפחת_וולפא"
+      },
+      {
+        "sortkey": "",
+        "*": "משפיעים_בישיבות_בישראל"
+      },
+      {
+        "sortkey": "",
+        "*": "צוות_תומכי_תמימים_נתניה_לשעבר"
+      },
+      {
+        "sortkey": "",
+        "*": "משפחת_בס"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:קצרמר/הרחבה/אישים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד אינפו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לחלוחית גאולתית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "770"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גאולה ומשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד לייב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידי חב\"ד ליובאוויטש נוף הגליל (קטנה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ז חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יצחק נתן ישראל גנדל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישיבת חסידי חב\"ד ליובאוויטש צפת (גדולה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישיבת חסידי חב\"ד ליובאוויטש צפת (קטנה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משפיע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נתניה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עמנואל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צפת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבוצה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רחובות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלום דובער וולפא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים המרכזית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים נוף הגליל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים נתניה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים עמנואל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ז"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "חב\"דפדיה:ברוכים הבאים"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "חב\"דפדיה:קצרמר"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "קטגוריה:קצרמר אישים"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תולדות חיים",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "בנימין_זאב_גנדל",
+        "byteoffset": 525,
+        "anchor": "תולדות_חיים",
+        "linkAnchor": "תולדות_חיים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "בנימין_זאב_גנדל",
+        "byteoffset": 1337,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "בנימין_זאב_גנדל",
+        "byteoffset": 1486,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      }
+    ]
+  }
+}

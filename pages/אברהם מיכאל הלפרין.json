@@ -1,0 +1,555 @@
+{
+  "parse": {
+    "title": "אברהם מיכאל הלפרין",
+    "pageid": 28361,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/5/5f/%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg/220px-%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg\" decoding=\"async\" width=\"220\" height=\"330\" class=\"mw-file-element\" srcset=\"/images/thumb/5/5f/%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg/330px-%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg 1.5x, /images/thumb/5/5f/%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg/440px-%D7%94%D7%A8%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F.jpg 2x\" /></a><figcaption>הרב אברהם מיכאל הלפרין</figcaption></figure>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/c/c6/%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg/220px-%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg\" decoding=\"async\" width=\"220\" height=\"145\" class=\"mw-file-element\" srcset=\"/images/thumb/c/c6/%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg/330px-%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg 1.5x, /images/thumb/c/c6/%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg/440px-%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_%D7%91%D7%95%D7%98%D7%9E%D7%9F.jpg 2x\" /></a><figcaption>הרב הלפרין במרכז, לצד (מימין לשמאל): הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%9D_%D7%91%D7%A2%D7%A8_%D7%91%D7%95%D7%98%D7%9E%D7%9F\" title=\"שלום בער בוטמן\">שלום בער בוטמן</a>, הרב <a href=\"/index.php/%D7%99%D7%95%D7%A1%D7%A3_%D7%99%D7%A6%D7%97%D7%A7_%D7%95%D7%95%D7%99%D7%9C%D7%A9%D7%90%D7%A0%D7%A1%D7%A7%D7%99\" class=\"mw-redirect\" title=\"יוסף יצחק ווילשאנסקי\">יוסף יצחק ווילשאנסקי</a>, הרב יעקב הלפרין, הרב <a href=\"/index.php/%D7%96%D7%90%D7%91_%D7%93%D7%91_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D\" title=\"זאב דב סלונים\">זאב דב סלונים</a></figcaption></figure>\n<p>הרב <b>אברהם מיכאל הלפרין</b> (יליד שנת <a href=\"/index.php/%D7%AA%D7%A8%D7%97%22%D7%A6\" title=\"תרח&quot;צ\">תרח\"צ</a>) הינו רב שכונת הגבעה הצרפתית (גבעת שפירא) ב<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a> חבר <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%22%D7%93_%D7%91%D7%90%D7%A8%D7%A5_%D7%94%D7%A7%D7%95%D7%93%D7%A9\" title=\"בית דין רבני חב&quot;ד בארץ הקודש\">בית דין רבני חב\"ד בארץ הקודש</a>, ומחשובי חסידי חב\"ד בירושלים.\n</p>\n<h2><span id=\".D7.AA.D7.95.D7.9C.D7.93.D7.95.D7.AA_.D7.97.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"תולדות_חיים\">תולדות חיים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;תולדות חיים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: תולדות חיים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>נולד ב<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a> ב<a href=\"/index.php/%D7%92%27_%D7%97%D7%A9%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"ג&#39; חשוון\">ג' חשוון</a> <a href=\"/index.php/%D7%AA%D7%A8%D7%A6%22%D7%97\" class=\"mw-redirect\" title=\"תרצ&quot;ח\">תרח\"צ</a> להוריו <a href=\"/index.php/%D7%96%D7%90%D7%91_%D7%93%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_(%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D)\" title=\"זאב דב הלפרין (ירושלים)\">זאב דב הלפרין (ירושלים)</a>. בצעירותו למד ב<a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%9C%D7%95%D7%93\" title=\"תומכי תמימים לוד\">ישיבת חב\"ד בלוד</a> והיה ה<a href=\"/index.php/%D7%97%D7%91%D7%A8%D7%95%D7%AA%D7%90\" title=\"חברותא\">חברותא</a> של ה<a href=\"/index.php/%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D\" class=\"mw-redirect\" title=\"תמימים\">תמים</a> <a href=\"/index.php/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%A8%D7%99%D7%94_%D7%9C%D7%99%D7%99%D7%91_%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%A1%D7%A7%D7%99%D7%9F\" class=\"mw-redirect\" title=\"ישראל אריה לייב דוברוסקין\">ישראל אריה לייב דוברוסקין</a> (עד שנרצח בידי המחבלים), והיה ממושפעיו של הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%9E%D7%94_%D7%97%D7%99%D7%99%D7%9D_%D7%A7%D7%A1%D7%9C%D7%9E%D7%9F\" title=\"שלמה חיים קסלמן\">שלמה חיים קסלמן</a>. כאשר <a href=\"/index.php/%D7%A6%D7%94%22%D7%9C\" title=\"צה&quot;ל\">צה\"ל</a> יצא ל<a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A7%D7%93%D7%A9\" class=\"mw-redirect\" title=\"מבצע קדש\">מבצע קדש</a> בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%99%22%D7%96\" title=\"תשי&quot;ז\">תשי\"ז</a> נשלח יחד עם עוד שניים מחבריו להחליף את ה<a href=\"/index.php/%D7%A8%22%D7%9E\" class=\"mw-redirect\" title=\"ר&quot;מ\">רמ\"ים</a> בישיבת <a href=\"/index.php/%D7%90%D7%97%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A8%D7%90%D7%A9%D7%95%D7%9F_%D7%9C%D7%A6%D7%99%D7%95%D7%9F\" title=\"אחי תמימים ראשון לציון\">אחי תמימים ראשון לציון</a> שגויסו לצבא.\n</p><p>לאחר שנים של בקשות מצידו, אישר הרבי את הגעתו לבית חיינו ב<a href=\"/index.php/%D7%90%D7%9C%D7%95%D7%9C\" class=\"mw-redirect\" title=\"אלול\">אלול</a> תש\"כ, והגיע עם <a href=\"/index.php/%D7%94%D7%A6%27%D7%A8%D7%98%D7%A8_%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F\" title=\"הצ&#39;רטר הראשון\">הצ'רטר הראשון</a>. ההיתר הרשמי היה להגיע לחגי תשרי, אך לאחר שביקש ביחידות, אישר לו הרבי להישאר עד סוף השנה. כשבחודש אב, הורה לו לחזור לארץ הקודש, ושלחו בדרך למקומות רבים ומגוונים לשליחויות שונות, מהם אל מעבר למסך הברזל. מאז ועד היום, נסע לבית חיינו בקצב של שלוש ארבע פעמים לשנה. וזכה ליחידויות מרתקות וארוכות אצל הרבי.\n</p><p>מספר שנים לפני נישואיו עם אסתר ביילא תחי' לבית ר' אברהם דוד וינגוט, התמנה לרב ה<a href=\"/index.php/%D7%A2%D7%99%D7%99%D7%A8%D7%94\" title=\"עיירה\">עיירה</a> <a href=\"/index.php/%D7%A2%D7%AA%D7%9C%D7%99%D7%AA\" title=\"עתלית\">עתלית</a>, ובשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%91\" title=\"תשל&quot;ב\">תשל\"ב</a> עבר ל<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a> שם התמנה כחבר בהרכב הראשון של בית הדין של רבני חב\"ד וישב לדיני תורה לצידו של הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%9E%D7%94_%D7%99%D7%95%D7%A1%D7%A3_%D7%96%D7%95%D7%95%D7%99%D7%9F\" class=\"mw-redirect\" title=\"שלמה יוסף זווין\">שלמה יוסף זווין</a> שכיבד אותו מאוד והתחשב בדעותיו על אף גילו הצעיר.\n</p><p>ב<a href=\"/index.php/%D7%A4%D7%95%D7%A8%D7%99%D7%9D\" title=\"פורים\">פורים</a> של שנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%91\" title=\"תשל&quot;ב\">תשל\"ב</a> התמנה כרב שכונת הגבעה הצרפתית ורבה של צפון ירושלים, עוד בהיותו גר בשכונת פאג\"י בירושלים. וימים ספורים לאחר ראש השנה של שנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%92\" title=\"תשל&quot;ג\">תשל\"ג</a> עבר להתגורר בשכונה והוא מכהן בתפקיד זה עד היום.\n</p><p>במשך זמן כהונתו כרב פתח את כולל זאב דוב שם בין מוסרי השיעורים הי' הרה\"ח פה מפיק מרגליות ר' <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%9E%D7%A0%D7%97%D7%9D_%D7%A9%D7%9C%D7%9E%D7%94_%D7%93%D7%A8%D7%95%D7%A7\" title=\"חיים מנחם שלמה דרוק\">חיים מנחם שלמה דרוק</a> ע\"ה שהי' מוסר שם שיעורים בהלכה.\n</p><p>בשנת תנש\"א חתם על <a href=\"/index.php/%D7%A4%D7%A1%D7%A7_%D7%94%D7%93%D7%99%D7%9F_%D7%A9%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"פסק הדין שהרבי מלך המשיח\">פסק הדין שהרבי מלך המשיח</a>.\n</p><p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%94\" title=\"תשס&quot;ה\">תשס\"ה</a> הוציא את חיבורו 'אמרי הלכה ומנהג', המלקט תשובות הלכתיות שהשיב בזמן כהונתו כרב השכונה, בנושאים הקשורים לחלקים 'אורח חיים' ו'יורה דעה' ב<a href=\"/index.php/%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%A2%D7%A8%D7%95%D7%9A\" title=\"שולחן ערוך\">שולחן ערוך</a>.\n</p><p>הרב הלפרין ידוע כמומחה עולמי בדיני <a href=\"/index.php/%D7%9E%D7%A7%D7%95%D7%95%D7%94_%D7%98%D7%94%D7%A8%D7%94\" class=\"mw-redirect\" title=\"מקווה טהרה\">מקוואות</a> ועירובין, ו<a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%97\" class=\"mw-redirect\" title=\"שליח\">שלוחים</a> רבים ברחבי העולם מזמינים אותו במיוחד כדי שיסייע להם לבנות <a href=\"/index.php/%D7%9E%D7%A7%D7%95%D7%95%D7%94\" title=\"מקווה\">מקווה</a> מהודר על פי הדרישות השונות ב<a href=\"/index.php/%D7%94%D7%9C%D7%9B%D7%94\" title=\"הלכה\">הלכה</a>.\n</p>\n<h2><span id=\".D7.9E.D7.A9.D7.A4.D7.97.D7.AA.D7.95\"></span><span class=\"mw-headline\" id=\"משפחתו\">משפחתו</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;משפחתו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: משפחתו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>בנו, הרב <a href=\"/index.php?title=%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"שניאור זלמן הלפרין (הדף אינו קיים)\">שניאור זלמן הלפרין</a> - מנהל בית חב\"ד מבואות החרמון.</li>\n<li>בנו, הרב <a href=\"/index.php/%D7%99%D7%97%D7%99%D7%90%D7%9C_%D7%9E%D7%90%D7%99%D7%A8_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F\" title=\"יחיאל מאיר הלפרין\">יחיאל מאיר הלפרין</a> - שליח הרבי הרבי ורב קהילת \"זכרון לקדושים\" ב<a href=\"/index.php/%D7%97%D7%95%D7%9C%D7%95%D7%9F\" title=\"חולון\">חולון</a>.</li>\n<li>בנו, הרב <a href=\"/index.php?title=%D7%96%D7%90%D7%91_%D7%93%D7%95%D7%91_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F_(%D7%91%D7%A0%D7%99_%D7%A2%D7%98%D7%A8%D7%95%D7%AA)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"זאב דוב הלפרין (בני עטרות) (הדף אינו קיים)\">זאב דוב הלפרין</a> - שליח הרבי ב<a href=\"/index.php?title=%D7%91%D7%A0%D7%99_%D7%A2%D7%98%D7%A8%D7%95%D7%AA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"בני עטרות (הדף אינו קיים)\">בני עטרות</a>, ארץ ישראל, לשעבר מנהל מפעל הכשרות של <a href=\"/index.php/%D7%94%D7%A8%D7%91_%D7%9C%D7%90%D7%96%D7%90%D7%A8\" class=\"mw-redirect\" title=\"הרב לאזאר\">הרב לאזאר</a> ב<a href=\"/index.php/%D7%9E%D7%95%D7%A1%D7%A7%D7%91%D7%94\" title=\"מוסקבה\">מוסקבה</a>.</li>\n<li>בנו, הרב יעקב שמואל הלפרין - שליח הרבי ב<a href=\"/index.php/%D7%A4%D7%A0%D7%A1%D7%99%D7%9C%D7%91%D7%A0%D7%99%D7%94\" title=\"פנסילבניה\">פנסילבניה</a>, <a href=\"/index.php/%D7%90%D7%A8%D7%A6%D7%95%D7%AA_%D7%94%D7%91%D7%A8%D7%99%D7%AA\" title=\"ארצות הברית\">ארצות הברית</a>.</li>\n<li>בנו, הרב <a href=\"/index.php/%D7%90%D7%A4%D7%A8%D7%99%D7%9D_%D7%99%D7%95%D7%A1%D7%A3_%D7%99%D7%A6%D7%97%D7%A7_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F\" title=\"אפרים יוסף יצחק הלפרין\">אפרים יוסף יצחק הלפרין</a>, שליח הרבי ומו\"צ קהילת חב\"ד ב<a href=\"/index.php/%D7%90%D7%A8%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94\" title=\"ארגנטינה\">ארגנטינה</a>.</li>\n<li>בנו, הרב משה גדליה הלפרין, ר\"מ בישיבת <a href=\"/index.php/%D7%90%D7%94%D7%9C%D7%99_%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"אהלי תורה\">אהלי תורה</a> <a href=\"/index.php/%D7%A7%D7%A8%D7%90%D7%95%D7%9F_%D7%94%D7%99%D7%99%D7%98%D7%A1\" title=\"קראון הייטס\">קראון הייטס</a>.</li>\n<li>בתו, דבורה לאה אשת חתנו, הרב <a href=\"/index.php/%D7%97%D7%A0%D7%95%D7%9A_%D7%94%D7%A2%D7%A0%D7%99%D7%9A_%D7%96%D7%99%D7%9C%D7%91%D7%A8%D7%A9%D7%98%D7%A8%D7%95%D7%9D\" title=\"חנוך העניך זילברשטרום\">חנוך העניך זילברשטרום</a> - <a href=\"/index.php/%D7%A8%22%D7%9E\" class=\"mw-redirect\" title=\"ר&quot;מ\">ר\"מ</a> בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA\" title=\"תומכי תמימים רחובות\">תומכי תמימים רחובות</a>.</li>\n<li>בתו, חנה מרים אשת חתנו, הרב <a href=\"/index.php/%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%99%D7%A6%D7%97%D7%A7_%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5\" title=\"אברהם יצחק רבינוביץ\">אברהם יצחק רבינוביץ</a> - <a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%97\" class=\"mw-redirect\" title=\"שליח\">שליח</a> <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> ב<a href=\"/index.php?title=%D7%9E%D7%91%D7%A9%D7%A8%D7%AA_%D7%A6%D7%99%D7%95%D7%9F&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"מבשרת ציון (הדף אינו קיים)\">מבשרת ציון</a>, סמוך לירושלים.</li>\n<li>בתו, פעשה הדסה.</li>\n<li>בתו, בלומא מלכה אשת חתנו, הרב שמואל אלישע טברדוביץ, <a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%97\" class=\"mw-redirect\" title=\"שליח\">שליח</a> <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> במיאמי פלורידה (סורפסייד - באל הארבור).</li>\n<li>בתו, מנוחה רחל חיה אשת חתנו, הרב דב הרשקוביץ, שליח <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> ב<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a>.</li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.he.chabad.org/multimedia/media_cdo/aid/2432520\">להרגיש את הקשר</a></b> - הרב הלפרין מתראיין לתוכנית 'המפגש שלי' של חברת <a href=\"/index.php/Jem\" class=\"mw-redirect\" title=\"Jem\">jem</a> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span> אתר בית חב\"ד</li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://myencounterblog.com/wp-content/uploads/2016/09/65.-Shoftim-5776-Hebrew-Version.pdf\">גם אם לא מרגישים - הקשר קיים</a></b> - הרב הלפרין בראיון וידאו משוכתב בעלון 'הסיפור שלי' של חברת jem <span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.teshura.com/teshurapdf/Halperin-Fromer%20-%20Sivan%2024%2C%205778.pdf\">מכתבים שקיבל מהרבי, בתוך תשורה מנישואי צאצאיו</a></b></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.teshura.com/teshurapdf/Brand-Halperin-%203%20Elul%205783.pdf\">מכתבים שקיבל מהרבי</a></b> בתוך תשורה מנישואי צאצאיו ברנד-הלפרים, ה'תשפ\"ו</li></ul>\n<p><br />\n</p>\n<table class=\"navbox nowraplinks mw-collapsible autocollapse\" style=\"width: 90%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#d1eeee; font-weight: bold;\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%22%D7%93_%D7%91%D7%90%D7%A8%D7%A5_%D7%94%D7%A7%D7%95%D7%93%D7%A9\" title=\"בית דין רבני חב&quot;ד בארץ הקודש\">חברי בי\"ד רבני חב\"ד בארץ הקודש</a>\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">חברי בית הדין כיום</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\">מזכיר בית הדין - הרב <a href=\"/index.php/%D7%99%D7%A6%D7%97%D7%A7_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%99%D7%A8%D7%95%D7%A1%D7%9C%D7%91%D7%A1%D7%A7%D7%99\" title=\"יצחק יהודה ירוסלבסקי\">יצחק יהודה ירוסלבסקי</a> • סגן המזכיר - הרב <a href=\"/index.php/%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%92%D7%9C%D7%95%D7%9B%D7%95%D7%91%D7%A1%D7%A7%D7%99\" title=\"מנחם מענדל גלוכובסקי\">מנחם מענדל גלוכובסקי</a> • הרב <a href=\"/index.php/%D7%9E%D7%90%D7%99%D7%A8_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99_(%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93)\" title=\"מאיר אשכנזי (כפר חב&quot;ד)\">מאיר אשכנזי</a> • הרב <a href=\"/index.php/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%91%D7%99%D7%A1%D7%98%D7%A8%D7%99%D7%A6%D7%A7%D7%99\" title=\"מרדכי ביסטריצקי\">מרדכי ביסטריצקי</a> • הרב <a href=\"/index.php/%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%99%D7%95%D7%97%D7%A0%D7%9F_%D7%92%D7%95%D7%A8%D7%90%D7%A8%D7%99%D7%94\" title=\"אליהו יוחנן גוראריה\">אליהו יוחנן גוראריה</a> • הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%9C%D7%9E%D7%94_%D7%93%D7%99%D7%A1%D7%A7%D7%99%D7%9F\" title=\"חיים שלמה דיסקין\">חיים שלמה דיסקין</a> • הרב <a href=\"/index.php/%D7%9E%D7%A9%D7%94_%D7%94%D7%91%D7%9C%D7%99%D7%9F\" title=\"משה הבלין\">משה הבלין</a> • הרב <a href=\"/index.php/%D7%99%D7%95%D7%A1%D7%A3_%D7%94%D7%9B%D7%98\" title=\"יוסף הכט\">יוסף הכט</a> • הרב <a class=\"mw-selflink selflink\">אברהם מיכאל הלפרין</a> • הרב <a href=\"/index.php/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%99%D7%95%D7%A1%D7%A3_%D7%94%D7%A0%D7%93%D7%9C\" title=\"ישראל יוסף הנדל\">ישראל יוסף הנדל</a> • הרב <a href=\"/index.php/%D7%99%D7%A9%D7%A2%D7%99%D7%94%D7%95_%D7%94%D7%A8%D7%A6%D7%9C\" title=\"ישעיהו הרצל\">ישעיהו הרצל</a> • הרב <a href=\"/index.php/%D7%99%D7%95%D7%A1%D7%A3_%D7%99%D7%A6%D7%97%D7%A7_%D7%95%D7%95%D7%9C%D7%95%D7%A1%D7%95%D7%91\" title=\"יוסף יצחק וולוסוב\">יוסף יצחק וולוסוב</a> • הרב <a href=\"/index.php/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%99%D7%A8%D7%95%D7%A1%D7%9C%D7%91%D7%A1%D7%A7%D7%99\" title=\"שניאור זלמן ירוסלבסקי\">שניאור זלמן ירוסלבסקי</a> • הרב <a href=\"/index.php/%D7%99%D7%A2%D7%A7%D7%91_%D7%9E%D7%A9%D7%94_%D7%9E%D7%A0%D7%93%D7%9C%D7%96%D7%95%D7%9F\" title=\"יעקב משה מנדלזון\">יעקב משה מנדלזון</a> • הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A7%D7%99%D7%96%27%D7%A0%D7%A8\" title=\"חיים קיז&#39;נר\">חיים קיז'נר</a> • הרב <a href=\"/index.php/%D7%99%D7%A2%D7%A7%D7%91_%D7%A9%D7%95%D7%95%D7%99%D7%9B%D7%94\" title=\"יעקב שוויכה\">יעקב שוויכה</a>\n</td>\n<td rowspan=\"5\" align=\"center\" style=\"text-align: center; vertical-align: middle;\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%22%D7%93\" title=\"בית דין רבני חב&quot;ד\"><img src=\"/images/thumb/9/91/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg/150px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg\" decoding=\"async\" width=\"150\" height=\"156\" class=\"mw-file-element\" srcset=\"/images/thumb/9/91/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg/225px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg 1.5x, /images/thumb/9/91/%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg/300px-%D7%97%D7%95%D7%AA%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%D7%93.jpg 2x\" /></a><figcaption></figcaption></figure>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">אבות בית הדין במשך השנים</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\">הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%9E%D7%94_%D7%99%D7%95%D7%A1%D7%A3_%D7%96%D7%95%D7%99%D7%9F\" title=\"שלמה יוסף זוין\">שלמה יוסף זוין</a> • הרב <a href=\"/index.php/%D7%A0%D7%97%D7%95%D7%9D_%D7%98%D7%A8%D7%91%D7%A0%D7%99%D7%A7\" title=\"נחום טרבניק\">נחום טרבניק</a> • הרב <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%91%D7%95%D7%98%D7%A8%D7%A9%D7%95%D7%95%D7%99%D7%9C%D7%99\" title=\"יהודה בוטרשווילי\">יהודה בוטרשווילי</a> • הרב <a href=\"/index.php/%D7%93%D7%95%D7%93_%D7%97%D7%A0%D7%96%D7%99%D7%9F\" title=\"דוד חנזין\">דוד חנזין</a> • הרב <a href=\"/index.php/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99\" title=\"מרדכי שמואל אשכנזי\">מרדכי שמואל אשכנזי</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">חברי בית הדין בעבר</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\">הרב <a href=\"/index.php/%D7%93%D7%91_%D7%91%D7%A2%D7%A8_%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%D7%95%D7%91\" title=\"דב בער אליעזרוב\">דב בער אליעזרוב</a> • הרב <a href=\"/index.php/%D7%92%D7%93%D7%9C%D7%99%D7%94_%D7%90%D7%A7%D7%A1%D7%9C%D7%A8%D7%95%D7%93\" title=\"גדליה אקסלרוד\">גדליה אקסלרוד</a> • הרב <a href=\"/index.php/%D7%9E%D7%A9%D7%94_%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99\" title=\"משה אשכנזי\">משה אשכנזי</a> • הרב <a href=\"/index.php/%D7%9C%D7%95%D7%99_%D7%91%D7%99%D7%A1%D7%98%D7%A8%D7%99%D7%A6%D7%A7%D7%99\" title=\"לוי ביסטריצקי\">לוי ביסטריצקי</a> • הרב <a href=\"/index.php/%D7%99%D7%97%D7%99%D7%90%D7%9C_%D7%9E%D7%99%D7%9B%D7%9C_%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%A1%D7%A7%D7%99%D7%9F\" class=\"mw-redirect\" title=\"יחיאל מיכל דוברוסקין\">יחיאל מיכל דוברוסקין</a> • הרב <a href=\"/index.php/%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%97%D7%9F\" title=\"גרשון חן\">גרשון חן</a> • הרב <a href=\"/index.php/%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A1%D7%A0%D7%93%D7%A8_%D7%99%D7%95%D7%93%D7%A1%D7%99%D7%9F\" title=\"אלכסנדר סנדר יודסין\">אלכסנדר סנדר יודסין</a> • הרב <a href=\"/index.php/%D7%91%D7%A8%D7%95%D7%9A_%D7%91%D7%95%D7%A2%D7%96_%D7%99%D7%95%D7%A8%D7%A7%D7%95%D7%91%D7%99%D7%A5%27\" title=\"ברוך בועז יורקוביץ&#39;\">ברוך בועז יורקוביץ'</a> • הרב <a href=\"/index.php/%D7%91%D7%9F_%D7%A6%D7%99%D7%95%D7%9F_%D7%9C%D7%99%D7%A4%D7%A1%D7%A7%D7%A8\" title=\"בן ציון ליפסקר\">בן ציון ליפסקר</a> • הרב <a href=\"/index.php/%D7%99%D7%A2%D7%A7%D7%91_%D7%9C%D7%A0%D7%93%D7%90\" title=\"יעקב לנדא\">יעקב לנדא</a> • הרב <a href=\"/index.php/%D7%96%D7%90%D7%91_%D7%93%D7%91_%D7%A1%D7%9C%D7%95%D7%A0%D7%99%D7%9D_(%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D)\" title=\"זאב דב סלונים (ירושלים)\">זאב דב סלונים</a> • הרב <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%A1%D7%A3_%D7%92%D7%93%D7%9C%D7%99%D7%94_%D7%A8%D7%9C%D7%91%22%D7%92\" title=\"יהוסף גדליה רלב&quot;ג\">יהוסף גדליה רלב\"ג</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">דיינים בבית הדין</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\">הרב <a href=\"/index.php/%D7%90%D7%A4%D7%A8%D7%99%D7%9D_%D7%91%D7%95%D7%92%D7%A8%D7%93\" title=\"אפרים בוגרד\">אפרים בוגרד</a> • הרב <a href=\"/index.php/%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F_%D7%A7%D7%95%D7%A4%D7%A8%D7%9E%D7%9F\" title=\"בנימין קופרמן\">בנימין קופרמן</a> • הרב <a href=\"/index.php/%D7%A9%D7%9C%D7%9E%D7%94_%D7%96%D7%9C%D7%9E%D7%9F_%D7%9C%D7%91%D7%A7%D7%99%D7%91%D7%A7%D7%A8\" title=\"שלמה זלמן לבקיבקר\">שלמה זלמן לבקיבקר</a> • הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A7%D7%99%D7%96%27%D7%A0%D7%A8\" title=\"חיים קיז&#39;נר\">חיים קיז'נר</a> • הרב <a href=\"/index.php/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%A8%D7%99%D7%A4%D7%A7%D7%99%D7%99%D7%A0%D7%93\" class=\"mw-redirect\" title=\"מרדכי ריפקיינד\">מרדכי ריפקיינד</a> • הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%94%D7%9C%D7%9C_%D7%A8%D7%A1%D7%A7%D7%99%D7%9F\" title=\"חיים הלל רסקין\">חיים הלל רסקין</a> • הרב <a href=\"/index.php/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%99%D7%A8%D7%95%D7%A1%D7%9C%D7%91%D7%A1%D7%A7%D7%99\" title=\"שניאור זלמן ירוסלבסקי\">שניאור זלמן ירוסלבסקי</a> • הרב <a href=\"/index.php/%D7%90%D7%A1%D7%A3_%D7%A9%D7%9E%D7%A9%D7%95%D7%9F_%D7%90%D7%A0%D7%92%D7%9C%D7%9E%D7%9F\" title=\"אסף שמשון אנגלמן\">אסף שמשון אנגלמן</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">מזכירות</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\">הרב <a href=\"/index.php/%D7%99%D7%A6%D7%97%D7%A7_%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8_%D7%A0%D7%95%D7%91\" title=\"יצחק אלכסנדר נוב\">יצחק נוב</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260413153516\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.078 seconds\nReal time usage: 0.127 seconds\nPreprocessor visited node count: 706/1000000\nPost‐expand include size: 12307/2097152 bytes\nTemplate argument size: 15004/2097152 bytes\nHighest expansion depth: 10/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.020/7 seconds\nLua virtual size: 5554176/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   83.648      1 -total\n 95.34%   79.752      1 תבנית:חברי_בי&quot;ד_רבני_חב&quot;ד_בארץ_הקודש\n 92.33%   77.234      1 תבנית:ניווט_קבוצות\n  3.54%    2.965     20 תבנית:קיים\n  2.68%    2.245      5 תבנית:שורה_אחת\n  2.46%    2.055      1 תבנית:וידאו\n  2.02%    1.693      1 תבנית:PDF\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:28361-0!canonical and timestamp 20260413153516 and revision id 822686. Rendering was triggered because: diff-page\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "חסידים_בתקופת_אדמו\"ר_שליט\"א"
+      },
+      {
+        "sortkey": "",
+        "*": "חברי_בית_דין_רבני_חב\"ד_בארץ_הקודש"
+      },
+      {
+        "sortkey": "",
+        "*": "דיינים"
+      },
+      {
+        "sortkey": "",
+        "*": "רבני_חב\"ד_בהווה"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_בירושלים"
+      },
+      {
+        "sortkey": "",
+        "*": "צאצאי_אדמו\"ר_הזקן"
+      },
+      {
+        "sortkey": "",
+        "*": "משפחת_הלפרין"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_שנולדו_בשנת_תרצ\"ח"
+      },
+      {
+        "sortkey": "",
+        "*": "רבנים_שחתמו_על_הפסק_דין_שהרבי_מלך_המשיח"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ניווט קבוצות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית דין רבני חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Jem"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אברהם יצחק רבינוביץ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהלי תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחי תמימים ראשון לציון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אליהו יוחנן גוראריה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלכסנדר סנדר יודסין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אסף שמשון אנגלמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אפרים בוגרד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אפרים יוסף יצחק הלפרין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארגנטינה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארצות הברית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית דין רבני חב\"ד בארץ הקודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בן ציון ליפסקר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בנימין קופרמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברוך בועז יורקוביץ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ג' חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גדליה אקסלרוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גרשון חן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דב בער אליעזרוב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דוד חנזין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הלכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הצ'רטר הראשון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרב לאזאר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זאב דב הלפרין (ירושלים)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זאב דב סלונים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זאב דב סלונים (ירושלים)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חברותא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חולון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים הלל רסקין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים מנחם שלמה דרוק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים קיז'נר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים שלמה דיסקין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חנוך העניך זילברשטרום"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהודה בוטרשווילי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהוסף גדליה רלב\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יוסף הכט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יוסף יצחק ווילשאנסקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יוסף יצחק וולוסוב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחיאל מאיר הלפרין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחיאל מיכל דוברוסקין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יעקב לנדא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יעקב משה מנדלזון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יעקב שוויכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יצחק אלכסנדר נוב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יצחק יהודה ירוסלבסקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ירושלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישעיהו הרצל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישראל אריה לייב דוברוסקין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישראל יוסף הנדל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לוי ביסטריצקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאיר אשכנזי (כפר חב\"ד)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע קדש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוסקבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מנחם מענדל גלוכובסקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מקווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מקווה טהרה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרדכי ביסטריצקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרדכי ריפקיינד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרדכי שמואל אשכנזי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משה אשכנזי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משה הבלין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נחום טרבניק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עיירה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עתלית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פורים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פנסילבניה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פסק הדין שהרבי מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צה\"ל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קראון הייטס"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ר\"מ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שולחן ערוך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלום בער בוטמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שליח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלמה זלמן לבקיבקר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלמה חיים קסלמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלמה יוסף זווין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלמה יוסף זוין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שניאור זלמן ירוסלבסקי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים לוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים רחובות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תמימים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרח\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרצ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשי\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשל\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשל\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ה"
+      },
+      {
+        "ns": 0,
+        "*": "שניאור זלמן הלפרין"
+      },
+      {
+        "ns": 0,
+        "*": "זאב דוב הלפרין (בני עטרות)"
+      },
+      {
+        "ns": 0,
+        "*": "בני עטרות"
+      },
+      {
+        "ns": 0,
+        "*": "מבשרת ציון"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תולדות חיים",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "אברהם_מיכאל_הלפרין",
+        "byteoffset": 417,
+        "anchor": "תולדות_חיים",
+        "linkAnchor": "תולדות_חיים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "משפחתו",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "אברהם_מיכאל_הלפרין",
+        "byteoffset": 2301,
+        "anchor": "משפחתו",
+        "linkAnchor": "משפחתו"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "אברהם_מיכאל_הלפרין",
+        "byteoffset": 3252,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      }
+    ]
+  }
+}

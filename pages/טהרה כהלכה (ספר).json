@@ -1,0 +1,36 @@
+{
+  "parse": {
+    "title": "טהרה כהלכה (ספר)",
+    "pageid": 39794,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg\" class=\"mw-file-description\"><img src=\"/images/thumb/d/d4/%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg/220px-%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg\" decoding=\"async\" width=\"220\" height=\"293\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d4/%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg/330px-%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg 1.5x, /images/thumb/d/d4/%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg/440px-%D7%98%D7%94%D7%A8%D7%94_%D7%9B%D7%94%D7%9C%D7%9B%D7%94.jpeg 2x\" /></a><figcaption>שני חלקי הספר</figcaption></figure>\n<p><b>טהרה כהלכה</b> הוא ספר <a href=\"/index.php/%D7%94%D7%9C%D7%9B%D7%94\" title=\"הלכה\">הלכה</a> נפוץ בנושא טהרת המשפחה. הספר כולל פסקים מעשיים משו\"ת הפוסקים וספריהם. הספר נכתב על ידי הרב <a href=\"/index.php/%D7%99%D7%A7%D7%95%D7%AA%D7%99%D7%90%D7%9C_%D7%A4%D7%A8%D7%A7%D7%A9\" title=\"יקותיאל פרקש\">יקותיאל פרקש</a>, שמומחיות רבה לו בנושא זה. כחסיד חב\"ד מתייחס המחבר באופן מיוחד לשיטת חב\"ד ואדמו\"ר הזקן אם כי במקום שנהוג בקהילות ישראל באופן שונה מציין המחבר ומבאר את כלל השיטות הקיימות.\n</p><p>הספר מחולק לשני חלקים הכוללים יחד כ\"ד פרקים. חלקו הראשון של הספר עוסק בהלכות בעת היות האישה נידה עד ליל הטבילה וחלקו השני מההכנות לליל טבילה עצמה והלכות ווסתות. סגנון הספר מותאם לקריאה גם לאדם שאינו בקי דיו בנושאי הספר וכולל בתחילתו ביאורי הגדרות ומונחים. מלבד הציונים והערות שבגוף הפרק יש בסוף כל פרק מדור עיון המכונה \"ביאורים\" המיועד למעוניינים להעמיק בנימוקי הפסק שבפנים הפרק. \n</p><p>הספר זכה לתפוצה רבה בקרב חסיד חב\"ד ובעולם הכללי בכלל, מהדורתו הראשונה של הספר ששמה היה \"מחשבת הטהרה\" (נדפס לראשונה בשנת תשמ\"ו) נדפסה עשר פעמים באלפי עותקים. במהדורתו השנייה (הודפס לראשונה בשנת תשנ\"ח) \"טהרה כהלכה\" בה חידש והוסיף פסקים רבים זכתה אף היא יותר מקודמה לתפוצה גדולה ביותר.\n</p><p>הספר זכה לעידוד ולברכות ולהשתתפות סמלית מהרבי להוצאות.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260414091459\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.067 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:39794-0!canonical and timestamp 20260414091459 and revision id 562103. Rendering was triggered because: unknown\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "ביאורים_בהלכה"
+      },
+      {
+        "sortkey": "",
+        "*": "טהרה"
+      },
+      {
+        "sortkey": "",
+        "*": "הבית_היהודי"
+      }
+    ],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הלכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יקותיאל פרקש"
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "parse": {
+    "title": "ביום עשתי עשר תשל\"א",
+    "pageid": 42100,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #339999; background-color: #cceeee; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #339999;\"><font size=\"4\"><a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">מאמרי</a> <a href=\"/index.php/%D7%A8%D7%91%D7%95%D7%AA%D7%99%D7%A0%D7%95_%D7%A0%D7%A9%D7%99%D7%90%D7%A0%D7%95\" class=\"mw-redirect\" title=\"רבותינו נשיאנו\">רבותינו נשיאנו</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%94%D7%90%D7%9E%D7%A0%D7%9D\" title=\"האמנם\">האמנם</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%93%D7%A2%D7%A8_%D7%A4%D7%A8%D7%95%D7%9E%D7%A2%D7%A8_%D7%95%D7%90%D7%A8%D7%90\" title=\"דער פרומער וארא\">דער פרומער וארא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%9C_%D7%AA%D7%A6%D7%A8_%D7%90%D7%AA_%D7%9E%D7%95%D7%90%D7%91\" title=\"אל תצר את מואב\">אל תצר את מואב</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%99%D7%AA%D7%90_%D7%91%D7%9E%D7%93%D7%A8%D7%A9_%D7%AA%D7%99%D7%9C%D7%99%D7%9D\" title=\"איתא במדרש תילים\">איתא במדרש תילים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%94%D7%93%D7%A8%D7%AA_%D7%A4%D7%A0%D7%99_%D7%96%D7%A7%D7%9F_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"והדרת פני זקן (מאמר)\">והדרת פני זקן</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9B%D7%AA%D7%91_%D7%99%D7%93_%D7%93%D7%90%22%D7%97_%D7%99%D7%A9%D7%9F_%D7%9C%D7%90_%D7%A0%D7%95%D7%93%D7%A2_%D7%9C%D7%9E%D7%99\" title=\"כתב יד דא&quot;ח ישן לא נודע למי\">כתב יד דא\"ח ישן לא נודע למי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%90%D7%AA%D7%99_%D7%9C%D7%92%D7%A0%D7%99\" title=\"באתי לגני\">באתי לגני</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8_%27%D7%95%D7%A9%D7%90%D7%91%D7%AA%D7%9D_%D7%9E%D7%99%D7%9D_%D7%91%D7%A9%D7%A9%D7%95%D7%9F%27\" title=\"מאמר &#39;ושאבתם מים בששון&#39;\">ושאבתם מים בששון</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%99%D7%93%D7%A2%D7%AA_%D7%AA%D7%A8%D7%A0%22%D7%96_-_%D7%9E%D7%95%D7%A1%D7%A7%D7%91%D7%94\" title=\"וידעת תרנ&quot;ז - מוסקבה\">וידעת תרנ\"ז - מוסקבה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%97%D7%9C%D7%A6%D7%95_%D7%AA%D7%A8%D7%A0%22%D7%98\" class=\"mw-redirect\" title=\"החלצו תרנ&quot;ט\">החלצו תרנ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%97%D7%AA_%D7%A9%D7%90%D7%9C%D7%AA%D7%99_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"אחת שאלתי (מאמר)\">אחת שאלתי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%A7%D7%91%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D\" title=\"וקבל היהודים\">וקבל היהודים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%92%D7%95%D7%99%D7%9D_%D7%A2%D7%9E%D7%9C%D7%A7_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"ראשית גוים עמלק (מאמר)\">ראשית גוים עמלק</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\"><a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">מאמרי</a> <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%90%D7%A9%D7%A8%D7%99_%D7%AA%D7%91%D7%97%D7%A8_%D7%AA%D7%A9%D7%98%22%D7%96\" title=\"אשרי תבחר תשט&quot;ז\">אשרי תבחר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a class=\"mw-selflink selflink\">ביום עשתי עשר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%92%D7%93%D7%95%D7%9C_%D7%99%D7%94%D7%99%D7%94_%D7%AA%D7%A9%D7%9B%22%D7%91\" title=\"גדול יהיה תשכ&quot;ב\">גדול יהיה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%A9%D7%91%D7%AA%D7%99_%D7%91%D7%A9%D7%9C%D7%95%D7%9D_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"ושבתי בשלום תשל&quot;ח\">ושבתי בשלום</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9B%D7%99_%D7%99%D7%A9%D7%90%D7%9C%D7%9A_%D7%91%D7%A0%D7%9A_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"כי ישאלך בנך תשל&quot;ח\">כי ישאלך בנך</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9C%D7%90_%D7%AA%D7%94%D7%99%D7%94_%D7%9E%D7%A9%D7%9B%D7%9C%D7%94_%D7%AA%D7%A9%D7%99%22%D7%91\" title=\"לא תהיה משכלה תשי&quot;ב\">לא תהיה משכלה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A7%D7%98%D7%9F_-_%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"קונטרס פורים קטן - תשנ&quot;ב\">ואתה תצווה את בני ישראל</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%AA%D7%A9%D7%99%22%D7%92\" title=\"פורים תשי&quot;ג\">על כן קראו הימים האלה ימי הפורים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A8%22%D7%97_%D7%9B%D7%A1%D7%9C%D7%95_-_%D7%AA%D7%A9%D7%A0%22%D7%92\" title=\"קונטרס ר&quot;ח כסלו - תשנ&quot;ג\">בורא ניב שפתיים תשמ\"ח</a>  <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%97%D7%95%D7%93%D7%A9_%D7%94%D7%96%D7%94_%D7%AA%D7%A9%D7%9E%22%D7%96\" title=\"החודש הזה תשמ&quot;ז\">החודש הזה תשמ\"ז</a>  <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%A0%D7%9B%D7%99_%D7%94%27_%D7%90%D7%9C%D7%95%D7%A7%D7%99%D7%9A_%D7%AA%D7%A9%D7%9E%22%D7%98\" title=\"אנכי ה&#39; אלוקיך תשמ&quot;ט\">אנכי ה' אלוקיך תשמ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%99%D7%94%D7%99_%D7%97%D7%99%D7%99_%D7%A9%D7%A8%D7%94_%D7%AA%D7%A0%D7%A9%E2%80%9D%D7%90\" class=\"mw-redirect\" title=\"ויהי חיי שרה תנש”א\">ויהי חיי שרה תנש”א</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A8%D7%92%D7%9C%D7%90_%D7%91%D7%A4%D7%95%D7%9E%D7%99%D7%94_%D7%93%D7%A8%D7%91%D7%90_(%D7%9E%D7%90%D7%9E%D7%A8_%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA)\" class=\"mw-redirect\" title=\"מרגלא בפומיה דרבא (מאמר חסידות)\">מרגלא בפומיה דרבא תשמ\"ו</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\"><a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A\" title=\"המשך\">המשכים</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%9E%D7%99%D7%9D_%D7%A8%D7%91%D7%99%D7%9D_%D7%AA%D7%A8%D7%9C%22%D7%95\" title=\"המשך מים רבים תרל&quot;ו\">המשך מים רבים תרל\"ו</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%95%D7%94%D7%97%D7%A8%D7%99%D7%9D\" title=\"המשך והחרים\">המשך והחרים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%95%D7%9B%D7%9B%D7%94_%D7%AA%D7%A8%D7%9C%22%D7%96\" title=\"המשך וככה תרל&quot;ז\">המשך וככה תרל\"ז</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%A9%D7%9E%D7%97_%D7%AA%D7%A9%D7%9E%D7%97_%D7%AA%D7%A8%D7%A0%22%D7%96\" title=\"המשך שמח תשמח תרנ&quot;ז\">המשך שמח תשמח תרנ\"ז</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%A8%D7%A0%22%D7%98\" class=\"mw-redirect\" title=\"המשך רנ&quot;ט\">המשך רנ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%99%D7%95%D7%9D_%D7%98%D7%95%D7%91_%D7%A9%D7%9C_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94_%D7%AA%D7%A8%D7%A1%22%D7%95\" title=\"המשך יום טוב של ראש השנה תרס&quot;ו\">המשך תרס\"ו</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%A9%D7%A2%D7%94_%D7%A9%D7%94%D7%A7%D7%93%D7%99%D7%9E%D7%95_%D7%AA%D7%A2%D7%A8%22%D7%91\" title=\"בשעה שהקדימו תער&quot;ב\">המשך תער\"ב</a> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%AA%D7%A9%D7%A8%D7%99_%D7%AA%D7%A9%D7%9B%22%D7%92\" title=\"המשך תשרי תשכ&quot;ג\">המשך תשרי תשכ\"ג</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\">מושגים</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A0%D7%99%D7%92%D7%95%D7%9F_%D7%94%D7%9B%D7%A0%D7%94_%D7%9C%D7%9E%D7%90%D7%9E%D7%A8\" class=\"mw-redirect\" title=\"ניגון הכנה למאמר\">ניגון הכנה למאמר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%93%D7%99%D7%91%D7%95%D7%A8_%D7%94%D7%9E%D7%AA%D7%97%D7%99%D7%9C\" title=\"דיבור המתחיל\">דיבור המתחיל</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php?title=%D7%99%D7%90%D7%99%D7%A8_%D7%A0%D7%AA%D7%99%D7%91_(%D7%9E%D7%95%D7%A9%D7%92)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"יאיר נתיב (מושג) (הדף אינו קיים)\">יאיר נתיב</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%9B%D7%9C%D7%90%D7%9A\" title=\"ביכלאך\">ביכלאך</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%9C%D7%AA%D7%99_%D7%9E%D7%95%D7%92%D7%94\" title=\"בלתי מוגה\">בלתי מוגה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%95%D7%92%D7%94\" title=\"מוגה\">מוגה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A\" title=\"המשך\">המשך</a>\n</td></tr>\n</tbody></table>\n<p><b>ביום עשתי עשר</b> הוא שמו (<a href=\"/index.php/%D7%93%D7%99%D7%91%D7%95%D7%A8_%D7%94%D7%9E%D7%AA%D7%97%D7%99%D7%9C\" title=\"דיבור המתחיל\">דיבור המתחיל</a>) של ה<a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8_%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA\" class=\"mw-redirect\" title=\"מאמר חסידות\">מאמר חסידות</a> אותו אמר <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> לרגל <a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"יום הולדת\">יום הולדתו</a>, ביום הכנסו לשנת השבעים ב<a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA\" class=\"mw-redirect\" title=\"התוועדות\">התוועדות</a> <a href=\"/index.php/%D7%99%22%D7%90_%D7%91%D7%A0%D7%99%D7%A1%D7%9F\" title=\"י&quot;א בניסן\">י\"א בניסן</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%90\" title=\"תשל&quot;א\">תשל\"א</a>. המאמר נערך ו<a href=\"/index.php/%D7%9E%D7%95%D7%92%D7%94\" title=\"מוגה\">הוגה</a> על ידי הרבי ויצא לאור לרגל י\"א בניסן <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%98\" title=\"תשמ&quot;ט\">תשמ\"ט</a> יום הולדת השמונים ושבע של הרבי.\n</p><p>המאמר עוסק בבחירתו של ה<a href=\"/index.php/%D7%94%D7%A7%D7%93%D7%95%D7%A9_%D7%91%D7%A8%D7%95%D7%9A_%D7%94%D7%95%D7%90\" title=\"הקדוש ברוך הוא\">קב\"ה</a> ב<a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">בני ישראל</a> ובחירתם של ישראל בקב\"ה. המאמר עוסק בדרגות ומניעים שונים של הבחירה של היהודי בה'. באופן כללי מצטיירות שלש רמות ודרגות בבחירה של היהודי - זו למעלה מזו, כשלקראת סוף המאמר מתקשרות כל הדרגות זו לזו ומוסברת בהן היחסיות וההשפעה של דרגה על רעותה כמין שלשלת.\n</p><p>המאמר מקובל מאוד אצל החסידים, הוא נלמד במיוחד לקראת יום הבהיר <a href=\"/index.php/%D7%99%22%D7%90_%D7%91%D7%A0%D7%99%D7%A1%D7%9F\" title=\"י&quot;א בניסן\">י\"א בניסן</a>, ומידי שנה מודפסים ממנו עותקים רבים ונכתבים עליו ביאורים שונים.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.94.D7.9E.D7.90.D7.9E.D7.A8_.D7.A2.D7.9C.D7.99.D7.95_.D7.94.D7.95.D7.90_.D7.9E.D7.99.D7.95.D7.A1.D7.93\"></span><span class=\"mw-headline\" id=\"המאמר_עליו_הוא_מיוסד\">המאמר עליו הוא מיוסד</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;המאמר עליו הוא מיוסד&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: המאמר עליו הוא מיוסד\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>המאמר מיוסד בעיקר על שני מדרשי חז\"ל.\nהאחד הוא בקשר להקרבת הנשיא לשבט אשר פגעיאל בן עכרן ביום יא ניסן וזה תוכנו:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation\">\n<p>כל השבטים לשם גאולתן של ישראל ולשם שבחן נקראו שמותם, ואשר נקרא שמו לשם גאולתן של ישראל כמה דתימא ואשרו אתכם כל הגוים כי תהיו אתם ארץ חפץ אמר ה' צבאות, ולשם שבחן כמה דתימא אשרי העם שככה לו אשרי העם שה' אלקיו, אין אישורן של ישראל אלא על שבחרו בהקב\"ה להיות להם לאלקים והקב\"ה בחר בהם להיות לו לעם סגולה, ולפיכך כשבא נשיא אשר להקריב, הקריב קרבנו ע\"ש הבחירה שבחר הקב\"ה בישראל מכל האומות, כמה דתימא ובך בחר ה' אלקיך להיות לו לעם סגולה.\n</p>\n</div>\n<div style=\"text-align:left;border-top: 1px dotted #ccc;\">— <cite style=\"font-size:small; font-style: normal;\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=14384&amp;st=&amp;pgnum=108\">מדרש רבה במדבר יד י</a>.</cite></div>\n </blockquote>\n<p>מדרש נוסף הוא המדרש על הפסוק באיכה (ג כד): \"חֶלְקִי ה' אָמְרָה נַפְשִׁי\",\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation\">\n<p>ר' אבהו בשם ר' יוחנן אמר: משל למלך שנכנס למדינה והיו עמו דוכסין ואיפרכין ואיסטרטילוטין והיו גדולי המדינה יושבים באמצע המדינה. חד אמר אנא נסיב דוכסין לגבי. וחד אמר אנא נסיב איפרכין לגבי, וחד אמר אנא נסיב איסטרטילוטין לגבי. היה פקח אחד לשם אמר אנא נסיב מלכא, דכולא מתחלפין ומלכא אינו מתחלף. כן אומות העולם מהן-עובדין לחמה ומהן עובדין ללבנה ומהן עובדין לעץ ואבן. אבל ישראל אינן עובדין אלא להקב\"ה הדא הוא דכתיב (זהו שכתוב) חלקי ה' אמרה נפשי - שאני מיחד אותו שתי פעמים בכל יום ואומר שמע ישראל ה' אלקינו ה' אחד.\n</p>\n</div>\n<div style=\"text-align:left;border-top: 1px dotted #ccc;\">— <cite style=\"font-size:small; font-style: normal;\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=37460&amp;st=&amp;pgnum=164\">מדרש רבה איכה על הפסוק</a>.</cite></div>\n </blockquote>\n<p>במשך המאמר ישנו מעין חקירה במהות הבחירה של יהודי בעבודת ה' לעומת האומות העובדים את הבריאה בהתבסס על מדרש זה השני המתאר את צדדי ה\"ויכוח\" בין ישראל לאומות העולם.\n</p>\n<h2><span id=\".D7.AA.D7.95.D7.9B.D7.9F_.D7.94.D7.9E.D7.90.D7.9E.D7.A8\"></span><span class=\"mw-headline\" id=\"תוכן_המאמר\">תוכן המאמר</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;תוכן המאמר&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: תוכן המאמר\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>כבמשך המאמר ישנו מעין חקירה במהות הבחירה של <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%93%D7%99\" class=\"mw-redirect\" title=\"יהודי\">יהודי</a> ב<a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%27\" class=\"mw-redirect\" title=\"עבודת ה&#39;\">עבודת ה'</a> לעומת האומות העובדים את הבריאה בהתבסס על <a href=\"/index.php/%D7%9E%D7%93%D7%A8%D7%A9\" title=\"מדרש\">מדרש</a> זה השני המתאר את צדדי ה\"ויכוח\" בין <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> ל<a href=\"/index.php/%D7%90%D7%95%D7%9E%D7%95%D7%AA_%D7%94%D7%A2%D7%95%D7%9C%D7%9D\" title=\"אומות העולם\">אומות העולם</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.90.27\"></span><span class=\"mw-headline\" id=\"אות_א'\">אות א'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;אות א&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: אות א&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>מעורר הרבי על היחס שבין בחירת ה' בעמו לבין בחירת <a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">עם ישראל</a> ב<a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a>. תמה על ה<a href=\"/index.php/%D7%9E%D7%93%D7%A8%D7%A9\" title=\"מדרש\">מדרש</a> שבעוד עיקר שבחו של <a href=\"/index.php/%D7%90%D7%A9%D7%A8\" title=\"אשר\">אשר</a> הוא על בחירת <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a>,\n</p><p><b>קרבנו</b> - אומר ה<a href=\"/index.php/%D7%9E%D7%93%D7%A8%D7%A9\" title=\"מדרש\">מדרש</a> - היא על שם בחירת <a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a>. כמו כן שואל הרבי על התואר <a href=\"/index.php/%D7%91%D7%97%D7%99%D7%A8%D7%94\" title=\"בחירה\">בחירה</a> שתוכנה בחירה חופשית מבין שני דברים שוים, דבר שלכאורה אינו מתאים ביחס ל<a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">עם ישראל</a> ו<a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a> שאינם בערך לזולתם.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.91.27\"></span><span class=\"mw-headline\" id=\"אות_ב'\">אות ב'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;אות ב&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: אות ב&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>מביא הרבי את המדרש איכה ומקשה על הצורך בפיקחות לבחירה במלך ועל נימוקיו שהמלך אינו מתחלף.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.92.27\"></span><span class=\"mw-headline\" id=\"אות_ג'\">אות ג'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;אות ג&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: אות ג&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>המהלך ראשון בביאור ה\"ויכוח\"; אומות העולם טועים וחושבים כי לגורמי הטבע יש מעלה בהשפעתם או אפילו <a href=\"/index.php/%D7%A9%D7%99%D7%AA%D7%95%D7%A3\" title=\"שיתוף\">בחירה</a> ו<a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%94_%D7%96%D7%A8%D7%94\" title=\"עבודה זרה\">שלטון בטבע</a>, שיטה הגורמת להם לעבוד את גורמי הטבע ולראות בהם את ישועתם. \n</p><p>אולם <a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">עם ישראל</a> מצד שורשם הפנימי יודעים כי אין בהם אף מעלה ושליטה ועובדים רק את <a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הבורא</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.93.27\"></span><span class=\"mw-headline\" id=\"אות_ד'\">אות ד'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;אות ד&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: אות ד&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>על הביאור שבפרק ג' טוען הרבי כי הוא אינו עולה בקנה אחד עם המשל שב<a href=\"/index.php/%D7%9E%D7%93%D7%A8%D7%A9\" title=\"מדרש\">מדרש</a> משום שבמשל הבוחרים בשרים אינם טועים בעוד שלפי המשל הבחירה בגורמי הטבע שורשה בטעות. \n</p><p>המהלך השני; בחירתן של האומות לקבל השפעה מ<a href=\"/index.php/%D7%A7%D7%9C%D7%99%D7%A4%D7%94\" title=\"קליפה\">קליפה</a> היא משום שאינם מעוניינים בעבודה ביגיעה ומעוניינים בהשפעה שאינה מוגבלת לעומת <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> הרוצים לעבוד את המלך בכל מחיר.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.94.27\"></span><span class=\"mw-headline\" id=\"אות_ה'\">אות ה'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;אות ה&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: אות ה&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>המשך הביאור שבאות ד', ביאור נימוקו של הפקח \"דכלהו מתחלפין ומלכא אינו מתחלף\" וביאורו, כי טיעון זה משמש כראיה שחיותן של הקליפת אינו מתאחד עמן ולכן הם מקום המוות, בניגוד לחיות הקדושה שמתאחד עמן ועל ידן מתקשרים עם ה\"מלך\" - <a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.95.27\"></span><span class=\"mw-headline\" id=\"אות_ו'\">אות ו'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=8\" title=\"עריכת פסקה: &quot;אות ו&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=8\" title=\"עריכת קוד המקור של הפרק: אות ו&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>בשלב זה של המאמר מסביר הרבי כי לא ייתכן שבחירתם של ישראל נובע משיטה רציונלית הגיונית בלבד, אלא שרשה בבחירת ה<a href=\"/index.php/%D7%A0%D7%A9%D7%9E%D7%94\" class=\"mw-redirect\" title=\"נשמה\">נשמה</a>, שהתקשרותה עם הבורא היא בחירה עצמית והיא משפיעה על הגיון ו<a href=\"/index.php/%D7%A9%D7%9B%D7%9C\" class=\"mw-redirect\" title=\"שכל\">שכל</a> האדם לבחור באלוקות מטעמים הגיוניים.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.96.27\"></span><span class=\"mw-headline\" id=\"אות_ז'\">אות ז'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=9\" title=\"עריכת פסקה: &quot;אות ז&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=9\" title=\"עריכת קוד המקור של הפרק: אות ז&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>באות זו מבוארת בחירתן של <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> ברמה עמוקה ודקה ביותר מאשר הביאורים שבאותיות ג, ד. בחירתו של הפקח במלך נובעת מרצונו להדבק במלך עצמו, \n</p><p>והיא קיימת גם כשהשרים הינם חלק מעולמות הקדושה והם דרגות גבוהות באלקות הבטלים אליה ומגלים את רוממותה. \n</p><p>בקשר לכך מביא את ביאור <a href=\"/index.php/%D7%94%D7%91%D7%A2%D7%9C_%D7%A9%D7%9D_%D7%98%D7%95%D7%91\" title=\"הבעל שם טוב\">הבעש\"ט</a> על הפסוק: <b>\"תפילה לעני כי יעטוף\"</b> ותוכן תפילתו היא שלא יתפתה להידבק בהיכלות הפאר של המלך אלא <b>\"לפני ה' ישפוך שיחו\"</b>. \n</p><p>כמו כן אות זו מתחילה ביאור מעמיק כהמשך לאות ו', בסוף אות י\"א יתבאר המעלה והיתרון שהבחירה של ה<a href=\"/index.php/%D7%A0%D7%A9%D7%9E%D7%94\" class=\"mw-redirect\" title=\"נשמה\">נשמה</a> נמשכת ב<a href=\"/index.php/%D7%A9%D7%9B%D7%9C\" class=\"mw-redirect\" title=\"שכל\">שכל</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.97.27\"></span><span class=\"mw-headline\" id=\"אות_ח'\">אות ח'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=10\" title=\"עריכת פסקה: &quot;אות ח&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=10\" title=\"עריכת קוד המקור של הפרק: אות ח&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>מקשר את הבחירה במלך למבואר ב<a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA\" title=\"חסידות\">חסידות</a> אודות אהבה מסוג \"מי לי בשמים\" שתוכנה כפתגם שהיה נשמע מ<a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a>: <b>\"איך וויל זע גאָר ניסט איך וויל ניט דאיין ג\"ע איך וויל ניט דאיין עוה\"ב כו' איך וויל מער ניט אַז דיך אַליין\"</b> (תרגום חפשי: איני רוצה מאומה, איני רוצה ב<a href=\"/index.php/%D7%92%D7%9F_%D7%A2%D7%93%D7%9F\" title=\"גן עדן\">גן עדן</a> שלך, איני רוצה את <a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%91%D7%90\" title=\"עולם הבא\">עולם הבא</a> וכיוצא בזה שלך, רוצה אני רק אותך\") \n</p><p>שהחידוש בזה הוא שגן עדן ועולם הבא הם הגילויים הכי עליונים שיש התגלות בתכלית השלימות ולמרות זאת לא רצה בהם אלא רק את הדביקות וההתאחדות המוחלטת ב<a href=\"/index.php/%D7%94%D7%95%D7%99%22%D7%94_(%D7%A9%D7%9D)\" title=\"הוי&quot;ה (שם)\">ה'</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.98.27\"></span><span class=\"mw-headline\" id=\"אות_ט'\">אות ט'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=11\" title=\"עריכת פסקה: &quot;אות ט&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=11\" title=\"עריכת קוד המקור של הפרק: אות ט&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>באות זו מקשר הרבי את כל שלשת הביאורים בדקות הבחירה במלך עצמו היא סייג שלא ליפול בבחירה בכוכבים ומזלות משום שהבחירה ב<a href=\"/index.php/%D7%92%D7%9F_%D7%A2%D7%93%D7%9F\" title=\"גן עדן\">גן עדן</a> וכיוצא בזה מאופיינת בכך שהאדם מעוניין להדבק ב<a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">בורא</a> \n</p><p>באופן שישאר במציאותו ו\"יקבל\" ולא להתבטל בתכלית שבריבוי ההשתלשלות ירצה לקבל ללא חילוק אם ההשפעה באה מהקדושה או ממקום המוות (הביאור שבפרקים ד, ה) \n</p><p>פרט נוסף שבבחירה ב<a href=\"/index.php/%D7%92%D7%9F_%D7%A2%D7%93%D7%9F\" title=\"גן עדן\">גן עדן</a> הוא שיש חשיבות למציאות מחוץ ל<a href=\"/index.php/%D7%A2%D7%A6%D7%9E%D7%95%D7%AA%D7%95\" class=\"mw-redirect\" title=\"עצמותו\">עצמותו</a> שבריבוי ההשתלשלות ייתכן כי יתן חשיבות למציאות בעולם כמו שמש וירח וגורמי ה<a href=\"/index.php/%D7%98%D7%91%D7%A2\" title=\"טבע\">טבע</a>.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.99.27\"></span><span class=\"mw-headline\" id=\"אות_י'\">אות י'</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=12\" title=\"עריכת פסקה: &quot;אות י&#039;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=12\" title=\"עריכת קוד המקור של הפרק: אות י&#039;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>מבאר כי בכל הביאורים ישנה מאפיין בסיסי אחד - חסרון בזיהוי בדבר אמצעי וטפל כאמצעי, גורמי הטבע הינם רק ממוצעים שעל ידן תימשך ההשפעה, הנותן להם ערך אינו מבחין בכך וחשבן לעיקר, ההשפעות הגשמיות הם לצורך עבודת הבורא.\n</p><p>כך גם כל הגילויים גם הכי עליונים, הם למען השלמת הכוונה העליונה והנותן לאיזשהו עניין ערך וחשיבות הרי הוא חוטא למטרתן ודבר שהוא אמצעי בלבד, מחשיבו לעיקר.\n</p><p>אומות העולם שרשם בחיצוניות הרצון אלא שאינו נרגש בהם לכן אין להם את ה\"חוש\" להרגיש בדבר אמצעי שאינו עיקר, אבל ישראל שרשם ב<a href=\"/index.php/%D7%A4%D7%A0%D7%99%D7%9E%D7%99%D7%95%D7%AA_%D7%94%D7%A8%D7%A6%D7%95%D7%9F\" class=\"mw-redirect\" title=\"פנימיות הרצון\">פנימיות הרצון</a> יש להם את ה\"חוש\" והפקחות להרגיש בדבר אמצעי, שהוא אינו עיקר אלא רק שבאמצעותו ועל ידו נמשך ונפעל העניין.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.99.22.D7.90\"></span><span class=\"mw-headline\" id=\"אות_י&quot;א\">אות י\"א</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=13\" title=\"עריכת פסקה: &quot;אות י&quot;א&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=13\" title=\"עריכת קוד המקור של הפרק: אות י&quot;א\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>על פי המבואר באות י' ש<a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">עם ישראל</a> שרשם ב<a href=\"/index.php/%D7%A4%D7%A0%D7%99%D7%9E%D7%99%D7%95%D7%AA_%D7%94%D7%A8%D7%A6%D7%95%D7%9F\" class=\"mw-redirect\" title=\"פנימיות הרצון\">פנימיות הרצון</a> מבאר כי בשל כך יש יתרון בבחירה כשהיא נובעת מצד השכל, היות וה<a href=\"/index.php/%D7%A9%D7%9B%D7%9C\" class=\"mw-redirect\" title=\"שכל\">שכל</a> הוא כח <a href=\"/index.php/%D7%A4%D7%A0%D7%99%D7%9E%D7%99\" class=\"mw-redirect\" title=\"פנימי\">פנימי</a> לעומת ה<a href=\"/index.php/%D7%A8%D7%A6%D7%95%D7%9F\" title=\"רצון\">רצון</a> שהוא כח <a href=\"/index.php/%D7%9E%D7%A7%D7%99%D7%A3\" class=\"mw-redirect\" title=\"מקיף\">מקיף</a> ושורש הפנימי הוא בפנימיות הרצון ולכן דווקא בעת שהבחירה נובעת מכח פנימי ולא ממקיף גרידה, מתגלית ב<a href=\"/index.php/%D7%A0%D7%A9%D7%9E%D7%94\" class=\"mw-redirect\" title=\"נשמה\">נשמה</a> הבחירה כפי שהיא מצד פנימיות המקיף.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.99.22.D7.91\"></span><span class=\"mw-headline\" id=\"אות_י&quot;ב\">אות י\"ב</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=14\" title=\"עריכת פסקה: &quot;אות י&quot;ב&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=14\" title=\"עריכת קוד המקור של הפרק: אות י&quot;ב\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>מקשר את הביאור למזמור התהלים <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A2%22%D7%90\" title=\"תהלים ע&quot;א\">פרק ע\"א</a> \"למנצח לדוד להזכיר\" - משל למלך שהיה לו רועה צאן וכשכעס גירש את הצאן ואת הדיר. לאחר מכן כינס שוב את הצאן ולא הזכיר את הרועה, \n</p><p>שהביאור בזה הוא שייתכן כי ישוב הרצון ל<a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> ויכנס את הדיר אבל \"הרועה\" שעניינו המשכה פנימית לא יהיה נזכר וצריך התעוררות מיוחדת.\n</p>\n<h3><span id=\".D7.90.D7.95.D7.AA_.D7.99.22.D7.92\"></span><span class=\"mw-headline\" id=\"אות_י&quot;ג\">אות י\"ג</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=15\" title=\"עריכת פסקה: &quot;אות י&quot;ג&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=15\" title=\"עריכת קוד המקור של הפרק: אות י&quot;ג\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p><b>סיום המאמר</b>: מבאר כי עיקר המעלה היא בחירת <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> אלא שכפי המבואר במאמר (אות י\"א) היא מושפעת מבחירתו העצמית של <a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a> בהם בפנימיות הרצון לפיכך כשבא נשיא אשר לחזק את בחירתן של <a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"בני ישראל\">ישראל</a> הקריב על שם הבחירה של <a href=\"/index.php/%D7%94%D7%A7%D7%91%22%D7%94\" class=\"mw-redirect\" title=\"הקב&quot;ה\">הקב\"ה</a>, ומבאר כי בכחו של כל <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%93%D7%99\" class=\"mw-redirect\" title=\"יהודי\">יהודי</a> לפעול מעין אמירתו של ה<a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a> שכל רצונותיו יהיו בלא לב ולב ועיקר רצונו יהיה לעשות <a href=\"/index.php/%D7%93%D7%99%D7%A8%D7%94_%D7%91%D7%AA%D7%97%D7%AA%D7%95%D7%A0%D7%99%D7%9D\" title=\"דירה בתחתונים\">דירה בתחתונים</a>.\n</p>\n<h2><span id=\".D7.A8.D7.90.D7.95_.D7.92.D7.9D\"></span><span class=\"mw-headline\" id=\"ראו_גם\">ראו גם</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=16\" title=\"עריכת פסקה: &quot;ראו גם&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=16\" title=\"עריכת קוד המקור של הפרק: ראו גם\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%91%D7%97%D7%99%D7%A8%D7%AA%D7%95_%D7%A9%D7%9C_%D7%94%D7%A4%D7%99%D7%A7%D7%97\" class=\"mw-redirect\" title=\"בחירתו של הפיקח\">בחירתו של הפיקח</a></li>\n<li><a href=\"/index.php/%D7%91%D7%90%D7%AA%D7%99_%D7%9C%D7%92%D7%A0%D7%99\" title=\"באתי לגני\">באתי לגני</a></li>\n<li><a href=\"/index.php/%D7%95%D7%90%D7%AA%D7%94_%D7%AA%D7%A6%D7%95%D7%94\" class=\"mw-redirect\" title=\"ואתה תצוה\">ואתה תצוה</a></li></ul>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=17\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=17\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%92%D7%99%D7%A0%D7%96%D7%91%D7%95%D7%A8%D7%92\" title=\"חיים לוי יצחק גינזבורג\">חיים לוי יצחק גינזבורג</a>, \"בחירתו של הפקח\" בהוצאת \"ופרצת\".</li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;veaction=edit&amp;section=18\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90&amp;action=edit&amp;section=18\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>\"<a rel=\"nofollow\" class=\"external text\" href=\"https://he.chabad.org/library/article_cdo/aid/3140126\">מאמר ביום עשתי עשר תשל\"א</a>\", באתר \"<a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%97%D7%91%22%D7%93_(%D7%90%D7%AA%D7%A8)\" class=\"mw-redirect\" title=\"בית חב&quot;ד (אתר)\">בית חב\"ד</a>\"</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://www.mafteiach.app/all/5731-07-11\">מוצאי י\"א ניסן (בין מנחה למעריב) - תשל\"א</a>, באתר אפילקציית \"<a href=\"/index.php/%D7%9E%D7%A4%D7%AA%D7%97\" title=\"מפתח\">מפתח</a>\"</li></ul>\n<dl><dt>ביאורים</dt></dl>\n<ul><li>הרב מנחם מענדל אשכנזי, <b><a rel=\"nofollow\" class=\"external text\" href=\"http://files.org.il/BRPortalStorage/a/2/17/12/02-0VgrhYXGjW.pdf\">ביום עשתי עשר יום תשל\"א מבואר</a></b>, באתר <a rel=\"nofollow\" class=\"external text\" href=\"http://biurim.022.co.il/BRPortal/br/P102.jsp?arc=148669\">ביאורים במאמרי רבינו</a>.<span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span></li>\n<li>הרב <a href=\"/index.php/%D7%99%D7%95%D7%90%D7%9C_%D7%9B%D7%94%D7%9F\" title=\"יואל כהן\">יואל כהן</a>, <b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=15019&amp;st=&amp;pgnum=1125&amp;hilite=\">\"הנהגה ניסית והנהגה טבעית\"</a></b> עיון בסוף פרק ג במאמר ביום עשתי עשר תשל\"א, בהערות וביאורים תשנ\"ז (פרשת בהר-ל\"ג בעומר) עמוד 43.</li>\n<li>הרב <a href=\"/index.php/%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%97%D7%A0%D7%95%D7%9A_%D7%92%D7%90%D7%9C%D7%90%D7%9E%D7%91\" class=\"mw-redirect\" title=\"מיכאל חנוך גאלאמב\">מיכאל חנוך גאלאמב</a>, <b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=29587&amp;st=&amp;pgnum=14\">\"מלכא לא מתחלף\"</a></b> - עיונים במאמר ביום עשתי עשר תשל\"א, גליון הערות וביאורים - אהלי תורה, י\"א ניסן תשנ\"ג.</li></ul>\n<!-- \nNewPP limit report\nCached time: 20260413035345\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.066 seconds\nReal time usage: 0.198 seconds\nPreprocessor visited node count: 296/1000000\nPost‐expand include size: 12578/2097152 bytes\nTemplate argument size: 2076/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.020/7 seconds\nLua virtual size: 5345280/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  150.097      1 -total\n 85.83%  128.829      2 תבנית:ציטוט\n  9.29%   13.938      1 תבנית:מאמרי_רבותינו_נשיאינו\n  5.40%    8.106     36 תבנית:*\n  4.61%    6.917      1 תבנית:PDF\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:42100-0!canonical and timestamp 20260413035345 and revision id 837779. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "תורת_החסידות"
+      },
+      {
+        "sortkey": "",
+        "*": "מאמרי_אדמו\"ר_שליט\"א"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ציטוט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אומות העולם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחת שאלתי (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "איתא במדרש תילים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אל תצר את מואב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנכי ה' אלוקיך תשמ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אשר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אשרי תבחר תשט\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "באתי לגני"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בחירה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בחירתו של הפיקח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביכלאך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית חב\"ד (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בלתי מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בני ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בשעה שהקדימו תער\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גדול יהיה תשכ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גן עדן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דיבור המתחיל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דירה בתחתונים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דער פרומער וארא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "האמנם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הבעל שם טוב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הוי\"ה (שם)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "החודש הזה תשמ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "החלצו תרנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך והחרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך וככה תרל\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך יום טוב של ראש השנה תרס\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך מים רבים תרל\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך רנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך שמח תשמח תרנ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך תשרי תשכ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הקב\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הקדוש ברוך הוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ואתה תצוה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "והדרת פני זקן (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וידעת תרנ\"ז - מוסקבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ויהי חיי שרה תנש”א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וקבל היהודים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ושבתי בשלום תשל\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים לוי יצחק גינזבורג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "טבע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"א בניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהודי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יואל כהן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כי ישאלך בנך תשל\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כתב יד דא\"ח ישן לא נודע למי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לא תהיה משכלה תשי\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר 'ושאבתם מים בששון'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר חסידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מדרש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מיכאל חנוך גאלאמב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מפתח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מקיף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרגלא בפומיה דרבא (מאמר חסידות)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניגון הכנה למאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודה זרה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם הבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עם ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עצמותו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פורים תשי\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פנימי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פנימיות הרצון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס פורים קטן - תשנ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס ר\"ח כסלו - תשנ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קליפה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ראשית גוים עמלק (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבותינו נשיאנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רצון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיתוף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שכל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלים ע\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשל\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ט"
+      },
+      {
+        "ns": 0,
+        "*": "יאיר נתיב (מושג)"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "המאמר עליו הוא מיוסד",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 770,
+        "anchor": "המאמר_עליו_הוא_מיוסד",
+        "linkAnchor": "המאמר_עליו_הוא_מיוסד"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תוכן המאמר",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 2297,
+        "anchor": "תוכן_המאמר",
+        "linkAnchor": "תוכן_המאמר"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות א'",
+        "number": "2.1",
+        "index": "3",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 2504,
+        "anchor": "אות_א'",
+        "linkAnchor": "אות_א'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ב'",
+        "number": "2.2",
+        "index": "4",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 2878,
+        "anchor": "אות_ב'",
+        "linkAnchor": "אות_ב'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ג'",
+        "number": "2.3",
+        "index": "5",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 2981,
+        "anchor": "אות_ג'",
+        "linkAnchor": "אות_ג'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ד'",
+        "number": "2.4",
+        "index": "6",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 3292,
+        "anchor": "אות_ד'",
+        "linkAnchor": "אות_ד'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ה'",
+        "number": "2.5",
+        "index": "7",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 3643,
+        "anchor": "אות_ה'",
+        "linkAnchor": "אות_ה'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ו'",
+        "number": "2.6",
+        "index": "8",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 3887,
+        "anchor": "אות_ו'",
+        "linkAnchor": "אות_ו'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ז'",
+        "number": "2.7",
+        "index": "9",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 4119,
+        "anchor": "אות_ז'",
+        "linkAnchor": "אות_ז'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ח'",
+        "number": "2.8",
+        "index": "10",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 4675,
+        "anchor": "אות_ח'",
+        "linkAnchor": "אות_ח'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות ט'",
+        "number": "2.9",
+        "index": "11",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 5195,
+        "anchor": "אות_ט'",
+        "linkAnchor": "אות_ט'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות י'",
+        "number": "2.10",
+        "index": "12",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 5695,
+        "anchor": "אות_י'",
+        "linkAnchor": "אות_י'"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות י\"א",
+        "number": "2.11",
+        "index": "13",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 6315,
+        "anchor": "אות_י\"א",
+        "linkAnchor": "אות_י\"א"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות י\"ב",
+        "number": "2.12",
+        "index": "14",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 6648,
+        "anchor": "אות_י\"ב",
+        "linkAnchor": "אות_י\"ב"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "אות י\"ג",
+        "number": "2.13",
+        "index": "15",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 6981,
+        "anchor": "אות_י\"ג",
+        "linkAnchor": "אות_י\"ג"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ראו גם",
+        "number": "3",
+        "index": "16",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 7383,
+        "anchor": "ראו_גם",
+        "linkAnchor": "ראו_גם"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "4",
+        "index": "17",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 7446,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "5",
+        "index": "18",
+        "fromtitle": "ביום_עשתי_עשר_תשל\"א",
+        "byteoffset": 7531,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

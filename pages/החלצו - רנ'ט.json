@@ -1,0 +1,909 @@
+{
+  "parse": {
+    "title": "החלצו - רנ\"ט",
+    "pageid": 25535,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #339999; background-color: #cceeee; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #339999;\"><font size=\"4\"><a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">מאמרי</a> <a href=\"/index.php/%D7%A8%D7%91%D7%95%D7%AA%D7%99%D7%A0%D7%95_%D7%A0%D7%A9%D7%99%D7%90%D7%A0%D7%95\" class=\"mw-redirect\" title=\"רבותינו נשיאנו\">רבותינו נשיאנו</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%94%D7%90%D7%9E%D7%A0%D7%9D\" title=\"האמנם\">האמנם</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%93%D7%A2%D7%A8_%D7%A4%D7%A8%D7%95%D7%9E%D7%A2%D7%A8_%D7%95%D7%90%D7%A8%D7%90\" title=\"דער פרומער וארא\">דער פרומער וארא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%9C_%D7%AA%D7%A6%D7%A8_%D7%90%D7%AA_%D7%9E%D7%95%D7%90%D7%91\" title=\"אל תצר את מואב\">אל תצר את מואב</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%99%D7%AA%D7%90_%D7%91%D7%9E%D7%93%D7%A8%D7%A9_%D7%AA%D7%99%D7%9C%D7%99%D7%9D\" title=\"איתא במדרש תילים\">איתא במדרש תילים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%94%D7%93%D7%A8%D7%AA_%D7%A4%D7%A0%D7%99_%D7%96%D7%A7%D7%9F_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"והדרת פני זקן (מאמר)\">והדרת פני זקן</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9B%D7%AA%D7%91_%D7%99%D7%93_%D7%93%D7%90%22%D7%97_%D7%99%D7%A9%D7%9F_%D7%9C%D7%90_%D7%A0%D7%95%D7%93%D7%A2_%D7%9C%D7%9E%D7%99\" title=\"כתב יד דא&quot;ח ישן לא נודע למי\">כתב יד דא\"ח ישן לא נודע למי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%90%D7%AA%D7%99_%D7%9C%D7%92%D7%A0%D7%99\" title=\"באתי לגני\">באתי לגני</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8_%27%D7%95%D7%A9%D7%90%D7%91%D7%AA%D7%9D_%D7%9E%D7%99%D7%9D_%D7%91%D7%A9%D7%A9%D7%95%D7%9F%27\" title=\"מאמר &#39;ושאבתם מים בששון&#39;\">ושאבתם מים בששון</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%99%D7%93%D7%A2%D7%AA_%D7%AA%D7%A8%D7%A0%22%D7%96_-_%D7%9E%D7%95%D7%A1%D7%A7%D7%91%D7%94\" title=\"וידעת תרנ&quot;ז - מוסקבה\">וידעת תרנ\"ז - מוסקבה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%97%D7%9C%D7%A6%D7%95_%D7%AA%D7%A8%D7%A0%22%D7%98\" class=\"mw-redirect\" title=\"החלצו תרנ&quot;ט\">החלצו תרנ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%97%D7%AA_%D7%A9%D7%90%D7%9C%D7%AA%D7%99_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"אחת שאלתי (מאמר)\">אחת שאלתי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%A7%D7%91%D7%9C_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D\" title=\"וקבל היהודים\">וקבל היהודים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A8%D7%90%D7%A9%D7%99%D7%AA_%D7%92%D7%95%D7%99%D7%9D_%D7%A2%D7%9E%D7%9C%D7%A7_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"ראשית גוים עמלק (מאמר)\">ראשית גוים עמלק</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\"><a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">מאמרי</a> <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%90%D7%A9%D7%A8%D7%99_%D7%AA%D7%91%D7%97%D7%A8_%D7%AA%D7%A9%D7%98%22%D7%96\" title=\"אשרי תבחר תשט&quot;ז\">אשרי תבחר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%95%D7%9D_%D7%A2%D7%A9%D7%AA%D7%99_%D7%A2%D7%A9%D7%A8_%D7%AA%D7%A9%D7%9C%22%D7%90\" title=\"ביום עשתי עשר תשל&quot;א\">ביום עשתי עשר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%92%D7%93%D7%95%D7%9C_%D7%99%D7%94%D7%99%D7%94_%D7%AA%D7%A9%D7%9B%22%D7%91\" title=\"גדול יהיה תשכ&quot;ב\">גדול יהיה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%A9%D7%91%D7%AA%D7%99_%D7%91%D7%A9%D7%9C%D7%95%D7%9D_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"ושבתי בשלום תשל&quot;ח\">ושבתי בשלום</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9B%D7%99_%D7%99%D7%A9%D7%90%D7%9C%D7%9A_%D7%91%D7%A0%D7%9A_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"כי ישאלך בנך תשל&quot;ח\">כי ישאלך בנך</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9C%D7%90_%D7%AA%D7%94%D7%99%D7%94_%D7%9E%D7%A9%D7%9B%D7%9C%D7%94_%D7%AA%D7%A9%D7%99%22%D7%91\" title=\"לא תהיה משכלה תשי&quot;ב\">לא תהיה משכלה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A7%D7%98%D7%9F_-_%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"קונטרס פורים קטן - תשנ&quot;ב\">ואתה תצווה את בני ישראל</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%AA%D7%A9%D7%99%22%D7%92\" title=\"פורים תשי&quot;ג\">על כן קראו הימים האלה ימי הפורים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A8%22%D7%97_%D7%9B%D7%A1%D7%9C%D7%95_-_%D7%AA%D7%A9%D7%A0%22%D7%92\" title=\"קונטרס ר&quot;ח כסלו - תשנ&quot;ג\">בורא ניב שפתיים תשמ\"ח</a>  <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%97%D7%95%D7%93%D7%A9_%D7%94%D7%96%D7%94_%D7%AA%D7%A9%D7%9E%22%D7%96\" title=\"החודש הזה תשמ&quot;ז\">החודש הזה תשמ\"ז</a>  <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%A0%D7%9B%D7%99_%D7%94%27_%D7%90%D7%9C%D7%95%D7%A7%D7%99%D7%9A_%D7%AA%D7%A9%D7%9E%22%D7%98\" title=\"אנכי ה&#39; אלוקיך תשמ&quot;ט\">אנכי ה' אלוקיך תשמ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%99%D7%94%D7%99_%D7%97%D7%99%D7%99_%D7%A9%D7%A8%D7%94_%D7%AA%D7%A0%D7%A9%E2%80%9D%D7%90\" class=\"mw-redirect\" title=\"ויהי חיי שרה תנש”א\">ויהי חיי שרה תנש”א</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A8%D7%92%D7%9C%D7%90_%D7%91%D7%A4%D7%95%D7%9E%D7%99%D7%94_%D7%93%D7%A8%D7%91%D7%90_(%D7%9E%D7%90%D7%9E%D7%A8_%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA)\" class=\"mw-redirect\" title=\"מרגלא בפומיה דרבא (מאמר חסידות)\">מרגלא בפומיה דרבא תשמ\"ו</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\"><a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A\" title=\"המשך\">המשכים</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%9E%D7%99%D7%9D_%D7%A8%D7%91%D7%99%D7%9D_%D7%AA%D7%A8%D7%9C%22%D7%95\" title=\"המשך מים רבים תרל&quot;ו\">המשך מים רבים תרל\"ו</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%95%D7%94%D7%97%D7%A8%D7%99%D7%9D\" title=\"המשך והחרים\">המשך והחרים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%95%D7%9B%D7%9B%D7%94_%D7%AA%D7%A8%D7%9C%22%D7%96\" title=\"המשך וככה תרל&quot;ז\">המשך וככה תרל\"ז</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%A9%D7%9E%D7%97_%D7%AA%D7%A9%D7%9E%D7%97_%D7%AA%D7%A8%D7%A0%22%D7%96\" title=\"המשך שמח תשמח תרנ&quot;ז\">המשך שמח תשמח תרנ\"ז</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%A8%D7%A0%22%D7%98\" class=\"mw-redirect\" title=\"המשך רנ&quot;ט\">המשך רנ\"ט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%99%D7%95%D7%9D_%D7%98%D7%95%D7%91_%D7%A9%D7%9C_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94_%D7%AA%D7%A8%D7%A1%22%D7%95\" title=\"המשך יום טוב של ראש השנה תרס&quot;ו\">המשך תרס\"ו</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%A9%D7%A2%D7%94_%D7%A9%D7%94%D7%A7%D7%93%D7%99%D7%9E%D7%95_%D7%AA%D7%A2%D7%A8%22%D7%91\" title=\"בשעה שהקדימו תער&quot;ב\">המשך תער\"ב</a> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%AA%D7%A9%D7%A8%D7%99_%D7%AA%D7%A9%D7%9B%22%D7%92\" title=\"המשך תשרי תשכ&quot;ג\">המשך תשרי תשכ\"ג</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\">מושגים</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A0%D7%99%D7%92%D7%95%D7%9F_%D7%94%D7%9B%D7%A0%D7%94_%D7%9C%D7%9E%D7%90%D7%9E%D7%A8\" class=\"mw-redirect\" title=\"ניגון הכנה למאמר\">ניגון הכנה למאמר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%93%D7%99%D7%91%D7%95%D7%A8_%D7%94%D7%9E%D7%AA%D7%97%D7%99%D7%9C\" title=\"דיבור המתחיל\">דיבור המתחיל</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php?title=%D7%99%D7%90%D7%99%D7%A8_%D7%A0%D7%AA%D7%99%D7%91_(%D7%9E%D7%95%D7%A9%D7%92)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"יאיר נתיב (מושג) (הדף אינו קיים)\">יאיר נתיב</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%9B%D7%9C%D7%90%D7%9A\" title=\"ביכלאך\">ביכלאך</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%9C%D7%AA%D7%99_%D7%9E%D7%95%D7%92%D7%94\" title=\"בלתי מוגה\">בלתי מוגה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%95%D7%92%D7%94\" title=\"מוגה\">מוגה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A\" title=\"המשך\">המשך</a>\n</td></tr>\n</tbody></table>\n<p>ה<a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8_%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA\" class=\"mw-redirect\" title=\"מאמר חסידות\">מאמר חסידות</a> <b>החלצו תרנ\"ט</b> נאמר על ידי <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91\" class=\"mw-redirect\" title=\"אדמו&quot;ר הרש&quot;ב\">אדמו\"ר הרש\"ב</a><sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup> ומתחיל בפסוק 'החלצו מאתכם אנשים לצבא'<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">&#91;</span>2<span class=\"cite-bracket\">&#93;</span></a></sup>. את המאמר אמר הרבי הרש\"ב פעמיים, בעקבות שני מאורעות. הפעם השניה הייתה בביתו של <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a>, ב<a href=\"/index.php/%D7%A9%D7%91%D7%AA\" title=\"שבת\">שבת</a> פרשת <a href=\"/index.php/%D7%A0%D7%97\" title=\"נח\">נח</a> תרנ\"ט. אמירת המאמר הייתה עד סעיף כ\"ף, ועל פי הוראת אדמו\"ר הריי\"צ בשנת תש\"ט - מסעיף כא עד הסוף העתיק <a href=\"/index.php/%D7%A8%D7%91%D7%99_%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F_(%D7%9B%22%D7%A7_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90)\" title=\"רבי מנחם מענדל שניאורסון (כ&quot;ק אדמו&quot;ר שליט&quot;א)\">הרבי</a> מ<a href=\"/index.php/%D7%92%D7%95%D7%A3_%D7%9B%D7%AA%D7%91_%D7%99%D7%93_%D7%A7%D7%95%D7%93%D7%A9\" title=\"גוף כתב יד קודש\">גוף כתי\"ק</a> והדפיס.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.94.D7.A8.D7.A7.D7.A2_.D7.9C.D7.90.D7.9E.D7.99.D7.A8.D7.AA_.D7.94.D7.9E.D7.90.D7.9E.D7.A8\"></span><span class=\"mw-headline\" id=\"הרקע_לאמירת_המאמר\">הרקע לאמירת המאמר</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;הרקע לאמירת המאמר&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: הרקע לאמירת המאמר\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>המאמר מיוסד על מאמרו של <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a> ב<a href=\"/index.php/%D7%9C%D7%A7%D7%95%D7%98%D7%99_%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"לקוטי תורה\">לקוטי תורה</a>, דיבור המתחיל \"ראשונים שנתגלה עוונם\". מאמר זה נאמר בשנת <a href=\"/index.php/%D7%AA%D7%A7%D7%9B%22%D7%94\" title=\"תקכ&quot;ה\">תקכ\"ה</a>, כאשר אדמו\"ר הזקן חזר מביקור ב<a href=\"/index.php/%D7%9E%D7%A2%D7%96%D7%A8%D7%99%D7%98%D7%A9\" class=\"mw-redirect\" title=\"מעזריטש\">מעזריטש</a> ועבר דרך העיירה <a href=\"/index.php/%D7%A1%D7%9E%D7%A8%D7%92%D7%95%D7%9F\" title=\"סמרגון\">סמרגון</a>, שבה התחוללה באותה תקופה מחלוקת חריפה בין תושביה. הוויכוח נסב סביב מינוי רב לעיר – מאחר שתושביה, שהיו בוגרי ישיבה ולמדנים גדולים, היו חלוקים בדעותיהם ולא הצליחו להסכים על מועמד מוסכם. בתגובה למצב זה, אמר אדמו\"ר הזקן את המאמר הנ\"ל, אשר ממנו לקח אדמו\"ר הרש\"ב את היסודות למאמר \"החלצו\"<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">&#91;</span>3<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>הפעם הראשונה בה נאמר המאמר, הייתה בעקבות מקרה שראה <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91\" class=\"mw-redirect\" title=\"אדמו&quot;ר הרש&quot;ב\">אדמו\"ר הרש\"ב</a> בעת <a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA_%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%AA\" title=\"התוועדות חסידית\">התוועדות חסידית</a>, כאשר חסיד מזג לחברו '<a href=\"/index.php/%D7%9E%D7%A9%D7%A7%D7%94\" title=\"משקה\">משקה</a>' בכוס שקודם לכן שתה ממנה אחר, נטל הלה את הכוס ורק לאחר שטיפה שתה ממנה. אדמו\"ר הרש\"ב הקפיד על כך, ובעקבות זאת אמר את המאמר<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">&#91;</span>4<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>מספר שבועות אחר-כך, ב<a href=\"/index.php/%D7%A9%D7%91%D7%AA\" title=\"שבת\">שבת</a> פרשת <a href=\"/index.php/%D7%A0%D7%97\" title=\"נח\">נח</a> <a href=\"/index.php/%D7%AA%D7%A8%D7%A0%22%D7%98\" title=\"תרנ&quot;ט\">תרנ\"ט</a>, נכנס הרבי הרש\"ב לביתו של <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"הרבי הריי&quot;צ\">הרבי הריי\"צ</a> בעת <a href=\"/index.php/%D7%A1%D7%A2%D7%95%D7%93%D7%AA_%D7%A9%D7%91%D7%AA\" title=\"סעודת שבת\">סעודת השבת</a>, ואמר את המאמר בפעם השניה.\nבסעודה נכח באותה עת רבי <a href=\"/index.php?title=%D7%9C%D7%99%D7%99%D7%91_%D7%9E%D7%95%D7%95%D7%A2%D7%9C%D7%99%D7%96&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"לייב מוועליז (הדף אינו קיים)\">לייב מוועליז</a> שהיה <a href=\"/index.php/%D7%99%D7%A8%D7%90_%D7%A9%D7%9E%D7%99%D7%9D\" class=\"mw-redirect\" title=\"ירא שמים\">ירא שמים</a> גדול, נטול פניות אישיות, אבל אדם קשה, בלי רחמנות, ובייחוד התייחס בביטול רב לאנשים פשוטים. בוועליז הייתה אז <a href=\"/index.php/%D7%9E%D7%97%D7%9C%D7%95%D7%A7%D7%AA\" title=\"מחלוקת\">מחלוקת</a> גדולה, ורבי לייב התנהג באותה מחלוקת בנוקשות רבה<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">&#91;</span>5<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p>\n<h2><span id=\".D7.AA.D7.95.D7.9B.D7.9F_.D7.94.D7.9E.D7.90.D7.9E.D7.A8\"></span><span class=\"mw-headline\" id=\"תוכן_המאמר\">תוכן המאמר</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;תוכן המאמר&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: תוכן המאמר\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>במאמר מסביר הרבי הרש\"ב באריכות את מהותה של <a href=\"/index.php/%D7%A9%D7%A0%D7%90%D7%AA_%D7%97%D7%99%D7%A0%D7%9D\" class=\"mw-redirect\" title=\"שנאת חינם\">שנאת חינם</a>:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>שנאת-חינם היא, שאחד שונא את חברו סתם כך, על לא-דבר. לפעמים הוא ממציא טענה כלשהי, מדוע הוא שונאו, אבל אין זו אלא תואנה ועלילה להצדיק את שנאתו. הסיבה האמיתית היא - ישותו העצמית, שאינה מניחה מקום לזולתו. חשוב הוא בעיני עצמו, ולכן הזולת ממעט את מציאותו.\n</p>\n</div>\n<div style=\"text-align:left;border-top: 1px dotted #ccc;\">— <cite style=\"font-size:small; font-style: normal;\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91)\" title=\"ספר המאמרים (אדמו&quot;ר הרש&quot;ב)\">ספר המאמרים</a>, <a href=\"/index.php/%D7%AA%D7%A8%D7%A0%22%D7%98\" title=\"תרנ&quot;ט\">תרנ\"ט</a> עמוד נו</cite></div>\n </blockquote>\n<p>בהמשך אומר הרבי ששנאת חינם נפוצה ביותר בין <a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%A9%D7%9D\" title=\"עבודת השם\">עובדי ה</a>':\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>כל אחד בונה במה לעצמו, בתורה ובעבודה, על-פי דעתו ושכלו דווקא, ואין אחד מתאחד ומתחבר עם רעהו. כל אחד מבטל את הטוב שבעבודת חברו, וכל חיסרון שימצא בה - יגדיל וירחיב עשרת מונים (אף אם אינו אלא חיצוני, שאינו נוגע בגוף ובעצם עבודתו). התנהגות זו מעידה ששונא הוא את חברו בליבו ואינו חפץ כלל בטובתו. ומהי הסיבה לשנאה זו? ישותו והרגשת עצמו, או בלשון אחרת: העדר הביטול והעדר הנחת עצמותו\n</p>\n</div>\n<div style=\"text-align:left;border-top: 1px dotted #ccc;\">— <cite style=\"font-size:small; font-style: normal;\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_(%D7%A8%D7%A9%22%D7%91)\" class=\"mw-redirect\" title=\"ספר המאמרים (רש&quot;ב)\">ספר המאמרים</a>, <a href=\"/index.php/%D7%AA%D7%A8%D7%A0%22%D7%98\" title=\"תרנ&quot;ט\">תרנ\"ט</a> עמוד סא</cite></div>\n </blockquote>\n<h2><span id=\".D7.9C.D7.99.D7.9E.D7.95.D7.93.D7.95_.D7.91.D7.A2.D7.AA_.D7.9E.D7.97.D7.9C.D7.95.D7.A7.D7.AA\"></span><span class=\"mw-headline\" id=\"לימודו_בעת_מחלוקת\">לימודו בעת מחלוקת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;לימודו בעת מחלוקת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: לימודו בעת מחלוקת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בט\"ו <a href=\"/index.php/%D7%90%D7%99%D7%99%D7%A8\" class=\"mw-redirect\" title=\"אייר\">אייר</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9B%22%D7%97\" title=\"תשכ&quot;ח\">תשכ\"ח</a> כתב הרבי לרבו של כפר חב\"ד, הרב <a href=\"/index.php/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%92%D7%A8%D7%9C%D7%99%D7%A7\" title=\"שניאור זלמן גרליק\">שניאור זלמן גרליק</a>:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>לצערי הכי גדול, בנוגע לכפר חב\"ד אשר השנה נעשה בן עשרים לכח, לא זכיתי להתבשר עד עתה על דבר קירוב הלבבות, או על כל פנים שאין המצב פוחת בזה, כי אם חדשים לבקרים מתקבלות ידיעות שנתוסף פירוד בנוגע לענין פלוני, מתחילה מחלוקת בנוגע לבעי' פלונית, ותיכף ומיד מתחלקים התושבים לשני צדדים או שלשה צדדים ויותר, וכמובן שנמשכים לזה האנשים והנשים גם יחד, ולפעמים גם הבנים והבנות, והתוצאות מובנות. ואם בזמן הרגיל כך, על אחת כמה וכמה בסמיכות לבחירות ממשמשות ובאות.\n</p><p>.. כיון שבכל ענין אמרו (זח\"ב קסא, ב ובכ\"מ) חכמינו דמה קודשא בריך הוא אסתכל באורייתא וברא עלמא, כך בר נש עסק באורייתא ומתקן עלמא, כדאי שיקבעו לימוד בכל בתי הכנסיות בכפר חב\"ד - ואשר ישתתפו בלימוד זה פשיטא - אלה העומדים בראש הצדדים החלוקים איש על רעהו וגם כל אלה ההולכים בעקבותיהם - לימוד השייך בנידון דידן, בקונטרס החלצו, אשר בוודאי מצוי הוא, כיון שנדפס כאן בהוספת מאמר כ\"ק מו\"ח אדמו\"ר בזה. ובאם צורך בזה, הרי יוכלו להדפיסו בהקדם (על ידי פוטוסטאַט) מקונטרס שנדפס מאז, ובלבד שיתחילו בהקדם בלימודו, לימוד אליבא דנפשא, לימוד המביא לידי מעשה, אשר יחלצו כל הנ\"ל וכל תושבי <a href=\"/index.php/%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93\" title=\"כפר חב&quot;ד\">כפר חב\"ד</a> לנקום נקמת הוי' במדין, וכפירוש רבנו הזקן בזה, ונשיאי חב\"ד ממלאי מקומו ועד לנשיא דורנו כ\"ק מו\"ח אדמו\"ר.\n</p>\n</div>\n </blockquote>\n<h2><span id=\".D7.97.D7.9C.D7.95.D7.A7.D7.AA.D7.95_.D7.A2.D7.9C_.D7.99.D7.93.D7.99_.D7.94.D7.A8.D7.91.D7.99\"></span><span class=\"mw-headline\" id=\"חלוקתו_על_ידי_הרבי\">חלוקתו על ידי הרבי</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;חלוקתו על ידי הרבי&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: חלוקתו על ידי הרבי\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<figure class=\"mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG\" class=\"mw-file-description\"><img src=\"/images/thumb/a/a5/%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG/250px-%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG\" decoding=\"async\" width=\"250\" height=\"203\" class=\"mw-file-element\" srcset=\"/images/thumb/a/a5/%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG/375px-%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG 1.5x, /images/thumb/a/a5/%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG/500px-%D7%94%D7%97%D7%9C%D7%A6%D7%95.JPG 2x\" /></a><figcaption><a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1%D7%99%D7%9D\" title=\"חלוקת קונטרסים\">חלוקת קונטרס</a> 'החלצו' על ידי הרבי</figcaption></figure>\n<p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%97\" title=\"תשמ&quot;ח\">תשמ\"ח</a>, ביום חמישי <a href=\"/index.php/%D7%9B%27_%D7%97%D7%A9%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"כ&#39; חשוון\">כ' חשוון</a>, יום ההולדת של <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91\" class=\"mw-redirect\" title=\"אדמו&quot;ר הרש&quot;ב\">אדמו\"ר הרש\"ב</a> נסע <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> ל<a href=\"/index.php/%D7%90%D7%95%D7%94%D7%9C_%D7%94%D7%A8%D7%91%D7%99_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אוהל הרבי הריי&quot;צ\">אוהל הרבי הריי\"צ</a>. לאחר שחזר ל-<a href=\"/index.php/770\" class=\"mw-redirect\" title=\"770\">770</a> והתפללו <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%A2%D7%A8%D7%91%D7%99%D7%AA\" title=\"תפילת ערבית\">תפילת ערבית</a>, עלה הרבי ל<a href=\"/index.php/770#גן_עדן_העליון\" class=\"mw-redirect\" title=\"770\">חדרו</a>, אז יצאה הודעה מה<a href=\"/index.php/770#מזכירות\" class=\"mw-redirect\" title=\"770\">מזכירות</a> שהרבי עומד לחלק את קונטרס 'החלצו רנ\"ט' של בעל <a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"יום הולדת\">יום ההולדת</a> - לבנים מגיל 12, ולבנות מגיל 11.\n</p><p>לכל אחד שעבר וקיבל קונטרס איחל הרבי \"א הצלחה'דיקער לערנען\" (תרגום חופשי: הצלחה בלימוד).\n</p><p>לאחר שעה של חלוקה נגמרו הקונטרסים, והחלוקה נעצרה. המזכירים הודיעו שהחלוקה תחודש מחר. כבר באותו הלילה הודפסו אלפי קונטרסים נוספים במכונות דפוס של <a href=\"/index.php/%D7%95%D7%A2%D7%93_%D7%9C%D7%94%D7%A4%D7%A6%D7%AA_%D7%A9%D7%99%D7%97%D7%95%D7%AA\" title=\"ועד להפצת שיחות\">ועד להפצת שיחות</a><sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">&#91;</span>6<span class=\"cite-bracket\">&#93;</span></a></sup>, ולמחרת, ביום שישי <a href=\"/index.php/%D7%9B%22%D7%90_%D7%97%D7%A9%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"כ&quot;א חשוון\">כ\"א חשוון</a> המשיך הרבי את החלוקה. בעת החלוקה שאל הרבי כמה ילדים האם הם כבר בגיל <a href=\"/index.php/%D7%91%D7%A8_%D7%9E%D7%A6%D7%95%D7%95%D7%94\" title=\"בר מצווה\">בר מצווה</a>.\n</p><p>חלוקה זו, היא הפעם הראשונה שהרבי נעמד לחלק קונטרס שלא בזמן <a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA\" class=\"mw-redirect\" title=\"התוועדות\">התוועדות</a>. החלוקה המיוחדת משכה קהל עצום שהגיע מכל רחבי <a href=\"/index.php/%D7%A0%D7%99%D7%95_%D7%99%D7%95%D7%A8%D7%A7\" class=\"mw-redirect\" title=\"ניו יורק\">ניו יורק</a> ומחוצה לה.\n</p><p>בפשטות החלוקה באה בעקבות מאורעות של היפך <a href=\"/index.php/%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"אהבת ישראל\">אהבת ישראל</a> בתוככי אנ\"ש ובשכונת <a href=\"/index.php/%D7%A7%D7%A8%D7%90%D7%95%D7%9F_%D7%94%D7%99%D7%99%D7%98%D7%A1\" title=\"קראון הייטס\">קראון הייטס</a>.\n</p><p>אחרי החלוקה הראשונה, התרכז קהל רב ב<a href=\"/index.php/%D7%94%D7%96%D7%90%D7%9C_%D7%94%D7%92%D7%93%D7%95%D7%9C\" class=\"mw-redirect\" title=\"הזאל הגדול\">זאל הגדול</a> שב-<a href=\"/index.php/770\" class=\"mw-redirect\" title=\"770\">770</a> ללימוד הקונטרס במשותף. שיעור מיוחד מסר ר' <a href=\"/index.php/%D7%99%D7%95%D7%90%D7%9C_%D7%9B%D7%94%D7%9F\" title=\"יואל כהן\">יואל כהן</a>.\n</p><p>החלוקה גרמה להתעוררות רבה בלימוד ה<a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA\" title=\"חסידות\">חסידות</a> בכלל, וב<a href=\"/index.php/%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"אהבת ישראל\">אהבת ישראל</a> - תוכן הקונטרס - במיוחד. בעקבות החלוקה נוסדו שיעורים רבים בלימוד ה'קונטרס'.\n</p>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>נ. סופר,&#160;‏<b>מאה שנה לאמירת מאמר 'החלצו' תרנ\"ט</b>, שבועון בית משיח, גיליון 201 עמוד 50-55 (תשנ\"ט) <span typeof=\"mw:File\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"קישור לשבועון בית משיח\"><img alt=\"קישור לשבועון בית משיח\" src=\"/images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/60px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png\" decoding=\"async\" width=\"60\" height=\"13\" class=\"mw-file-element\" srcset=\"/images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/90px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png 1.5x, /images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/120px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png 2x\" /></a></span></li></ul>\n<h2><span id=\".D7.A8.D7.90.D7.95_.D7.92.D7.9D\"></span><span class=\"mw-headline\" id=\"ראו_גם\">ראו גם</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;ראו גם&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: ראו גם\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%A7%D7%9C%D7%99%D7%A4%D7%AA_%D7%9E%D7%93%D7%99%D7%9F\" title=\"קליפת מדין\">קליפת מדין</a></li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%97%D7%9C%D7%A6%D7%95_-_%D7%A8%D7%A0%22%D7%98&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/video/rebbe/dailyvideo/728321/\">וידאו מחלוקת הקונטרס על ידי הרבי</a> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%AA%D7%91%D7%A0%D7%99%D7%AA:%D7%95%D7%99%D7%93%D7%90%D7%95\" title=\"קובץ וידאו\"><img alt=\"קובץ וידאו\" src=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/16px-%D7%95%D7%99%D7%93%D7%90%D7%95.png\" decoding=\"async\" width=\"16\" height=\"16\" class=\"mw-file-element\" srcset=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/24px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 1.5x, /images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/32px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 2x\" /></a></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"קישור לאתר חב&quot;ד אינפו\"><img alt=\"קישור לאתר חב&quot;ד אינפו\" src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/29px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"29\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/44px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/58px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.otzar.org/wotzar/Book.aspx?140968&amp;\">סקירה על השתלשלות אמירת המאמר והדפסתו</a> - בעריכת הרב <a href=\"/index.php/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%9C%D7%A4%D7%A0%D7%91%D7%99%D7%99%D7%9F\" class=\"mw-redirect\" title=\"ישראל אלפנביין\">ישראל אלפנביין</a>, באתר <a href=\"/index.php/%D7%90%D7%95%D7%A6%D7%A8_%D7%94%D7%97%D7%9B%D7%9E%D7%94\" title=\"אוצר החכמה\">אוצר החכמה</a>.</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://drive.google.com/file/d/1LMredU0q2V2OcbGTezEXRmeod0vJ2yVf/view\">המאמר - בספר המאמרים תרנ\"ט</a> ע' נג <span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://col.org.il/news/134350\">הקונטרס הראשון: מחלוקת פרצה בשכונה, ואז באה הפתעה</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%95%D7%9F_%D7%9C%D7%99%D7%99%D7%9F\" title=\"חב&quot;ד און ליין\"><img src=\"/images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/15px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg\" decoding=\"async\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"/images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/23px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg 1.5x, /images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/30px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://77012.blogspot.com/2023/07/blog-post_14.html\">סקירה מרתקת על 'קונטרס החלצו' של הרבי הרש\"ב</a></b>, באתר '<a href=\"/index.php/%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%AA%D7%99%D7%AA\" title=\"לחלוחית גאולתית\">לחלוחית גאולתית</a>' <span typeof=\"mw:File\"><a href=\"/index.php/%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%AA%D7%99%D7%AA\" title=\"לחלוחית גאולתית\"><img src=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/27px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg\" decoding=\"async\" width=\"27\" height=\"18\" class=\"mw-file-element\" srcset=\"/images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/41px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 1.5x, /images/thumb/b/b9/%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg/54px-%27%D7%9C%D7%97%D7%9C%D7%95%D7%97%D7%99%D7%AA%27_%D7%A1%D7%9E%D7%9C.jpg 2x\" /></a></span></li></ul>\n<p><br />\n</p>\n<table class=\"navbox nowraplinks\" style=\"width: 90%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#d1eeee; font-weight: bold;\">במחיצת הרבי\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">אירועים\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A8%D7%90%D7%9C%D7%99\" title=\"ראלי\">ראלי</a> · <a href=\"/index.php/%D7%94%D7%A4%D7%90%D7%A8%D7%90%D7%93_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99\" title=\"הפאראד אצל הרבי\">פאראד</a> · <a href=\"/index.php/%D7%A1%D7%90%D7%98%D7%9C%D7%99%D7%99%D7%98\" title=\"סאטלייט\">סאטלייט</a> · <a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA_%D7%A2%D7%9D_%D7%94%D7%A8%D7%91%D7%99\" title=\"התוועדות עם הרבי\">התוועדות</a> · <a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%94\" title=\"שיחה\">אמירת שיחה</a> · <a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">אמירת מאמר</a> · <a href=\"/index.php/%D7%A6%D7%90%D7%AA%D7%9B%D7%9D_%D7%9C%D7%A9%D7%9C%D7%95%D7%9D\" title=\"צאתכם לשלום\">צאתכם לשלום</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\"><a rel=\"nofollow\" class=\"external text\" href=\"https://chabadpedia.co.il/images/5/53/Chalukos.pdf\">חלוקות מיד הרבי</a></span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><div style=\"display:none;\"></div>\n<table class=\"nowraplinks\" style=\"width: 100%; text-align: right;\">\n\n\n\n\n\n<tbody><tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">כלליות\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%93%D7%95%D7%9C%D7%A8%D7%99%D7%9D\" title=\"חלוקת דולרים\">חלוקת דולרים</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%93%D7%95%D7%9C%D7%A8%D7%99%D7%9D_%D7%9C%D7%98%D7%A0%D7%A7%D7%99%D7%A1%D7%98%D7%99%D7%9D\" title=\"חלוקת דולרים לטנקיסטים\">חלוקת דולרים לטנקיסטים</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%9B%D7%95%D7%A1_%D7%A9%D7%9C_%D7%91%D7%A8%D7%9B%D7%94\" title=\"חלוקת כוס של ברכה\">כוס של ברכה</a> · <a href=\"/index.php/%D7%9C%D7%A2%D7%A7%D7%90%D7%97\" title=\"לעקאח\">חלוקת לעקאח</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%9E%D7%A9%D7%A7%D7%94\" title=\"חלוקת משקה\">חלוקת משקה</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%9E%D7%98%D7%91%D7%A2%D7%95%D7%AA\" title=\"חלוקת מטבעות\">חלוקת מטבעות</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%90%D7%A8%D7%91%D7%A2%D7%AA_%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D\" title=\"חלוקת ארבעת המינים\">חלוקת ארבעת המינים</a> · <a href=\"/index.php/%D7%A0%D7%AA%D7%99%D7%A0%D7%AA_%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%9C%D7%97%D7%AA%D7%A0%D7%99%D7%9D\" title=\"נתינת סידור לחתנים\">סידור לחתנים</a> · <a href=\"/index.php/%D7%93%D7%9E%D7%99_%D7%97%D7%A0%D7%95%D7%9B%D7%94\" title=\"דמי חנוכה\">דמי חנוכה</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1%D7%99%D7%9D\" title=\"חלוקת קונטרסים\">חלוקת קונטרסים</a> · <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%AA%D7%A0%D7%99%D7%90\" title=\"חלוקת תניא\">חלוקת תניא</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">פרטיות\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%94%D7%97%D7%9C%D7%A6%D7%95_%D7%AA%D7%A8%D7%A0%22%D7%98\" class=\"mw-redirect\" title=\"החלצו תרנ&quot;ט\">החלצו תרנ\"ט</a> · <a href=\"/index.php/%D7%95%D7%A9%D7%91%D7%AA%D7%99_%D7%91%D7%A9%D7%9C%D7%95%D7%9D_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"ושבתי בשלום תשל&quot;ח\">ושבתי בשלום תשל\"ח</a> · <a href=\"/index.php/%D7%9B%D7%99_%D7%99%D7%A9%D7%90%D7%9C%D7%9A_%D7%91%D7%A0%D7%9A_%D7%AA%D7%A9%D7%9C%22%D7%97\" title=\"כי ישאלך בנך תשל&quot;ח\">כי ישאלך בנך תשל\"ח</a> · <a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8_%27%D7%95%D7%A9%D7%90%D7%91%D7%AA%D7%9D_%D7%9E%D7%99%D7%9D_%D7%91%D7%A9%D7%A9%D7%95%D7%9F%27\" title=\"מאמר &#39;ושאבתם מים בששון&#39;\">מאמר 'ושאבתם מים בששון'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"קונטרס אהבת ישראל\">קונטרס אהבת ישראל</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%99%22%D7%91-%D7%99%22%D7%92_%D7%AA%D7%9E%D7%95%D7%96_%D7%AA%D7%A8%D7%A4%22%D7%97\" title=\"קונטרס י&quot;ב-י&quot;ג תמוז תרפ&quot;ח\">קונטרס י\"ב-י\"ג תמוז תרפ\"ח</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A2%D7%A5_%D7%94%D7%97%D7%99%D7%99%D7%9D\" title=\"קונטרס עץ החיים\">קונטרס עץ החיים</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%A0%D7%9B%D7%99_%D7%9E%D7%92%D7%9F_%D7%9C%D7%9A_%D7%AA%D7%A8%D7%A2%22%D7%97\" title=\"קונטרס אנכי מגן לך תרע&quot;ח\">קונטרס אנכי מגן לך תרע\"ח</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%A2%D7%A9%D7%94_%D7%A0%D7%99%D7%A1%D7%99%D7%9D_%D7%AA%D7%A8%D7%A1%22%D7%93\" title=\"קונטרס ברוך שעשה ניסים תרס&quot;ד\">קונטרס ברוך שעשה ניסים תרס\"ד</a> · <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%99%22%D7%91_(%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1)\" title=\"דבר מלכות י&quot;ב (קונטרס)\">קונטרס דבר מלכות י\"ב</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5_%D7%9B%22%D7%97_%D7%A1%D7%99%D7%95%D7%9F_-_%D7%99%D7%95%D7%91%D7%9C_%D7%A9%D7%A0%D7%99%D7%9D\" title=\"קובץ כ&quot;ח סיון - יובל שנים\">קובץ כ\"ח סיון - יובל שנים</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%9B%22%D7%A3_%D7%9E%D7%A8%D7%97%D7%A9%D7%95%D7%95%D7%9F_%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"קונטרס כ&quot;ף מרחשוון תשנ&quot;ב\">קונטרס כ\"ף מרחשוון תשנ\"ב</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A1%D7%99%D7%95%D7%9D_%D7%95%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94\" title=\"קונטרס סיום והכנסת ספר תורה\">קונטרס סיום והכנסת ספר תורה</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%93%D7%A8%D7%95%D7%A9%D7%99_%D7%97%D7%AA%D7%95%D7%A0%D7%94_%D7%AA%D7%A8%D7%A4%22%D7%98\" title=\"קונטרס דרושי חתונה תרפ&quot;ט\">קונטרס דרושי חתונה</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_%D7%AA%D7%A8%D7%A4%22%D7%91\" title=\"קונטרס מאמרים תרפ&quot;ב\">קונטרס מאמרים תרפ\"ב</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5_%D7%9B%22%D7%91_%D7%A9%D7%91%D7%98\" title=\"קובץ כ&quot;ב שבט\">קובץ כ\"ב שבט</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A4%D7%95%D7%A8%D7%99%D7%9D_%D7%A7%D7%98%D7%9F_-_%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"קונטרס פורים קטן - תשנ&quot;ב\">קונטרס פורים קטן - תשנ\"ב</a> · <a href=\"/index.php/%D7%9E%D7%9B%D7%AA%D7%91%D7%99%D7%9D_%D7%9B%D7%9C%D7%9C%D7%99%D7%99%D7%9D_%D7%9C%D7%97%D7%92_%D7%94%D7%A4%D7%A1%D7%97\" class=\"mw-redirect\" title=\"מכתבים כלליים לחג הפסח\">מכתבים כלליים לחג הפסח</a> · <a href=\"/index.php/%D7%A7%D7%99%D7%A6%D7%95%D7%A8%D7%99%D7%9D_%D7%95%D7%94%D7%A2%D7%A8%D7%95%D7%AA_(%D7%A1%D7%A4%D7%A8)\" title=\"קיצורים והערות (ספר)\">קיצורים והערות לתניא</a> · <a href=\"/index.php/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%AA%D7%94%D7%99%D7%9C%D7%AA_%D7%94%27#חלוקתו_על_ידי_הרבי\" class=\"mw-redirect\" title=\"סידור תהילת ה&#39;\">סידור תהילת ה'</a>· <a href=\"/index.php/%D7%97%D7%9C%D7%95%D7%A7%D7%AA_%D7%9E%D7%A6%D7%95%D7%AA\" title=\"חלוקת מצות\">חלוקת מצות</a> · <a href=\"/index.php/%D7%9C%D7%A7%D7%95%D7%98%D7%99_%D7%A9%D7%99%D7%97%D7%95%D7%AA#חלוקתו_על_ידי_הרבי\" title=\"לקוטי שיחות\">חלוקת לקוטי שיחות</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">מעמדים נוספים\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA\" title=\"יחידות\">יחידות</a> · <a href=\"/index.php/%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%9C%D7%92%D7%91%D7%99%D7%A8%D7%99%D7%9D\" class=\"mw-redirect\" title=\"יחידות לגבירים\">יחידות לגבירים</a> · <a href=\"/index.php/%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%9B%D7%9C%D7%9C%D7%99%D7%AA\" title=\"יחידות כללית\">יחידות כללית</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%94%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D\" title=\"ברכת התמימים\">ברכת התמימים</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%94_%D7%9C%D7%90%D7%95%D7%A8%D7%97%D7%99%D7%9D_%D7%91%D7%97%D7%92_%D7%94%D7%A1%D7%95%D7%9B%D7%95%D7%AA\" class=\"mw-redirect\" title=\"ברכה לאורחים בחג הסוכות\">ברכה לאורחים בחג הסוכות</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%94_%D7%A2%D7%9C_%D7%90%D7%A8%D7%91%D7%A2%D7%AA_%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D_%D7%A9%D7%9C_%D7%94%D7%A8%D7%91%D7%99\" title=\"ברכה על ארבעת המינים של הרבי\">ברכה על ארבעת המינים של הרבי</a> · <a href=\"/index.php/%D7%A9%D7%9E%D7%97%D7%AA_%D7%91%D7%99%D7%AA_%D7%94%D7%A9%D7%95%D7%90%D7%91%D7%94#התוועדויות_שמחת_בית_השואבה\" title=\"שמחת בית השואבה\">התוועדויות שמחת בית השואבה</a> · <a href=\"/index.php/%D7%A9%D7%90%D7%99%D7%91%D7%AA_%D7%9E%D7%99%D7%9D_%D7%A9%D7%9C%D7%A0%D7%95\" class=\"mw-redirect\" title=\"שאיבת מים שלנו\">שאיבת מים שלנו</a> · <a href=\"/index.php/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%99_%D7%94%D7%A8%D7%91%D7%99_%D7%91%D7%A1%D7%93%D7%A8%D7%99%D7%9D_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D\" title=\"ביקורי הרבי בסדרים ציבוריים\">ביקור בסדרים ציבוריים</a> · <a href=\"/index.php/%D7%93%D7%91%D7%A8%D7%99_%D7%9B%D7%99%D7%91%D7%95%D7%A9%D7%99%D7%9F\" title=\"דברי כיבושין\">דברי כיבושין</a> · <a href=\"/index.php/%D7%A1%D7%A2%D7%95%D7%93%D7%95%D7%AA_%D7%91%D7%91%D7%99%D7%AA_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" title=\"סעודות בבית אדמו&quot;ר הריי&quot;צ\">סעודות בבית אדמו\"ר הריי\"צ</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<table class=\"navbox nowraplinks\" style=\"width: 90%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#d1eeee; font-weight: bold;\">ספרי <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91\" class=\"mw-redirect\" title=\"אדמו&quot;ר הרש&quot;ב\">אדמו\"ר הרש\"ב</a>\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">מאמרים\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91)\" title=\"ספר המאמרים (אדמו&quot;ר הרש&quot;ב)\">ספרי המאמרים על סדר השנים</a> • <a href=\"/index.php/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%9C%D7%93%22%D7%94_%D7%A4%D7%AA%D7%97_%D7%90%D7%9C%D7%99%D7%94%D7%95_-_%D7%AA%D7%A8%D7%A0%22%D7%97\" title=\"הגהות לד&quot;ה פתח אליהו - תרנ&quot;ח\">הגהות לד\"ה פתח אליהו - תרנ\"ח</a> • <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%AA%D7%A8%D7%A0%22%D7%98\" title=\"המשך תרנ&quot;ט\">ספר המאמרים תרנ\"ט</a> • <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_%D7%AA%D7%A8%D7%A1%22%D7%92\" title=\"ספר המאמרים תרס&quot;ג\">ספר המאמרים תרס\"ג</a> • <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%99%D7%95%D7%9D_%D7%98%D7%95%D7%91_%D7%A9%D7%9C_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94_%D7%AA%D7%A8%D7%A1%22%D7%95\" title=\"המשך יום טוב של ראש השנה תרס&quot;ו\">המשך יום טוב של ראש השנה תרס\"ו</a> • <a href=\"/index.php/%D7%91%D7%A9%D7%A2%D7%94_%D7%A9%D7%94%D7%A7%D7%93%D7%99%D7%9E%D7%95_%D7%AA%D7%A2%D7%A8%22%D7%91\" title=\"בשעה שהקדימו תער&quot;ב\">המשך בשעה שהקדימו תער\"ב</a> • <a href=\"/index.php/%D7%94%D7%90%D7%9E%D7%A0%D7%9D\" title=\"האמנם\">האמנם תרמ\"ג</a> • <a href=\"/index.php/%D7%95%D7%99%D7%93%D7%A2%D7%AA_%D7%AA%D7%A8%D7%A0%22%D7%96_-_%D7%9E%D7%95%D7%A1%D7%A7%D7%91%D7%94\" title=\"וידעת תרנ&quot;ז - מוסקבה\">וידעת תרנ\"ז - מוסקבה</a> • <a href=\"/index.php/%D7%94%D7%9E%D7%A9%D7%9A_%D7%A9%D7%9E%D7%97_%D7%AA%D7%A9%D7%9E%D7%97_%D7%AA%D7%A8%D7%A0%22%D7%96\" title=\"המשך שמח תשמח תרנ&quot;ז\">המשך שמח תשמח תרנ\"ז</a> • <a class=\"mw-selflink selflink\">החלצו תרנ\"ט</a> • <a href=\"/index.php/%D7%90%D7%97%D7%AA_%D7%A9%D7%90%D7%9C%D7%AA%D7%99_(%D7%9E%D7%90%D7%9E%D7%A8)\" title=\"אחת שאלתי (מאמר)\">אחת שאלתי עת\"ר</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">קונטרסים\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94\" title=\"קונטרס העבודה\">קונטרס העבודה</a> • <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%94%D7%AA%D7%A4%D7%9C%D7%94\" title=\"קונטרס התפלה\">קונטרס התפלה</a> • <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%95%D7%9E%D7%A2%D7%99%D7%9F_%D7%9E%D7%91%D7%99%D7%AA_%D7%94%27\" title=\"קונטרס ומעין מבית ה&#39;\">קונטרס ומעין מבית ה'</a> • <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%A2%D7%A5_%D7%94%D7%97%D7%99%D7%99%D7%9D\" title=\"קונטרס עץ החיים\">קונטרס עץ החיים</a> • <a href=\"/index.php/%D7%97%D7%A0%D7%95%D7%9A_%D7%9C%D7%A0%D7%A2%D7%A8_(%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1)\" title=\"חנוך לנער (קונטרס)\">קונטרס חנוך לנער</a> • <a href=\"/index.php/%D7%94%D7%9B%D7%AA%D7%91_%D7%95%D7%94%D7%9E%D7%9B%D7%AA%D7%91\" title=\"הכתב והמכתב\">הכתב והמכתב</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">שונות\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%AA_%D7%A9%D7%9C%D7%95%D7%9D_-_%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA\" title=\"תורת שלום - ספר השיחות\">תורת שלום - ספר השיחות</a> • <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%95%D7%AA_%D7%A7%D7%95%D7%93%D7%A9_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91)\" title=\"אגרות קודש (אדמו&quot;ר הרש&quot;ב)\">אגרות קודש</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">הודפס ב<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91)\" title=\"ספר המאמרים (אדמו&quot;ר הרש&quot;ב)\">ספר המאמרים</a> <a href=\"/index.php/%D7%AA%D7%A8%D7%A0%22%D7%98\" title=\"תרנ&quot;ט\">תרנ\"ט</a> ע' נג.</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">^</a></span> <span class=\"reference-text\">ספר במדבר, פרק לא פסוק ג (פרשת <a href=\"/index.php/%D7%9E%D7%98%D7%95%D7%AA\" class=\"mw-redirect\" title=\"מטות\">מטות</a>).</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">^</a></span> <span class=\"reference-text\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA\" class=\"mw-redirect mw-disambig\" title=\"ספר השיחות\">ספר השיחות</a> תש\"ה, עמודים 18–19.</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">^</a></span> <span class=\"reference-text\">את הסיפור סיפר <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a>. הודפס ב<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6)\" title=\"ספר השיחות (אדמו&quot;ר הריי&quot;צ)\">ספר השיחות</a>, <a href=\"/index.php/%D7%AA%D7%A8%D7%A6%22%D7%95\" title=\"תרצ&quot;ו\">תרצ\"ו</a>, עמוד 234.</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">^</a></span> <span class=\"reference-text\">את הסיפור והקשרו לאמירת המאמר סיפר <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"הרבי הריי&quot;צ\">הרבי הריי\"צ</a>. הודפס ב<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6)\" title=\"ספר השיחות (אדמו&quot;ר הריי&quot;צ)\">ספר השיחות</a> תש\"ה, עמודים 18-19.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">^</a></span> <span class=\"reference-text\">מכונות הדפוס היו במשרדי ה'ועד' בבניין שמעל ה'<a href=\"/index.php/770#קומת_מרתף_(הזאל_הגדול)\" class=\"mw-redirect\" title=\"770\">זאל הגדול</a>'. בה'<a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%92\" title=\"תשמ&quot;ג\">תשמ\"ג</a> נשרף המשרד עם כל הציוד שבו.</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260414100233\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.208 seconds\nReal time usage: 1.744 seconds\nPreprocessor visited node count: 1674/1000000\nPost‐expand include size: 41187/2097152 bytes\nTemplate argument size: 21739/2097152 bytes\nHighest expansion depth: 13/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 2355/5000000 bytes\nLua time usage: 0.100/7 seconds\nLua virtual size: 6107136/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1323.711      1 -total\n 39.85%  527.514      6 תבנית:הערה\n 34.67%  458.946      3 תבנית:ניווט_קבוצות\n 27.08%  358.477      1 תבנית:במחיצת_הרבי\n 10.74%  142.205      3 תבנית:ציטוט\n  8.39%  111.102      1 תבנית:תת_קבוצה\n  5.37%   71.137      1 תבנית:הערות_שוליים\n  4.80%   63.485      1 תבנית:ספרי_אדמו&quot;ר_הרש&quot;ב\n  3.15%   41.756      1 תבנית:מאמרי_רבותינו_נשיאינו\n  2.22%   29.413      1 תבנית:COL\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:25535-0!canonical and timestamp 20260414100233 and revision id 835458. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "ספרי_אדמו\"ר_הרש\"ב"
+      },
+      {
+        "sortkey": "",
+        "*": "חלוקות_מיד_הרבי"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ציטוט"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ניווט קבוצות"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:תת קבוצה"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:וידאו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית משיח (שבועון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד אינפו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד און ליין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לחלוחית גאולתית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "770"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרות קודש (אדמו\"ר הרש\"ב)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הרש\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבת ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אוהל הרבי הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אוצר החכמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחת שאלתי (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אייר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "איתא במדרש תילים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אל תצר את מואב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנכי ה' אלוקיך תשמ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אשרי תבחר תשט\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "באתי לגני"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביום עשתי עשר תשל\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביכלאך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביקורי הרבי בסדרים ציבוריים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בלתי מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בר מצווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכה לאורחים בחג הסוכות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכה על ארבעת המינים של הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת התמימים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בשעה שהקדימו תער\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גדול יהיה תשכ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גוף כתב יד קודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות י\"ב (קונטרס)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דברי כיבושין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דיבור המתחיל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דמי חנוכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דער פרומער וארא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "האמנם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הגהות לד\"ה פתח אליהו - תרנ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הזאל הגדול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "החודש הזה תשמ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "החלצו תרנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הכתב והמכתב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך והחרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך וככה תרל\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך יום טוב של ראש השנה תרס\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך מים רבים תרל\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך רנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך שמח תשמח תרנ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך תרנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המשך תשרי תשכ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הפאראד אצל הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות חסידית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות עם הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "והדרת פני זקן (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וידעת תרנ\"ז - מוסקבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ויהי חיי שרה תנש”א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ועד להפצת שיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וקבל היהודים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ושבתי בשלום תשל\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת ארבעת המינים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת דולרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת דולרים לטנקיסטים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת כוס של ברכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת מטבעות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת מצות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת משקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת קונטרסים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חלוקת תניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חנוך לנער (קונטרס)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יואל כהן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחידות כללית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחידות לגבירים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ירא שמים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישראל אלפנביין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"א חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כי ישאלך בנך תשל\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כפר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כתב יד דא\"ח ישן לא נודע למי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לא תהיה משכלה תשי\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לעקאח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לקוטי שיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לקוטי תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר 'ושאבתם מים בששון'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר חסידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מחלוקת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מטות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מכתבים כלליים לחג הפסח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מעזריטש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרגלא בפומיה דרבא (מאמר חסידות)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניגון הכנה למאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניו יורק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נתינת סידור לחתנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סאטלייט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סידור תהילת ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סמרגון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סעודות בבית אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סעודת שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר המאמרים (אדמו\"ר הרש\"ב)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר המאמרים (רש\"ב)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר המאמרים תרס\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר השיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר השיחות (אדמו\"ר הריי\"צ)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת השם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פורים תשי\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צאתכם לשלום"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קובץ כ\"ב שבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קובץ כ\"ח סיון - יובל שנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אהבת ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אנכי מגן לך תרע\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס ברוך שעשה ניסים תרס\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס דרושי חתונה תרפ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס העבודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס התפלה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס ומעין מבית ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס י\"ב-י\"ג תמוז תרפ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס כ\"ף מרחשוון תשנ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס מאמרים תרפ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס סיום והכנסת ספר תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס עץ החיים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס פורים קטן - תשנ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס ר\"ח כסלו - תשנ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קיצורים והערות (ספר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קליפת מדין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קראון הייטס"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ראלי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ראשית גוים עמלק (מאמר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבותינו נשיאנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבי מנחם מענדל שניאורסון (כ\"ק אדמו\"ר שליט\"א)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שאיבת מים שלנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמחת בית השואבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שנאת חינם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שניאור זלמן גרליק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורת שלום - ספר השיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת ערבית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקכ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרנ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרצ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשכ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ח"
+      },
+      {
+        "ns": 0,
+        "*": "יאיר נתיב (מושג)"
+      },
+      {
+        "ns": 0,
+        "*": "לייב מוועליז"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הרקע לאמירת המאמר",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 572,
+        "anchor": "הרקע_לאמירת_המאמר",
+        "linkAnchor": "הרקע_לאמירת_המאמר"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תוכן המאמר",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 1977,
+        "anchor": "תוכן_המאמר",
+        "linkAnchor": "תוכן_המאמר"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לימודו בעת מחלוקת",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 2929,
+        "anchor": "לימודו_בעת_מחלוקת",
+        "linkAnchor": "לימודו_בעת_מחלוקת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "חלוקתו על ידי הרבי",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 4183,
+        "anchor": "חלוקתו_על_ידי_הרבי",
+        "linkAnchor": "חלוקתו_על_ידי_הרבי"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 5638,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ראו גם",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 5724,
+        "anchor": "ראו_גם",
+        "linkAnchor": "ראו_גם"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "החלצו_-_רנ\"ט",
+        "byteoffset": 5752,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "8",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

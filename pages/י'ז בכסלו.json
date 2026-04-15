@@ -1,0 +1,470 @@
+{
+  "parse": {
+    "title": "י\"ז בכסלו",
+    "pageid": 19828,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"toccolours\" style=\"float:left; width:230px; margin-right:20px; text-align:center;\">\n\n<tbody><tr>\n<th colspan=\"10\" style=\"background:LightSteelBlue;\">\n<p><span style=\"float:right;\"><a href=\"/index.php/%D7%97%D7%A9%D7%95%D7%95%D7%9F\" title=\"חשוון\">&lt;&lt;</a></span>\n<span style=\"float:left;\"><a href=\"/index.php/%D7%98%D7%91%D7%AA\" title=\"טבת\">&gt;&gt;</a></span>\nחודש <a href=\"/index.php/%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כסלו\">כסלו</a>\n</p>\n</th></tr>\n\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%90%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"א&#39; בכסלו\">א</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%91%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ב&#39; בכסלו\">ב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%92%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ג&#39; בכסלו\">ג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%93%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ד&#39; בכסלו\">ד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%94%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ה&#39; בכסלו\">ה</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%95%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ו&#39; בכסלו\">ו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%96%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ז&#39; בכסלו\">ז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%97%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ח&#39; בכסלו\">ח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ט&#39; בכסלו\">ט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&#39; בכסלו\">י</a>\n</td></tr>\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%90_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;א בכסלו\">יא</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%91_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;ב בכסלו\">יב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%92_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;ג בכסלו\">יג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%93_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;ד בכסלו\">יד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%22%D7%95_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ט&quot;ו בכסלו\">טו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ט&quot;ז בכסלו\">טז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a class=\"mw-selflink selflink\">יז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%97_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;ח בכסלו\">יח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%98_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"י&quot;ט בכסלו\">יט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&#39; בכסלו\">כ</a>\n</td></tr>\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%90_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;א בכסלו\">כא</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%91_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ב בכסלו\">כב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%92_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ג בכסלו\">כג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%93_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ד בכסלו\">כד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%94_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ה בכסלו\">כה</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%95_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ו בכסלו\">כו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ז בכסלו\">כז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%97_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ח בכסלו\">כח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%98_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ט בכסלו\">כט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9C%27_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"ל&#39; בכסלו\">ל</a>\n</td></tr>\n<tr>\n<th colspan=\"10\" style=\"background;\">\n<p><small><a href=\"/index.php/%D7%AA%D7%A9%D7%A8%D7%99\" title=\"תשרי\">תשרי</a> · <a href=\"/index.php/%D7%97%D7%A9%D7%95%D7%95%D7%9F\" title=\"חשוון\">חשוון</a> · <a href=\"/index.php/%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כסלו\">כסלו</a> · <a href=\"/index.php/%D7%98%D7%91%D7%AA\" title=\"טבת\">טבת</a> · <a href=\"/index.php/%D7%A9%D7%91%D7%98\" title=\"שבט\">שבט</a> · <a href=\"/index.php/%D7%90%D7%93%D7%A8\" class=\"mw-redirect\" title=\"אדר\">אדר</a> <br /> <a href=\"/index.php/%D7%A0%D7%99%D7%A1%D7%9F\" class=\"mw-redirect\" title=\"ניסן\">ניסן</a> · <a href=\"/index.php/%D7%90%D7%99%D7%99%D7%A8\" class=\"mw-redirect\" title=\"אייר\">אייר</a> · <a href=\"/index.php/%D7%A1%D7%99%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"סיוון\">סיוון</a> · <a href=\"/index.php/%D7%AA%D7%9E%D7%95%D7%96\" class=\"mw-redirect\" title=\"תמוז\">תמוז</a> · <a href=\"/index.php/%D7%90%D7%91_(%D7%97%D7%95%D7%93%D7%A9)\" title=\"אב (חודש)\">מנחם אב</a> · <a href=\"/index.php/%D7%90%D7%9C%D7%95%D7%9C\" class=\"mw-redirect\" title=\"אלול\">אלול</a></small>\n</p>\n</th></tr></tbody></table>\n<p><b>י\"ז בכסלו</b> הוא היום השבעה עשר ב<a href=\"/index.php/%D7%97%D7%95%D7%93%D7%A9_%D7%9B%D7%A1%D7%9C%D7%95\" class=\"mw-redirect\" title=\"חודש כסלו\">חודש כסלו</a>.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.90.D7.99.D7.A8.D7.95.D7.A2.D7.99.D7.9D_.D7.91.D7.99.D7.94.D7.93.D7.95.D7.AA\"></span><span class=\"mw-headline\" id=\"אירועים_ביהדות\">אירועים ביהדות</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;אירועים ביהדות&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: אירועים ביהדות\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>ג'תי\"ד - <a href=\"/index.php/%D7%A2%D7%96%D7%A8%D7%90_%D7%94%D7%A1%D7%95%D7%A4%D7%A8\" title=\"עזרא הסופר\">עזרא הסופר</a> השביע את ה<a href=\"/index.php/%D7%9B%D7%94%D7%A0%D7%99%D7%9D\" title=\"כהנים\">כהנים</a> שיגרשו את נשותיהם הנוכריות.</li></ul>\n<h2><span id=\".D7.99.D7.9E.D7.99_.D7.97.D7.91.22.D7.93\"></span><span class=\"mw-headline\" id=\"ימי_חב&quot;ד\">ימי חב\"ד</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;ימי חב&quot;ד&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: ימי חב&quot;ד\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%AA%D7%A9%D7%A2%22%D7%94\" title=\"תשע&quot;ה\">תשע\"ה</a> - נס ההצלה ב-770, מחבל שחור ביצע <a href=\"/index.php?title=%D7%A4%D7%99%D7%92%D7%95%D7%A2_%D7%94%D7%93%D7%A7%D7%99%D7%A8%D7%94_%D7%91-770&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"פיגוע הדקירה ב-770 (הדף אינו קיים)\">פיגוע דקירה</a> ב\"זאל הגדול\" ואף פצע את אחד התמימים, ובניסי ניסים ניצלו תלמידי התמימים ואנ\"ש ששהו במקום.</li></ul>\n<h3><span id=\".D7.A0.D7.95.D7.9C.D7.93.D7.95\"></span><span class=\"mw-headline\" id=\"נולדו\"><a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"יום הולדת\">נולדו</a></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;נולדו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: נולדו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<ul><li><a href=\"/index.php/%D7%AA%D7%A9%22%D7%98\" title=\"תש&quot;ט\">תש\"ט</a> - הרב <a href=\"/index.php/%D7%A7%D7%9C%D7%95%D7%A0%D7%99%D7%9E%D7%95%D7%A1_%D7%A7%D7%95%D7%A4%D7%A6%27%D7%99%D7%A7\" title=\"קלונימוס קופצ&#39;יק\">קלונימוס קופצ'יק</a>, שליח הרבי ב<a href=\"/index.php/%D7%97%D7%93%D7%A8%D7%94\" title=\"חדרה\">חדרה</a>.</li>\n<li>תשמ\"ה - הרב <a href=\"/index.php/%D7%99%D7%95%D7%93%D7%99_%D7%9C%D7%95%D7%99%D7%9F\" class=\"mw-redirect\" title=\"יודי לוין\">יודי לוין</a>, שליח הרבי בקאן.</li></ul>\n<h3><span id=\".D7.A0.D7.A4.D7.98.D7.A8.D7.95\"></span><span class=\"mw-headline\" id=\"נפטרו\"><a href=\"/index.php/%D7%A4%D7%98%D7%99%D7%A8%D7%94\" class=\"mw-redirect\" title=\"פטירה\">נפטרו</a></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;נפטרו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%9B%D7%A1%D7%9C%D7%95&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: נפטרו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<ul><li><a href=\"/index.php/%D7%AA%D7%A9%D7%99%22%D7%96\" title=\"תשי&quot;ז\">תשי\"ז</a> - הרב <a href=\"/index.php/%D7%9E%D7%A9%D7%94_%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%94%D7%A8%D7%98%D7%9E%D7%9F\" title=\"משה שמואל הרטמן\">משה שמואל הרטמן</a>, מתלמידי <a href=\"/index.php/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%9E%D7%92%D7%9F_%D7%90%D7%91%D7%95%D7%AA\" class=\"mw-redirect\" title=\"ישיבת מגן אבות\">ישיבת חב\"ד בחברון</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%96\" title=\"תשס&quot;ז\">תשס\"ז</a> - הרב <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%90%D7%99%D7%98%D7%A7%D7%99%D7%9F\" title=\"חיים שניאור זלמן איטקין\">חיים שניאור זלמן איטקין</a>, שליח הרבי בעיר המילטון שב<a href=\"/index.php/%D7%A7%D7%A0%D7%93%D7%94\" title=\"קנדה\">קנדה</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%90\" title=\"תשפ&quot;א\">תשפ\"א</a> - הרב <a href=\"/index.php/%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%91%D7%A8%D7%92%D7%9E%D7%9F\" title=\"אברהם ברגמן\">אברהם ברגמן</a>, <a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93_%D7%97%D7%91%22%D7%93\" class=\"mw-redirect\" title=\"חסיד חב&quot;ד\">חסיד חב\"ד</a> ומ<a href=\"/index.php/%D7%90%D7%A0%22%D7%A9\" class=\"mw-redirect\" title=\"אנ&quot;ש\">אנ\"ש</a> ב<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%93\" title=\"תשפ&quot;ד\">תשפ\"ד</a> - הרב <a href=\"/index.php/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%A1%D7%92%D7%9C\" title=\"שניאור זלמן סגל\">שניאור זלמן סגל</a>, ר\"ם ב<a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%9C%D7%95%D7%93\" title=\"תומכי תמימים לוד\">תומכי תמימים לוד</a> וב<a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%AA_%D7%90%D7%9E%D7%AA\" class=\"mw-redirect\" title=\"תורת אמת\">תורת אמת</a> ירושלים, מחשובי וזקני חסידי חב\"ד ב<a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%91%D7%A8%D7%A7\" title=\"בני ברק\">בני ברק</a>.</li></ul>\n<p><br />\n</p>\n<table class=\"toccolours\" style=\"clear: both; margin-left: auto; margin-right: auto; text-align: right; width: 65%;\">\n\n<tbody><tr>\n<th style=\"text-align: center; background-color: #CCCCFF;\">הפתגם היומי - י\"ז בכסלו - מ<a href=\"/index.php/%D7%9C%D7%95%D7%97_%D7%94%D7%99%D7%95%D7%9D_%D7%99%D7%95%D7%9D\" title=\"לוח היום יום\">לוח היום יום</a>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA_%D7%97%D7%91%22%D7%93\" title=\"חסידות חב&quot;ד\">חסידות חב\"ד</a> פותחת שערי היכלי <a href=\"/index.php/%D7%97%D7%9B%D7%9E%D7%94\" class=\"mw-redirect\" title=\"חכמה\">חכמה</a> ו<a href=\"/index.php/%D7%91%D7%99%D7%A0%D7%94\" class=\"mw-redirect\" title=\"בינה\">בינה</a>, לידע ולהכיר את מי שאמר והיה ה<a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D\" class=\"mw-redirect mw-disambig\" title=\"עולם\">עולם</a> ב<a href=\"/index.php?title=%D7%94%D7%A9%D7%92%D7%94&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"השגה (הדף אינו קיים)\">השגה</a> <a href=\"/index.php/%D7%A9%D7%9B%D7%9C\" class=\"mw-redirect\" title=\"שכל\">שכלית</a>, מעוררת <a href=\"/index.php/%D7%A8%D7%92%D7%A9\" title=\"רגש\">רגשי</a> ה<a href=\"/index.php/%D7%9C%D7%91\" title=\"לב\">לב</a> <a href=\"/index.php?title=%D7%94%D7%AA%D7%A4%D7%A2%D7%9C%D7%95%D7%AA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"התפעלות (הדף אינו קיים)\">להתפעל</a> באותה <a href=\"/index.php?title=%D7%9E%D7%93%D7%94&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"מדה (הדף אינו קיים)\">מדה</a> שבלב המחוייבת מהשכלה זו, ומורה דרך אשר כל אחד ואחד לפום שיעורא דיליה יכול לגשת אל ה<a href=\"/index.php/%D7%A7%D7%95%D7%93%D7%A9\" title=\"קודש\">קודש</a> לעבוד את <a href=\"/index.php/%D7%94%D7%95%D7%99%27_(%D7%A9%D7%9D)\" class=\"mw-redirect\" title=\"הוי&#39; (שם)\">הוי'</a> ב<a href=\"/index.php/%D7%9E%D7%95%D7%97\" title=\"מוח\">מוחו</a> ולבו.\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20260414010157\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.025 seconds\nReal time usage: 0.040 seconds\nPreprocessor visited node count: 81/1000000\nPost‐expand include size: 5325/2097152 bytes\nTemplate argument size: 499/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   16.493      1 -total\n 65.23%   10.758      1 תבנית:חודש_כסלו\n 46.69%    7.700      1 תבנית:לוח_שנה\n 33.84%    5.581      1 תבנית:להיום_יום\n 21.89%    3.611      1 תבנית:כתב_קטן\n 17.40%    2.870      1 תבנית:היום_יום/י&quot;ז_כסלו\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:19828-0!canonical and timestamp 20260414010157 and revision id 831385. Rendering was triggered because: diff-page\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "ב יז",
+        "*": "ימי_חב\"ד_-_חודש_כסלו"
+      }
+    ],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "א' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אב (חודש)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אברהם ברגמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אייר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנ\"ש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ב' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בינה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בני ברק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ג' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ד' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ה' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הוי' (שם)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ו' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ז' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ח' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חדרה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חודש כסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים שניאור זלמן איטקין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חכמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסיד חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידות חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט\"ו בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט\"ז בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "טבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"א בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ב בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ג בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ד בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ח בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ט בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יודי לוין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ירושלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישיבת מגן אבות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"א בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ב בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ג בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ד בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ה בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ו בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ז בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ח בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ט בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כהנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ל' בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לוח היום יום"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משה שמואל הרטמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עזרא הסופר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פטירה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קלונימוס קופצ'יק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קנדה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רגש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שכל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שניאור זלמן סגל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים לוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורת אמת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תמוז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תש\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשי\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשע\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשרי"
+      },
+      {
+        "ns": 0,
+        "*": "פיגוע הדקירה ב-770"
+      },
+      {
+        "ns": 0,
+        "*": "השגה"
+      },
+      {
+        "ns": 0,
+        "*": "התפעלות"
+      },
+      {
+        "ns": 0,
+        "*": "מדה"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "אירועים ביהדות",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "י\"ז_בכסלו",
+        "byteoffset": 66,
+        "anchor": "אירועים_ביהדות",
+        "linkAnchor": "אירועים_ביהדות"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ימי חב\"ד",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "י\"ז_בכסלו",
+        "byteoffset": 159,
+        "anchor": "ימי_חב\"ד",
+        "linkAnchor": "ימי_חב\"ד"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "נולדו",
+        "number": "2.1",
+        "index": "3",
+        "fromtitle": "י\"ז_בכסלו",
+        "byteoffset": 341,
+        "anchor": "נולדו",
+        "linkAnchor": "נולדו"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "נפטרו",
+        "number": "2.2",
+        "index": "4",
+        "fromtitle": "י\"ז_בכסלו",
+        "byteoffset": 471,
+        "anchor": "נפטרו",
+        "linkAnchor": "נפטרו"
+      }
+    ],
+    "showtoc": ""
+  }
+}

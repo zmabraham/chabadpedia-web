@@ -1,0 +1,279 @@
+{
+  "parse": {
+    "title": "גרשון בורקיס",
+    "pageid": 43601,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/9/9d/%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg/250px-%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg\" decoding=\"async\" width=\"250\" height=\"146\" class=\"mw-file-element\" srcset=\"/images/thumb/9/9d/%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg/375px-%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg 1.5x, /images/thumb/9/9d/%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg/500px-%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1_%D7%90%D7%A6%D7%9C_%D7%94%D7%A8%D7%91%D7%99.jpg 2x\" /></a><figcaption>ר' גרשון בורקיס מוסר לרבי ספרונים חדשים של <a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D_-_%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D\" title=\"סיפורי צדיקים - מחניים\">מחניים</a>.</figcaption></figure>\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png\" class=\"mw-file-description\"><img src=\"/images/thumb/3/3d/%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png/220px-%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png\" decoding=\"async\" width=\"220\" height=\"135\" class=\"mw-file-element\" srcset=\"/images/thumb/3/3d/%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png/330px-%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png 1.5x, /images/thumb/3/3d/%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png/440px-%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99-%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D-%D7%94%D7%A8%D7%91-%D7%92%D7%A8%D7%A9%D7%95%D7%9F-%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1.png 2x\" /></a><figcaption>המוציא לאור ר' <a class=\"mw-selflink selflink\">גרשון בורקיס</a>, עם סט של \"<a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D_-_%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D\" title=\"סיפורי צדיקים - מחניים\">סיפורי צדיקים</a>\"</figcaption></figure>\n<p>הרב <b>גרשון בורקיס</b> (יליד שנת <a href=\"/index.php/%D7%AA%D7%A9%22%D7%96\" title=\"תש&quot;ז\">תש\"ז</a>, 1947) הוא המוציא לאור של סדרת '<a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D_-_%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D\" title=\"סיפורי צדיקים - מחניים\">מחניים</a>' הכוללת <a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D\" title=\"סיפורי חסידים\">סיפורי חסידים</a> מעובדים ומנוקדים לנוער, והראשונה שפרצה את הדרך להוצאה לאור של ספרי הילדים כפי שהם כיום.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.AA.D7.95.D7.9C.D7.93.D7.95.D7.AA_.D7.97.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"תולדות_חיים\">תולדות חיים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;תולדות חיים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: תולדות חיים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>נולד ב<a href=\"/index.php/%D7%A8%D7%95%D7%9E%D7%A0%D7%99%D7%94\" title=\"רומניה\">רומניה</a> ב<a href=\"/index.php/%D7%9B%22%D7%90_%D7%A1%D7%99%D7%95%D7%9F\" class=\"mw-redirect\" title=\"כ&quot;א סיון\">כ\"א סיון</a> <a href=\"/index.php/%D7%AA%D7%A9%22%D7%96\" title=\"תש&quot;ז\">תש\"ז</a>, להוריו בנימין ושרה בורקיס, בהיותו ילד בן שלוש עלתה משפחתו ל<a href=\"/index.php/%D7%90%D7%A8%D7%A5_%D7%94%D7%A7%D7%95%D7%93%D7%A9\" class=\"mw-redirect\" title=\"ארץ הקודש\">ארץ הקודש</a>.\n</p><p>בהגיעו לגיל ישיבה נכנס ללמוד בישיבות המזוהות עם הציבור הדתי לאומי, ולאחר שנחשף לעולמה של <a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA_%D7%97%D7%91%22%D7%93\" title=\"חסידות חב&quot;ד\">חסידות חב\"ד</a> עבר ללמוד (בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9B%22%D7%94\" title=\"תשכ&quot;ה\">תשכ\"ה</a>) בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93\" title=\"תומכי תמימים כפר חב&quot;ד\">תומכי תמימים כפר חב\"ד</a>, ובהמשך, הצטרף בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9B%22%D7%96\" title=\"תשכ&quot;ז\">תשכ\"ז</a> לתלמידים שנסעו ללמוד בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%94%D7%9E%D7%A8%D7%9B%D7%96%D7%99%D7%AA\" class=\"mw-redirect\" title=\"תומכי תמימים המרכזית\">תומכי תמימים המרכזית</a> ב-<a href=\"/index.php/770\" class=\"mw-redirect\" title=\"770\">770</a> במסגרת שנת ה'<a href=\"/index.php/%D7%A7%D7%91%D7%95%D7%A6%D7%94\" title=\"קבוצה\">קבוצה</a>'.\n</p><p>לאחר נישואיו עם רעייתו פנינה קבע את מגוריו ב<a href=\"/index.php/%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%A2%D7%9E%D7%A7\" title=\"מגדל העמק\">מגדל העמק</a> על פי הוראת הרבי שם עסק במסירות שיעורי תורה והפצת חסידות עד לשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%94\" title=\"תשל&quot;ה\">תשל\"ה</a> שאז עבר ל<a href=\"/index.php/%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93\" title=\"כפר חב&quot;ד\">כפר חב\"ד</a> ולאחר שנתיים עבר על פי הוראת הרבי לשיכון חב\"ד ב<a href=\"/index.php/%D7%9C%D7%95%D7%93\" title=\"לוד\">לוד</a>.\n</p><p>שימש מספר שנים כחבר המועצה הדתית בעיר<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>כן הי' חבר <a href=\"/index.php/%D7%A6%D7%A2%D7%99%D7%A8%D7%99_%D7%90%D7%92%D7%95%D7%93%D7%AA_%D7%97%D7%91%22%D7%93_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"צעירי אגודת חב&quot;ד בישראל\">צא\"ח</a> בעיר <a href=\"/index.php/%D7%9C%D7%95%D7%93\" title=\"לוד\">לוד</a>. \n</p><p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9C%22%D7%96\" title=\"תשל&quot;ז\">תשל\"ז</a> נסע לרבי ל<a href=\"/index.php/%D7%99%22%D7%91_%D7%91%D7%AA%D7%9E%D7%95%D7%96\" title=\"י&quot;ב בתמוז\">י\"ב תמוז</a> יחד עם רעייתו ובמהלך ה<a href=\"/index.php/%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA\" title=\"יחידות\">יחידות</a> העלה בפני הרבי טענה שאין לילדיו ספרים שיכולים לקרוא, בעקבות כך הורה לו הרבי ועודדו ונתן לו הוראות מפורטות כיצד לעסוק בהוצאה לאור של <a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D\" title=\"סיפורי חסידים\">סיפורי חסידים</a> מעובדים לילדים, וכך ייסד את הוצאת '<a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D_-_%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D\" title=\"סיפורי צדיקים - מחניים\">סיפורי צדיקים - מחניים</a>', שזכתה להצלחה גדולה בציבור שומרי התורה ומצוות, ולהוראות והדרכות ישירות מהרבי.\n</p><p>הספרונים לילדים היוו חידוש, והיו מההוצאות לאור הראשונות שפרצו את הדרך להוצאה לאור של הספרים המעובדים לילדים כפי שהיא מוכרת כיום.\n</p><p>ר' גרשון, אף הוציא הוצאה מיוחדת מאירת עיניים של ספר ה<a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D\" title=\"תהלים\">תהלים</a> בשם \"כתר דוד\". התהלים במהדורה זו באותיות גדולות במיוחד ועוזר לאנשים שהקריאה באותיות קטנות קשה עליהם, ורוצים להרבות באמירת תהלים.\n</p>\n<h3><span id=\".D7.A9.D7.99.D7.A4.D7.95.D7.A5_.D7.A6.D7.99.D7.95.D7.A0.D7.95_.D7.A9.D7.9C_.D7.94.D7.9C.D7.9C_.D7.94.D7.96.D7.A7.D7.9F\"></span><span class=\"mw-headline\" id=\"שיפוץ_ציונו_של_הלל_הזקן\">שיפוץ ציונו של <a href=\"/index.php/%D7%94%D7%9C%D7%9C_%D7%94%D7%96%D7%A7%D7%9F\" title=\"הלל הזקן\">הלל הזקן</a></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;שיפוץ ציונו של הלל הזקן&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: שיפוץ ציונו של הלל הזקן\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<div align=\"right\" style=\"border: 1px solid #ddd;font-size:smaller; text-align: right; padding:5px 1em 5px 1em; width: auto;\">פרק זה לוקה בחסר. אנא <a href=\"/index.php/%D7%A2%D7%96%D7%A8%D7%94:%D7%9B%D7%AA%D7%99%D7%91%D7%94_%D7%91%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99%D7%94\" title=\"עזרה:כתיבה בחב&quot;דפדיה\">תרמו</a> לחב\"דפדיה והשלימו אותו. יתכן שיש על כך פירוט ב<a href=\"/index.php?title=%D7%A9%D7%99%D7%97%D7%94:%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"שיחה:גרשון בורקיס (הדף אינו קיים)\">דף השיחה</a>. \n</div>\n<p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%90\" title=\"תשפ&quot;א\">תשפ\"א</a> כשרצו להוציא בספריית מחניים ספרון על <a href=\"/index.php/%D7%94%D7%9C%D7%9C_%D7%94%D7%96%D7%A7%D7%9F\" title=\"הלל הזקן\">הלל הזקן</a>, ורצו להוסיף בו את תמונת קברו של הלל הזקן, גילו גרשון ורעייתו פנינה שהציון של הלל הזקן שנמצא בישוב <a href=\"/index.php/%D7%9E%D7%99%D7%A8%D7%95%D7%9F\" title=\"מירון\">מירון</a>, מתחת לציון של <a href=\"/index.php/%D7%A8%D7%91%D7%99_%D7%A9%D7%9E%D7%A2%D7%95%D7%9F_%D7%91%D7%A8_%D7%99%D7%95%D7%97%D7%90%D7%99\" title=\"רבי שמעון בר יוחאי\">רשב\"י</a>, נעול ומטונף במשך עשרות שנים, לאחר מאמצים מרובים ובעזרתו של קצין המשטרה המחוזי הצליחו גרשון ורעייתו פנינה להביא לפתיחת מערת הקבורה של הלל הזקן, אשתו ותלמידיו, אחרי שיפוץ מקיף וסיוד של מערת הציון.\n</p>\n<h2><span id=\".D7.9E.D7.A9.D7.A4.D7.97.D7.AA.D7.95\"></span><span class=\"mw-headline\" id=\"משפחתו\">משפחתו</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;משפחתו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: משפחתו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>בתו, מרת שטערנא אהובה טובה<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">&#91;</span>2<span class=\"cite-bracket\">&#93;</span></a></sup></li>\n<li>בנו, ר' אהרון בורקיס - מנהל הוצאת '<a href=\"/index.php/%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%99_%D7%A6%D7%93%D7%99%D7%A7%D7%99%D7%9D_-_%D7%9E%D7%97%D7%A0%D7%99%D7%99%D7%9D\" title=\"סיפורי צדיקים - מחניים\">מחניים</a>'</li>\n<li>חתנו, הרב שי שור - שליח הרבי באוניברסיטת בר אילן</li>\n<li>חתנו, הרב <a href=\"/index.php?title=%D7%90%D7%A8%D7%99%D7%94_%D7%9C%D7%99%D7%99%D7%91_%D7%94%D7%A8%D7%98%D7%9E%D7%9F&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"אריה לייב הרטמן (הדף אינו קיים)\">אריה לייב הרטמן</a> - שליח הרבי ב<a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%93%D7%92%D7%9F\" title=\"בית דגן\">בית דגן</a></li>\n<li>בנו, ר' שמואל בורקיס - חבר מועצת העיר <a href=\"/index.php/%D7%9C%D7%95%D7%93\" title=\"לוד\">לוד</a></li></ul>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%92%D7%A8%D7%A9%D7%95%D7%9F_%D7%91%D7%95%D7%A8%D7%A7%D7%99%D7%A1&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b>ספרי מחניים לכל ילד</b> – שבועון <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"בית משיח\">בית משיח</a> גיליון 1241 (<a href=\"/index.php/%D7%9B%22%D7%94_%D7%91%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כ&quot;ה בכסלו\">כ\"ה כסלו</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%90\" title=\"תשפ&quot;א\">תשפ\"א</a>) ע' 18.</li>\n<li>כתבה אודות חידוש מקום קבורת <a href=\"/index.php/%D7%94%D7%9C%D7%9C_%D7%94%D7%96%D7%A7%D7%9F\" title=\"הלל הזקן\">הלל הזקן</a> (מערת הלל הזקן) על ידי הרב גרשון ופנינה בורקיס – <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"בית משיח\">בית משיח</a> גיליון 1360.</li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://jemcentral.org/wp-content/uploads/2023/12/444.-Mikeitz-5784.pdf\">מאחורי הקלעים של \"מחניים\"</a></b> <span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span> ראיון וידאו משוכתב בגיליון 'הסיפור שלי' של חברת המדיה החב\"דית <a href=\"/index.php/Jem\" class=\"mw-redirect\" title=\"Jem\">jem</a>.</li></ul>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external text\" href=\"https://anash.org/rabbi-lau-praises-new-machanayim-series/\">הרב לאו משבח את סדרת ספרי מחניים החדשה</a> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%90%D7%A0%22%D7%A9_(%D7%90%D7%AA%D7%A8)\" title=\"קישור לאתר אנ&quot;ש\"><img alt=\"קישור לאתר אנ&quot;ש\" src=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/22px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg\" decoding=\"async\" width=\"22\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/33px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 1.5x, /images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/44px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 2x\" /></a></span></span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">^</a></span> <span class=\"reference-text\">נפטרה ב<a href=\"/index.php/%D7%9B%22%D7%93_%D7%97%D7%A9%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"כ&quot;ד חשוון\">כ\"ד חשוון</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A0%22%D7%95\" title=\"תשנ&quot;ו\">תשנ\"ו</a></span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260413132030\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.081 seconds\nReal time usage: 0.229 seconds\nPreprocessor visited node count: 169/1000000\nPost‐expand include size: 1654/2097152 bytes\nTemplate argument size: 72/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1522/5000000 bytes\nLua time usage: 0.030/7 seconds\nLua virtual size: 5488640/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  191.783      1 -total\n 78.49%  150.537      2 תבנית:הערה\n 14.66%   28.114      1 תבנית:הערות_שוליים\n  4.63%    8.889      1 תבנית:להשלים\n  2.13%    4.080      1 תבנית:הערות_שוליים/מרחב_שם\n  2.11%    4.049      1 תבנית:קטגוריה_בתבנית\n  1.92%    3.674      1 תבנית:אנש\n  1.89%    3.626      1 תבנית:PDF\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:43601-0!canonical and timestamp 20260413132030 and revision id 820559. Rendering was triggered because: unknown\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "חב\"דפדיה:_ערכים_הדורשים_השלמה"
+      },
+      {
+        "sortkey": "",
+        "*": "חסידים_בתקופת_אדמו\"ר_שליט\"א"
+      },
+      {
+        "sortkey": "",
+        "*": "קבוצה_תשכ\"ז"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_בלוד"
+      },
+      {
+        "sortkey": "",
+        "*": "אישים_שנולדו_בשנת_תש\"ז"
+      },
+      {
+        "sortkey": "",
+        "missing": "",
+        "*": "בוגרי_ישיבת_פרחי_אהרן"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנ\"ש (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "770"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Jem"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארץ הקודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית דגן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הלל הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידות חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ב בתמוז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"א סיון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ד חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ה בכסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כפר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מגדל העמק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מירון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיפורי חסידים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיפורי צדיקים - מחניים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צעירי אגודת חב\"ד בישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבוצה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבי שמעון בר יוחאי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רומניה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים המרכזית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים כפר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תש\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשכ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשכ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשל\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשל\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשנ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"א"
+      },
+      {
+        "ns": 0,
+        "*": "אריה לייב הרטמן"
+      },
+      {
+        "ns": 12,
+        "exists": "",
+        "*": "עזרה:כתיבה בחב\"דפדיה"
+      },
+      {
+        "ns": 1,
+        "*": "שיחה:גרשון בורקיס"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תולדות חיים",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "גרשון_בורקיס",
+        "byteoffset": 497,
+        "anchor": "תולדות_חיים",
+        "linkAnchor": "תולדות_חיים"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "שיפוץ ציונו של הלל הזקן",
+        "number": "1.1",
+        "index": "2",
+        "fromtitle": "גרשון_בורקיס",
+        "byteoffset": 2038,
+        "anchor": "שיפוץ_ציונו_של_הלל_הזקן",
+        "linkAnchor": "שיפוץ_ציונו_של_הלל_הזקן"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "משפחתו",
+        "number": "2",
+        "index": "3",
+        "fromtitle": "גרשון_בורקיס",
+        "byteoffset": 2498,
+        "anchor": "משפחתו",
+        "linkAnchor": "משפחתו"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "3",
+        "index": "4",
+        "fromtitle": "גרשון_בורקיס",
+        "byteoffset": 2801,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "4",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

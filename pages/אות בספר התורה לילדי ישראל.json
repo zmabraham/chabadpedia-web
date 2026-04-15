@@ -1,0 +1,692 @@
+{
+  "parse": {
+    "title": "אות בספר התורה לילדי ישראל",
+    "pageid": 2115,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #FFAC99; background-color: #FFEBE5; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #ff7777;\"><font size=\"4\">מבצעי <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a></font>\n</th></tr>\n\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #FFAC99;\"><font size=\"2\"><a href=\"/index.php/%D7%A2%D7%A9%D7%A8%D7%AA_%D7%94%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D\" title=\"עשרת המבצעים\">עשרת המבצעים</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F\" title=\"מבצע תפילין\">תפילין</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%AA%D7%95%D7%A8%D7%94\" title=\"מבצע תורה\">תורה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9E%D7%96%D7%95%D7%96%D7%94\" title=\"מבצע מזוזה\">מזוזה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A6%D7%93%D7%A7%D7%94\" title=\"מבצע צדקה\">צדקה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%91%D7%99%D7%AA_%D7%9E%D7%9C%D7%90_%D7%A1%D7%A4%D7%A8%D7%99%D7%9D\" title=\"מבצע בית מלא ספרים\">בית מלא ספרים</a> - <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%99%D7%91%D7%A0%D7%94_%D7%95%D7%97%D7%9B%D7%9E%D7%99%D7%94\" title=\"מבצע יבנה וחכמיה\">יבנה וחכמיה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A0%D7%A8%D7%95%D7%AA_%D7%A9%D7%91%D7%AA_%D7%A7%D7%95%D7%93%D7%A9\" title=\"מבצע נרות שבת קודש\">נש\"ק</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9B%D7%A9%D7%A8%D7%95%D7%AA_%D7%94%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%94%D7%A9%D7%AA%D7%99%D7%94\" title=\"מבצע כשרות האכילה והשתיה\">כשרות</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%98%D7%94%D7%A8%D7%AA_%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94\" title=\"מבצע טהרת המשפחה\">טהרת המשפחה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%97%D7%99%D7%A0%D7%95%D7%9A\" title=\"מבצע חינוך\">חינוך</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"מבצע אהבת ישראל\">אהבת ישראל</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #FFAC99;\"><font size=\"2\">מבצעים שונים</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9E%D7%A1%D7%99%D7%91%D7%95%D7%AA_%D7%A9%D7%91%D7%AA\" title=\"מסיבות שבת\">מסיבות שבת</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A9%D7%95%D7%A4%D7%A8\" title=\"מבצע שופר\">שופר</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9C%D7%95%D7%9C%D7%91\" title=\"מבצע לולב\">לולב</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%97%D7%A0%D7%95%D7%9B%D7%94\" title=\"מבצע חנוכה\">חנוכה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A4%D7%95%D7%A8%D7%99%D7%9D\" title=\"מבצע פורים\">פורים</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9E%D7%A6%D7%94\" title=\"מבצע מצה\">מצה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%95%D7%94%D7%A9%D7%99%D7%91_%D7%9C%D7%91_%D7%90%D7%91%D7%95%D7%AA_%D7%A2%D7%9C_%D7%91%D7%A0%D7%99%D7%9D\" title=\"מבצע והשיב לב אבות על בנים\">והשיב לב אבות על בנים</a> · <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%95%D7%9B%D7%AA_%D7%9C%22%D7%92_%D7%91%D7%A2%D7%95%D7%9E%D7%A8\" title=\"תהלוכת ל&quot;ג בעומר\">ל\"ג בעומר</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A2%D7%A9%D7%A8%D7%AA_%D7%94%D7%93%D7%91%D7%A8%D7%95%D7%AA\" title=\"מבצע עשרת הדברות\">עשרת הדברות</a> · <a class=\"mw-selflink selflink\">אות בספר התורה לילדי ישראל</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%94%D7%9B%D7%9C%D7%9C%D7%99\" title=\"ספר תורה הכללי\">אות בספר תורה הכללי</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%97%D7%99%D7%99%D7%9C%D7%99_%D7%A6%D7%94%22%D7%9C\" title=\"ספר תורה לחיילי צה&quot;ל\">אות בספר תורה לחיילי צה\"ל</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%94%D7%A7%D7%94%D7%9C\" title=\"מבצע הקהל\">הקהל</a> · <a href=\"/index.php/%D7%A7%D7%91%D7%9C%D7%AA_%D7%A4%D7%A0%D7%99_%D7%9E%D7%A9%D7%99%D7%97_%D7%A6%D7%93%D7%A7%D7%A0%D7%95\" class=\"mw-redirect\" title=\"קבלת פני משיח צדקנו\">משיח</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"מבצע יום הולדת\">יום הולדת</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%94%D7%A7%D7%94%D7%9C%D7%AA_%D7%A7%D7%94%D7%99%D7%9C%D7%95%D7%AA\" title=\"מבצע הקהלת קהילות\">הקהלת קהילות</a> · <a href=\"/index.php/%D7%94%D7%93%D7%A4%D7%A1%D7%AA_%D7%94%D7%AA%D7%A0%D7%99%D7%90\" title=\"הדפסת התניא\">הדפסת התניא</a> · <a href=\"/index.php/%D7%A2%D7%99%D7%93%D7%95%D7%93_%D7%94%D7%99%D7%9C%D7%95%D7%93%D7%94\" class=\"mw-redirect\" title=\"עידוד הילודה\">עידוד הילודה</a>\n</td></tr>\n</tbody></table>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/0/05/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg/220px-%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg\" decoding=\"async\" width=\"220\" height=\"164\" class=\"mw-file-element\" srcset=\"/images/thumb/0/05/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg/330px-%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg 1.5x, /images/0/05/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg 2x\" /></a><figcaption>לוגו מטה \"אות בספר התורה של ילדי ישראל\"</figcaption></figure>\n<figure typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/e/e4/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg/250px-%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg\" decoding=\"async\" width=\"250\" height=\"167\" class=\"mw-file-element\" srcset=\"/images/thumb/e/e4/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg/375px-%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg 1.5x, /images/thumb/e/e4/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg/500px-%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%A6%D7%99%D7%95%D7%A8.jpg 2x\" /></a><figcaption>ציור קיר של לוגו מטה המבצע (צויר ע\"י האמן שלום בער בורקיס, קינגסטון, קראון הייטס)</figcaption></figure>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg\" class=\"mw-file-description\"><img src=\"/images/thumb/2/20/%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg/220px-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg\" decoding=\"async\" width=\"220\" height=\"125\" class=\"mw-file-element\" srcset=\"/images/thumb/2/20/%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg/330px-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg 1.5x, /images/thumb/2/20/%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg/440px-%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A1%D7%AA_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_8.jpeg 2x\" /></a><figcaption>חגיגת הכנסת ספר תורה השמיני לילדי ישראל</figcaption></figure>\n<p>מבצע כתיבת <b>ספר התורה של ילדי ישראל</b> הוא מבצע שיזם <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> על מנת לאחד את כלל <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a> מרחבי העולם, כשכל ילד או ילדה מתחת לגיל מצוות רוכשים אות אחת בספר התורה במחיר סימלי, ומקבלים תעודה בה רשום באיזו פרשה נמצאת האות 'שלו' בספר התורה. נכון לחודש מנחם אב <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%92\" title=\"תשפ&quot;ג\">תשפ\"ג</a> נכתבו שמונה ספרי תורה המאחדים יותר מ-2,500,000 ילדי ישראל סביב ספרי התורה.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.94.D7.99.D7.A1.D7.98.D7.95.D7.A8.D7.99.D7.99.D7.AA_.D7.94.D7.9E.D7.91.D7.A6.D7.A2\"></span><span class=\"mw-headline\" id=\"היסטוריית_המבצע\">היסטוריית המבצע</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;היסטוריית המבצע&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: היסטוריית המבצע\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/f/f6/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg/220px-%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg\" decoding=\"async\" width=\"220\" height=\"194\" class=\"mw-file-element\" srcset=\"/images/thumb/f/f6/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg/330px-%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg 1.5x, /images/thumb/f/f6/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg/440px-%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%90%D7%9F.jpg 2x\" /></a><figcaption>הרב גרייזמאן במשרדי המטה</figcaption></figure>\n<p>ב<a href=\"/index.php/%D7%99%22%D7%90_%D7%A0%D7%99%D7%A1%D7%9F\" class=\"mw-redirect\" title=\"י&quot;א ניסן\">י\"א ניסן</a> בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%90\" title=\"תשמ&quot;א\">תשמ\"א</a> ביקש הרבי לאחד את כל ילדי <a href=\"/index.php/%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"ישראל\">ישראל</a> - בנים לפני <a href=\"/index.php/%D7%91%D7%A8_%D7%9E%D7%A6%D7%95%D7%95%D7%94\" title=\"בר מצווה\">בר מצווה</a> ובנות לפני <a href=\"/index.php/%D7%91%D7%AA_%D7%9E%D7%A6%D7%95%D7%95%D7%94\" title=\"בת מצווה\">בת מצווה</a> - ב<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94\" title=\"ספר תורה\">ספר תורה</a> מיוחד שאת אותיותיו יקנו <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a> מכל קצוות תבל, כדי לחזק את הקשר שלהם עם התורה ובכדי לאחד את כל ילדי ישראל סביב תורתנו הקדושה.\n</p><p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%91\" title=\"תשמ&quot;ב\">תשמ\"ב</a> הועברו ענייני הספר לוועד לעניני <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%A9%D7%9C_%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"ספר התורה של ילדי ישראל\">ספר התורה של ילדי ישראל</a> שעל ידי <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%93%D7%99%D7%9F_%D7%A8%D7%91%D7%A0%D7%99_%D7%97%D7%91%22%D7%93\" class=\"mw-redirect\" title=\"בית דין רבני חב&quot;ד\">בית דין רבני חב\"ד</a> בראשות הרב <a href=\"/index.php/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%9F\" title=\"שמואל גרייזמן\">שמואל גרייזמן</a>.\n</p><p>במבצע זה, כמו בשאר <a href=\"/index.php/%D7%A2%D7%A9%D7%A8%D7%AA_%D7%94%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D\" title=\"עשרת המבצעים\">מבצעיו הקדושים</a>, הרבי \"פתח\" דרך וכיוון, ומאז נפוץ המנהג בקהילות יהודיות רבות ב<a href=\"/index.php/%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ארץ ישראל\">ארץ ישראל</a> ובתפוצות, למכור אותיות ב<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94\" title=\"ספר תורה\">ספר תורה</a>; אך עדיין מיוחד ומופלא ספר תורה זה, בכך שהוא מאחד מאות אלפי <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a> בספר תורה אחד ומיוחד.\n</p><p>הרבי הסביר כי על ידי כתיבת <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94\" title=\"ספר תורה\">ספר תורה</a> משותף, נוצרת <a href=\"/index.php/%D7%90%D7%97%D7%93%D7%95%D7%AA\" title=\"אחדות\">אחדות</a> בין כל חלקי עם ישראל<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>בנוסף התבטא <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> כי מצוות כתיבת ספר תורה היא המצווה האחרונה ב<a href=\"/index.php/%D7%AA%D7%A8%D7%99%22%D7%92_%D7%94%D7%9E%D7%A6%D7%95%D7%95%D7%AA\" class=\"mw-redirect\" title=\"תרי&quot;ג המצוות\">תרי\"ג המצוות</a>, ובוודאי כאשר כלל <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a> מקיימים את המצווה האחרונה, מחישים וממהרים את ביאת ה<a href=\"/index.php/%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"גאולה\">גאולה</a> האמתית והשלימה בקרוב ממש.\n</p><p>רבנים ואדמו\"רים רבים הצטרפו לקריאתו של <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a>, רכשו <a href=\"/index.php/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"אות בספר התורה\">אות בספר התורה</a> לצאצאיהם, ואף נטלו חלק במעמדי הסיום של כתיבת הספרי תורה.\n</p>\n<figure class=\"mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/7/73/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg/250px-%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg\" decoding=\"async\" width=\"250\" height=\"371\" class=\"mw-file-element\" srcset=\"/images/thumb/7/73/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg/375px-%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg 1.5x, /images/thumb/7/73/%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg/500px-%D7%AA%D7%A2%D7%95%D7%93%D7%AA_%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94.jpg 2x\" /></a><figcaption>תעודה לדוגמה</figcaption></figure>\n<p>על פי הוראת <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a>, כל אחד מהילדים הרוכש אות מקבל לביתו תעודה מעוצבת ומסוגננת (גודל התעודה כיום הוא 15.5×23 ס\"מ), בה רשום שמו הפרטי והפרשה בה מופיעה האות אותה רכש, אך לא מצויין באיזו מילה או באיזה פסוק מופיעה האות מכיוון שלחלק מהפסוקים יש משמעות שלילית ויש מי שעלול להיפגע מכך.\n</p><p>את העיצוב והתוכן של התעודה קבע הרבי עצמו ואף <a href=\"/index.php/%D7%94%D7%92%D7%94%D7%94\" class=\"mw-redirect\" title=\"הגהה\">הגיה</a> אותה מספר פעמים<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">&#91;</span>2<span class=\"cite-bracket\">&#93;</span></a></sup>, שביקש שהתעודות יהיו יפות ומהודרות הם מבחינת העיצוב הגרפי והן מבחינת ההדפסה וסוג הנייר וכו', באופן כזה שה<a href=\"/index.php/%D7%99%D7%9C%D7%93\" class=\"mw-redirect\" title=\"ילד\">ילד</a> יתגאה בתעודה ויראה אותה גם לחבריו.\n</p><p>בכל פעם בה נשלמת כתיבתו של אחד מספרי התורה, נערך ביום חגיגי בבית הכנסת צמח צדק ונערכת תהלוכה חגיגית ומסיבת <a href=\"/index.php/%D7%A9%D7%9E%D7%97%D7%94\" title=\"שמחה\">שמחה</a> מיוחדת בהשתתפות <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a>, התהלוכה יוצאת מבית הכנסת צמח צדק ועד הכותל, שם מנערכות הקפות ולאחר מכן על פי הוראת הרבי<span class=\"source-needed-all\"><sup>[</sup><sup><a href=\"/index.php/%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99%D7%94:%D7%91%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94\" title=\"חב&quot;דפדיה:ביבליוגרפיה\">דרוש מקור</a>]</sup></span> מועבר הספר ל<a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A0%D7%A1%D7%AA_%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7\" class=\"mw-redirect mw-disambig\" title=\"בית הכנסת צמח צדק\">בית הכנסת צמח צדק</a> ב<a href=\"/index.php/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"ירושלים\">ירושלים</a>. מסיבות הסיום לגמרה של תורה נערכות בדרך כלל בתאריך כ' מנחם אב, יום היארצייט של רבי <a href=\"/index.php/%D7%9C%D7%95%D7%99_%D7%99%D7%A6%D7%97%D7%A7_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F\" class=\"mw-redirect\" title=\"לוי יצחק שניאורסון\">לוי יצחק שניאורסון</a>, אביו של הרבי. בנוסף מתחילת המבצע ב<a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%90\" title=\"תשמ&quot;א\">תשמ\"א</a> הרבי התעניין מדי <a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%A9%D7%99%D7%A9%D7%99\" class=\"mw-redirect\" title=\"יום שישי\">יום שישי</a> כמה ילדים נרשמו בשבוע האחרון לאות בספר בספר התורה<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">&#91;</span>3<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>נכון לשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%91\" title=\"תשפ&quot;ב\">תשפ\"ב</a>, למעלה משני מיליון <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"ילדי ישראל\">ילדי ישראל</a> קנו אותיות בספרי התורה המיוחדים של ילדי ישראל! לפי אומדנים שונים, מדובר על יותר משליש מילדי ישראל בעולם כולו שזכו להתחבר ולהתאחד בתורה ולקיים את הוראת <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a>.\n</p>\n<h2><span id=\".D7.94.D7.95.D7.A8.D7.90.D7.95.D7.AA_.D7.94.D7.9E.D7.91.D7.A6.D7.A2\"></span><span class=\"mw-headline\" id=\"הוראות_המבצע\">הוראות המבצע</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;הוראות המבצע&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: הוראות המבצע\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>ב<a href=\"/index.php/%D7%99%22%D7%92_%D7%A0%D7%99%D7%A1%D7%9F\" class=\"mw-redirect\" title=\"י&quot;ג ניסן\">י\"ג ניסן</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%90\" title=\"תשמ&quot;א\">תשמ\"א</a> הורה הרבי שאת הבקשה בכתב, ברכישת האות יכתוב הילד בעצמו, או לפחות חלק מהמכתב, והסביר בצורה 'ציורית' ומרתקת – כיצד ילד כותב מכתב<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">&#91;</span>4<span class=\"cite-bracket\">&#93;</span></a></sup>. הרבי הוסיף, שכמדובר בתינוקות ובפעוטות שעדיין לא כותבים – כדאי למלא את הטופס בנכחותם, ויש לכך השפעה אפילו לתינוק בן יומו...\n</p><p>ב<a href=\"/index.php/%D7%9B%27_%D7%90%D7%99%D7%99%D7%A8\" class=\"mw-redirect\" title=\"כ&#39; אייר\">כ' אייר</a> תשמ\"א בשיחה ל<a href=\"/index.php/%D7%A0%D7%A9%D7%99_%D7%95%D7%91%D7%A0%D7%95%D7%AA_%D7%97%D7%91%22%D7%93\" class=\"mw-redirect\" title=\"נשי ובנות חב&quot;ד\">נשי ובנות חב\"ד</a> הורה הרבי שאת דמי הרישום ל<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"ספר התורה\">ספר התורה</a> יתנו ההורים במתנה לילד, כך שהכסף יהיה שלו, ולאחר מכן למסור את הכסף בשליחותו.\n</p>\n<h2><span id=\".D7.9E.D7.91.D7.A6.D7.A2.D7.99_.D7.94.D7.A1.D7.99.D7.95.D7.9D\"></span><span class=\"mw-headline\" id=\"מבצעי_הסיום\">מבצעי הסיום</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;מבצעי הסיום&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: מבצעי הסיום\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg\" class=\"mw-file-description\"><img src=\"/images/thumb/f/f3/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg/220px-%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg\" decoding=\"async\" width=\"220\" height=\"281\" class=\"mw-file-element\" srcset=\"/images/thumb/f/f3/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg/330px-%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg 1.5x, /images/thumb/f/f3/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg/440px-%D7%9E%D7%91%D7%A6%D7%A2_%D7%A1%22%D7%AA_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%94%D7%AA%D7%90%D7%97%D7%93%D7%95%D7%AA.jpeg 2x\" /></a><figcaption>מבצע סיום מהיר - ספר תורה לילדי ישראל יחד עם התאחדות החסידים</figcaption></figure>\n<p>לקראת סיום אותיות הספר תורה, <a href=\"/index.php/%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9D\" class=\"mw-redirect\" title=\"חסידים\">חסידים</a>, <a href=\"/index.php/%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D\" class=\"mw-redirect\" title=\"תמימים\">תמימים</a> וארגונים נוספים יוצאים למבצע מכירת אות בספר התורה על מנת להאיץ את סיום כתיבתו עד לתאריך כ' במנחם אב או עד סוף שנת הקהל.\n</p><p>המבצעים בד\"כ נושאי פרסים ופועלים בערוצי התקשורת, ברשתות חברתיות, פעילויות במוסדות חינוך באמצעות <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D\" class=\"mw-redirect\" title=\"שלוחים\">שלוחים</a>, הקמת דוכנים ועוד<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">&#91;</span>5<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%92\" title=\"תשפ&quot;ג\">תשפ\"ג</a>, בעקבות מיזם מיוחד לסיום האותיות בספר התורה השמיני עד מועד הסיום ב<a href=\"/index.php/%D7%9B%27_%D7%91%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" title=\"כ&#39; במנחם אב\">כ' במנחם אב</a>, התאגדו אלפי אנ\"ש והתמימים והצליחו לסיים את הרישום לאותיות ספר התורה השמיני<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">&#91;</span>6<span class=\"cite-bracket\">&#93;</span></a></sup> בתאריך <a href=\"/index.php/%D7%9B%22%D7%93_%D7%91%D7%AA%D7%9E%D7%95%D7%96\" title=\"כ&quot;ד בתמוז\">כ\"ד בתמוז</a> - 25 יום לפני הסיום המתוכנן<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">&#91;</span>7<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p>\n<h2><span id=\".D7.A1.D7.A4.D7.A8_.D7.AA.D7.95.D7.A8.D7.94_.D7.94.D7.9B.D7.9C.D7.9C.D7.99\"></span><span class=\"mw-headline\" id=\"ספר_תורה_הכללי\">ספר תורה הכללי</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;ספר תורה הכללי&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: ספר תורה הכללי\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<dl><dd><span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, /images/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x\" /></span></span> ערך מורחב – <b><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%94%D7%9B%D7%9C%D7%9C%D7%99\" title=\"ספר תורה הכללי\">ספר תורה הכללי</a></b><br /></dd></dl>\n<p>בהמשך למבצע אות בספר תורה לילדי ישראל, התחיל הרבי בסוף שנת <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%90\" title=\"תשמ&quot;א\">תשמ\"א</a> את מבצע אות בספר תורה לכל יהודי.\n</p>\n<h2><span id=\".D7.AA.D7.90.D7.A8.D7.99.D7.9B.D7.99.D7.9D_.D7.91.D7.94.D7.9D_.D7.94.D7.95.D7.9B.D7.A0.D7.A1.D7.95_.D7.A1.D7.A4.D7.A8.D7.99_.D7.94.D7.AA.D7.95.D7.A8.D7.94\"></span><span class=\"mw-headline\" id=\"תאריכים_בהם_הוכנסו_ספרי_התורה\">תאריכים בהם הוכנסו ספרי התורה</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;תאריכים בהם הוכנסו ספרי התורה&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: תאריכים בהם הוכנסו ספרי התורה\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:8.png\" class=\"mw-file-description\"><img src=\"/images/thumb/6/60/8.png/220px-8.png\" decoding=\"async\" width=\"220\" height=\"161\" class=\"mw-file-element\" srcset=\"/images/thumb/6/60/8.png/330px-8.png 1.5x, /images/thumb/6/60/8.png/440px-8.png 2x\" /></a><figcaption></figcaption></figure>\n<ul><li>ספר התורה הראשון - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%90\" title=\"תשמ&quot;א\">תשמ\"א</a>, <a href=\"/index.php/%D7%A9%D7%A0%D7%AA_%D7%94%D7%A7%D7%94%D7%9C\" title=\"שנת הקהל\">שנת הקהל</a><sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">&#91;</span>8<span class=\"cite-bracket\">&#93;</span></a></sup></li>\n<li>ספר התורה השני - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%95\" title=\"תשמ&quot;ו\">תשמ\"ו</a></li>\n<li>ספר התורה השלישי - <a href=\"/index.php/%D7%9B%22%D7%95_%D7%90%D7%9C%D7%95%D7%9C\" class=\"mw-redirect\" title=\"כ&quot;ו אלול\">כ\"ו אלול</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A0%22%D7%94\" title=\"תשנ&quot;ה\">תשנ\"ה</a>, <a href=\"/index.php/%D7%A9%D7%A0%D7%AA_%D7%94%D7%A7%D7%94%D7%9C\" title=\"שנת הקהל\">שנת הקהל</a></li>\n<li>ספר התורה הרביעי - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%94\" title=\"תשס&quot;ה\">תשס\"ה</a></li>\n<li>ספר התורה החמישי - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A2%22%D7%91\" title=\"תשע&quot;ב\">תשע\"ב</a></li>\n<li>ספר התורה השישי - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A2%22%D7%95\" title=\"תשע&quot;ו\">תשע\"ו</a>, <a href=\"/index.php/%D7%A9%D7%A0%D7%AA_%D7%94%D7%A7%D7%94%D7%9C\" title=\"שנת הקהל\">שנת הקהל</a></li>\n<li>ספר התורה השביעי - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%90\" title=\"תשפ&quot;א\">תשפ\"א</a><sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">&#91;</span>9<span class=\"cite-bracket\">&#93;</span></a></sup></li>\n<li>ספר התורה השמיני - <a href=\"/index.php/%D7%9B%27_%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" class=\"mw-redirect\" title=\"כ&#39; מנחם אב\">כ' מנחם אב</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%92\" title=\"תשפ&quot;ג\">תשפ\"ג</a>, <a href=\"/index.php/%D7%A9%D7%A0%D7%AA_%D7%94%D7%A7%D7%94%D7%9C\" title=\"שנת הקהל\">שנת הקהל</a><sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">&#91;</span>10<span class=\"cite-bracket\">&#93;</span></a></sup></li></ul>\n<h2><span id=\".D7.A8.D7.90.D7.95_.D7.92.D7.9D\"></span><span class=\"mw-headline\" id=\"ראו_גם\">ראו גם</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;ראו גם&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: ראו גם\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%94%D7%9B%D7%9C%D7%9C%D7%99\" title=\"ספר תורה הכללי\">ספר תורה הכללי</a></li>\n<li><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%97%D7%99%D7%99%D7%9C%D7%99_%D7%A6%D7%94%22%D7%9C\" title=\"ספר תורה לחיילי צה&quot;ל\">ספר תורה לחיילי צה\"ל</a></li>\n<li><a href=\"/index.php/%D7%95%D7%A2%D7%AA%D7%94_%D7%9B%D7%AA%D7%91%D7%95_%D7%9C%D7%9B%D7%9D_(%D7%A0%D7%99%D7%92%D7%95%D7%9F)\" title=\"ועתה כתבו לכם (ניגון)\">ועתה כתבו לכם (ניגון)</a></li></ul>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>הרב <a href=\"/index.php/%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%90%D7%9C%D7%A4%D7%A0%D7%91%D7%99%D7%99%D7%9F\" class=\"mw-redirect\" title=\"ישראל אלפנביין\">ישראל אלפנביין</a>, <b>אות בספר תורה - ספרי התורה לאחדות ישראל</b>, אלבום תיעודי שיצא לאור לקראת שנת השלושים ליסוד המבצע בהוצאת הועד לכתיבת <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94\" title=\"ספר תורה\">ספר תורה</a> לילדי ישראל, <a href=\"/index.php/%D7%A0%D7%99%D7%A1%D7%9F\" class=\"mw-redirect\" title=\"ניסן\">ניסן</a> תשס\"ט</li>\n<li><a href=\"/index.php/%D7%90%D7%91%D7%A8%D7%94%D7%9D_%D7%A8%D7%99%D7%99%D7%A0%D7%99%D7%A5\" class=\"mw-redirect\" title=\"אברהם רייניץ\">אברהם רייניץ</a>, ראיון עם הרב <a href=\"/index.php/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%9F\" title=\"שמואל גרייזמן\">שמואל גרייזמן</a> לקראת סיום ספר תורה הרביעי של ילדי ישראל <span typeof=\"mw:File\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"קישור לשבועון בית משיח\"><img alt=\"קישור לשבועון בית משיח\" src=\"/images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/60px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png\" decoding=\"async\" width=\"60\" height=\"13\" class=\"mw-file-element\" srcset=\"/images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/90px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png 1.5x, /images/thumb/0/03/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png/120px-%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%9C%D7%90_%D7%A8%D7%A7%D7%A2.png 2x\" /></a></span> גיליון 505</li>\n<li><b>כל השביעין חביבין</b>, סקירה לרגל הכנסת ספר התורה השביעי מנחם אב תשפ\"א - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"כפר חב&quot;ד (שבועון)\"><img src=\"/images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/60px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg\" decoding=\"async\" width=\"60\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/90px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg 1.5x, /images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/120px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg 2x\" /></a></span> 1920 עמוד 48</li>\n<li><b>בקשה גדולה ונפשית בכל לשון של בקשה</b>, במדור 'חיי רבי' <span typeof=\"mw:File\"><a href=\"/index.php/%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"כפר חב&quot;ד (שבועון)\"><img src=\"/images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/60px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg\" decoding=\"async\" width=\"60\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/90px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg 1.5x, /images/thumb/1/1c/%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg/120px-%D7%9C%D7%95%D7%92%D7%95_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93.jpeg 2x\" /></a></span></li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;veaction=edit&amp;section=8\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;action=edit&amp;section=8\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.kidstorah.org/אות-בספר-תורה\">דף הבית של אות בספר התורה לילדי ישראל</a></b></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.he.chabad.org/kids/torah/default_cdo/aid/992381\">ספר התורה של ילדי ישראל</a></b> - דף הנחתה מיוחד באתר בית חב\"ד הכולל מידע על המבצע ואפשרויות הרשמה</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kidstorah.org/Default_cdo/lang/he\">אתר מבצע אות בספר התורה (עברית ואנגלית)</a></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/images/notimage/62675_he_1.pdf\">לכל ילד וילדה אות בספר התורה</a><span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span> עלון פרסומי - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.beismoshiach.org/Lashon_HaKodesh/pdf/736.pdf\">שלוש התוועדויות בערב חג הפסח</a></b> סקירה ממצה על מבצע אות בספר תורה בליווי תצלומים נדירים, בתוך <a href=\"/index.php/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"שבועון בית משיח\">שבועון בית משיח</a> גליון 736 עמוד 80</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70816\">ההוראות למעיל לס\"ת של ילדי ישראל ● כתי\"ק</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70819\">הרבי שולח עידוד למצטיינים: קורצוויל, ציק ונחשון</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70844\">הכנסת ספר התורה הראשון ● יומן מרתק</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li>הרב <a href=\"/index.php/%D7%A9%D7%9E%D7%95%D7%90%D7%9C_%D7%92%D7%A8%D7%99%D7%99%D7%96%D7%9E%D7%9F\" title=\"שמואל גרייזמן\">שמואל גרייזמן</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70783\">התעוררות עצומה - בגלל החשש מ</a><a href=\"/index.php/%D7%90%D7%99%D7%A8%D7%90%D7%9F\" title=\"איראן\">איראן</a> - לרגל סיום ספר התורה החמישי של ילדי ישראל <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span> י\"ז אב התשע\"ב (05.08.2012)</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=news&amp;id=71808\">מדהים: הרבי חוזה את הפצצת הכור האטומי בעיראק ● כתבה על התקופה ופרטים רבים</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D_(%D7%90%D7%AA%D7%A8)\" title=\"קישור שטורעם\"><img alt=\"קישור שטורעם\" src=\"/images/thumb/8/89/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG/15px-%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG\" decoding=\"async\" width=\"15\" height=\"14\" class=\"mw-file-element\" srcset=\"/images/8/89/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG 1.5x\" /></a></span> <span class=\"grayText\"><small>(הקישור אינו פעיל)</small></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://myencounterblog.com/wp-content/uploads/2020/05/257.-Behar-Bechukosai-5780.pdf\">הדרך לחזק את שלום העולם</a></b> <span typeof=\"mw:File\"><a href=\"https://chabadpedia.co.il/images/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" title=\"קובץ PDF\" rel=\"nofollow\"><img alt=\"קובץ PDF\" src=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/17px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg\" decoding=\"async\" width=\"17\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/26px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 1.5x, /images/thumb/6/6e/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg/35px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_PDF_%D7%97%D7%93%D7%A9.jpeg 2x\" /></a></span> ראיון בעלון 'המפגש שלי' של חברת המדיה החב\"דית <a href=\"/index.php/Jem\" class=\"mw-redirect\" title=\"Jem\">jem</a>, פרשת בהר-בחוקותי תש\"פ</li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/video/news-video/963327/\">ראש העיר צפת לתושבים: \"רשמו ילדיכם לאות בספר התורה\"</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li></ul>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/%d7%95%d7%90%d7%91%d7%99%d7%98%d7%94-%d7%a0%d7%a4%d7%9c%d7%90%d7%95%d7%aa/documentary/%d7%95%d7%90%d7%91%d7%99%d7%98%d7%94-%d7%a0%d7%a4%d7%9c%d7%90%d7%95%d7%aa/963320/?old\">הרב גרייזמאן מספר על הספר הראשון, מבית ואביטה נפלאות שע\"י את\"ה העולמי.</a></b></li></ul>\n<dl><dt>וידאו</dt></dl>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://he.chabad.org/multimedia/media_cdo/aid/2969758\">אחדות ישראל על ידי ספר התורה</a></b> - שיחת הרבי, י\"א ניסן תשמ\"א <span typeof=\"mw:File\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%97%D7%91%22%D7%93_(%D7%90%D7%AA%D7%A8)\" title=\"קישור לאתר בית חב&quot;ד\"><img alt=\"קישור לאתר בית חב&quot;ד\" src=\"/images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/22px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG\" decoding=\"async\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/33px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG 1.5x, /images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/44px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG 2x\" /></a></span></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"https://col.org.il/news/147121\">\"מכובד בהצבת הכתר\": הכנסת סה\"ת הראשון של ילדי ישראל</a>, באתר COL</li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://chabad.info/video/kids/סיפורים/סרטון-אנימציה-למקורבים-על-אות-בספר-התו/\">סרטון אנימציה על מבצע אות בספר התורה</a></b> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span> ג' אדר שני תשע\"ו</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70737\">קליפ לרגל סיום ספר התורה לילדי ישראל ● לצפיה</a> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://he.chabad.org/multimedia/media_cdo/aid/2969761\">כוחה של אות אחת - חלק ראשון</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"http://he.chabad.org/multimedia/media_cdo/aid/2971933\">חלק שני</a></b> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%97%D7%91%22%D7%93_(%D7%90%D7%AA%D7%A8)\" title=\"קישור לאתר בית חב&quot;ד\"><img alt=\"קישור לאתר בית חב&quot;ד\" src=\"/images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/22px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG\" decoding=\"async\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/33px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG 1.5x, /images/thumb/d/d5/%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG/44px-%D7%90%D7%AA%D7%A8_%D7%91%D7%99%D7%AA_%D7%97%D7%91%D7%93.PNG 2x\" /></a></span> ראיון עם הרב גרייזמן בתכנית 'המפגש שלי' של חברת <a href=\"/index.php/Jem\" class=\"mw-redirect\" title=\"Jem\">jem</a></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://chabad.info/video/kids/תכנית-ראלי/רק-בחבד-אינפו-תכנית-מלאה-של-ראלי-לצפיה/\">מבצע אות בספר התורה</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%AA%D7%91%D7%A0%D7%99%D7%AA:%D7%95%D7%99%D7%93%D7%90%D7%95\" title=\"קובץ וידאו\"><img alt=\"קובץ וידאו\" src=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/16px-%D7%95%D7%99%D7%93%D7%90%D7%95.png\" decoding=\"async\" width=\"16\" height=\"16\" class=\"mw-file-element\" srcset=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/24px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 1.5x, /images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/32px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 2x\" /></a></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"קישור לאתר חב&quot;ד אינפו\"><img alt=\"קישור לאתר חב&quot;ד אינפו\" src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/29px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"29\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/44px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/58px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span> מתוך תכנית הראלי של <a href=\"/index.php/%D7%A6%D7%91%D7%90%D7%95%D7%AA_%D7%94%D7%A9%D7%9D_%D7%91%D7%90%D7%A8%D7%A5_%D7%94%D7%A7%D7%95%D7%93%D7%A9\" class=\"mw-redirect\" title=\"צבאות השם בארץ הקודש\">צבאות השם בארץ הקודש</a></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/video/kids/rebbekids/רבי-לילדים-הָאוֹת-%d7%94%d6%b7%d7%9e%d6%bc%d6%b0%d7%99%d6%bb%d7%97%d6%b6%d7%93%d6%b6%d7%aa-%d7%a9%d7%81%d6%b6%d7%9c%d6%bc/\">רבי לילדים: הָאוֹת הַמְּיֻחֶדֶת שֶׁלִּי</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%AA%D7%91%D7%A0%D7%99%D7%AA:%D7%95%D7%99%D7%93%D7%90%D7%95\" title=\"קובץ וידאו\"><img alt=\"קובץ וידאו\" src=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/16px-%D7%95%D7%99%D7%93%D7%90%D7%95.png\" decoding=\"async\" width=\"16\" height=\"16\" class=\"mw-file-element\" srcset=\"/images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/24px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 1.5x, /images/thumb/4/46/%D7%95%D7%99%D7%93%D7%90%D7%95.png/32px-%D7%95%D7%99%D7%93%D7%90%D7%95.png 2x\" /></a></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"קישור לאתר חב&quot;ד אינפו\"><img alt=\"קישור לאתר חב&quot;ד אינפו\" src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/29px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"29\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/44px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/58px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/video/documentary/%d7%95%d7%90%d7%91%d7%99%d7%98%d7%94-%d7%a0%d7%a4%d7%9c%d7%90%d7%95%d7%aa/963320\">צפו: \"הרבי שאל כמה אותיות קנו בספר התורה\"?</a></b> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li></ul>\n<dl><dt>תמונות</dt></dl>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70884\">הרובע היהודי רקד משמחה ● גלריה</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://old2.ih.chabad.info/#!g=1&amp;url=article&amp;id=70876\">רבבת חסידים במפגן אדיר של אחדות ● גלריה</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li></ul>\n<p><br />\n</p>\n<table class=\"\" style=\"border: 1px #aaaaaa solid; background-color: #f9f9f9; text-align: center; clear: both; width: 55%; margin: 0.5em auto;\" cellspacing=\"3\">\n<tbody><tr>\n<th style=\"background-color:#b0c4de; background:#ff9999; padding-top: 0.1em; padding-bottom: 0.1em; text-align: center; color: black; font-weight: bold; font-size: 100%\"><span style=\"color:black;\"><b>הריון ולידה</b></span>\n</th></tr>\n<tr>\n<td style=\"padding-top: 3px; padding-bottom: 3px; background-color: #f9f9f9; font-size: 95%\">\n<table style=\"width: 98%; background-color: transparent; margin: auto; padding: 0; text-align: center;\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr>\n<td><a href=\"/index.php/%D7%A4%D7%A8%D7%95_%D7%95%D7%A8%D7%91%D7%95\" class=\"mw-redirect\" title=\"פרו ורבו\">פרו ורבו</a> · <a href=\"/index.php/%D7%AA%D7%9B%D7%A0%D7%95%D7%9F_%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94\" title=\"תכנון המשפחה\">תכנון המשפחה</a> · <a href=\"/index.php/%D7%A2%D7%99%D7%91%D7%95%D7%A8\" class=\"mw-redirect\" title=\"עיבור\">עיבור</a> · <a href=\"/index.php/%D7%94%D7%A8%D7%99%D7%95%D7%9F\" title=\"הריון\">הריון</a> · <a href=\"/index.php/%D7%A2%D7%99%D7%91%D7%95%D7%A8_%D7%95%D7%9C%D7%99%D7%93%D7%AA_%D7%94%D7%A0%D7%A9%D7%9E%D7%94\" title=\"עיבור ולידת הנשמה\">עיבור ולידת הנשמה</a> · <a href=\"/index.php/%D7%94%D7%A4%D7%9C%D7%94\" title=\"הפלה\">הפלה</a> · <a href=\"/index.php/%D7%99%D7%A8%D7%99%D7%93%D7%AA_%D7%94%D7%A0%D7%A9%D7%9E%D7%94_%D7%9C%D7%92%D7%95%D7%A3\" title=\"ירידת הנשמה לגוף\">ירידת הנשמה לגוף</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%93%D7%94\" title=\"לידה\">לידה</a> · <a href=\"/index.php/%D7%A7%D7%9E%D7%A2_%D7%9C%D7%99%D7%95%D7%9C%D7%93%D7%AA_%D7%95%D7%9C%D7%AA%D7%99%D7%A0%D7%95%D7%A7\" title=\"קמע ליולדת ולתינוק\">קמע ליולדת ולתינוק</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%A9%D7%9D\" class=\"mw-redirect\" title=\"קריאת שם\">קריאת שם</a> · <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%9D_%D7%96%D7%9B%D7%A8\" title=\"שלום זכר\">שלום זכר</a> · <a href=\"/index.php/%D7%95%D7%95%D7%90%D7%9B%D7%A0%D7%90%D7%9B%D7%98_(%D7%9C%D7%99%D7%9C_%D7%91%D7%A8%D7%99%D7%AA)\" title=\"וואכנאכט (ליל ברית)\">ליל הברית</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%99%D7%AA_%D7%9E%D7%99%D7%9C%D7%94\" title=\"ברית מילה\">ברית מילה</a> · <a href=\"/index.php/%D7%A4%D7%93%D7%99%D7%95%D7%9F_%D7%94%D7%91%D7%9F\" title=\"פדיון הבן\">פדיון הבן</a> · <a href=\"/index.php/%D7%9E%D7%9B%D7%95%D7%9F_%D7%A4%D7%95%D7%A2%22%D7%94\" title=\"מכון פוע&quot;ה\">מכון פוע\"ה</a> · <a href=\"/index.php/%D7%90%D7%A8%D7%92%D7%95%D7%9F_%D7%A9%D7%A4%D7%A8%D7%94_%D7%95%D7%A4%D7%95%D7%A2%D7%94\" title=\"ארגון שפרה ופועה\">שפרה ופועה</a> · <a class=\"mw-selflink selflink\">אות בספר התורה לילדי ישראל</a>\n</td></tr></tbody></table>\n</td></tr></tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=16033&amp;hilite=4a087f1a-5bb1-432f-abc7-75b3143dd870&amp;st=%u05e0%u05e8%u05d5%u05ea+%u05e9%u05d1%u05ea&amp;pgnum=400\">התוועדויות תשמ\"ג ח\"א</a></span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">^</a></span> <span class=\"reference-text\">הגהות הרבי התפרסמו בשבועון <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"בית משיח\">בית משיח</a> גליון כ' סיון תש\"פ עמוד 20.</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">^</a></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external text\" href=\"https://anash.org/my-emotional-moment-at-the-kosel-this-past-week/\">הרגע האישי שלי בכותל בשבוע האחרון</a> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%90%D7%A0%22%D7%A9_(%D7%90%D7%AA%D7%A8)\" title=\"קישור לאתר אנ&quot;ש\"><img alt=\"קישור לאתר אנ&quot;ש\" src=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/22px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg\" decoding=\"async\" width=\"22\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/33px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 1.5x, /images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/44px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 2x\" /></a></span> [המקור באנגלית]</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">^</a></span> <span class=\"reference-text\">\"כשהילד מתיישב לכתוב, הוא מוציא את לשונו מבין שיניו ומתבונן, מפשיל את שרוולו, ואחר-כך מסתכל על העט או על העפרון שבו הוא כותב, וחושב כיצד לסובב את העט, ואחר-כך הוא מתייגע כדי שצורת האותיות תהיה כראוי, בנוסף לכך, ישנם ילדים שמהדרים ורוצים שהחתימה שלהם תהיה נאה.\"ולכן, במקום לעשות סתם חתימה, הם מציירים ציור עם קישוט וכו', ולפי עניינם – הרי זה עניין הקשור ב'התנאה לפניו במצוות' וזה מעורר חביבות גדולה למעלה\"...</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">^</a></span> <span class=\"reference-text\"><a href=\"/index.php/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"שבועון בית משיח\">שבועון בית משיח</a> גיליון ג' תמוז תשפ\"ג, <a href=\"/index.php/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93\" class=\"mw-redirect\" title=\"שבועון כפר חב&quot;ד\">שבועון כפר חב\"ד</a> גיליון ג' תמוז תשפ\"ג</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">^</a></span> <span class=\"reference-text\">תוך חודש למעלה מ-70,000 אותיות.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">^</a></span> <span class=\"reference-text\"><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/news/968366/\">הושלם: נקנו האותיות האחרונות בספר התורה של ילדי ישראל</a> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">^</a></span> <span class=\"reference-text\">על מנת להספיק את סיום כתיבת הספר בפרק הזמן הקצר, על פי הוראת הרבי חילקו את העבודה על כתיבת הספר עם סופר נוסף.</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">^</a></span> <span class=\"reference-text\">הסיום תוכנן לכ' מנחם אב <a href=\"/index.php/%D7%AA%D7%A9%22%D7%A4\" title=\"תש&quot;פ\">תש\"פ</a>, ונדחה מחמת הקורונה: <a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/news/610403/\">סיום ספר התורה השביעי של ילדי ישראל נדחה</a> - <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">^</a></span> <span class=\"reference-text\">רוב האותיות של ספר תורה זה נמכרו בשלושת החודשים האחרונים לפני הסיום, בהתעוררות מיוחדת של אנ\"ש בארץ ובעולם ל מנת שיספיקו לסיים אותו עוד בשנת הקהל. כשגבר זרם הנרשמים והתקרב מועד הסיום, על מנת להספיק את סיום כתיבת הספר בפרק הזמן הקצר, על פי הוראת הרבי חילקו את העבודה על כתיבת הספר עם סופר נוסף.</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260413045953\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.190 seconds\nReal time usage: 1.677 seconds\nPreprocessor visited node count: 557/1000000\nPost‐expand include size: 9317/2097152 bytes\nTemplate argument size: 748/2097152 bytes\nHighest expansion depth: 9/100\nExpensive parser function count: 6/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 7252/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 6025216/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1068.060      1 -total\n 58.47%  624.510     10 תבנית:הערה\n  7.12%   76.055      1 תבנית:הערות_שוליים\n  6.08%   64.940      1 תבנית:ערך_מורחב\n  5.87%   62.715      1 תבנית:בית_משיח\n  4.10%   43.825      2 תבנית:שבועון_כפר_חב&quot;ד\n  3.88%   41.422      1 תבנית:מקור\n  3.80%   40.599      1 תבנית:לידה\n  3.42%   36.483      2 תבנית:PDF\n  3.06%   32.638      1 תבנית:ניווט\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:2115-0!canonical and timestamp 20260413045953 and revision id 751216. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "חב\"דפדיה:_ערכים_הדורשים_מקור"
+      },
+      {
+        "sortkey": "",
+        "*": "מבצעי_ותקנות_הרבי"
+      },
+      {
+        "sortkey": "",
+        "*": "ספרי_תורה"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:מקור"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הפניה לערך מורחב"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ניווט"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:צבע גופן"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:וידאו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר תורה הכללי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנ\"ש (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד אינפו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית משיח (שבועון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כפר חב\"ד (שבועון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שטורעם (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית חב\"ד (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "Jem"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אברהם רייניץ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אות בספר התורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "איראן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארגון שפרה ופועה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארץ ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית דין רבני חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית הכנסת צמח צדק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בר מצווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברית מילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בת מצווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הגהה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הדפסת התניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הפלה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הריון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וואכנאכט (ליל ברית)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ועתה כתבו לכם (ניגון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חסידים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"א ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ג ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום שישי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ילד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ילדי ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ירושלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ירידת הנשמה לגוף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישראל אלפנביין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ד בתמוז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ו אלול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' אייר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' במנחם אב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' מנחם אב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לוי יצחק שניאורסון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לידה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע אהבת ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע בית מלא ספרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע הקהל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע הקהלת קהילות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע והשיב לב אבות על בנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע חינוך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע חנוכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע טהרת המשפחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע יבנה וחכמיה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע כשרות האכילה והשתיה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע לולב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע מזוזה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע מצה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע נרות שבת קודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע עשרת הדברות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע פורים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע צדקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע שופר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע תפילין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מכון פוע\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מסיבות שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נשי ובנות חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר התורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר התורה של ילדי ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר תורה לחיילי צה\"ל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עיבור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עיבור ולידת הנשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עידוד הילודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עשרת המבצעים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פדיון הבן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרו ורבו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צבאות השם בארץ הקודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבלת פני משיח צדקנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קמע ליולדת ולתינוק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת שם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבועון בית משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבועון כפר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלוחים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלום זכר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמואל גרייזמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שנת הקהל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלוכת ל\"ג בעומר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תכנון המשפחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תמימים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרי\"ג המצוות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תש\"פ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשנ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשע\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשע\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"ג"
+      },
+      {
+        "ns": 4,
+        "exists": "",
+        "*": "חב\"דפדיה:ביבליוגרפיה"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "היסטוריית המבצע",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 660,
+        "anchor": "היסטוריית_המבצע",
+        "linkAnchor": "היסטוריית_המבצע"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הוראות המבצע",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 3534,
+        "anchor": "הוראות_המבצע",
+        "linkAnchor": "הוראות_המבצע"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "מבצעי הסיום",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 4408,
+        "anchor": "מבצעי_הסיום",
+        "linkAnchor": "מבצעי_הסיום"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ספר תורה הכללי",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 5302,
+        "anchor": "ספר_תורה_הכללי",
+        "linkAnchor": "ספר_תורה_הכללי"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תאריכים בהם הוכנסו ספרי התורה",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 5453,
+        "anchor": "תאריכים_בהם_הוכנסו_ספרי_התורה",
+        "linkAnchor": "תאריכים_בהם_הוכנסו_ספרי_התורה"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ראו גם",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 6498,
+        "anchor": "ראו_גם",
+        "linkAnchor": "ראו_גם"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 6583,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "8",
+        "index": "8",
+        "fromtitle": "אות_בספר_התורה_לילדי_ישראל",
+        "byteoffset": 7089,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "9",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

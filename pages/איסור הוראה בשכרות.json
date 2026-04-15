@@ -1,0 +1,43 @@
+{
+  "parse": {
+    "title": "איסור הוראה בשכרות",
+    "pageid": 59147,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><div class=\"redirectMsg\"><p>הפניה ל:</p><ul class=\"redirectText\"><li><a href=\"/index.php/%D7%90%D7%99%D7%A1%D7%95%D7%A8_%D7%94%D7%95%D7%A8%D7%90%D7%94_%D7%91%D7%A9%D7%99%D7%9B%D7%A8%D7%95%D7%AA\" title=\"איסור הוראה בשיכרות\">איסור הוראה בשיכרות</a></li></ul></div><p>● <a href=\"/index.php/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99_%D7%A4%D7%A2%D7%99%D7%9C\" title=\"משתמש:חב&quot;דפדי פעיל\">חב\"דפדי פעיל</a> ● <a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99_%D7%A4%D7%A2%D7%99%D7%9C\" title=\"שיחת משתמש:חב&quot;דפדי פעיל\">פארבריינגען</a> ● <a href=\"/index.php/%D7%99%D7%97%D7%99\" class=\"mw-redirect\" title=\"יחי\">יחי המלך המשיח</a> ● שעת התגלות <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> היא 14:56, י\"ז בתשרי, ה'תשפ\"ב, <b><a href=\"/index.php/%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"ימות המשיח\">ימות המשיח</a></b>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260414032504\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.023 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:59147-0!canonical and timestamp 20260414032504 and revision id 729491. Rendering was triggered because: api-parse\n -->\n</div>"
+    },
+    "categories": [],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ימות המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "איסור הוראה בשיכרות"
+      },
+      {
+        "ns": 2,
+        "exists": "",
+        "*": "משתמש:חב\"דפדי פעיל"
+      },
+      {
+        "ns": 3,
+        "exists": "",
+        "*": "שיחת משתמש:חב\"דפדי פעיל"
+      }
+    ],
+    "sections": []
+  }
+}

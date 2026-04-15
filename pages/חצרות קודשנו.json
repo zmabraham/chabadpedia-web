@@ -1,0 +1,48 @@
+{
+  "parse": {
+    "title": "חצרות קודשנו",
+    "pageid": 59025,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><div class=\"redirectMsg\"><p>הפניה ל:</p><ul class=\"redirectText\"><li><a href=\"/index.php/770_-_%D7%9E%D7%A8%D7%9B%D7%96_%D7%97%D7%91%22%D7%93_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99\" title=\"770 - מרכז חב&quot;ד העולמי\">770 - מרכז חב&quot;ד העולמי</a></li></ul></div><p>● <a href=\"/index.php/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99_%D7%A4%D7%A2%D7%99%D7%9C\" title=\"משתמש:חב&quot;דפדי פעיל\">חב\"דפדי פעיל</a> ● <a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:%D7%97%D7%91%22%D7%93%D7%A4%D7%93%D7%99_%D7%A4%D7%A2%D7%99%D7%9C\" title=\"שיחת משתמש:חב&quot;דפדי פעיל\">פארבריינגען</a> ● <a href=\"/index.php/%D7%99%D7%97%D7%99\" class=\"mw-redirect\" title=\"יחי\">יחי המלך המשיח</a> ● <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%99_%D7%95%D7%A7%D7%99%D7%99%D7%9D\" title=\"חי וקיים\"><img src=\"/images/thumb/b/b5/%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg/30px-%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg\" decoding=\"async\" width=\"30\" height=\"21\" class=\"mw-file-element\" srcset=\"/images/thumb/b/b5/%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg/45px-%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg 1.5x, /images/thumb/b/b5/%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg/60px-%D7%93%D7%92%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_2.jpg 2x\" /></a></span> ● שעת התגלות <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי </a> 11:21, ח' בתשרי, ה'תשפ\"ב, <b><a href=\"/index.php/%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"ימות המשיח\">ימות המשיח</a></b>\n</p>\n<!-- \nNewPP limit report\nCached time: 20260414122342\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.125 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:59025-0!canonical and timestamp 20260414122342 and revision id 729485. Rendering was triggered because: api-parse\n -->\n</div>"
+    },
+    "categories": [],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חי וקיים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ימות המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "770 - מרכז חב\"ד העולמי"
+      },
+      {
+        "ns": 2,
+        "exists": "",
+        "*": "משתמש:חב\"דפדי פעיל"
+      },
+      {
+        "ns": 3,
+        "exists": "",
+        "*": "שיחת משתמש:חב\"דפדי פעיל"
+      }
+    ],
+    "sections": []
+  }
+}

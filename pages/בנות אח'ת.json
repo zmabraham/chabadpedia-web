@@ -1,0 +1,72 @@
+{
+  "parse": {
+    "title": "בנות אח\"ת",
+    "pageid": 18660,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><p><b>בנות אח\"ת</b> (ארגון חברת תהלים) נוסד בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%90\" title=\"תשס&quot;א\">תשס\"א</a>. באותה שנה, המורה מוסיה מנדלסון - מורה בבי\"ס חב\"ד ב<a href=\"/index.php/%D7%91%D7%A0%D7%99_%D7%91%D7%A8%D7%A7\" title=\"בני ברק\">בני ברק</a>, החלה בחלוקה כיתתית של כל <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D\" title=\"תהלים\">ספר התהלים</a> ב<a href=\"/index.php/%D7%A9%D7%91%D7%AA_%D7%9E%D7%91%D7%A8%D7%9B%D7%99%D7%9D\" title=\"שבת מברכים\">שבתות מברכים</a>. לאחר מס' חודשים, החלה אמירת <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D\" title=\"תהלים\">תהלים</a> חודשית מאורגנת ב<a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A0%D7%A1%D7%AA\" class=\"mw-redirect\" title=\"בית הכנסת\">בית הכנסת</a>, כשאט אט היוזמה הלכה וצברה תאוצה והפכה וקמה לארגון. בהדרגה, הצטרפו מס' סניפים מהאיזור כמו: <a href=\"/index.php/%D7%A4%D7%AA%D7%97_%D7%AA%D7%A7%D7%95%D7%95%D7%94\" title=\"פתח תקווה\">פתח תקווה</a>, <a href=\"/index.php/%D7%90%D7%95%D7%A8_%D7%99%D7%94%D7%95%D7%93%D7%94\" title=\"אור יהודה\">אור יהודה</a>, <a href=\"/index.php/%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D\" title=\"גבעתיים\">גבעתיים</a>, וכד'.\n</p><p>כיום, מונה הארגון כ-33 סניפים מכל רחבי הארץ. הפעילות מיועדת לבנות מגיל גן ועד ל<a href=\"/index.php/%D7%A0%D7%A9%D7%99%D7%9D\" class=\"mw-redirect\" title=\"נשים\">נשים</a> נשואות, בכל גיל שהוא. פעילותו מסתכמת בעיקר בחלוקת עלונים חודשיים, ניהול הסניפים, פרסים, ובעיקר - כנסים <a href=\"/index.php/%D7%A9%D7%A0%D7%94\" class=\"mw-redirect\" title=\"שנה\">שנתיים</a> המהווים מפגש לכל משתתפות הארגון. מידי שנה נערכת הגרלה על טיסה לרבי בין המשתתפות הבוגרות, וחלוקת פרסים למצטיינות הצעירות.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260414043649\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:18660-0!canonical and timestamp 20260414043649 and revision id 432058. Rendering was triggered because: api-parse\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "מוסדות_וארגונים_בארץ_הקודש"
+      },
+      {
+        "sortkey": "",
+        "*": "פעילות_נשית"
+      }
+    ],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אור יהודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית הכנסת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בני ברק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גבעתיים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נשים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פתח תקווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבת מברכים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שנה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"א"
+      }
+    ],
+    "sections": []
+  }
+}

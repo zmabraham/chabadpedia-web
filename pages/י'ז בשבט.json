@@ -1,0 +1,518 @@
+{
+  "parse": {
+    "title": "י\"ז בשבט",
+    "pageid": 20483,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"toccolours\" style=\"float:left; width:230px; margin-right:20px; text-align:center;\">\n\n<tbody><tr>\n<th colspan=\"10\" style=\"background:LightSteelBlue;\">\n<p><span style=\"float:right;\"><a href=\"/index.php/%D7%98%D7%91%D7%AA\" title=\"טבת\">&lt;&lt;</a></span>\n<span style=\"float:left;\"><a href=\"/index.php/%D7%90%D7%93%D7%A8\" class=\"mw-redirect\" title=\"אדר\">&gt;&gt;</a></span>\nחודש <a href=\"/index.php/%D7%A9%D7%91%D7%98\" title=\"שבט\">שבט</a>\n</p>\n</th></tr>\n\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%90%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"א&#39; בשבט\">א</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%91%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ב&#39; בשבט\">ב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%92%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ג&#39; בשבט\">ג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%93%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ד&#39; בשבט\">ד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%94%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ה&#39; בשבט\">ה</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%95%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ו&#39; בשבט\">ו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%96%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ז&#39; בשבט\">ז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%97%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ח&#39; בשבט\">ח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ט&#39; בשבט\">ט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&#39; בשבט\">י</a>\n</td></tr>\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%90_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;א בשבט\">יא</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%91_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;ב בשבט\">יב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%92_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;ג בשבט\">יג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%93_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;ד בשבט\">יד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%22%D7%95_%D7%91%D7%A9%D7%91%D7%98\" title=\"ט&quot;ו בשבט\">טו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%98%22%D7%96_%D7%91%D7%A9%D7%91%D7%98\" title=\"ט&quot;ז בשבט\">טז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a class=\"mw-selflink selflink\">יז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%97_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;ח בשבט\">יח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%99%22%D7%98_%D7%91%D7%A9%D7%91%D7%98\" title=\"י&quot;ט בשבט\">יט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&#39; בשבט\">כ</a>\n</td></tr>\n<tr>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%90_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;א בשבט\">כא</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%91_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ב בשבט\">כב</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%92_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ג בשבט\">כג</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%93_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ד בשבט\">כד</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%94_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ה בשבט\">כה</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%95_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ו בשבט\">כו</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%96_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ז בשבט\">כז</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%97_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ח בשבט\">כח</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9B%22%D7%98_%D7%91%D7%A9%D7%91%D7%98\" title=\"כ&quot;ט בשבט\">כט</a>\n</td>\n<td bgcolor=\"#EDF3F0\"><a href=\"/index.php/%D7%9C%27_%D7%91%D7%A9%D7%91%D7%98\" title=\"ל&#39; בשבט\">ל</a>\n</td></tr>\n<tr>\n<th colspan=\"10\" style=\"background;\">\n<p><small><a href=\"/index.php/%D7%AA%D7%A9%D7%A8%D7%99\" title=\"תשרי\">תשרי</a> · <a href=\"/index.php/%D7%97%D7%A9%D7%95%D7%95%D7%9F\" title=\"חשוון\">חשוון</a> · <a href=\"/index.php/%D7%9B%D7%A1%D7%9C%D7%95\" title=\"כסלו\">כסלו</a> · <a href=\"/index.php/%D7%98%D7%91%D7%AA\" title=\"טבת\">טבת</a> · <a href=\"/index.php/%D7%A9%D7%91%D7%98\" title=\"שבט\">שבט</a> · <a href=\"/index.php/%D7%90%D7%93%D7%A8\" class=\"mw-redirect\" title=\"אדר\">אדר</a> <br /> <a href=\"/index.php/%D7%A0%D7%99%D7%A1%D7%9F\" class=\"mw-redirect\" title=\"ניסן\">ניסן</a> · <a href=\"/index.php/%D7%90%D7%99%D7%99%D7%A8\" class=\"mw-redirect\" title=\"אייר\">אייר</a> · <a href=\"/index.php/%D7%A1%D7%99%D7%95%D7%95%D7%9F\" class=\"mw-redirect\" title=\"סיוון\">סיוון</a> · <a href=\"/index.php/%D7%AA%D7%9E%D7%95%D7%96\" class=\"mw-redirect\" title=\"תמוז\">תמוז</a> · <a href=\"/index.php/%D7%90%D7%91_(%D7%97%D7%95%D7%93%D7%A9)\" title=\"אב (חודש)\">מנחם אב</a> · <a href=\"/index.php/%D7%90%D7%9C%D7%95%D7%9C\" class=\"mw-redirect\" title=\"אלול\">אלול</a></small>\n</p>\n</th></tr></tbody></table>\n<p><b>י&#34;ז בשבט</b> הוא היום השבעה עשר\nבחודש החמישי<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup> \nבלוח השנה היהודי.\n</p><p>תאריך זה חל בתקופת טבת\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.90.D7.99.D7.A8.D7.95.D7.A2.D7.99.D7.9D_.D7.91.D7.99.D7.94.D7.93.D7.95.D7.AA\"></span><span class=\"mw-headline\" id=\"אירועים_ביהדות\">אירועים ביהדות</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;אירועים ביהדות&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: אירועים ביהדות\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>ק\"פ - נס <a href=\"/index.php/%D7%A4%D7%95%D7%A8%D7%99%D7%9D\" title=\"פורים\">פורים</a> סרגוסה.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A2%22%D7%94\" title=\"תשע&quot;ה\">תשע\"ה</a> - נפטר הרב <a href=\"/index.php/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8_%D7%A9%D7%9C%D7%9E%D7%94_%D7%A9%D7%99%D7%A7\" title=\"אליעזר שלמה שיק\">אליעזר שלמה שיק</a> (המוהרא\"ש מיבניאל), ממנהיגי חסידות ברסלב.</li></ul>\n<h2><span id=\".D7.99.D7.9E.D7.99_.D7.97.D7.91.22.D7.93\"></span><span class=\"mw-headline\" id=\"ימי_חב&quot;ד\">ימי חב\"ד</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;ימי חב&quot;ד&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: ימי חב&quot;ד\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<h3><span id=\".D7.A0.D7.95.D7.9C.D7.93.D7.95\"></span><span class=\"mw-headline\" id=\"נולדו\"><a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"יום הולדת\">נולדו</a></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;נולדו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: נולדו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<ul><li><a href=\"/index.php/%D7%AA%D7%A8%D7%A6%22%D7%93\" title=\"תרצ&quot;ד\">תרצ\"ד</a> – הרב <a href=\"/index.php/%D7%9E%D7%90%D7%99%D7%A8_%D7%A6%D7%91%D7%99_%D7%92%D7%A8%D7%95%D7%96%D7%9E%D7%9F\" title=\"מאיר צבי גרוזמן\">מאיר צבי גרוזמן</a>, ראש ישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93\" title=\"תומכי תמימים כפר חב&quot;ד\">תומכי תמימים כפר חב\"ד</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%99%22%D7%92\" title=\"תשי&quot;ג\">תשי\"ג</a> – הרב <a href=\"/index.php/%D7%A0%D7%AA%D7%A0%D7%90%D7%9C_%D7%A9%D7%9C%D7%95%D7%A9\" title=\"נתנאל שלוש\">נתנאל שלוש</a>, היה איש חסד מ<a href=\"/index.php/%D7%A7%D7%A8%D7%90%D7%95%D7%9F_%D7%94%D7%99%D7%99%D7%98%D7%A1\" title=\"קראון הייטס\">קראון הייטס</a>.</li></ul>\n<h3><span id=\".D7.A0.D7.A4.D7.98.D7.A8.D7.95\"></span><span class=\"mw-headline\" id=\"נפטרו\"><a href=\"/index.php/%D7%A4%D7%98%D7%99%D7%A8%D7%94\" class=\"mw-redirect\" title=\"פטירה\">נפטרו</a></span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;נפטרו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%99%22%D7%96_%D7%91%D7%A9%D7%91%D7%98&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: נפטרו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<ul><li><a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%93\" title=\"תשס&quot;ד\">תשס\"ד</a> - ר' <a href=\"/index.php?title=%D7%9E%D7%90%D7%99%D7%A8_%D7%A6%D7%91%D7%99_%D7%90%D7%91%D7%A8%D7%9E%D7%95%D7%91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"מאיר צבי אברמוב (הדף אינו קיים)\">מאיר צבי אברמוב</a>, מאנשי קהילת חב\"ד ב<a href=\"/index.php/%D7%98%D7%A9%D7%A7%D7%A0%D7%98\" title=\"טשקנט\">טשקנט</a> וב<a href=\"/index.php/%D7%A4%D7%AA%D7%97_%D7%AA%D7%A7%D7%95%D7%95%D7%94\" title=\"פתח תקווה\">פתח תקווה</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A1%22%D7%95\" title=\"תשס&quot;ו\">תשס\"ו</a> - הרב <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%97%D7%99%D7%98%D7%A8%D7%99%D7%A7\" title=\"יהודה חיטריק\">יהודה חיטריק</a>, מנהל רוחני של ישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%9E%D7%95%D7%A0%D7%98%D7%A8%D7%99%D7%90%D7%95%D7%9C\" title=\"תומכי תמימים מונטריאול\">תומכי תמימים מונטריאול</a> ומחבר הספר 'רשימות דברים'.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A2%22%D7%94\" title=\"תשע&quot;ה\">תשע\"ה</a> - הרב <a href=\"/index.php/%D7%94%D7%9C%D7%9C_%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5%27\" title=\"הלל רבינוביץ&#39;\">הלל רבינוביץ'</a>, ראש ישיבה ומשפיע בישיבת <a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%AA_%D7%90%D7%9E%D7%AA_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" class=\"mw-redirect\" title=\"תורת אמת ירושלים\">תורת אמת ירושלים</a>.</li>\n<li><a href=\"/index.php/%D7%AA%D7%A9%D7%A4%22%D7%95\" title=\"תשפ&quot;ו\">תשפ\"ו</a> - הרב <a href=\"/index.php/%D7%A6%D7%91%D7%99_%D7%91%D7%95%D7%A8%D7%9C%D7%90\" title=\"צבי בורלא\">צבי בורלא</a> משפיע ב<a href=\"/index.php/%D7%A0%D7%97%D7%9C%D7%AA_%D7%94%D7%A8_%D7%97%D7%91%22%D7%93\" title=\"נחלת הר חב&quot;ד\">נחלת הר חב\"ד</a> וממוסרי הנפש ב<a href=\"/index.php/%D7%A8%D7%95%D7%A1%D7%99%D7%94\" title=\"רוסיה\">רוסיה</a>.</li></ul>\n<p><br />\n</p>\n<table class=\"toccolours\" style=\"clear: both; margin-left: auto; margin-right: auto; text-align: right; width: 65%;\">\n\n<tbody><tr>\n<th style=\"text-align: center; background-color: #CCCCFF;\">הפתגם היומי - י\"ז בשבט - מ<a href=\"/index.php/%D7%9C%D7%95%D7%97_%D7%94%D7%99%D7%95%D7%9D_%D7%99%D7%95%D7%9D\" title=\"לוח היום יום\">לוח היום יום</a>\n</th></tr>\n<tr>\n<td><i>עס איז א <a href=\"/index.php/%D7%9E%D7%A0%D7%94%D7%92\" title=\"מנהג\">מנהג</a> צו עסען <a href=\"/index.php/%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%A6%D7%A2_%D7%A7%D7%90%D7%A9%D7%A2\" class=\"mw-redirect\" title=\"שווארצע קאשע\">שווארצע קאשע</a>. (= המנהג לאכול דייסה שחורה)</i>\n<p><a href=\"/index.php/%D7%A9%D7%91%D7%AA\" title=\"שבת\">שבת</a> <a href=\"/index.php/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%91%D7%A9%D7%9C%D7%97\" title=\"פרשת בשלח\">בשלח</a> שנת <a href=\"/index.php/%D7%AA%D7%A8%D7%9B%22%D7%90\" title=\"תרכ&quot;א\">תרכ\"א</a> אמר ה<a href=\"/index.php/%D7%A6%D7%9E%D7%97_%D7%A6%D7%93%D7%A7\" class=\"mw-redirect\" title=\"צמח צדק\">צמח צדק</a> ה<a href=\"/index.php/%D7%9E%D7%90%D7%9E%D7%A8\" title=\"מאמר\">מאמר</a> \"ראו כי <a href=\"/index.php/%D7%94%27\" class=\"mw-redirect mw-disambig\" title=\"ה&#39;\">ה'</a>\" הנדפס ב<a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"ליקוטי תורה\">ליקוטי תורה</a>. וסיפר אחר כך לבנו <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%9E%D7%94%D7%A8%22%D7%A9\" class=\"mw-redirect\" title=\"אדמו&quot;ר המהר&quot;ש\">אבי אדוני זקני</a> מורי ו<a href=\"/index.php/%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"רבי\">רבי</a>: שבת בשלח שנת <a href=\"/index.php/%D7%AA%D7%A7%D7%A1%22%D7%94\" title=\"תקס&quot;ה\">תקס\"ה</a> אמר אבי אדוני זקני מורי ורבי זה המאמר. אחר כך קרא אותי וסיפר לי, אשר בשנת <a href=\"/index.php/%D7%AA%D7%A7%D7%9B%22%D7%98\" title=\"תקכ&quot;ט\">תקכ\"ט</a> בהיותו במעזריטש, קרא אותו <a href=\"/index.php/%D7%94%D7%A8%D7%91_%D7%94%D7%9E%D7%92%D7%99%D7%93\" class=\"mw-redirect\" title=\"הרב המגיד\">הרב המגיד</a> לחדרו ואמר לי: שבת בשלח שנת <a href=\"/index.php/%D7%AA%D7%A7%D7%98%22%D7%96\" title=\"תקט&quot;ז\">תקט\"ז</a> אמר ה<a href=\"/index.php/%D7%91%D7%A2%D7%9C_%D7%A9%D7%9D_%D7%98%D7%95%D7%91\" class=\"mw-redirect\" title=\"בעל שם טוב\">בעל שם טוב</a> מאמר על פסוק \"וישב הים לפנות בוקר לאיתנו, לתנאו\" כמאמר רז\"ל. בשנת <a href=\"/index.php/%D7%AA%D7%A7%D7%9B%22%D7%90\" title=\"תקכ&quot;א\">תקכ\"א</a> (שנה אחרי <a href=\"/index.php/%D7%94%D7%A1%D7%AA%D7%9C%D7%A7%D7%95%D7%AA\" class=\"mw-redirect\" title=\"הסתלקות\">הסתלקות</a> הבעש\"ט) היה אצלי - המשיך דבריו הרב המגיד - רבי (הבעש\"ט) ואמר המאמר והוסיף ביאור בענין עושין רצונו - ולא דברו - של מקום. והיום היה אצלי מורי לחזור המאמר. ואמר הרב המגיד המאמר לפני <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a>, והוסיף ביאור בענין גנאי נהרא שזהו כענין קריעת ים סוף.\n</p><p>וסיים הצמח צדק: היום היו אצלי הבעש\"ט הרב המגיד ואבי אדוני זקני מורי ורבי, וכל אחד אמר לי המאמר בסגנונו. - כעבור איזה שעות קרא הצמח צדק את אבי אדוני זקני מורי ורבי עוד הפעם ואמר לפניו ביאור על המאמר.\n</p>\n</td></tr></tbody></table>\n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">למניין החודשים מ<a href=\"/index.php/%D7%97%D7%95%D7%93%D7%A9_%D7%AA%D7%A9%D7%A8%D7%99\" class=\"mw-redirect\" title=\"חודש תשרי\">חודש תשרי</a>, והחודש האחד עשר\nלמניין החודשים מ<a href=\"/index.php/%D7%97%D7%95%D7%93%D7%A9_%D7%A0%D7%99%D7%A1%D7%9F\" title=\"חודש ניסן\">חודש ניסן</a>.</span>\n</li>\n</ol></div>\n<!-- \nNewPP limit report\nCached time: 20260413183305\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.096 seconds\nReal time usage: 1.505 seconds\nPreprocessor visited node count: 291/1000000\nPost‐expand include size: 10011/2097152 bytes\nTemplate argument size: 537/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 151/5000000 bytes\nLua time usage: 0.060/7 seconds\nLua virtual size: 5984256/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1227.185      1 -total\n 98.75% 1211.843      1 תבנית:פתיח_יום\n 28.98%  355.686      4 תבנית:מילה_אחרונה\n 17.04%  209.142      1 תבנית:הערה\n 10.51%  128.975      1 תבנית:מילה_ראשונה\n  6.68%   81.943      1 תבנית:הסר_מילה_ראשונה\n  3.20%   39.277      1 תבנית:חודש_שבט\n  2.76%   33.827      1 תבנית:לוח_שנה\n  2.13%   26.140      1 תבנית:כתב_קטן\n  1.23%   15.152      1 תבנית:להיום_יום\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:20483-0!canonical and timestamp 20260413183305 and revision id 831269. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "ב יז",
+        "*": "ימי_חב\"ד_-_חודש_שבט"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:פתיח יום"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הסר מילה ראשונה"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:מילה ראשונה"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:מילה אחרונה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "א' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אב (חודש)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר המהר\"ש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אייר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אליעזר שלמה שיק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ב' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בעל שם טוב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ג' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ד' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ה' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הלל רבינוביץ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הסתלקות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרב המגיד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ו' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ז' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ח' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חודש ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חודש תשרי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חשוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט\"ו בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט\"ז בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ט' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "טבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "טשקנט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"א בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ב בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ג בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ד בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ח בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ט בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהודה חיטריק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"א בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ב בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ג בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ד בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ה בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ו בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ז בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ח בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ\"ט בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כ' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ל' בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לוח היום יום"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאיר צבי גרוזמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מנהג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נחלת הר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נתנאל שלוש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיוון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פורים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פטירה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרשת בשלח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פתח תקווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צבי בורלא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צמח צדק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קראון הייטס"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רוסיה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שווארצע קאשע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים כפר חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים מונטריאול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורת אמת ירושלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תמוז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקט\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקכ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקכ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקס\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרכ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרצ\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשי\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשס\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשע\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשפ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשרי"
+      },
+      {
+        "ns": 0,
+        "*": "מאיר צבי אברמוב"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "אירועים ביהדות",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "י\"ז_בשבט",
+        "byteoffset": 14,
+        "anchor": "אירועים_ביהדות",
+        "linkAnchor": "אירועים_ביהדות"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ימי חב\"ד",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "י\"ז_בשבט",
+        "byteoffset": 147,
+        "anchor": "ימי_חב\"ד",
+        "linkAnchor": "ימי_חב\"ד"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "נולדו",
+        "number": "2.1",
+        "index": "3",
+        "fromtitle": "י\"ז_בשבט",
+        "byteoffset": 160,
+        "anchor": "נולדו",
+        "linkAnchor": "נולדו"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "נפטרו",
+        "number": "2.2",
+        "index": "4",
+        "fromtitle": "י\"ז_בשבט",
+        "byteoffset": 325,
+        "anchor": "נפטרו",
+        "linkAnchor": "נפטרו"
+      }
+    ],
+    "showtoc": ""
+  }
+}

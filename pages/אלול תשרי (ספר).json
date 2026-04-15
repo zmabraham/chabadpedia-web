@@ -1,0 +1,61 @@
+{
+  "parse": {
+    "title": "אלול תשרי (ספר)",
+    "pageid": 2664,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/e/e4/%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg/220px-%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg\" decoding=\"async\" width=\"220\" height=\"253\" class=\"mw-file-element\" srcset=\"/images/thumb/e/e4/%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg/330px-%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg 1.5x, /images/thumb/e/e4/%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg/440px-%D7%90%D7%9C%D7%95%D7%9C_%D7%AA%D7%A9%D7%A8%D7%99.jpg 2x\" /></a><figcaption>שער הספר אלול - תשרי</figcaption></figure>\n<p>הספר <b>\"אלול- תשרי\"</b> הינו ספר בו מובאים מנהגי חודשי <a href=\"/index.php/%D7%90%D7%9C%D7%95%D7%9C\" class=\"mw-redirect\" title=\"אלול\">אלול</a> ו<a href=\"/index.php/%D7%AA%D7%A9%D7%A8%D7%99\" title=\"תשרי\">תשרי</a> לילדים, עם הסברים, סיפורים וטבלאות, בצורה מרהיבת עין.\n</p><p>הספר נערך בצורה קלה ובשפה ברורה, כאשר <a href=\"/index.php/%D7%9E%D7%A0%D7%94%D7%92%D7%99_%D7%97%D7%91%22%D7%93\" class=\"mw-redirect\" title=\"מנהגי חב&quot;ד\">מנהגי חב\"ד</a> ורעיונות מתוך <a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%94\" title=\"שיחה\">שיחותיו</a> הקדושות של <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> מלווים את הקורא לכל אורכו של הספר. \n</p><p>הספר נערך על ידי הרבנית ט. הנדל ויצא-לאור על ידי מחלקת <a href=\"/index.php/%D7%94%D7%95%D7%A6%D7%90%D7%94_%D7%9C%D7%90%D7%95%D7%A8\" title=\"הוצאה לאור\">הוצאה לאור</a> של <a href=\"/index.php/%D7%A8%D7%A9%D7%AA_%D7%90%D7%94%D7%9C%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%99%D7%A6%D7%97%D7%A7\" title=\"רשת אהלי יוסף יצחק\">רשת אהלי יוסף יצחק</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260413174159\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:2664-0!canonical and timestamp 20260413174159 and revision id 769311. Rendering was triggered because: diff-page\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "ביאורים_בהלכה"
+      },
+      {
+        "sortkey": "",
+        "*": "ספרי_סיפורים"
+      },
+      {
+        "sortkey": "",
+        "*": "רשת_אהלי_יוסף_יצחק"
+      }
+    ],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הוצאה לאור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מנהגי חב\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רשת אהלי יוסף יצחק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשרי"
+      }
+    ],
+    "sections": []
+  }
+}

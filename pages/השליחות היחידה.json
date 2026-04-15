@@ -1,0 +1,1348 @@
+{
+  "parse": {
+    "title": "השליחות היחידה",
+    "pageid": 3569,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #FFAC99; background-color: #FFEBE5; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #ff7777;\"><font size=\"4\">מבצעי <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a></font>\n</th></tr>\n\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #FFAC99;\"><font size=\"2\"><a href=\"/index.php/%D7%A2%D7%A9%D7%A8%D7%AA_%D7%94%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D\" title=\"עשרת המבצעים\">עשרת המבצעים</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F\" title=\"מבצע תפילין\">תפילין</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%AA%D7%95%D7%A8%D7%94\" title=\"מבצע תורה\">תורה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9E%D7%96%D7%95%D7%96%D7%94\" title=\"מבצע מזוזה\">מזוזה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A6%D7%93%D7%A7%D7%94\" title=\"מבצע צדקה\">צדקה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%91%D7%99%D7%AA_%D7%9E%D7%9C%D7%90_%D7%A1%D7%A4%D7%A8%D7%99%D7%9D\" title=\"מבצע בית מלא ספרים\">בית מלא ספרים</a> - <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%99%D7%91%D7%A0%D7%94_%D7%95%D7%97%D7%9B%D7%9E%D7%99%D7%94\" title=\"מבצע יבנה וחכמיה\">יבנה וחכמיה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A0%D7%A8%D7%95%D7%AA_%D7%A9%D7%91%D7%AA_%D7%A7%D7%95%D7%93%D7%A9\" title=\"מבצע נרות שבת קודש\">נש\"ק</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9B%D7%A9%D7%A8%D7%95%D7%AA_%D7%94%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%95%D7%94%D7%A9%D7%AA%D7%99%D7%94\" title=\"מבצע כשרות האכילה והשתיה\">כשרות</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%98%D7%94%D7%A8%D7%AA_%D7%94%D7%9E%D7%A9%D7%A4%D7%97%D7%94\" title=\"מבצע טהרת המשפחה\">טהרת המשפחה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%97%D7%99%D7%A0%D7%95%D7%9A\" title=\"מבצע חינוך\">חינוך</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"מבצע אהבת ישראל\">אהבת ישראל</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #FFAC99;\"><font size=\"2\">מבצעים שונים</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9E%D7%A1%D7%99%D7%91%D7%95%D7%AA_%D7%A9%D7%91%D7%AA\" title=\"מסיבות שבת\">מסיבות שבת</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A9%D7%95%D7%A4%D7%A8\" title=\"מבצע שופר\">שופר</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9C%D7%95%D7%9C%D7%91\" title=\"מבצע לולב\">לולב</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%97%D7%A0%D7%95%D7%9B%D7%94\" title=\"מבצע חנוכה\">חנוכה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A4%D7%95%D7%A8%D7%99%D7%9D\" title=\"מבצע פורים\">פורים</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%9E%D7%A6%D7%94\" title=\"מבצע מצה\">מצה</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%95%D7%94%D7%A9%D7%99%D7%91_%D7%9C%D7%91_%D7%90%D7%91%D7%95%D7%AA_%D7%A2%D7%9C_%D7%91%D7%A0%D7%99%D7%9D\" title=\"מבצע והשיב לב אבות על בנים\">והשיב לב אבות על בנים</a> · <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%95%D7%9B%D7%AA_%D7%9C%22%D7%92_%D7%91%D7%A2%D7%95%D7%9E%D7%A8\" title=\"תהלוכת ל&quot;ג בעומר\">ל\"ג בעומר</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%A2%D7%A9%D7%A8%D7%AA_%D7%94%D7%93%D7%91%D7%A8%D7%95%D7%AA\" title=\"מבצע עשרת הדברות\">עשרת הדברות</a> · <a href=\"/index.php/%D7%90%D7%95%D7%AA_%D7%91%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"אות בספר התורה לילדי ישראל\">אות בספר התורה לילדי ישראל</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%94%D7%9B%D7%9C%D7%9C%D7%99\" title=\"ספר תורה הכללי\">אות בספר תורה הכללי</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%9C%D7%97%D7%99%D7%99%D7%9C%D7%99_%D7%A6%D7%94%22%D7%9C\" title=\"ספר תורה לחיילי צה&quot;ל\">אות בספר תורה לחיילי צה\"ל</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%94%D7%A7%D7%94%D7%9C\" title=\"מבצע הקהל\">הקהל</a> · <a href=\"/index.php/%D7%A7%D7%91%D7%9C%D7%AA_%D7%A4%D7%A0%D7%99_%D7%9E%D7%A9%D7%99%D7%97_%D7%A6%D7%93%D7%A7%D7%A0%D7%95\" class=\"mw-redirect\" title=\"קבלת פני משיח צדקנו\">משיח</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"מבצע יום הולדת\">יום הולדת</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%94%D7%A7%D7%94%D7%9C%D7%AA_%D7%A7%D7%94%D7%99%D7%9C%D7%95%D7%AA\" title=\"מבצע הקהלת קהילות\">הקהלת קהילות</a> · <a href=\"/index.php/%D7%94%D7%93%D7%A4%D7%A1%D7%AA_%D7%94%D7%AA%D7%A0%D7%99%D7%90\" title=\"הדפסת התניא\">הדפסת התניא</a> · <a href=\"/index.php/%D7%A2%D7%99%D7%93%D7%95%D7%93_%D7%94%D7%99%D7%9C%D7%95%D7%93%D7%94\" class=\"mw-redirect\" title=\"עידוד הילודה\">עידוד הילודה</a>\n</td></tr>\n</tbody></table>\n<p><b>השליחות היחידה</b> המוטלת על כל אחד ואחד מבני דורנו הינה קבלת פני משיח צדקנו. כך קבע <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> ב<a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%94\" title=\"שיחה\">שיחה</a> האחרונה לעת-עתה שנאמרה ב<a href=\"/index.php/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99\" title=\"כינוס השלוחים העולמי\">כינוס השלוחים העולמי</a> ב<a href=\"/index.php/%D7%A9%D7%91%D7%AA\" title=\"שבת\">שבת</a> פרשת חיי שרה <a href=\"/index.php/%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"תשנ&quot;ב\">תשנ\"ב</a>: \"הדבר היחיד שנותר בעבודת השליחות - קבלת פני <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"משיח\">משיח</a> צדקנו בפועל ממש\". הדברים נאמרו על ידו ב<a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA_%D7%A2%D7%9D_%D7%94%D7%A8%D7%91%D7%99\" title=\"התוועדות עם הרבי\">התוועדות</a> שבת קודש בנוכחות כל ה<a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D\" class=\"mw-redirect\" title=\"שלוחים\">שלוחים</a>, ולאחר השבת <a href=\"/index.php/%D7%9E%D7%95%D7%92%D7%94\" title=\"מוגה\">הוגהו</a> על ידו ונדפסו בקונטרס מיוחד בשם \"שלח נא ביד תשלח\", הנלמד בכל שנה מחדש על ידי אלפי השלוחים בעולם כולו.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.94.D7.A9.D7.9C.D7.99.D7.97.D7.95.D7.AA\"></span><span class=\"mw-headline\" id=\"השליחות\">השליחות</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;השליחות&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: השליחות\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בהמשך<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup> לדיבוריו של הרבי החל מ<a href=\"/index.php/%D7%97%D7%95%D7%93%D7%A9_%D7%90%D7%99%D7%99%D7%A8\" title=\"חודש אייר\">חודש אייר</a> <a href=\"/index.php/%D7%AA%D7%A0%D7%A9%22%D7%90\" title=\"תנש&quot;א\">תנש\"א</a> שבדורנו ישנה עבודה חדשה להביא את המשיח בפועל בגלוי לעולם שכל חייו של יהודי צריכות להיות חדורים בעניני משיח וגאולה, הודיע <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> על החידוש שניתוסף בעבודת ה<a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA\" title=\"שליחות\">שליחות</a> שגם היא עניינה להיא לעולם מסר זה 'לקבל פני משיח' ושליחות זו 'חודרת' ונרגשת בכל ענייני השליחות, והיא ה\"שער\" דרכו עוברים ומתעלים כל שאר פעולות השליחות:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>.. צריך להזכיר, בראש ובראשונה, את היסוד, ולבטא את התפקיד של השלוחים <a href=\"/index.php/%D7%93%D7%95%D7%A8_%D7%94%D7%A9%D7%91%D7%99%D7%A2%D7%99\" title=\"דור השביעי\">בדורנו</a> זה בכלל, ובפרט החידוש שנתוסף במיוחד בזמן האחרון בעבודת השליחות - לקבל את פני משיח צדקנו ב<a href=\"/index.php/%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"גאולה\">גאולה</a> האמיתית והשלימה..\n</p><p>.. מתוסף מזמן לזמן חידוש בשליחות, שליחות מיוחדת, שהיא חודרת את כל ענייני השליחות והיא נעשית ה\"שער\" שעל-ידו \"עולים\" כל ענייני השליחות.. שזהו חידוש כללי ועיקרי, שאינו רק פרט (או כלל) בשליחות, אלא הוא עיקר וענין כללי ביותר, ועד שהוא הענין הכי כללי ב<a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%94\" title=\"תורה\">תורה</a> - הכנה לביאת ה<a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"משיח\">משיח</a> - שמקיף את כל הנקודות והפרטים של עבודת השליחות.. הרי העבודה והשליחות עכשיו היא: להיות מוכנים בפועל לקבלת פני משיח צדקנו בפועל ממש.. מזה מובן, שהמטרה של <a href=\"/index.php/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99\" title=\"כינוס השלוחים העולמי\">כינוס השלוחים העולמי</a> הנוכחי מתבטאת בנקודה זו - להתדבר ביחד ולקבל <a href=\"/index.php/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA_%D7%98%D7%95%D7%91%D7%95%D7%AA\" class=\"mw-redirect\" title=\"החלטות טובות\">החלטות טובות</a> על מנת לקיימן בפועל, כיצד לבצע את השליחות המיוחדת של הזמן שלנו: קבלת פני משיח צדקנו\n</p>\n</div>\n </blockquote>\n<h2><span id=\".D7.94.D7.A1.D7.99.D7.91.D7.94\"></span><span class=\"mw-headline\" id=\"הסיבה\">הסיבה</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;הסיבה&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: הסיבה\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<dl><dd><span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, /images/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x\" /></span></span> ערך מורחב – <b><a href=\"/index.php/%D7%91%D7%A9%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"בשורת הגאולה\">בשורת הגאולה</a></b><br /></dd></dl>\n<p>בגוף השיחה הסביר הרבי את הסיבה לכך שדווקא בזמן זה מקבלת השליחות אופי גלוי זה - <a href=\"/index.php/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97_%D7%91%D7%96%D7%9E%D7%9F_%D7%94%D7%92%D7%9C%D7%95%D7%AA\" title=\"קטגוריה:גאולה ומשיח בזמן הגלות\">המאורעות בעולם</a> המראים על כך שה<a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%96%D7%94\" class=\"mw-redirect\" title=\"עולם הזה\"> עולם</a> כולו מוכן לגאולה האמיתית והשלימה על ידי משיח צדקנו, וזו לשונו הקדושה בשיחה שהוגהה על ידו:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>.. כפי שרואים זאת (כמדובר כמה פעמים) גם בכך, שבמאורעות העולם נתקיימו כמה סימנים על הגאולה, החל מהסימן (בילקוט שמעוני) ש\"<a href=\"/index.php/%D7%94%D7%92%D7%99%D7%A2_%D7%96%D7%9E%D7%9F_%D7%92%D7%90%D7%95%D7%9C%D7%AA%D7%9B%D7%9D\" class=\"mw-redirect\" title=\"הגיע זמן גאולתכם\">הגיע זמן גאולתכם</a>\", כפי שנראה בזה ש\"מלכיות מתגרות זו בזו\", בפרט מדינות הערביים.. וכבר מתקיים הסימן של השנה שעברה - ה'תנש\"א ראשי תיבות היה תהא שנת נפלאות אראנו, ובהוספה בשנה זו - והולך ונמשך - היה תהא שנת נפלאות בה, (ו)בתוכה - שזה (הנפלאות) נעשה המהות והתוכן וה<a href=\"/index.php/%D7%A0%D7%A9%D7%9E%D7%94\" class=\"mw-redirect\" title=\"נשמה\">נשמה</a> של השנה.\n</p><p>ורואים בפועל איך שנפעל ה\"<a href=\"/index.php/%D7%99%D7%9C%D7%97%D7%9D_%D7%9E%D7%9C%D7%97%D7%9E%D7%95%D7%AA_%D7%94%27\" class=\"mw-redirect\" title=\"ילחם מלחמות ה&#39;\">ילחום מלחמות ה'</a>\" וינצח בכמה וכמה ענינים - ודוקא מתוך מלחמה של שלום. ונצחון הוא גם מלשון נצחיות, קשור גם עם הגילוי.. הגילוי של משיח צדקנו.. \"\n</p>\n</div>\n </blockquote>\n<figure class=\"mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/8/87/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg/250px-%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg\" decoding=\"async\" width=\"250\" height=\"181\" class=\"mw-file-element\" srcset=\"/images/thumb/8/87/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg/375px-%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg 1.5x, /images/thumb/8/87/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg/500px-%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9DPictureFileName.jpg 2x\" /></a><figcaption>אלפי השלוחים בתמונה קבוצתית בחזית <a href=\"/index.php/770\" class=\"mw-redirect\" title=\"770\">770</a> במהלך <a href=\"/index.php/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99\" title=\"כינוס השלוחים העולמי\">כינוס השלוחים העולמי</a> תשנ\"ד, שנתיים לאחר אמירת השיחה בתשנ\"ב</figcaption></figure>\n<h2><span id=\".D7.A1.D7.99.D7.95.D7.9D_.D7.A2.D7.91.D7.95.D7.93.D7.AA_.D7.94.D7.A9.D7.9C.D7.99.D7.97.D7.95.D7.AA\"></span><span class=\"mw-headline\" id=\"סיום_עבודת_השליחות\">סיום עבודת השליחות</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;סיום עבודת השליחות&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: סיום עבודת השליחות\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>לכן, אמר הרבי, מובן שכבר סיימו את השליחות הרגילה. אבל היות שהגאולה עדיין לא באה בפועל, סימן שיש עדיין מה לעשות בשליחות. והרבי פירט:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>.. והוא: על פי הידוע ש\"בכל דור ודור נולד אחד <a href=\"/index.php/%D7%99%D7%A2%D7%9E%D7%95%D7%93_%D7%9E%D7%9C%D7%9A_%D7%9E%D7%91%D7%99%D7%AA_%D7%93%D7%95%D7%93\" class=\"mw-redirect\" title=\"יעמוד מלך מבית דוד\">מזרע יהודה</a> שהוא ראוי להיות <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"משיח\">משיח</a> ל<a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">ישראל</a>, \"אחד הראוי מצדקתו להיות גואל וכשיגיע הזמן יגלה אליו השם יתברך וישלחו כו'\", ועל פי הודעת <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">כבוד קדושת מורי וחמי אדמו\"ר נשיא דורנו</a>, השליח היחיד שבדורנו, המשיח היחיד שבדורנו, שכבר סיימו את כל העבודה - הרי מובן, שמתחיל להתקיים ה\"שלח נא ביד תשלח\", השליחות של כבוד קדושת מורי וחמי אדמו\"ר. ומזה מובן, שהדבר היחיד שנשאר עכשיו בעבדת השליחות הוא: <b>לקבל פני משיח צדקנו בפועל ממש</b>, כדי שיוכל לקיים את שליחותו בפועל ולהוציא את כל ישראל מה<a href=\"/index.php/%D7%92%D7%9C%D7%95%D7%AA\" title=\"גלות\">גלות</a>!\n</p>\n</div>\n </blockquote>\n<h2><span id=\".D7.9B.D7.9C_.D7.94.D7.A4.D7.A8.D7.98.D7.99.D7.9D_.D7.A6.D7.A8.D7.99.D7.9B.D7.99.D7.9D_.D7.9C.D7.94.D7.99.D7.95.D7.AA_.D7.97.D7.93.D7.95.D7.A8.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"כל_הפרטים_צריכים_להיות_חדורים\">כל הפרטים צריכים להיות חדורים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;כל הפרטים צריכים להיות חדורים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: כל הפרטים צריכים להיות חדורים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<dl><dd><span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/25px-Postscript-viewer-blue.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d0/Postscript-viewer-blue.svg/38px-Postscript-viewer-blue.svg.png 1.5x, /images/thumb/d/d0/Postscript-viewer-blue.svg/50px-Postscript-viewer-blue.svg.png 2x\" /></span></span> ערך מורחב – <b><a href=\"/index.php/%D7%9C%D7%97%D7%99%D7%95%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"לחיות גאולה\">לחיות גאולה</a></b><br /></dd></dl>\n<p>בהמשך השיחה מבאר הרבי כי אין הדבר שמעתה ואילך אין לשלוחים מה לעשות, אלא אדרבה: כל הפעולות הטובות שהם עושים מאז יצאו לשליחות, צריכים להיות חדורים בכוונה כיצד זה מוליך ומוביל לקבלת פני משיח צדקנו:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>.. זאת אומרת: כל הפרטים בעבודת השליחות של הפצת התורה והיהדות והפצת המעיינות חוצה, צריכים להיות חדורים בנקודה זו - כיצד זה מוליך לקבלת פני משיח צדקנו.\n</p><p>וכמודגש בנושא הכינוס - \"כל ימי חייך <b>להביא</b> לימות המשיח\": כל עניני העבודה (בכל ימי חייך, ובכל יום עצמו - בכל פרטי ושעות היום) צריכים להיות חדורים ב\"להביא לימות המשיח\"..\n</p>\n</div>\n </blockquote>\n<h2><span id=\".D7.9C.D7.9E.D7.A2.D7.A9.D7.94_.D7.91.D7.A4.D7.95.D7.A2.D7.9C\"></span><span class=\"mw-headline\" id=\"למעשה_בפועל\">למעשה בפועל</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;למעשה בפועל&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: למעשה בפועל\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בנוגע למעשה בפועל הבהיר הרבי:\nיש לצאת בהכרזה והודעה לשלוחים, שעבודת השליחות שלהם - ושל כל יהודי - מתבטאת בזה שיקבלו את פני משיח צדקנו, ובשני פרטים:\n</p>\n<ul><li>על כל <a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%97\" class=\"mw-redirect\" title=\"שליח\">שליח</a> להתכונן בעצמו לקבלת פני משיח צדקנו.</li>\n<li>על כל שליח להכין את כל <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%93%D7%99\" class=\"mw-redirect\" title=\"יהודי\">היהודים</a> במקומו ועירו לקבלת פני משיח צדקנו, על ידי שהוא מסביר את <a href=\"/index.php/%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%A2%D7%A0%D7%99%D7%A0%D7%99_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" title=\"לימוד עניני גאולה ומשיח\">ענינו של משיח</a> כמבואר בתורה שבכתב ושבעל-פה, באופן <b>המתקבל</b> אצל כל אחד ואחד לפי שכלו והבנתו, כולל במיוחד - על ידי <a href=\"/index.php/%D7%94%D7%93%D7%A8%D7%9A_%D7%94%D7%99%D7%A9%D7%A8%D7%94_-_%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%A2%D7%A0%D7%99%D7%99%D7%A0%D7%99_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"הדרך הישרה - לימוד ענייני גאולה ומשיח\">לימוד עניני משיח וגאולה</a>, ובפרט באופן של <a href=\"/index.php/%D7%97%D7%9B%D7%9E%D7%94\" class=\"mw-redirect\" title=\"חכמה\">חכמה</a> <a href=\"/index.php/%D7%91%D7%99%D7%A0%D7%94\" class=\"mw-redirect\" title=\"בינה\">בינה</a> ו<a href=\"/index.php/%D7%93%D7%A2%D7%AA\" class=\"mw-redirect\" title=\"דעת\">דעת</a>.</li></ul>\n<h2><span id=\".D7.A9.D7.99.D7.99.D7.9B.D7.95.D7.AA_.D7.94.D7.A2.D7.91.D7.95.D7.93.D7.94_.D7.9C.D7.9B.D7.9C_.D7.99.D7.94.D7.95.D7.93.D7.99\"></span><span class=\"mw-headline\" id=\"שייכות_העבודה_לכל_יהודי\">שייכות העבודה לכל יהודי</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;שייכות העבודה לכל יהודי&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: שייכות העבודה לכל יהודי\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>הרבי אף הדגיש שתפקיד זה מוטל על כל יהודי:\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>בכל זה ניתוסף בדורנו זה במיוחד - אשר בו נוסף חידוש בענין השליחות, ש<a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">כבוד קדושת מורי וחמי אדמו\"ר נשיא דורנו</a> מינה כל אחד ואחד מהדור להיות השליח שלו בהפצת התורה והיהדות ובהפצת המעיינות חוצה, עד להבאת הגאולה האמיתית והשלימה\n</p>\n</div>\n </blockquote>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>והיות שזוהי העבודה בזמן הזה, הרי מובן שזה שייך לכל יהודי, בלי יוצא מן הכלל\n</p>\n</div>\n </blockquote>\n<p>עם זאת הדגיש הרבי, כי הדבר אמור בעיקר כלפי אלו שזכו והם נושאים בתואר הרשמי של 'שליח':\n</p>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation HeQuotationMark\">\n<p>ותוספת מיוחדת בזה - בנוגע לאלה אשר זכו, שמתוך <a href=\"/index.php/%D7%A2%D7%9D_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עם ישראל\">עם ישראל</a> גופא הם נבחרו להיות <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D\" class=\"mw-redirect\" title=\"שלוחים\">שלוחים</a> של נשיא דורנו, ש<b>כל</b> עבודתם בכל המעת-לעת כולו מוקדשת למילוי שליחותם בהפצת ה<a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%94\" title=\"תורה\">תורה</a> וה<a href=\"/index.php/%D7%99%D7%94%D7%93%D7%95%D7%AA\" title=\"יהדות\">יהדות</a> ו<a href=\"/index.php/%D7%94%D7%A4%D7%A6%D7%AA_%D7%94%D7%9E%D7%A2%D7%99%D7%99%D7%A0%D7%95%D7%AA_%D7%97%D7%95%D7%A6%D7%94\" title=\"הפצת המעיינות חוצה\">הפצת המעיינות חוצה</a>, ובהבאת <a href=\"/index.php/%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" class=\"mw-redirect\" title=\"הגאולה\">הגאולה</a>\n</p>\n</div>\n </blockquote>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>הרב לוי יצחק ליברוב, <b>בשליחות הזו חייבים להצליח</b>, בית משיח כ\"ו חשון תשפ\"א עמוד 18</li></ul>\n<h2><span id=\".D7.A8.D7.90.D7.95_.D7.92.D7.9D\"></span><span class=\"mw-headline\" id=\"ראו_גם\">ראו גם</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=8\" title=\"עריכת פסקה: &quot;ראו גם&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=8\" title=\"עריכת קוד המקור של הפרק: ראו גם\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%94%D7%A9%D7%99%D7%97%D7%94_%D7%94%D7%99%D7%93%D7%95%D7%A2%D7%94\" title=\"השיחה הידועה\">השיחה הידועה</a></li>\n<li><a href=\"/index.php/%D7%91%D7%A9%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"בשורת הגאולה\">בשורת הגאולה</a></li>\n<li><a href=\"/index.php/%D7%A4%D7%A8%D7%A1%D7%95%D7%9D_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" title=\"פרסום גאולה ומשיח\">פרסום גאולה ומשיח</a></li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;veaction=edit&amp;section=9\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%94&amp;action=edit&amp;section=9\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://drive.google.com/drive/folders/1CThKAfAdNpZJGt5zV6JAp1lPD3sjLPmD\"><b>שיחת הדבר מלכות (בלשון הקודש ובאידיש), לצד שיעורים, ביאורים, עיבודים לילדים ועוד</b></a></li>\n<li>השיחה - קונטרס \"שלח נא ביד תשלח\": <b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabadpedia.co.il/images/f/f1/05_חיי_שרה.pdf\">מוגה (אידיש)</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"https://drive.google.com/file/d/0B6t2zW9zs378S09aS0x6aW5LWmM/view?usp=sharing&amp;resourcekey=0-E_x4f-bL2WWVoSnTNrzT3A\">תרגום ללשון הקודש</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"https://chabadpedia.co.il/images/1/10/Chayei_soro.pdf\">תרגום לאנגלית</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"https://docs.google.com/document/d/1Gz-X1mzzJv4reL9MCRpyFAESBunSPnDJ/edit?usp=sharing&amp;ouid=113047085946654283603&amp;rtpof=true&amp;sd=true\">גרסת טקסט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"https://docs.google.com/document/d/0B91KHRkDr3SAYjRYRlowZjltYWc/edit?usp=drive_link&amp;ouid=113047085946654283603&amp;resourcekey=0-b5UJZpMvYHpu-waUfWx0uA&amp;rtpof=true&amp;sd=true\">בלתי מוגה - שיחה ויומן</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a rel=\"nofollow\" class=\"external text\" href=\"https://drive.google.com/file/d/1j7hjHEDZ-jaE7XpPZAR2PLR2DMYVWhLY/view\">הגהות</a></b></li>\n<li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://chabad.info/moshiach/102247/\">השער - במעבר לתקופה חדשה</a></b>, שיחת <a href=\"/index.php/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99\" title=\"כינוס השלוחים העולמי\">כינוס השלוחים העולמי</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%A0%22%D7%91\" title=\"תשנ&quot;ב\">תשנ\"ב</a> עם ביאורים <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span></li>\n<li>מ. פריד, <b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.chabad.info/htdocs/bmpdf/819/819.html\">קבלת פנים למשיח צדקנו</a></b>, שבועון <b><a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"בית משיח (שבועון)\">בית משיח</a></b> גליון 819 ע' 32 - 36 <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%99%D7%A0%D7%A4%D7%95\" title=\"חב&quot;ד אינפו\"><img src=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/27px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg\" decoding=\"async\" width=\"27\" height=\"9\" class=\"mw-file-element\" srcset=\"/images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/41px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 1.5x, /images/thumb/e/ec/%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg/54px-%D7%90%D7%99%D7%A0%D7%A4%D7%95.jpg 2x\" /></a></span> - הברכות, העידודים והמענות המופלאות לנשי חב\"ד בקראון הייטס, על העיסוק בקבלת המלכות.</li></ul>\n<p><br />\n</p>\n<table class=\"navbox nowraplinks mw-collapsible autocollapse\" style=\"width: 90%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#d1eeee; font-weight: bold;\"><a href=\"/index.php/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" title=\"פורטל:גאולה ומשיח\">גאולה ומשיח</a>\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><span style=\"white-space: nowrap;\">גאולה ומשיח</span> בזמן הגלות\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%AA%D7%97%D7%9C%D7%AA%D7%90_%D7%93%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"אתחלתא דגאולה\">אתחלתא דגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%97%D7%96%D7%A7%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" title=\"בחזקת משיח\">בחזקת משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%92%D7%9C%D7%95%D7%AA\" title=\"גלות\">גלות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%90%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"האמונה בביאת המשיח\">האמונה בביאת המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%93%D7%A8%D7%9A_%D7%94%D7%99%D7%A9%D7%A8%D7%94_-_%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%A2%D7%A0%D7%99%D7%99%D7%A0%D7%99_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"הדרך הישרה - לימוד ענייני גאולה ומשיח\">הדרך הישרה - לימוד ענייני גאולה ומשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%AA%D7%A0%D7%95%D7%A6%D7%A6%D7%95%D7%AA_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"התנוצצות הגאולה\">התנוצצות הגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%A9%D7%99%D7%97%D7%94_%D7%94%D7%99%D7%93%D7%95%D7%A2%D7%94\" title=\"השיחה הידועה\">השיחה הידועה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a class=\"mw-selflink selflink\">השליחות היחידה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9C%D7%90%D7%9C%D7%AA%D7%A8_%D7%9C%D7%AA%D7%A9%D7%95%D7%91%D7%94_%D7%9C%D7%90%D7%9C%D7%AA%D7%A8_%D7%9C%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"לאלתר לתשובה לאלתר לגאולה\">לאלתר לתשובה לאלתר לגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%9C%D7%97%D7%9E%D7%AA_%D7%92%D7%95%D7%92_%D7%95%D7%9E%D7%92%D7%95%D7%92\" title=\"מלחמת גוג ומגוג\">מלחמת גוג ומגוג</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%A7%D7%91%D7%AA%D7%90_%D7%93%D7%9E%D7%A9%D7%99%D7%97%D7%90\" title=\"עקבתא דמשיחא\">עקבתא דמשיחא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A6%D7%99%D7%A4%D7%99%D7%99%D7%94_%D7%9C%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"ציפייה לגאולה\">ציפייה לגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%A5_%D7%94%D7%92%D7%9C%D7%95%D7%AA\" title=\"קץ הגלות\">קץ הגלות</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">מגלות לגאולה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%94%D7%91%D7%90%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"הבאת המשיח\">הבאת המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%A9%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"בשורת הגאולה\">בשורת הגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%98%D7%A2%D7%99%D7%9E%D7%94_%D7%9E%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%91%D7%93%D7%95%D7%A8%D7%A0%D7%95\" title=\"טעימה מהגאולה בדורנו\">טעימה מהגאולה בדורנו</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9C%D7%97%D7%99%D7%95%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"לחיות גאולה\">לחיות גאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA%D7%A4%D7%90%D7%A8%D7%AA\" title=\"מלכות שבתפארת\">מלכות שבתפארת</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%A3\" title=\"משיח בן יוסף\">משיח בן יוסף</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A0%D7%99%D7%A6%D7%95%D7%A5_%D7%9E%D7%A9%D7%99%D7%97\" title=\"ניצוץ משיח\">ניצוץ משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A1%D7%99%D7%95%D7%9D_%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%92%D7%9C%D7%95%D7%AA\" title=\"סיום עבודת הגלות\">סיום עבודת הגלות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%92%D7%9C%D7%95%D7%AA\" title=\"עבודת הגלות\">עבודת הגלות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A6%D7%97%D7%A6%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%AA%D7%95%D7%A8%D7%99%D7%9D\" title=\"צחצוח הכפתורים\">צחצוח הכפתורים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A4%D7%A8%D7%A1%D7%95%D7%9D_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" title=\"פרסום גאולה ומשיח\">פרסום גאולה ומשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%97%D7%9E%D7%95%D7%A8%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97\" title=\"חמורו של משיח\">חמורו של משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A9%D7%95%D7%A4%D7%A8%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97\" title=\"שופרו של משיח\">שופרו של משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%90%D7%A8%D7%95_%D7%A2%D7%9D_%D7%A2%D7%A0%D7%A0%D7%99_%D7%A9%D7%9E%D7%99%D7%90\" title=\"וארו עם ענני שמיא\">וארו עם ענני שמיא</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><a href=\"/index.php/%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"לעתיד לבוא\">לעתיד לבוא</a>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"ימות המשיח\">ימות המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A0%27_%D7%90%D7%9C%D7%A4%D7%99%D7%9D_%D7%99%D7%95%D7%91%D7%9C%D7%95%D7%AA\" title=\"נ&#39; אלפים יובלות\">נ' אלפים יובלות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%91%D7%90\" title=\"עולם הבא\">עולם הבא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%AA%D7%97%D7%99%D7%99%D7%AA_%D7%94%D7%9E%D7%AA%D7%99%D7%9D\" title=\"תחיית המתים\">תחיית המתים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9B%D7%91%D7%A8_%D7%94%D7%99%D7%94_%D7%9C%D7%A2%D7%95%D7%9C%D7%9E%D7%99%D7%9D\" title=\"כבר היה לעולמים\">כבר היה לעולמים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%92%D7%99%D7%9C%D7%95%D7%99_%D7%90%D7%9C%D7%A7%D7%95%D7%AA_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"גילוי אלקות לעתיד לבוא\">גילוי אלקות לעתיד לבוא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%A9%D7%99%D7%A8%D7%94_%D7%94%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%AA\" title=\"השירה העשירית\">השירה העשירית</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%9E%D7%A0%D7%99%D7%9F_%D7%94%D7%A2%D7%A9%D7%99%D7%A8%D7%99\" class=\"mw-redirect\" title=\"המנין העשירי\">המנין העשירי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%98%D7%95%D7%9C_%D7%95%D7%94%D7%A4%D7%99%D7%9B%D7%AA_%D7%94%D7%A8%D7%A2_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%90\" class=\"mw-redirect\" title=\"ביטול והפיכת הרע לעתיד לבא\">ביטול והפיכת הרע לעתיד לבא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%9C%D7%99%D7%95%D7%AA_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%95%D7%AA_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%90\" title=\"עליות העולמות לעתיד לבא\">עליות העולמות לעתיד לבא</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">תורה ומצוות לעתיד לבוא\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A9%D7%9C%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A6%D7%95%D7%95%D7%AA_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA\" title=\"שלימות המצוות על פי חסידות\">שלימות המצוות לעתיד לבוא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A6%D7%95%D7%95%D7%AA_%D7%91%D7%98%D7%9C%D7%95%D7%AA_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"מצוות בטלות לעתיד לבוא\">מצוות בטלות לעתיד לבוא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%94_%D7%97%D7%93%D7%A9%D7%94_%D7%9E%D7%90%D7%AA%D7%99_%D7%AA%D7%A6%D7%90\" class=\"mw-redirect\" title=\"תורה חדשה מאתי תצא\">תורה חדשה מאתי תצא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%AA%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97\" title=\"תורתו של משיח\">תורתו של משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91%D7%A8%D7%90%D7%99%D7%99%D7%AA_%D7%A4%D7%A0%D7%99_%D7%9E%D7%A9%D7%99%D7%97\" title=\"הברכות בראיית פני משיח\">הברכות בראיית פני משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%98%D7%95%D7%9C_%D7%94%D7%9E%D7%95%D7%A2%D7%93%D7%99%D7%9D_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"ביטול המועדים לעתיד לבוא\">ביטול המועדים לעתיד לבוא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%98%D7%95%D7%9C_%D7%94%D7%A6%D7%95%D7%9E%D7%95%D7%AA_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"ביטול הצומות לעתיד לבוא\">ביטול הצומות לעתיד לבוא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%99%D7%A8_%D7%9E%D7%A7%D7%9C%D7%98\" title=\"עיר מקלט\">עיר מקלט</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%AA%D7%99%D7%93_%D7%97%D7%96%D7%99%D7%A8_%D7%9C%D7%94%D7%98%D7%94%D7%A8\" title=\"עתיד חזיר להטהר\">עתיד חזיר להטהר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94_%D7%91%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"התפילה בימות המשיח\">התפילה בימות המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%94%D7%9C%D7%9B%D7%94_%D7%91%D7%99%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"ההלכה בימות המשיח\">ההלכה בימות המשיח</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">יעודי הגאולה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%91%D7%9F_%D7%9E%D7%A7%D7%99%D7%A8_%D7%AA%D7%96%D7%A2%D7%A7\" title=\"אבן מקיר תזעק\">אבן מקיר תזעק</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%95%D7%9E%D7%95%D7%AA_%D7%94%D7%A2%D7%95%D7%9C%D7%9D_%D7%91%D7%96%D7%9E%D7%9F_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"אומות העולם בזמן הגאולה\">אומות העולם בזמן הגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%A8%D7%99%D7%A1%D7%98%D7%95%D7%9F\" title=\"אריסטון\">אריסטון</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%91%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"ארץ ישראל בגאולה\">ארץ ישראל בגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A7%D7%93%D7%A9_%D7%94%D7%A9%D7%9C%D7%99%D7%A9%D7%99\" title=\"בית המקדש השלישי\">בית המקדש השלישי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%A7%D7%99%D7%A2%D7%AA_%D7%94%D7%A0%D7%94%D7%A8\" title=\"בקיעת הנהר\">בקיעת הנהר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%90%D7%95%D7%9C%D7%9A_%D7%90%D7%AA%D7%9B%D7%9D_%D7%A7%D7%95%D7%9E%D7%9E%D7%99%D7%95%D7%AA_(%D7%92%D7%95%D7%91%D7%94_%D7%94%D7%90%D7%93%D7%9D_%D7%91%D7%92%D7%90%D7%95%D7%9C%D7%94)\" title=\"ואולך אתכם קוממיות (גובה האדם בגאולה)\">ואולך אתכם קוממיות (גובה האדם בגאולה)</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%90%D7%A9%D7%99%D7%91%D7%94_%D7%A9%D7%95%D7%A4%D7%98%D7%99%D7%99%D7%9A_%D7%9B%D7%91%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94_%D7%95%D7%99%D7%95%D7%A2%D7%A6%D7%99%D7%99%D7%9A_%D7%9B%D7%91%D7%AA%D7%97%D7%99%D7%9C%D7%94\" class=\"mw-redirect\" title=\"ואשיבה שופטייך כבראשונה ויועצייך כבתחילה\">ואשיבה שופטייך כבראשונה ויועצייך כבתחילה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%92%D7%A8_%D7%96%D7%90%D7%91_%D7%A2%D7%9D_%D7%9B%D7%91%D7%A9\" title=\"וגר זאב עם כבש\">וגר זאב עם כבש</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%94%D7%99%D7%94_%D7%90%D7%95%D7%A8_%D7%94%D7%9C%D7%91%D7%A0%D7%94_%D7%9B%D7%90%D7%95%D7%A8_%D7%94%D7%97%D7%9E%D7%94\" title=\"והיה אור הלבנה כאור החמה\">והיה אור הלבנה כאור החמה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%9B%D7%AA%D7%AA%D7%95_%D7%97%D7%A8%D7%91%D7%95%D7%AA%D7%9D_%D7%9C%D7%90%D7%AA%D7%99%D7%9D\" title=\"וכתתו חרבותם לאתים\">וכתתו חרבותם לאתים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%A9%D7%9E%D7%AA%D7%99_%D7%9B%D7%93%D7%9B%D7%93_%D7%A9%D7%9E%D7%A9%D7%95%D7%AA%D7%99%D7%9A\" title=\"ושמתי כדכד שמשותיך\">ושמתי כדכד שמשותיך</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%A6%D7%97%D7%99%D7%99%D7%9D_(%D7%91%D7%9C%D7%A2_%D7%94%D7%9E%D7%95%D7%95%D7%AA)\" title=\"חיים נצחיים (בלע המוות)\">חיים נצחיים (בלע המוות)</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A8%D7%99%D7%A4%D7%95%D7%99_%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D_%D7%91%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"ריפוי החולים בגאולה\">ריפוי החולים בגאולה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A2%D7%93%D7%A0%D7%99%D7%9D_%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F_%D7%9B%D7%A2%D7%A4%D7%A8\" class=\"mw-redirect\" title=\"מעדנים מצויין כעפר\">מעדנים מצויין כעפר</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA_%D7%94%D7%A6%D7%9E%D7%99%D7%97%D7%94\" title=\"מהירות הצמיחה\">מהירות הצמיחה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%94%D7%99%D7%A8%D7%95%D7%AA_%D7%94%D7%99%D7%9C%D7%95%D7%93%D7%94\" title=\"מהירות הילודה\">מהירות הילודה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A1%D7%A2%D7%95%D7%93%D7%AA_%D7%A9%D7%95%D7%A8_%D7%94%D7%91%D7%A8_%D7%95%D7%94%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%9F\" title=\"סעודת שור הבר והלווייתן\">סעודת שור הבר והלווייתן</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%95%D7%93_%D7%99%D7%A9%D7%91%D7%95_%D7%96%D7%A7%D7%A0%D7%99%D7%9D_%D7%95%D7%96%D7%A7%D7%A0%D7%95%D7%AA_%D7%91%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D\" title=\"עוד ישבו זקנים וזקנות ברחובות ירושלים\">עוד ישבו זקנים וזקנות ברחובות ירושלים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%AA%D7%99%D7%93%D7%99%D7%9F_%D7%90%D7%99%D7%9C%D7%A0%D7%99_%D7%A1%D7%A8%D7%A7_%D7%A9%D7%99%D7%AA%D7%A0%D7%95_%D7%A4%D7%99%D7%A8%D7%95%D7%AA\" title=\"עתידין אילני סרק שיתנו פירות\">עתידין אילני סרק שיתנו פירות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%AA%D7%99%D7%93%D7%99%D7%9F_%D7%91%D7%AA%D7%99_%D7%9B%D7%A0%D7%A1%D7%99%D7%95%D7%AA_%D7%95%D7%91%D7%AA%D7%99_%D7%9E%D7%93%D7%A8%D7%A9%D7%95%D7%AA_%D7%A9%D7%99%D7%A7%D7%91%D7%A2%D7%95_%D7%91%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"עתידין בתי כנסיות ובתי מדרשות שיקבעו בארץ ישראל\">עתידין בתי כנסיות ובתי מדרשות שיקבעו בארץ ישראל</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A7%D7%99%D7%91%D7%95%D7%A5_%D7%92%D7%9C%D7%95%D7%99%D7%95%D7%AA\" title=\"קיבוץ גלויות\">קיבוץ גלויות</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%AA%D7%97%D7%99%D7%99%D7%AA_%D7%94%D7%9E%D7%AA%D7%99%D7%9D\" title=\"תחיית המתים\">תחיית המתים</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A2%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%91%D7%A0%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%9C%D7%A2%D7%AA%D7%99%D7%93_%D7%9C%D7%91%D7%95%D7%90\" title=\"עשירות בני ישראל לעתיד לבוא\">עשירות בני ישראל לעתיד לבוא</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><a href=\"/index.php/%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"מלך המשיח\">מלך המשיח</a>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%93%D7%95%D7%9F_(%D7%9E%D7%A9%D7%99%D7%97)\" title=\"אדון (משיח)\">אדון (משיח)</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%A8_%D7%9B%D7%95%D7%96%D7%99%D7%91%D7%90\" title=\"בר כוזיבא\">בר כוזיבא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_%D7%91%D7%91%D7%99%D7%90%D7%AA_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"האמונה בביאת המשיח\">האמונה בביאת המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9D_%D7%A0%D7%A6%D7%97%D7%99%D7%99%D7%9D_%D7%91%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"חיים נצחיים במלך המשיח\">חיים נצחיים במלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%95%D7%A8%D7%97_%D7%95%D7%93%D7%90%D7%99%D7%9F\" title=\"מורח ודאין\">מורח ודאין</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%99%D7%93%D7%95%D7%AA%D7%99%D7%95_%D7%A9%D7%9C_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"מידותיו של מלך המשיח\">מידותיו של מלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%99%D7%A0%D7%95%D7%99_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"מינוי מלך המשיח\">מינוי מלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%99%D7%AA_%D7%93%D7%95%D7%93\" title=\"מלכות בית דוד\">מלכות בית דוד</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%D7%95_%D7%A9%D7%9C_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"מלכותו של מלך המשיח\">מלכותו של מלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97_%D7%91%D7%9F_%D7%99%D7%95%D7%A1%D7%A3\" title=\"משיח בן יוסף\">משיח בן יוסף</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97_%D7%A9%D7%91%D7%9B%D7%9C_%D7%93%D7%95%D7%A8\" title=\"משיח שבכל דור\">משיח שבכל דור</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A0%D7%99%D7%A6%D7%95%D7%A5_%D7%9E%D7%A9%D7%99%D7%97\" title=\"ניצוץ משיח\">ניצוץ משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%AA%D7%95%D7%A8%D7%AA%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97\" title=\"תורתו של משיח\">תורתו של משיח</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">התגלות <span style=\"white-space: nowrap;\">מלך המשיח</span>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%95%D7%99%D7%A8%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97\" title=\"אוירו של משיח\">אוירו של משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%95%D7%A8%D7%95_%D7%A9%D7%9C_%D7%9E%D7%A9%D7%99%D7%97_(%D7%9E%D7%95%D7%A9%D7%92)\" title=\"אורו של משיח (מושג)\">אורו של משיח (מושג)</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%94%D7%A0%D7%91%D7%99%D7%90\" title=\"אליהו הנביא\">אליהו הנביא</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%91%D7%97%D7%96%D7%A7%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" title=\"בחזקת משיח\">בחזקת משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%94%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%91%D7%A8%D7%90%D7%99%D7%99%D7%AA_%D7%A4%D7%A0%D7%99_%D7%9E%D7%A9%D7%99%D7%97\" title=\"הברכות בראיית פני משיח\">הברכות בראיית פני משיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%99%D7%A0%D7%95%D7%99_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"מינוי מלך המשיח\">מינוי מלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%9E%D7%A9%D7%99%D7%97_%D7%95%D7%93%D7%90%D7%99\" title=\"משיח ודאי\">משיח ודאי</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A0%D7%9B%D7%A1%D7%94_%D7%95%D7%97%D7%95%D7%96%D7%A8_%D7%95%D7%A0%D7%92%D7%9C%D7%94\" class=\"mw-redirect\" title=\"נכסה וחוזר ונגלה\">נכסה וחוזר ונגלה</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A9%D7%A0%D7%94_%D7%A9%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97_%D7%A0%D7%92%D7%9C%D7%94_%D7%91%D7%94\" title=\"שנה שמלך המשיח נגלה בה\">שנה שמלך המשיח נגלה בה</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\"><a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99_%D7%9E%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9_%D7%9B%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"הרבי מליובאוויטש כמלך המשיח\">הרבי כמלך המשיח</a>\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%A8%D7%9E%D7%95%D7%9F_%D7%9C%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"ארמון למלך המשיח\">ארמון למלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%99%D7%97%D7%99_%D7%90%D7%93%D7%95%D7%A0%D7%A0%D7%95_%D7%9E%D7%95%D7%A8%D7%A0%D7%95_%D7%95%D7%A8%D7%91%D7%99%D7%A0%D7%95_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97_%D7%9C%D7%A2%D7%95%D7%9C%D7%9D_%D7%95%D7%A2%D7%93\" title=\"יחי אדוננו מורנו ורבינו מלך המשיח לעולם ועד\">יחי אדוננו מורנו ורבינו מלך המשיח לעולם ועד</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A4%D7%A1%D7%A7_%D7%94%D7%93%D7%99%D7%9F_%D7%A9%D7%94%D7%A8%D7%91%D7%99_%D7%94%D7%95%D7%90_%D7%9E%D7%9C%D7%9A_%D7%94%D7%9E%D7%A9%D7%99%D7%97\" title=\"פסק הדין שהרבי הוא מלך המשיח\">פסק הדין שהרבי הוא מלך המשיח</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%95%D7%99%D7%9C%D7%97%D7%9D_%D7%9E%D7%9C%D7%97%D7%9E%D7%95%D7%AA_%D7%94%27\" title=\"וילחם מלחמות ה&#39;\">וילחם מלחמות ה'</a> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <a href=\"/index.php/%D7%A0%D7%A6%D7%97%D7%99%D7%95%D7%AA_%D7%97%D7%99%D7%99%D7%95_%D7%A9%D7%9C_%D7%94%D7%A8%D7%91%D7%99\" title=\"נצחיות חייו של הרבי\">נצחיות חייו של הרבי</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<table class=\"navbox nowraplinks\" style=\"width: 95%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#8B0000; font-weight: bold;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA\" title=\"דבר מלכות\"><span style=\"color:white;\"><b>שיחות הדבר מלכות</b></span></a>\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>בראשית</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA\" title=\"דבר מלכות בראשית\">בראשית</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A0%D7%97\" title=\"דבר מלכות נח\">נח</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9C%D7%9A_%D7%9C%D7%9A\" title=\"דבר מלכות לך לך\">לך לך</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A8%D7%90\" title=\"דבר מלכות וירא\">וירא</a> • <a class=\"mw-selflink selflink\">חיי שרה</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_(%D7%90%27)\" title=\"דבר מלכות תולדות (א&#39;)\">תולדות (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA_(%D7%91%27)\" title=\"דבר מלכות תולדות (ב&#39;)\">תולדות (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A6%D7%90\" title=\"דבר מלכות ויצא\">ויצא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A9%D7%9C%D7%97\" title=\"דבר מלכות וישלח\">וישלח</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%99%22%D7%98_%D7%9B%D7%A1%D7%9C%D7%95\" title=\"דבר מלכות י&quot;ט כסלו\">י\"ט כסלו</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A9%D7%91\" title=\"דבר מלכות וישב\">וישב</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%97%D7%A0%D7%95%D7%9B%D7%94\" title=\"דבר מלכות חנוכה\">חנוכה</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9E%D7%A7%D7%A5\" title=\"דבר מלכות מקץ\">מקץ</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%94%27_%D7%98%D7%91%D7%AA\" title=\"דבר מלכות ה&#39; טבת\">ה' טבת</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%92%D7%A9\" title=\"דבר מלכות ויגש\">ויגש</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%97%D7%99\" title=\"דבר מלכות ויחי\">ויחי</a>\n</td>\n<td rowspan=\"6\" align=\"center\" style=\"text-align: center; vertical-align: middle;\"><span typeof=\"mw:File/Frameless\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/f/f3/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg/130px-%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg\" decoding=\"async\" width=\"130\" height=\"173\" class=\"mw-file-element\" srcset=\"/images/thumb/f/f3/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg/195px-%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg 1.5x, /images/thumb/f/f3/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg/260px-%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA.jpg 2x\" /></a></span>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>שמות</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%9E%D7%95%D7%AA\" title=\"דבר מלכות שמות\">שמות</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%90%D7%A8%D7%90_(%D7%90%27)\" title=\"דבר מלכות וארא (א&#39;)\">וארא (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%90%D7%A8%D7%90_(%D7%91%27)\" title=\"דבר מלכות וארא (ב&#39;)\">וארא (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%90\" title=\"דבר מלכות בא\">בא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%22%D7%93_%D7%9E%D7%A2%D7%9C%D7%AA_%D7%A0%D7%A9%D7%99_%D7%95%D7%91%D7%A0%D7%95%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"דבר מלכות ע&quot;ד מעלת נשי ובנות ישראל\">נשי ובנות ישראל</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%A9%D7%9C%D7%97\" title=\"דבר מלכות בשלח\">בשלח</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%97%D7%9E%D7%A9%D7%94_%D7%A2%D7%A9%D7%A8_%D7%91%D7%A9%D7%91%D7%98\" title=\"דבר מלכות חמשה עשר בשבט\">חמשה עשר בשבט</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%99%D7%AA%D7%A8%D7%95\" title=\"דבר מלכות יתרו\">יתרו</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%22%D7%91_%D7%A9%D7%91%D7%98\" class=\"mw-redirect\" title=\"דבר מלכות כ&quot;ב שבט\">כ\"ב שבט</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%9D_(%D7%90%27)\" title=\"דבר מלכות משפטים (א&#39;)\">משפטים (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9E%D7%A9%D7%A4%D7%98%D7%99%D7%9D_(%D7%91%27)\" title=\"דבר מלכות משפטים (ב&#39;)\">משפטים (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%A8%D7%95%D7%9E%D7%94\" title=\"דבר מלכות תרומה\">תרומה</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%A6%D7%95%D7%95%D7%94_(%D7%90%27)\" title=\"דבר מלכות תצווה (א&#39;)\">תצווה (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%A6%D7%95%D7%95%D7%94_(%D7%91%27)\" title=\"דבר מלכות תצווה (ב&#39;)\">תצווה (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%D7%99_%D7%AA%D7%A9%D7%90\" title=\"דבר מלכות כי תשא\">כי תשא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A7%D7%94%D7%9C\" title=\"דבר מלכות ויקהל\">ויקהל</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>ויקרא</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%99%D7%A7%D7%A8%D7%90\" title=\"דבר מלכות ויקרא\">ויקרא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A6%D7%95\" title=\"דבר מלכות צו\">צו</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%99%22%D7%90_%D7%A0%D7%99%D7%A1%D7%9F\" title=\"דבר מלכות י&quot;א ניסן\">י\"א ניסן</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%D7%A8%D7%91_%D7%A4%D7%A1%D7%97_(%D7%90%27)\" title=\"דבר מלכות ערב פסח (א&#39;)\">ערב פסח (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%D7%A8%D7%91_%D7%A4%D7%A1%D7%97_(%D7%91%27)\" title=\"דבר מלכות ערב פסח (ב&#39;)\">ערב פסח (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%95%D7%9F_%D7%A9%D7%9C_%D7%A4%D7%A1%D7%97_(%D7%90%27)\" title=\"דבר מלכות אחרון של פסח (א&#39;)\">אחרון של פסח (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%95%D7%9F_%D7%A9%D7%9C_%D7%A4%D7%A1%D7%97_(%D7%91%27)\" title=\"דבר מלכות אחרון של פסח (ב&#39;)\">אחרון של פסח (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%22%D7%95_%D7%A0%D7%99%D7%A1%D7%9F\" title=\"דבר מלכות כ&quot;ו ניסן\">כ\"ו ניסן</a> • <a href=\"/index.php/%D7%94%D7%A9%D7%99%D7%97%D7%94_%D7%94%D7%99%D7%93%D7%95%D7%A2%D7%94\" title=\"השיחה הידועה\">כ\"ח ניסן</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%9E%D7%99%D7%A0%D7%99\" title=\"דבר מלכות שמיני\">שמיני</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%96%D7%A8%D7%99%D7%A2_%D7%9E%D7%A6%D7%95%D7%A8%D7%A2\" title=\"דבר מלכות תזריע מצורע\">תזריע מצורע</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%97%D7%A8%D7%99_%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D\" title=\"דבר מלכות אחרי קדושים\">אחרי קדושים</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%9E%D7%95%D7%A8\" title=\"דבר מלכות אמור\">אמור</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%94%D7%A8_%D7%91%D7%97%D7%95%D7%A7%D7%95%D7%AA%D7%99\" title=\"דבר מלכות בהר בחוקותי\">בהר בחוקותי</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>במדבר</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%9E%D7%93%D7%91%D7%A8\" title=\"דבר מלכות במדבר\">במדבר</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_(%D7%90%27)\" class=\"mw-redirect\" title=\"דבר מלכות שבועות (א&#39;)\">שבועות (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA_(%D7%91%27)\" title=\"דבר מלכות שבועות (ב&#39;)\">שבועות (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A0%D7%A9%D7%90\" title=\"דבר מלכות נשא\">נשא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%94%D7%A2%D7%9C%D7%95%D7%AA%D7%9A_(%D7%90%27)\" title=\"דבר מלכות בהעלותך (א&#39;)\">בהעלותך (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%94%D7%A2%D7%9C%D7%95%D7%AA%D7%9A_(%D7%91%27)\" title=\"דבר מלכות בהעלותך (ב&#39;)\">בהעלותך (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%9C%D7%97\" title=\"דבר מלכות שלח\">שלח</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%22%D7%97_%D7%A1%D7%99%D7%95%D7%9F\" title=\"דבר מלכות כ&quot;ח סיון\">כ\"ח סיון</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A7%D7%A8%D7%97_(%D7%90%27)\" title=\"דבר מלכות קרח (א&#39;)\">קרח (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A7%D7%A8%D7%97_(%D7%91%27)\" title=\"דבר מלכות קרח (ב&#39;)\">קרח (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%97%D7%95%D7%A7%D7%AA\" title=\"דבר מלכות חוקת\">חוקת</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%91%D7%9C%D7%A7\" title=\"דבר מלכות בלק\">בלק</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A4%D7%99%D7%A0%D7%97%D7%A1\" title=\"דבר מלכות פינחס\">פינחס</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9E%D7%98%D7%95%D7%AA_%D7%9E%D7%A1%D7%A2%D7%99\" title=\"דבר מלכות מטות מסעי\">מטות מסעי</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>דברים</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%93%D7%91%D7%A8%D7%99%D7%9D\" title=\"דבר מלכות דברים\">דברים</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%95%D7%90%D7%AA%D7%97%D7%A0%D7%9F\" title=\"דבר מלכות ואתחנן\">ואתחנן</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%D7%A7%D7%91\" title=\"דבר מלכות עקב\">עקב</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A8%D7%90%D7%94\" title=\"דבר מלכות ראה\">ראה</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%95%D7%A4%D7%98%D7%99%D7%9D\" title=\"דבר מלכות שופטים\">שופטים</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%D7%99_%D7%AA%D7%A6%D7%90\" title=\"דבר מלכות כי תצא\">כי תצא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%9B%D7%99_%D7%AA%D7%91%D7%95%D7%90\" title=\"דבר מלכות כי תבוא\">כי תבוא</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%D7%A8%D7%91_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94_(%D7%90%27)\" title=\"דבר מלכות ערב ראש השנה (א&#39;)\">ערב ראש השנה (א')</a>, <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A2%D7%A8%D7%91_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94_(%D7%91%27)\" title=\"דבר מלכות ערב ראש השנה (ב&#39;)\">ערב ראש השנה (ב')</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A0%D7%A6%D7%91%D7%99%D7%9D_%D7%95%D7%99%D7%9C%D7%9A\" title=\"דבר מלכות נצבים וילך\">נצבים וילך וראש השנה</a> • <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%AA%D7%95%D7%A8%D7%94_%D7%A9%D7%91%D7%A2%D7%9C_%D7%A4%D7%94_%D7%A9%D7%90%D7%99%D7%A0%D7%9F_%D7%91%D7%98%D7%9C%D7%99%D7%9F_%D7%9C%D7%A2%D7%95%D7%9C%D7%9D\" title=\"קונטרס הלכות תורה שבעל פה שאינן בטלין לעולם\">ראש השנה, סוכות ושמחת תורה</a> • <a href=\"/index.php/%D7%93%D7%91%D7%A8_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%9E%D7%97%D7%AA_%D7%AA%D7%95%D7%A8%D7%94\" title=\"דבר מלכות שמחת תורה\">שמחת תורה</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #8B0000; text-align: right; font-weight: bold; padding-left: 5px;\"><div style=\"text-align:center\"><span style=\"color:white;\"><b>הוספות</b></span></div>\n</td>\n<td style=\"padding-right: 5px; text-align: center;\"><a href=\"/index.php/%D7%99%D7%97%D7%99%D7%93%D7%95%D7%99%D7%95%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%A2%D7%9D_%D7%94%D7%A8%D7%91_%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%90%D7%9C%D7%99%D7%94%D7%95\" class=\"mw-redirect\" title=\"יחידויות הרבי עם הרב מרדכי אליהו\">יחידות עם הרב מרדכי אליהו (ו' מרחשוון תשנ\"ב)</a> • <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%91%D7%99%D7%AA_%D7%A8%D7%91%D7%99%D7%A0%D7%95_%D7%A9%D7%91%D7%91%D7%91%D7%9C\" title=\"קונטרס בית רבינו שבבבל\">קונטרס בענין מקדש מעט זה בית רבינו שבבבל</a> • <a href=\"/index.php/%D7%A9%D7%99%D7%97%D7%AA_%D7%91%27_%D7%A0%D7%99%D7%A1%D7%9F_%D7%AA%D7%A9%D7%9E%22%D7%97\" class=\"mw-redirect\" title=\"שיחת ב&#39; ניסן תשמ&quot;ח\">שיחת ב' ניסן תשמ\"ח</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">הגדרת העבודה כעבודה לקבל פני משיח לא התחדשה בכינוס השלוחים בפרשת חיי שרה, כי אם שבוע קודם בפרשת וירא, ומהמתבאר שם עולה שעניינה \"<a href=\"/index.php/%D7%9C%D7%97%D7%99%D7%95%D7%AA_%D7%92%D7%90%D7%95%D7%9C%D7%94\" title=\"לחיות גאולה\">לחיות גאולה</a>\".</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260414092300\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.222 seconds\nReal time usage: 2.947 seconds\nPreprocessor visited node count: 2179/1000000\nPost‐expand include size: 80288/2097152 bytes\nTemplate argument size: 90185/2097152 bytes\nHighest expansion depth: 10/100\nExpensive parser function count: 7/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 597/5000000 bytes\nLua time usage: 0.080/7 seconds\nLua virtual size: 6250496/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 2349.557      1 -total\n 33.92%  797.064      2 תבנית:ניווט_קבוצות\n 26.34%  618.941      1 תבנית:הערה\n 19.78%  464.797      1 תבנית:גאולה_ומשיח\n 19.32%  453.866      7 תבנית:ציטוט\n 15.48%  363.671      1 תבנית:שיחות_הדבר_מלכות\n  7.65%  179.690      1 תבנית:הערות_שוליים\n  7.25%  170.320      2 תבנית:ערך_מורחב\n  7.11%  167.106      7 תבנית:צבע_גופן\n  6.38%  149.807      6 תבנית:יישור_טקסט\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:3569-0!canonical and timestamp 20260414092300 and revision id 809674. Rendering was triggered because: unknown\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "חיי שרה",
+        "*": "שיחות_הדבר_מלכות"
+      },
+      {
+        "sortkey": "",
+        "*": "עבודת_ה'"
+      },
+      {
+        "sortkey": "",
+        "*": "תורת_החסידות"
+      },
+      {
+        "sortkey": "",
+        "*": "גאולה_ומשיח_בזמן_הגלות"
+      },
+      {
+        "sortkey": "",
+        "*": "מושגי_יסוד"
+      },
+      {
+        "sortkey": "",
+        "*": "שליחות"
+      },
+      {
+        "sortkey": "",
+        "*": "חומש_בראשית"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ציטוט"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הפניה לערך מורחב"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ניווט קבוצות"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:צבע גופן"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בשורת הגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לחיות גאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד אינפו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "770"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אבן מקיר תזעק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדון (משיח)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אוירו של משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אומות העולם בזמן הגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אורו של משיח (מושג)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אות בספר התורה לילדי ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אליהו הנביא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אריסטון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארמון למלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ארץ ישראל בגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אתחלתא דגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בחזקת משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביטול המועדים לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביטול הצומות לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ביטול והפיכת הרע לעתיד לבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בינה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית המקדש השלישי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בית משיח (שבועון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בקיעת הנהר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בר כוזיבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גילוי אלקות לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גלות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות אחרון של פסח (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות אחרון של פסח (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות אחרי קדושים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות אמור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בהעלותך (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בהעלותך (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בהר בחוקותי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בלק"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות במדבר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בראשית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות בשלח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות דברים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ה' טבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות וארא (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות וארא (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ואתחנן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ויגש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ויחי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ויצא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ויקהל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ויקרא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות וירא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות וישב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות וישלח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות חוקת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות חמשה עשר בשבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות חנוכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות י\"א ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות י\"ט כסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות יתרו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כ\"ב שבט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כ\"ו ניסן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כ\"ח סיון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כי תבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כי תצא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות כי תשא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות לך לך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות מטות מסעי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות מקץ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות משפטים (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות משפטים (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות נח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות נצבים וילך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות נשא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ע\"ד מעלת נשי ובנות ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות עקב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ערב פסח (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ערב פסח (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ערב ראש השנה (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ערב ראש השנה (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות פינחס"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות צו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות קרח (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות קרח (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות ראה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שבועות (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שבועות (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שופטים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שלח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שמות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שמחת תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות שמיני"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תולדות (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תולדות (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תזריע מצורע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תצווה (א')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תצווה (ב')"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבר מלכות תרומה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דור השביעי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דעת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "האמונה בביאת המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הבאת המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הברכות בראיית פני משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הגיע זמן גאולתכם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הדפסת התניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הדרך הישרה - לימוד ענייני גאולה ומשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ההלכה בימות המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "החלטות טובות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "המנין העשירי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הפצת המעיינות חוצה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי מליובאוויטש כמלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "השיחה הידועה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "השירה העשירית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות עם הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התנוצצות הגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התפילה בימות המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ואולך אתכם קוממיות (גובה האדם בגאולה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וארו עם ענני שמיא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ואשיבה שופטייך כבראשונה ויועצייך כבתחילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וגר זאב עם כבש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "והיה אור הלבנה כאור החמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וילחם מלחמות ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וכתתו חרבותם לאתים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ושמתי כדכד שמשותיך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חודש אייר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים נצחיים (בלע המוות)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיים נצחיים במלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חכמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חמורו של משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "טעימה מהגאולה בדורנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהודי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחי אדוננו מורנו ורבינו מלך המשיח לעולם ועד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יחידויות הרבי עם הרב מרדכי אליהו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ילחם מלחמות ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ימות המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יעמוד מלך מבית דוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כבר היה לעולמים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כינוס השלוחים העולמי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לאלתר לתשובה לאלתר לגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לימוד עניני גאולה ומשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע אהבת ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע בית מלא ספרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע הקהל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע הקהלת קהילות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע והשיב לב אבות על בנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע חינוך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע חנוכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע טהרת המשפחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע יבנה וחכמיה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע כשרות האכילה והשתיה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע לולב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע מזוזה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע מצה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע נרות שבת קודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע עשרת הדברות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע פורים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע צדקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע שופר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע תפילין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מהירות הילודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מהירות הצמיחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מורח ודאין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מידותיו של מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מינוי מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מלחמת גוג ומגוג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מלכות בית דוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מלכות שבתפארת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מלכותו של מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מסיבות שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מעדנים מצויין כעפר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מצוות בטלות לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משיח בן יוסף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משיח ודאי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "משיח שבכל דור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נ' אלפים יובלות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניצוץ משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נכסה וחוזר ונגלה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נצחיות חייו של הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיום עבודת הגלות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סעודת שור הבר והלווייתן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר תורה הכללי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר תורה לחיילי צה\"ל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת הגלות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עוד ישבו זקנים וזקנות ברחובות ירושלים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם הבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם הזה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עידוד הילודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עיר מקלט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עליות העולמות לעתיד לבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עם ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עקבתא דמשיחא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עשירות בני ישראל לעתיד לבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עשרת המבצעים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עתיד חזיר להטהר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עתידין אילני סרק שיתנו פירות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עתידין בתי כנסיות ובתי מדרשות שיקבעו בארץ ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פסק הדין שהרבי הוא מלך המשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרסום גאולה ומשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צחצוח הכפתורים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ציפייה לגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבלת פני משיח צדקנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס בית רבינו שבבבל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס הלכות תורה שבעל פה שאינן בטלין לעולם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קיבוץ גלויות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קץ הגלות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ריפוי החולים בגאולה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שופרו של משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיחת ב' ניסן תשמ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלוחים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שליח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שליחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלימות המצוות על פי חסידות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שנה שמלך המשיח נגלה בה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלוכת ל\"ג בעומר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורה חדשה מאתי תצא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תורתו של משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תחיית המתים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תנש\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשנ\"ב"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "קטגוריה:גאולה ומשיח בזמן הגלות"
+      },
+      {
+        "ns": 100,
+        "exists": "",
+        "*": "פורטל:גאולה ומשיח"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "השליחות",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 487,
+        "anchor": "השליחות",
+        "linkAnchor": "השליחות"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הסיבה",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 1857,
+        "anchor": "הסיבה",
+        "linkAnchor": "הסיבה"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "סיום עבודת השליחות",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 2935,
+        "anchor": "סיום_עבודת_השליחות",
+        "linkAnchor": "סיום_עבודת_השליחות"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "כל הפרטים צריכים להיות חדורים",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 3697,
+        "anchor": "כל_הפרטים_צריכים_להיות_חדורים",
+        "linkAnchor": "כל_הפרטים_צריכים_להיות_חדורים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "למעשה בפועל",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 4303,
+        "anchor": "למעשה_בפועל",
+        "linkAnchor": "למעשה_בפועל"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "שייכות העבודה לכל יהודי",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 4873,
+        "anchor": "שייכות_העבודה_לכל_יהודי",
+        "linkAnchor": "שייכות_העבודה_לכל_יהודי"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 5653,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ראו גם",
+        "number": "8",
+        "index": "8",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 5758,
+        "anchor": "ראו_גם",
+        "linkAnchor": "ראו_גם"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "9",
+        "index": "9",
+        "fromtitle": "השליחות_היחידה",
+        "byteoffset": 5829,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "10",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

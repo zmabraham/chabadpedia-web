@@ -1,0 +1,825 @@
+{
+  "parse": {
+    "title": "אגרת הקודש - סימן י\"ח",
+    "pageid": 17081,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #FFCC99; background-color: #FFFFE5; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #E5E5FF;\"><font size=\"3\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%A0%D7%99%D7%90\" title=\"ספר התניא\">ספר התניא</a></font>\n</th></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%93%D7%A3_%D7%94%D7%A9%D7%A2%D7%A8_%D7%95%D7%94%D7%94%D7%A7%D7%93%D7%9E%D7%94_-_%D7%AA%D7%A0%D7%99%D7%90\" title=\"קטגוריה:דף השער וההקדמה - תניא\">דף השער וההקדמה</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%93%D7%A3_%D7%94%D7%A9%D7%A2%D7%A8\" title=\"ליקוטי אמרים - דף השער\">דף השער</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%94%D7%A1%D7%9B%D7%9E%D7%94_%D7%90%27\" title=\"ליקוטי אמרים - הסכמה א&#39;\">הסכמה א'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%94%D7%A1%D7%9B%D7%9E%D7%94_%D7%91%27\" title=\"ליקוטי אמרים - הסכמה ב&#39;\">הסכמה ב'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%94%D7%A1%D7%9B%D7%9E%D7%94_%D7%92%27\" title=\"ליקוטי אמרים - הסכמה ג&#39;\">הסכמה ג'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%94%D7%A7%D7%93%D7%9E%D7%AA_%D7%94%D7%9E%D7%9C%D7%A7%D7%98\" title=\"ליקוטי אמרים - הקדמת המלקט\">הקדמת המלקט</a>\n</td></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%AA%D7%A0%D7%99%D7%90\" title=\"קטגוריה:ליקוטי אמרים - תניא\">ליקוטי אמרים</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%90%27\" title=\"ליקוטי אמרים - פרק א&#39;\">א'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%91%27\" title=\"ליקוטי אמרים - פרק ב&#39;\">ב'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%92%27\" title=\"ליקוטי אמרים - פרק ג&#39;\">ג'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%93%27\" title=\"ליקוטי אמרים - פרק ד&#39;\">ד'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%94%27\" title=\"ליקוטי אמרים - פרק ה&#39;\">ה'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%95%27\" title=\"ליקוטי אמרים - פרק ו&#39;\">ו'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%96%27\" title=\"ליקוטי אמרים - פרק ז&#39;\">ז'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%97%27\" title=\"ליקוטי אמרים - פרק ח&#39;\">ח'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%98%27\" title=\"ליקוטי אמרים - פרק ט&#39;\">ט'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%27\" title=\"ליקוטי אמרים - פרק י&#39;\">י'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%90\" title=\"ליקוטי אמרים - פרק י&quot;א\">י\"א</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%91\" title=\"ליקוטי אמרים - פרק י&quot;ב\">י\"ב</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%92\" title=\"ליקוטי אמרים - פרק י&quot;ג\">י\"ג</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%93\" title=\"ליקוטי אמרים - פרק י&quot;ד\">י\"ד</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%98%22%D7%95\" title=\"ליקוטי אמרים - פרק ט&quot;ו\">ט\"ו</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%98%22%D7%96\" title=\"ליקוטי אמרים - פרק ט&quot;ז\">ט\"ז</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%96\" title=\"ליקוטי אמרים - פרק י&quot;ז\">י\"ז</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%97\" title=\"ליקוטי אמרים - פרק י&quot;ח\">י\"ח</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%98\" title=\"ליקוטי אמרים - פרק י&quot;ט\">י\"ט</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%27\" title=\"ליקוטי אמרים - פרק כ&#39;\">כ'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%90\" title=\"ליקוטי אמרים - פרק כ&quot;א\">כ\"א</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%91\" title=\"ליקוטי אמרים - פרק כ&quot;ב\">כ\"ב</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%92\" title=\"ליקוטי אמרים - פרק כ&quot;ג\">כ\"ג</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%93\" title=\"ליקוטי אמרים - פרק כ&quot;ד\">כ\"ד</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%94\" title=\"ליקוטי אמרים - פרק כ&quot;ה\">כ\"ה</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%95\" title=\"ליקוטי אמרים - פרק כ&quot;ו\">כ\"ו</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%96\" title=\"ליקוטי אמרים - פרק כ&quot;ז\">כ\"ז</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%97\" title=\"ליקוטי אמרים - פרק כ&quot;ח\">כ\"ח</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9B%22%D7%98\" title=\"ליקוטי אמרים - פרק כ&quot;ט\">כ\"ט</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%27\" title=\"ליקוטי אמרים - פרק ל&#39;\">ל'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%90\" title=\"ליקוטי אמרים - פרק ל&quot;א\">ל\"א</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%91\" title=\"ליקוטי אמרים - פרק ל&quot;ב\">ל\"ב</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%92\" title=\"ליקוטי אמרים - פרק ל&quot;ג\">ל\"ג</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%93\" title=\"ליקוטי אמרים - פרק ל&quot;ד\">ל\"ד</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%94\" title=\"ליקוטי אמרים - פרק ל&quot;ה\">ל\"ה</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%95\" title=\"ליקוטי אמרים - פרק ל&quot;ו\">ל\"ו</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%96\" title=\"ליקוטי אמרים - פרק ל&quot;ז\">ל\"ז</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%97\" title=\"ליקוטי אמרים - פרק ל&quot;ח\">ל\"ח</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9C%22%D7%98\" title=\"ליקוטי אמרים - פרק ל&quot;ט\">ל\"ט</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%27\" title=\"ליקוטי אמרים - פרק מ&#39;\">מ'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%90\" title=\"ליקוטי אמרים - פרק מ&quot;א\">מ\"א</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%91\" title=\"ליקוטי אמרים - פרק מ&quot;ב\">מ\"ב</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%92\" title=\"ליקוטי אמרים - פרק מ&quot;ג\">מ\"ג</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%93\" title=\"ליקוטי אמרים - פרק מ&quot;ד\">מ\"ד</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%94\" title=\"ליקוטי אמרים - פרק מ&quot;ה\">מ\"ה</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%95\" title=\"ליקוטי אמרים - פרק מ&quot;ו\">מ\"ו</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%96\" title=\"ליקוטי אמרים - פרק מ&quot;ז\">מ\"ז</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%97\" title=\"ליקוטי אמרים - פרק מ&quot;ח\">מ\"ח</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%9E%22%D7%98\" title=\"ליקוטי אמרים - פרק מ&quot;ט\">מ\"ט</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%A0%27\" title=\"ליקוטי אמרים - פרק נ&#39;\">נ'</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%A0%22%D7%90\" title=\"ליקוטי אמרים - פרק נ&quot;א\">נ\"א</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%A0%22%D7%91\" title=\"ליקוטי אמרים - פרק נ&quot;ב\">נ\"ב</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D_-_%D7%A4%D7%A8%D7%A7_%D7%A0%22%D7%92\" title=\"ליקוטי אמרים - פרק נ&quot;ג\">נ\"ג</a>\n</td></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%AA%D7%A0%D7%99%D7%90\" title=\"קטגוריה:שער היחוד והאמונה - תניא\">שער היחוד והאמונה</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%97%D7%99%D7%A0%D7%95%D7%9A_%D7%A7%D7%98%D7%9F\" title=\"שער היחוד והאמונה - חינוך קטן\">הקדמה - חינוך קטן</a>\n</td></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%90%27\" title=\"שער היחוד והאמונה - פרק א&#39;\">א'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%91%27\" title=\"שער היחוד והאמונה - פרק ב&#39;\">ב'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%92%27\" title=\"שער היחוד והאמונה - פרק ג&#39;\">ג'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%93%27\" title=\"שער היחוד והאמונה - פרק ד&#39;\">ד'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%94%27\" title=\"שער היחוד והאמונה - פרק ה&#39;\">ה'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%95%27\" title=\"שער היחוד והאמונה - פרק ו&#39;\">ו'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%96%27\" title=\"שער היחוד והאמונה - פרק ז&#39;\">ז'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%97%27\" title=\"שער היחוד והאמונה - פרק ח&#39;\">ח'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%98%27\" title=\"שער היחוד והאמונה - פרק ט&#39;\">ט'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%27\" title=\"שער היחוד והאמונה - פרק י&#39;\">י'</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%90\" title=\"שער היחוד והאמונה - פרק י&quot;א\">י\"א</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8_%D7%94%D7%99%D7%97%D7%95%D7%93_%D7%95%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%91\" title=\"שער היחוד והאמונה - פרק י&quot;ב\">י\"ב</a>\n</td></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94\" title=\"אגרת התשובה\">אגרת התשובה</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%90%27\" title=\"אגרת התשובה - פרק א&#39;\">א'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%91%27\" title=\"אגרת התשובה - פרק ב&#39;\">ב'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%92%27\" title=\"אגרת התשובה - פרק ג&#39;\">ג'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%93%27\" title=\"אגרת התשובה - פרק ד&#39;\">ד'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%94%27\" title=\"אגרת התשובה - פרק ה&#39;\">ה'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%95%27\" title=\"אגרת התשובה - פרק ו&#39;\">ו'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%96%27\" title=\"אגרת התשובה - פרק ז&#39;\">ז'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%97%27\" title=\"אגרת התשובה - פרק ח&#39;\">ח'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%98%27\" title=\"אגרת התשובה - פרק ט&#39;\">ט'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%27\" title=\"אגרת התשובה - פרק י&#39;\">י'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%90\" title=\"אגרת התשובה - פרק י&quot;א\">י\"א</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%AA%D7%A9%D7%95%D7%91%D7%94_-_%D7%A4%D7%A8%D7%A7_%D7%99%22%D7%91\" title=\"אגרת התשובה - פרק י&quot;ב\">י\"ב</a>\n</td></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9\" title=\"אגרת הקודש\">אגרת הקודש</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%90%27\" title=\"אגרת הקודש - סימן א&#39;\">א'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%91%27\" title=\"אגרת הקודש - סימן ב&#39;\">ב'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%92%27\" title=\"אגרת הקודש - סימן ג&#39;\">ג'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%93%27\" title=\"אגרת הקודש - סימן ד&#39;\">ד'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%94%27\" title=\"אגרת הקודש - סימן ה&#39;\">ה'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%95%27\" title=\"אגרת הקודש - סימן ו&#39;\">ו'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%96%27\" title=\"אגרת הקודש - סימן ז&#39;\">ז'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%97%27\" title=\"אגרת הקודש - סימן ח&#39;\">ח'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%98%27\" title=\"אגרת הקודש - סימן ט&#39;\">ט'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%27\" title=\"אגרת הקודש - סימן י&#39;\">י'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%90\" title=\"אגרת הקודש - סימן י&quot;א\">י\"א</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%91\" title=\"אגרת הקודש - סימן י&quot;ב\">י\"ב</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%92\" title=\"אגרת הקודש - סימן י&quot;ג\">י\"ג</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%93\" title=\"אגרת הקודש - סימן י&quot;ד\">י\"ד</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%98%22%D7%95\" title=\"אגרת הקודש - סימן ט&quot;ו\">ט\"ו</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%98%22%D7%96\" title=\"אגרת הקודש - סימן ט&quot;ז\">ט\"ז</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%96\" title=\"אגרת הקודש - סימן י&quot;ז\">י\"ז</a> · <a class=\"mw-selflink selflink\">י\"ח</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%98\" title=\"אגרת הקודש - סימן י&quot;ט\">י\"ט</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%27\" title=\"אגרת הקודש - סימן כ&#39;\">כ'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%90\" title=\"אגרת הקודש - סימן כ&quot;א\">כ\"א</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%91\" title=\"אגרת הקודש - סימן כ&quot;ב\">כ\"ב</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%92\" title=\"אגרת הקודש - סימן כ&quot;ג\">כ\"ג</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%93\" title=\"אגרת הקודש - סימן כ&quot;ד\">כ\"ד</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%94\" title=\"אגרת הקודש - סימן כ&quot;ה\">כ\"ה</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%95\" title=\"אגרת הקודש - סימן כ&quot;ו\">כ\"ו</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%96\" title=\"אגרת הקודש - סימן כ&quot;ז\">כ\"ז</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%97\" title=\"אגרת הקודש - סימן כ&quot;ח\">כ\"ח</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9B%22%D7%98\" title=\"אגרת הקודש - סימן כ&quot;ט\">כ\"ט</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9C%27\" title=\"אגרת הקודש - סימן ל&#39;\">ל'</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9C%22%D7%90\" title=\"אגרת הקודש - סימן ל&quot;א\">ל\"א</a> · <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%9C%22%D7%91\" title=\"אגרת הקודש - סימן ל&quot;ב\">ל\"ב</a>\n</td></tr>\n<tr>\n<th style=\"background-color: #E5E5FF;\"><font size=\"2\"><a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%A0%D7%99%D7%90\" title=\"קונטרס אחרון - ספר התניא\">קונטרס אחרון</a></font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%90%27\" title=\"קונטרס אחרון - פרק א&#39;\">א'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%91%27\" title=\"קונטרס אחרון - פרק ב&#39;\">ב'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%92%27\" title=\"קונטרס אחרון - פרק ג&#39;\">ג'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%93%27\" title=\"קונטרס אחרון - פרק ד&#39;\">ד'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%94%27\" title=\"קונטרס אחרון - פרק ה&#39;\">ה'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%95%27\" title=\"קונטרס אחרון - פרק ו&#39;\">ו'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%96%27\" title=\"קונטרס אחרון - פרק ז&#39;\">ז'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%97%27\" title=\"קונטרס אחרון - פרק ח&#39;\">ח'</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%90%D7%97%D7%A8%D7%95%D7%9F_-_%D7%A4%D7%A8%D7%A7_%D7%98%27\" title=\"קונטרס אחרון - פרק ט&#39;\">ט'</a>\n</td></tr></tbody></table>\n<p><b>אגרת הקודש י\"ח - מה יפית ומה נעמת אהבה בתענוגים</b>\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.9E.D7.91.D7.95.D7.90\"></span><span class=\"mw-headline\" id=\"מבוא\">מבוא</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;מבוא&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: מבוא\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>באגרת <a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%A2%D7%99%D7%A3_%D7%99%22%D7%96\" class=\"mw-redirect\" title=\"אגרת הקודש - סעיף י&quot;ז\">הקודמת</a> התבאר שעבודת הצדקה ממשיכה הן את הגילויים דעכשיו (כולל גן-עדן) והן את הגילויים דתחיית המתים. בהמשך לזה הביאו \"בני הגאון המחבר\" אגרת זו, המבארת <b>מהם</b> גילויים אלו.\n</p>\n<ul><li>על פי הנ\"ל יש לומר<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup>, שבכח עבודת הצדקה לגלות אצל כל אחד לא רק מעין הגילוי <b>שבג\"ע</b>, אלא אפילו מעין הגילוי <b>שבתחיית המתים</b> (למרות ש\"אין כל אדם זוכה לזה\"!).</li></ul>\n<h2><span id=\".D7.92.D7.95.D7.A3_.D7.94.D7.90.D7.92.D7.A8.D7.AA\"></span><span class=\"mw-headline\" id=\"גוף_האגרת\">גוף האגרת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;גוף האגרת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: גוף האגרת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table class=\"toccolours\" style=\"clear: both; width: 85%; max-width: 700px; margin: auto;\">\n<tbody><tr>\n<th style=\"background-color: #E5E5FF; font-size: 1.2em; text-align: center;\">אגרת י\"ח\n</th></tr>\n<tr>\n<td><div style=\"text-align: right; background-color: #FFFFE5; padding: 0.5em; font-family: david; font-size: 1em;\">\n<p><b>יח כתיב</b> מה יפית ומה נעמת אהבה בתענוגים. הנה ב' מיני אהבות הן הא' <a href=\"/index.php/%D7%90%D7%94%D7%91%D7%94_%D7%91%D7%AA%D7%A2%D7%A0%D7%95%D7%92%D7%99%D7%9D\" title=\"אהבה בתענוגים\">אהבה בתענוגים</a>, דהיינו שמתענג על ה' עונג נפלא בשמחה רבה ועצומה שמחת הנפש וכלותה בטעמה כי טוב ה' ונעים נעימות עריבות עד להפליא מעין <a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%91%D7%90\" title=\"עולם הבא\">עולם הבא</a> ממש שנהנין כו' ועל זה כתיב שמחו צדיקים בה' ולא כל אדם זוכה לזה וזו היא בחינת כהנא ברעותא דלבא שב<a href=\"/index.php/%D7%96%D7%95%D7%94%D7%A8_%D7%94%D7%A7%D7%93%D7%95%D7%A9\" class=\"mw-redirect\" title=\"זוהר הקדוש\">זוהר הקדוש</a> ועל זה נאמר עבודת מתנה וגו' והזר הקרב וגו' כי אין דרך להשיגה על ידי יגיעת בשר כמו ה<a href=\"/index.php/%D7%99%D7%A8%D7%90%D7%94\" title=\"יראה\">יראה</a> ששואלין עליה יגעת ביראה ואוי לבשר שלא נתייגע ביראה כמו שאיתא בר\"ח וכתיב ביראה אם תבקשנה ככסף וגו' מלמד שצריכה יגיעה רבה ועצומה כמחפש אחר אוצרות. אבל אהבה רבה זו [אהבה בתענוגים] נופלת לאדם מאליה מלמעלה בלי שיכין ויכוון לה אך ורק אחר שנתייגע ביראת הרוממות והגיע לתכלית מה שיוכל להשיג ממנה לפי בחינת נשמתו אזי ממילא באה האהבה בתענוגים מלמעלה לשכון ולהתייחד עם היראה כי דרכו של איש לחזר כו' כמו שאיתא ב<a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%90%D7%9E%D7%A8%D7%99%D7%9D\" class=\"mw-redirect\" title=\"ליקוטי אמרים\">ליקוטי אמרים</a>. והשנית היא אהבה ותאוה שהנפש מתאוה ואוהבת וחפיצה לדבקה בה' לצרור בצרור החיים וקרבת אלהים טוב לה מאד ובו תחפוץ ורע לה מאד להתרחק ממנו יתברך ח\"ו להיות מחיצה של ברזל מהחיצונים מפסקת ח\"ו, ואהבה זו היא מוסתרת בלב כלל ישראל אפילו ברשעים וממנה באה להם החרטה אך מפני שהיא מוסתרת ונעלמה בבחינת גלות בגוף הרי הקליפה יכולה לשלוט עליה, וזהו רוח שטות המחטיא לאדם וע\"כ עבודת האדם לקונו היא להתחזק ולהתגבר על הקליפה בכל מכל כל דהיינו מתחלה לגרשה מהגוף לגמרי מ<a href=\"/index.php/%D7%9E%D7%97%D7%A9%D7%91%D7%94\" title=\"מחשבה\">מחשבה</a> <a href=\"/index.php/%D7%93%D7%91%D7%95%D7%A8\" class=\"mw-redirect\" title=\"דבור\">דבור</a> ו<a href=\"/index.php/%D7%9E%D7%A2%D7%A9%D7%94\" title=\"מעשה\">מעשה</a> שבמוח ולשון ורמ\"ח אברים ואח\"כ יוכל גם כן להוציא ממסגר אסיר בחוזק יד, דהיינו להיות חזק ואמיץ לבו בגבורים להיות האהבה המסותרת נגלית בגילוי רב בכל כחות חלקי הנפש שבגוף דהיינו העיקר בשכל ובמחשבה שבמוח שהשכל יחשב ויתבונן תמיד כפי שכלו והשכלתו בבורא יתברך איך שהוא חיי החיים בכלל וחיי נשמתו בפרט וע\"כ יכסוף ויתאוה להיות דבוק בו וקרוב אליו כוסף טבעי כבן הכוסף להיות תמיד אצל אביו, וכמו <a href=\"/index.php/%D7%90%D7%A9\" class=\"mw-redirect\" title=\"אש\">אש</a> העולה למעלה תמיד בטבעה למקורה וכל מה שיתמיד לחשוב בשכלו כוסף זה ככה יתגבר ויתפשט כוסף זה גם בפיו ובכל אבריו לעסוק בתורה ומצות לדבקה בהם בה' ממש דאורייתא וקוב\"ה כולא חד ועל כוסף זה שבגילוי רב כתיב צמאה נפשי וגו' כאדם הצמא ל<a href=\"/index.php/%D7%9E%D7%99%D7%9D\" title=\"מים\">מים</a> ואין לו תענוג עדיין כלל, וגם על כוסף זה ואהבה זו המוסתרת בנו אנו מעתירים לה' להיות בעזרנו להוציאה ממסגר ושיהיה הלב מלא ממנה לבדה ולא תכנס צרתה בביתה שהיא תאות עולם הזה רק שתהיה היא עקרת הבית למשול בצרתה ולגרשה החוצה ממחשבה <a href=\"/index.php/%D7%93%D7%91%D7%95%D7%A8\" class=\"mw-redirect\" title=\"דבור\">דבור</a> ו<a href=\"/index.php/%D7%9E%D7%A2%D7%A9%D7%94\" title=\"מעשה\">מעשה</a> עכ\"פ הגם שלא יוכל לשלחה לגמרי מלבו עכ\"פ תהיה היא מוסתרת בבחינת גלות ועבדות לעקרת הבית גברתה להשתמש בה לדברים הכרחים לה לבד כאכילה ושתיה כדכתיב בכל דרכיך דעהו:\n</p>\n</div>\n</td></tr></tbody></table>\n<p><br />\n</p>\n<h2><span id=\".D7.A1.D7.99.D7.9B.D7.95.D7.9D\"></span><span class=\"mw-headline\" id=\"סיכום\">סיכום</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;סיכום&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: סיכום\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a href=\"/index.php/%D7%90%D7%94%D7%91%D7%94\" title=\"אהבה\">אהבה</a> ב<a href=\"/index.php/%D7%AA%D7%A2%D7%A0%D7%95%D7%92\" title=\"תענוג\">תענוגים</a></b> היא תענוג <b>על</b> <a href=\"/index.php/%D7%90%D7%9C%D7%95%D7%A7%D7%95%D7%AA\" title=\"אלוקות\">אלוקות</a> (שלא כל אדם זוכה לה, שמתענג על עצם הדביקות באלוקות שהשיג בשכלו והתגלתה בליבו).</li>\n<li><b>אהבה המסותרת</b> (כשהיא מתגלה) היא כיסופין וצמאון עצום <b>ל</b>אלוקות (אצל מי שעדיין לא התגלתה בנפשו).</li></ul>\n<h2><span id=\".D7.9E.D7.95.D7.A9.D7.92.D7.99.D7.9D_.D7.99.D7.A1.D7.95.D7.93.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"מושגים_יסודיים\">מושגים יסודיים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;מושגים יסודיים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: מושגים יסודיים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a href=\"/index.php/%D7%90%D7%94%D7%91%D7%94_%D7%91%D7%AA%D7%A2%D7%A0%D7%95%D7%92%D7%99%D7%9D\" title=\"אהבה בתענוגים\">אהבה בתענוגים</a></li>\n<li><a href=\"/index.php/%D7%90%D7%94%D7%91%D7%94_%D7%9E%D7%A1%D7%95%D7%AA%D7%A8%D7%AA\" class=\"mw-redirect\" title=\"אהבה מסותרת\">אהבה מסותרת</a></li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%22%D7%97&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"https://abc770.org/article_node_4771/\">תניא לעם</a> באתר חב\"ד אור אין סוף</li></ul>\n<table class=\"toccolours\" border=\"1\" cellspacing=\"0\" cellpadding=\"4\" style=\"clear:both; width:90%; border-collapse:collapse; margin:0 auto 0 auto; text-align:center;\">\n\n<tbody><tr>\n<td width=\"30%\"><b>הקודם</b>:<br /><b><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%A2%D7%99%D7%A3_%D7%99%22%D7%96\" class=\"mw-redirect\" title=\"אגרת הקודש - סעיף י&quot;ז\">פרק י\"ז</a></b>\n</td>\n<td width=\"40%\"><b>פרקי אגרת הקודש</b>\n</td>\n<td width=\"30%\"><b>הבא</b>:<br /><b><a href=\"/index.php/%D7%90%D7%92%D7%A8%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_-_%D7%A1%D7%A2%D7%99%D7%A3_%D7%99%22%D7%98\" class=\"mw-redirect\" title=\"אגרת הקודש - סעיף י&quot;ט\">פרק י\"ט</a></b>\n</td></tr></tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">מוסיף <a href=\"/index.php/%D7%A8%D7%91%D7%99_%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8%D7%A1%D7%95%D7%9F_(%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90)\" class=\"mw-redirect\" title=\"רבי מנחם מענדל שניאורסון (אדמו&quot;ר שליט&quot;א)\">הרבי</a>.</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260413054636\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.078 seconds\nReal time usage: 0.622 seconds\nPreprocessor visited node count: 130/1000000\nPost‐expand include size: 16892/2097152 bytes\nTemplate argument size: 4386/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 377/5000000 bytes\nLua time usage: 0.030/7 seconds\nLua virtual size: 5214208/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  519.170      1 -total\n 68.29%  354.563      1 תבנית:הערה\n 15.14%   78.578      1 תבנית:הערות_שוליים\n 11.14%   57.827      1 תבנית:תניא\n  4.12%   21.399      1 תבנית:קטע_תניא\n  3.11%   16.126      1 תבנית:הערות_שוליים/מרחב_שם\n  2.89%   14.984      1 תבנית:ספר_התניא/אגרת_הקודש_-_סעיף_י&quot;ח\n  1.22%    6.329      1 תבנית:סדרה\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:17081-0!canonical and timestamp 20260413054636 and revision id 639883. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "אגרת_הקודש_-_תניא"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ד'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ו'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ח'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ט\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ט\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ט'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן י'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן כ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ל\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ל\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סימן ל'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סעיף י\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת הקודש - סעיף י\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ד'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ו'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ח'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק ט'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק י\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק י\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אגרת התשובה - פרק י'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבה בתענוגים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבה מסותרת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אלוקות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דבור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זוהר הקדוש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יראה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - דף השער"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - הסכמה א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - הסכמה ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - הסכמה ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - הקדמת המלקט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ד'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ו'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ח'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ט\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ט\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ט'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק י'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק כ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק ל'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק מ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק נ\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק נ\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק נ\"ג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי אמרים - פרק נ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מחשבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מעשה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר התניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם הבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - ספר התניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ד'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ו'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ח'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס אחרון - פרק ט'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רבי מנחם מענדל שניאורסון (אדמו\"ר שליט\"א)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - חינוך קטן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק א'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ב'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ג'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ד'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ו'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ח'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק ט'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק י\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק י\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שער היחוד והאמונה - פרק י'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תענוג"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "קטגוריה:דף השער וההקדמה - תניא"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "קטגוריה:ליקוטי אמרים - תניא"
+      },
+      {
+        "ns": 14,
+        "exists": "",
+        "*": "קטגוריה:שער היחוד והאמונה - תניא"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "מבוא",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "אגרת_הקודש_-_סימן_י\"ח",
+        "byteoffset": 64,
+        "anchor": "מבוא",
+        "linkAnchor": "מבוא"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "גוף האגרת",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "אגרת_הקודש_-_סימן_י\"ח",
+        "byteoffset": 505,
+        "anchor": "גוף_האגרת",
+        "linkAnchor": "גוף_האגרת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "סיכום",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "אגרת_הקודש_-_סימן_י\"ח",
+        "byteoffset": 598,
+        "anchor": "סיכום",
+        "linkAnchor": "סיכום"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "מושגים יסודיים",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "אגרת_הקודש_-_סימן_י\"ח",
+        "byteoffset": 860,
+        "anchor": "מושגים_יסודיים",
+        "linkAnchor": "מושגים_יסודיים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "אגרת_הקודש_-_סימן_י\"ח",
+        "byteoffset": 916,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "6",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

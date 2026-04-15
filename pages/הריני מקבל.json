@@ -1,0 +1,943 @@
+{
+  "parse": {
+    "title": "הריני מקבל",
+    "pageid": 8721,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><table class=\"infobox\" style=\"width:25%; border: 1px solid #339999; background-color: #cceeee; margin-bottom: 0.5em; margin-right: 1em; padding: 0.2em; color: black; float: left; text-align: center; font-size: 85%; clear:right;\">\n\n<tbody><tr style=\"background:lightblue;\">\n<th style=\"background-color: #339999;\"><font size=\"4\"><a href=\"/index.php/%D7%AA%D7%A7%D7%A0%D7%95%D7%AA_%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"תקנות הרבי\">תקנות הרבי</a></font>\n</th></tr>\n\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\">תקנות לימוד</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%AA%D7%A7%D7%A0%D7%AA_%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%94%D7%A8%D7%9E%D7%91%22%D7%9D\" title=\"תקנת לימוד הרמב&quot;ם\">לימוד הרמב\"ם</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%AA%D7%A0%D7%99%D7%90#לימודו\" title=\"ספר התניא\">לימוד פרק תניא לפני התפילה</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%A2%D7%A0%D7%99%D7%A0%D7%99_%D7%91%D7%99%D7%AA_%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%94\" title=\"לימוד עניני בית הבחירה\">לימוד עניני בית הבחירה בבין המצרים</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%A2%D7%A0%D7%99%D7%A0%D7%99_%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%95%D7%9E%D7%A9%D7%99%D7%97\" title=\"לימוד עניני גאולה ומשיח\">לימוד עניני גאולה ומשיח</a> · <a href=\"/index.php/%D7%A9%D7%99%D7%A2%D7%95%D7%A8%D7%99%D7%9D_%D7%99%D7%95%D7%9E%D7%99%D7%99%D7%9D#לקוטי_תורה_ותורה_אור\" title=\"שיעורים יומיים\">לימוד הפרשה החסידית</a> · <a href=\"/index.php/%D7%9C%D7%99%D7%9E%D7%95%D7%93_%D7%9E%D7%AA%D7%95%D7%A8%D7%AA_%D7%A8%D7%91%D7%95%D7%AA%D7%99%D7%A0%D7%95_%D7%A0%D7%A9%D7%99%D7%90%D7%A0%D7%95_%D7%91%D7%97%D7%95%D7%93%D7%A9_%D7%9B%D7%A1%D7%9C%D7%95\" title=\"לימוד מתורת רבותינו נשיאנו בחודש כסלו\">לימוד מתורת רבותינו נשיאנו בחודש כסלו</a> · <a href=\"/index.php/%D7%A1%D7%99%D7%95%D7%9E%D7%99_%D7%9E%D7%A1%D7%9B%D7%AA_%D7%91%D7%AA%D7%A9%D7%A2%D7%AA_%D7%94%D7%99%D7%9E%D7%99%D7%9D\" title=\"סיומי מסכת בתשעת הימים\">סיומי מסכת בתשעת הימים</a> · <a href=\"/index.php/%D7%9B%D7%AA%D7%99%D7%91%D7%AA_%D7%97%D7%99%D7%93%D7%95%D7%A9%D7%99_%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"כתיבת חידושי תורה\">כתיבת חידושי תורה</a> · <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%95%D7%9B%D7%94\" title=\"תהלוכה\">תהלוכה</a>\n</td></tr>\n<tr style=\"background:lightblue;\">\n<th style=\"background-color: #33cccc;\"><font size=\"2\">תקנות שונות</font>\n</th></tr>\n<tr>\n<td><a href=\"/index.php/%D7%A1%D7%9E%D7%99%D7%9B%D7%94_%D7%9C%D7%A8%D7%91%D7%A0%D7%95%D7%AA\" title=\"סמיכה לרבנות\">סמיכה לרבנות</a> · <a href=\"/index.php/%D7%9B%D7%99%D7%A0%D7%95%D7%A1_%D7%AA%D7%95%D7%A8%D7%94\" title=\"כינוס תורה\">כינוס תורה</a> · <a href=\"/index.php/%D7%A1%D7%A4%D7%A8%D7%99%D7%95%D7%AA_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%95%D7%AA\" title=\"ספריות ציבוריות\">ספריות ציבוריות</a> · <a href=\"/index.php/%D7%AA%D7%A7%D7%A0%D7%AA_%D7%94%D7%9E%D7%A9%D7%A7%D7%94\" title=\"תקנת המשקה\">תקנת המשקה</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F_%D7%A8%D7%91%D7%99%D7%A0%D7%95_%D7%AA%D7%9D#הנחתם\" title=\"תפילין רבינו תם\">תפילין רבינו תם</a> · <a href=\"/index.php/%D7%93%D7%91%D7%A8%D7%99_%D7%9B%D7%99%D7%91%D7%95%D7%A9%D7%99%D7%9F\" title=\"דברי כיבושין\">דברי כיבושין</a> · <a href=\"/index.php/%D7%A9%D7%9E%D7%97%D7%AA_%D7%91%D7%99%D7%AA_%D7%94%D7%A9%D7%95%D7%90%D7%91%D7%94#בדורנו\" title=\"שמחת בית השואבה\">שמחת בית השואבה</a> · <a href=\"/index.php/%D7%99%D7%9C%D7%93%D7%99_%D7%99%D7%A9%D7%A8%D7%90%D7%9C#מראות_לא_טהורים\" title=\"ילדי ישראל\">מניעת מראות לא טהורים מילדים</a> · <a href=\"/index.php/%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C_(%D7%AA%D7%A4%D7%99%D7%9C%D7%94)\" class=\"mw-redirect\" title=\"הריני מקבל (תפילה)\">הוספות לתפילה</a> · <a href=\"/index.php/%D7%A2%D7%A9%D7%94_%D7%9C%D7%9A_%D7%A8%D7%91\" title=\"עשה לך רב\">עשה לך רב</a> · <a href=\"/index.php/%D7%A7%D7%91%D7%99%D7%A2%D7%AA_%D7%A7%D7%95%D7%A4%D7%AA_%D7%A6%D7%93%D7%A7%D7%94_%D7%91%D7%A7%D7%99%D7%A8_%D7%94%D7%9E%D7%98%D7%91%D7%97\" class=\"mw-redirect\" title=\"קביעת קופת צדקה בקיר המטבח\">קביעת קופת צדקה בקיר המטבח</a> · <a href=\"/index.php/%D7%A4%D7%9C%D7%A2%D7%93%D7%96%27\" title=\"פלעדז&#39;\">פלעדז'</a> · <a href=\"/index.php/%D7%9E%D7%91%D7%A6%D7%A2_%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA\" title=\"מבצע יום הולדת\">יום הולדת</a> · <a href=\"/index.php/%D7%A8%D7%92%D7%A2_%D7%A9%D7%9C_%D7%A9%D7%AA%D7%99%D7%A7%D7%94\" title=\"רגע של שתיקה\">רגע של שתיקה</a> · <a href=\"/index.php/%D7%97%D7%99%D7%91%D7%95%D7%A8_%D7%94%D7%97%D7%92_%D7%A2%D7%9D_%D7%99%D7%9E%D7%99_%D7%94%D7%97%D7%95%D7%9C\" class=\"mw-redirect\" title=\"חיבור החג עם ימי החול\">חיבור החג עם ימי החול</a>\n</td></tr>\n</tbody></table>\n<p><a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a> ב<a href=\"/index.php/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" title=\"סידור אדמו&quot;ר הזקן\">סידורו</a> (על פי האריז\"ל) הורה לומר את המילים: <span class=\"hebrewQuotation\" style=\"font-size:120%;\">\"הריני מקבל עליי מצוות עשה של ואהבת לרעך כמוך\"</span> לפני התחלת ה<a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"תפילה\">תפילה</a>. והוא מסביר: זאת אומרת, אשר מצות אהבת ישראל היא שער הכניסה, אשר דרכו יכול האדם לבוא לעמוד לפני ה' להתפלל, בזכותה תקובל תפילת המתפלל.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.98.D7.A2.D7.9E.D7.94_.D7.A9.D7.9C_.D7.90.D7.9E.D7.99.D7.A8.D7.94_.D7.91.D7.93.D7.99.D7.91.D7.95.D7.A8_.D7.93.D7.95.D7.95.D7.A7.D7.90\"></span><span class=\"mw-headline\" id=\"טעמה_של_אמירה_בדיבור_דווקא\">טעמה של אמירה בדיבור דווקא</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;טעמה של אמירה בדיבור דווקא&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: טעמה של אמירה בדיבור דווקא\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> מקשה, מדוע צריכה להיות אמירה בפה, ולא מספיקה קבלת ה<a href=\"/index.php/%D7%9E%D7%A6%D7%95%D7%95%D7%94\" title=\"מצווה\">מצווה</a> על ידי <a href=\"/index.php/%D7%9E%D7%97%D7%A9%D7%91%D7%94\" title=\"מחשבה\">מחשבה</a> וכוונה ב<a href=\"/index.php/%D7%9C%D7%91\" title=\"לב\">לב</a>. ובפרט שהאמירה ב<a href=\"/index.php/%D7%93%D7%99%D7%91%D7%95%D7%A8\" title=\"דיבור\">דיבור</a> יכולה לבלבל להתרכזות ולכוונה של האדם, כי עליו להתרכז לבטא באותיות בדיבור<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup>, ולהתחשב בתנאי ה<a href=\"/index.php?title=%D7%9E%D7%A7%D7%95%D7%9D&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"מקום (הדף אינו קיים)\">מקום</a> וה<a href=\"/index.php/%D7%96%D7%9E%D7%9F\" title=\"זמן\">זמן</a>.\n</p><p>מסביר הרבי, כי מצד ה<a href=\"/index.php/%D7%A0%D7%A9%D7%9E%D7%94\" class=\"mw-redirect\" title=\"נשמה\">נשמות</a> דבני ישראל, קיים איחוד תמידי בין כל נשמה לשאר הנשמות, רק ש\"ה<a href=\"/index.php/%D7%92%D7%95%D7%A3\" class=\"mw-redirect\" title=\"גוף\">גופים</a> מחולקים\" - כפי שהנשמה יורדת ומתלבשת בגוף גשמי ישנם חילוקים בין יהודי אחד לחבירו... וזהו (גם) ענינה של המצוה ד\"ואהבת לרעך כמוך\". שגם כמו שבני ישראל מחולקים (מצד הגופים שלהם), יאהב האחד את השני \"כמוך\", על ידי שמגלה מן הכח אל הפועל את האחדות.\n</p><p>על פי זה מובן שהביטוי העיקרי והשלם ד<a href=\"/index.php/%D7%90%D7%94%D7%91%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"אהבת ישראל\">אהבת ישראל</a> הוא בשעה שזה (נוסף על רגש בלב ובכוונה במחשבה, גם) בדיבור (באויר העולם) - עקימת שפתיו הוי מעשה (זוטא), עד במעשה רבה, בפועל ממש, על ידי אברי ה<a href=\"/index.php/%D7%92%D7%95%D7%A3\" class=\"mw-redirect\" title=\"גוף\">גוף</a> - <a href=\"/index.php/%D7%90%D7%95%D7%AA%D7%99%D7%95%D7%AA\" class=\"mw-redirect\" title=\"אותיות\">אותיות</a> הדיבור שהנפש מדברת בה' מוצאות הפה, עד בעשיה בפועל על ידי הידים - \"היד המחלקת צדקה\", או שאר אברי הגוף<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">&#91;</span>2<span class=\"cite-bracket\">&#93;</span></a></sup>\n</p>\n<h2><span id=\".D7.AA.D7.A2.D7.A0.D7.95.D7.92_.D7.A2.D7.9C.D7.99.D7.95.D7.9F\"></span><span class=\"mw-headline\" id=\"תענוג_עליון\">תענוג עליון</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;תענוג עליון&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: תענוג עליון\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a> מסביר, כי כשלאבא יש הרבה ילדים, הרי עיקר ה<a href=\"/index.php/%D7%AA%D7%A2%D7%A0%D7%95%D7%92\" title=\"תענוג\">תענוג</a> שלו הוא כשרואה שכולם הם ב<a href=\"/index.php/%D7%90%D7%97%D7%93%D7%95%D7%AA\" title=\"אחדות\">אחדות</a> ו<a href=\"/index.php/%D7%90%D7%94%D7%91%D7%94\" title=\"אהבה\">אוהבים</a> אחד את השני. תפילה היא הרי בקשת צרכיו, הן צרכים גשמיים והן צרכים רוחניים, הנה לפני הבקשה צריכים לעשות נחת רוח לאבינו שבשמים, ולכן קבעו לקבל <a href=\"/index.php/%D7%9E%D7%A6%D7%95%D7%95%D7%AA_%D7%A2%D7%A9%D7%94\" class=\"mw-redirect\" title=\"מצוות עשה\">מצוות עשה</a> של אהבת ישראל לפני התפילה דוקא<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">&#91;</span>3<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>בפרי עץ חיים מובא גם הסבר נוסף לדבר:<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">&#91;</span>4<span class=\"cite-bracket\">&#93;</span></a></sup> \"קודם שיתחיל להתפלל בתפילת <a href=\"/index.php/%D7%A9%D7%97%D7%A8%D7%99%D7%AA\" class=\"mw-redirect\" title=\"שחרית\">שחרית</a> צריך לקבל עליו מצות ואהבת לרעך כמוך ויכוון לאהוב כל איש ישראל כנפשו. דהעבודה הוא לעלות בשליבות ב<a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"תפילה\">תפילה</a> מדרגא לדרגא לבחינת ומדריגת <a href=\"/index.php/%D7%A9%D7%9E%D7%A2_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" class=\"mw-redirect\" title=\"שמע ישראל\">שמע ישראל</a>, והעבודה בפועל בכל היום בחינת ומדריגת ואהבת, הנה ההקדמה לזה הוא מצות ואהבת לרעך כמוך, להיות דב<a href=\"/index.php/%D7%A7%D7%93%D7%95%D7%A9%D7%94\" title=\"קדושה\">קדושה</a> הוא ביטול ו<a href=\"/index.php/%D7%90%D7%97%D7%93%D7%95%D7%AA\" title=\"אחדות\">אחדות</a>\"<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">&#91;</span>5<span class=\"cite-bracket\">&#93;</span></a></sup>. \n</p><p><a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> מסביר עוד, כי אדם צריך לכלול את עצמו יחד עם כלל ישראל, אפילו עם יהודים שהם בבחינת \"אהליאב\" עליו נאמר במדרש שהי' \"הירוד שבשבטים\" - גם אותם יש להעלות... זו לא רק מצוה של אהבת ישראל שהיא יסוד לכל התורה, אלא שזה נוגע גם לתפילתו שלו, לעלי' שלו, אהבת ישראל היא הכנה והקדמה לתפילתו הוא. והטעם לכך הוא, כי סדר העלייה הוא שמוכרחים להגביה מהחלק התחתון ביותר, כמשל הידוע שבנין מרימים על ידי מנוף [המגביה מלמטה]<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">&#91;</span>6<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p>\n<h2><span id=\".D7.94.D7.A7.D7.93.D7.9E.D7.94_.D7.9C.22.D7.9E.D7.94_.D7.98.D7.95.D7.91.D7.95.22\"></span><span class=\"mw-headline\" id=\"הקדמה_ל&quot;מה_טובו&quot;\">הקדמה ל\"מה טובו\"</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;הקדמה ל&quot;מה טובו&quot;&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: הקדמה ל&quot;מה טובו&quot;\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a> מקשה, כי בסידור לפני מה טובו כתוב: נכון לומר קודם התפילה הריני מקבל עלי <a href=\"/index.php/%D7%9E%D7%A6%D7%95%D7%95%D7%AA_%D7%A2%D7%A9%D7%94\" class=\"mw-redirect\" title=\"מצוות עשה\">מצוות עשה</a> של ואהבת לרעך כמוך. המקור לכך הוא בפרי עץ חיים, שם איתא שיש לקיים את המצוה של ואהבת לרעך כמוך קודם התפילה. לכאורה נשאלת השאלה: בפרי עץ חיים כתוב שצריך לקיים את המצוה [כלשונו שם: \"צריך שיקבל עליו\"] ואילו רבנו הזקן אומר שצריך רק לומר. ועוד צ\"ל: מהו הלשון \"נכון לומר\"?\n</p><p>אלא, מסביר הרבי הריי\"צ, שכל דבר צריך שיהיה בסדר והדרגה, תחילה צריך להיות \"נכון לומר\", ולאחר מכן ב\"מה טובו\" כבר ישנה המצוה של ואהבת.\n</p><p>במדרש על הפסוק מה טובו איתא: <span class=\"hebrewQuotation\" style=\"font-size:120%;\">\"אלו בתי כנסיות ובתי מדרשות\"</span>. <a href=\"/index.php/%D7%A8%D7%A9%22%D7%99\" title=\"רש&quot;י\">רש\"י</a> אומר על כך <span class=\"hebrewQuotation\" style=\"font-size:120%;\">\"על שראה פתחיהם שאינן מכוונין זה מול זה\"</span>. בדרך כלל על הזולת רואים תחילה את החסרונות ואילו על עצמו רואים תחילה את המעלות. אמנם ההיפך הוא הנכון.\n</p><p>אלא, שכל יהודי בשעה שהוא נמצא בבית הכנסת הוא אחרת מאשר הוא נמצא בביתו. וזוהי הכוונה של פתחיהם מכוונות, להסתכל על הזולת לא כפי שהוא בביתו, אלא כפי ש\"אלו בתי כנסיות כו'\". מצד אהבת ישראל צריך להביט על הזולת כפי שהוא במעמד ומצב של בית כנסת, ולהשתדל שהוא יהפוך להיות בביתו כפי שהוא מתנהג בבית הכנסת<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">&#91;</span>7<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>(ר' מענדל פוטרפס היה נוהג לומר \"הריני מקבל\" יחד עם ההקדמה ש<a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%96%D7%A7%D7%9F\" class=\"mw-redirect\" title=\"אדמו&quot;ר הזקן\">אדמו\"ר הזקן</a> כתב בסידור \"נכון לומר קודם התפילה הריני וכו'\").\n</p>\n<h2><span id=\".D7.94.D7.95.D7.A8.D7.90.D7.AA_.D7.94.D7.A8.D7.91.D7.99\"></span><span class=\"mw-headline\" id=\"הוראת_הרבי\">הוראת הרבי</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;הוראת הרבי&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: הוראת הרבי\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בשנת <a href=\"/index.php/%D7%AA%D7%A9%D7%93%22%D7%9E\" title=\"תשד&quot;מ\">תשד\"מ</a> הורה <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%99\" class=\"mw-redirect\" title=\"הרבי\">הרבי</a> שבגלל מצב העולם המדרדר יש צורך בהוספה מיוחדת בתפילה, ולכן יש לעורר שכל יהודי מכל נוסח תפילה שהוא יאמר \"הריני מקבל .. ואהבת לרעך כמוך\" לפני התפילה, (וכן את הפסוק \"אך צדיקים יודו לשמך ישבו ישרים את פניך\", בסיום התפילה). ואין זה סותר לכך שלכל יהודי יש נוסח משלו - כיוון שאמירה זו הינה <b>לפני</b> התפילה. הרבי <a href=\"/index.php/%D7%9E%D7%95%D7%92%D7%94\" title=\"מוגה\">הגיה</a> את השיחות שבהם דיבר על ההוראה והם יצאו בקונטרס מיוחד<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">&#91;</span>8<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>לאחר מכן הודה הרבי לאלו שפירסמו על ההוראה ב<a href=\"/index.php/%D7%A2%D7%99%D7%AA%D7%95%D7%9F\" title=\"עיתון\">עיתון</a>, והדפיסו בדף בפני עצמו שאפשר להדביק אותו לסידור<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">&#91;</span>9<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p>\n<h2><span id=\".D7.A0.D7.99.D7.92.D7.95.D7.9F_.D7.94.D7.A8.D7.99.D7.A0.D7.99_.D7.9E.D7.A7.D7.91.D7.9C\"></span><span class=\"mw-headline\" id=\"ניגון_הריני_מקבל\">ניגון הריני מקבל</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;ניגון הריני מקבל&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: ניגון הריני מקבל\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בהמשך להוראת הרבי לעורר על אמירת \"הריני מקבל\" ו\"אך צדיקים\", חיברו <a href=\"/index.php/%D7%94%D7%AA%D7%9C%D7%9E%D7%99%D7%93%D7%99%D7%9D_%D7%94%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D\" title=\"התלמידים השלוחים\">התלמידים השלוחים</a> ששיגר הרבי ל<a href=\"/index.php/%D7%AA%D7%95%D7%9E%D7%9B%D7%99_%D7%AA%D7%9E%D7%99%D7%9E%D7%99%D7%9D_%D7%A7%D7%96%D7%91%D7%9C%D7%A0%D7%A7%D7%94\" class=\"mw-redirect\" title=\"תומכי תמימים קזבלנקה\">תומכי תמימים קזבלנקה</a> שיר ל<a href=\"/index.php/%D7%97%D7%99%D7%99%D7%9C%D7%99_%D7%A6%D7%91%D7%90%D7%95%D7%AA_%D7%94%27\" class=\"mw-redirect\" title=\"חיילי צבאות ה&#39;\">חיילי צבאות ה'</a> המורכב מלחן שנוגן על ידי חיילי צבא מרוקו במלחמתם נגד צבא אלג'יריה ונקרא \"ההמנון של מלך מרוקו\" למילים:  \"הריני מקבל עלי מצות עשה של ואהבת לרעך כמוך\", צבאות השם, צבאות השם. \"אך צדיקים יודו לשמך ישבו ישרים את פניך, צבאות השם צבאות השם\".\n</p><p>במעמד <a href=\"/index.php/%D7%9B%D7%95%D7%A1_%D7%A9%D7%9C_%D7%91%D7%A8%D7%9B%D7%94\" title=\"כוס של ברכה\">כוס של ברכה</a> במוצאי חג <a href=\"/index.php/%D7%A9%D7%9E%D7%97%D7%AA_%D7%AA%D7%95%D7%A8%D7%94\" title=\"שמחת תורה\">שמחת תורה</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%94\" title=\"תשמ&quot;ה\">תשמ\"ה</a>, עת שהו ב-<a href=\"/index.php/%D7%9E%D7%A8%D7%9B%D7%96_%D7%97%D7%91%22%D7%93_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99_-_770\" class=\"mw-redirect\" title=\"מרכז חב&quot;ד העולמי - 770\">770</a> התלמידים השלוחים עם קבוצת ילדים ממרוקו, הורה הרבי שינגנו את הניגון. כמו כן, ב<a href=\"/index.php/%D7%A8%D7%90%D7%9C%D7%99\" title=\"ראלי\">ראלי</a> שהתקיים ב<a href=\"/index.php/%D7%99%22%D7%97_%D7%AA%D7%A9%D7%A8%D7%99\" class=\"mw-redirect\" title=\"י&quot;ח תשרי\">י\"ח תשרי</a> ב' ד<a href=\"/index.php/%D7%97%D7%95%D7%9C_%D7%94%D7%9E%D7%95%D7%A2%D7%93\" title=\"חול המועד\">חול המועד</a> <a href=\"/index.php/%D7%A1%D7%95%D7%9B%D7%95%D7%AA\" title=\"סוכות\">סוכות</a> <a href=\"/index.php/%D7%AA%D7%A9%D7%9E%22%D7%95\" title=\"תשמ&quot;ו\">תשמ\"ו</a> ניגנו את הניגון בנוכחות הרבי<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">&#91;</span>10<span class=\"cite-bracket\">&#93;</span></a></sup><sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">&#91;</span>11<span class=\"cite-bracket\">&#93;</span></a></sup><sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">&#91;</span>12<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>ר' <a href=\"/index.php/%D7%A9%D7%A0%D7%99%D7%90%D7%95%D7%A8_%D7%96%D7%9C%D7%9E%D7%9F_%D7%91%D7%A8%D7%92%D7%A8\" title=\"שניאור זלמן ברגר\">שניאור זלמן ברגר</a>, <b>משבר לבנון ומשבר גרעיני ושני פסוקים שיצילו את העולם</b>, סקירה אודות הוראות הרבי בהוספת הריני מקבל ואך צדיקים בשנת תשד\"מ, <a href=\"/index.php/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F_%D7%91%D7%99%D7%AA_%D7%9E%D7%A9%D7%99%D7%97\" class=\"mw-redirect\" title=\"שבועון בית משיח\">שבועון בית משיח</a> 1421 ע' 34-39.</li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"https://anash.org/guests-get-exclusive-tour-of-chabads-engine-room/\">שלט בן 40 עם משמעות אקטואלית</a></b> <span style=\"white-space:nowrap; font-weight:bold;\">&#160;•&#160;</span> <b><a rel=\"nofollow\" class=\"external text\" href=\"https://anash.org/the-rebbes-advice-to-stop-warring-nations/\">סקירה היסטורית מוצלמת</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%90%D7%A0%22%D7%A9_(%D7%90%D7%AA%D7%A8)\" title=\"קישור לאתר אנ&quot;ש\"><img alt=\"קישור לאתר אנ&quot;ש\" src=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/22px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg\" decoding=\"async\" width=\"22\" height=\"19\" class=\"mw-file-element\" srcset=\"/images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/33px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 1.5x, /images/thumb/8/88/%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg/44px-%D7%9C%D7%95%D7%92%D7%95_%D7%90%D7%A0%D7%A9.jpg 2x\" /></a></span> (אנגלית)</li>\n<li>מאיר אליעזר שמוקלר, '<i>[tora-forum.co.il/attachments/הריני-מקבל-ואך-צדיקים-pdf.111803/ סגולת הריני מקבל ואך צדיקים]</i>, ערב ראש חודש אלול תשפ\"ד</li></ul>\n<p><br />\n</p>\n<table class=\"navbox nowraplinks mw-collapsible autocollapse\" style=\"width: 90%; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right;\">\n\n<tbody><tr>\n<th colspan=\"3\" style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; color: black; background:#d1eeee; font-weight: bold;\"><b><a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"תפילה\">תפילה</a></b>\n</th></tr>\n\n\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">סוגים\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%A9%D7%97%D7%A8%D7%99%D7%AA\" title=\"תפילת שחרית\">שחרית</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%9E%D7%95%D7%A1%D7%A3\" title=\"תפילת מוסף\">מוסף</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%9E%D7%A0%D7%97%D7%94\" title=\"תפילת מנחה\">מנחה</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%A2%D7%A8%D7%91%D7%99%D7%AA\" title=\"תפילת ערבית\">ערבית</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%AA_%D7%A0%D7%A2%D7%99%D7%9C%D7%94\" title=\"תפילת נעילה\">נעילה</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">מהותה, מעלתה ודרכיה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"עבודת התפילה\">עבודת התפילה</a> · <a href=\"/index.php/%D7%A4%D7%99%D7%A8%D7%95%D7%A9_%D7%94%D7%9E%D7%99%D7%9C%D7%95%D7%AA_%D7%91%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"פירוש המילות בתפילה\">פירוש המילות בתפילה</a> · <a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%A4%D7%9C_%D7%9B%D7%9C%D7%99_%D7%97%D7%A8%D7%A1\" title=\"התופל כלי חרס\">התופל כלי חרס</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%AA_%D7%A6%D7%9C%D7%95%D7%AA%D7%90_%D7%A9%D7%A2%D7%AA_%D7%A7%D7%A8%D7%91%D7%90\" title=\"שעת צלותא שעת קרבא\">שעת צלותא שעת קרבא</a> · <a href=\"/index.php/%D7%AA%D7%A4%D7%99%D7%9C%D7%94_%D7%9C%D7%9C%D7%90_%D7%9B%D7%95%D7%95%D7%A0%D7%94_%D7%9B%D7%92%D7%95%D7%A3_%D7%9C%D7%9C%D7%90_%D7%A0%D7%A9%D7%9E%D7%94\" title=\"תפילה ללא כוונה כגוף ללא נשמה\">תפילה ללא כוונה כגוף ללא נשמה</a> · <a href=\"/index.php/%D7%90%D7%9B%D7%99%D7%9C%D7%94_%D7%9C%D7%A4%D7%A0%D7%99_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" title=\"אכילה לפני התפילה\">אכילה לפני התפילה</a> · <a href=\"/index.php/%D7%A6%D7%93%D7%A7%D7%94_%D7%9C%D7%A4%D7%A0%D7%99_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" class=\"mw-redirect\" title=\"צדקה לפני התפילה\">צדקה לפני התפילה</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">חלקי התפילה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%9E%D7%95%D7%93%D7%94_%D7%90%D7%A0%D7%99\" title=\"מודה אני\">מודה אני</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%94%D7%A9%D7%97%D7%A8\" title=\"ברכות השחר\">ברכות השחר</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%90%D7%A9%D7%A8_%D7%99%D7%A6%D7%A8\" title=\"ברכת אשר יצר\">ברכת אשר יצר</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%90%D7%9C%D7%A7%D7%99_%D7%A0%D7%A9%D7%9E%D7%94\" title=\"ברכת אלקי נשמה\">ברכת אלקי נשמה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%94%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"ברכות התורה\">ברכות התורה</a> · <a href=\"/index.php/%D7%94%D7%A8%D7%99%D7%A0%D7%99_%D7%9E%D7%A7%D7%91%D7%9C_(%D7%AA%D7%A4%D7%99%D7%9C%D7%94)\" class=\"mw-redirect\" title=\"הריני מקבל (תפילה)\">הריני מקבל</a> · <a href=\"/index.php/%D7%9E%D7%94_%D7%98%D7%95%D7%91%D7%95\" title=\"מה טובו\">מה טובו</a> · <a href=\"/index.php/%D7%90%D7%93%D7%95%D7%9F_%D7%A2%D7%95%D7%9C%D7%9D\" title=\"אדון עולם\">אדון עולם</a> · <a href=\"/index.php/%D7%9C%D7%A2%D7%95%D7%9C%D7%9D_%D7%99%D7%94%D7%90_%D7%90%D7%93%D7%9D\" title=\"לעולם יהא אדם\">לעולם יהא אדם</a> · <a href=\"/index.php/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%94%D7%A2%D7%A7%D7%99%D7%93%D7%94\" title=\"פרשת העקידה\">פרשת העקידה</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%A9%D7%9E%D7%A2_%D7%A7%D7%98%D7%A0%D7%94\" title=\"קריאת שמע קטנה\">קריאת שמע קטנה</a> · <a href=\"/index.php/%D7%AA%D7%A8%D7%95%D7%9E%D7%AA_%D7%94%D7%93%D7%A9%D7%9F\" title=\"תרומת הדשן\">פרשת תרומת הדשן</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%91%D7%9F_%D7%AA%D7%9E%D7%99%D7%93\" title=\"קרבן תמיד\">פרשת התמיד</a> · <a href=\"/index.php/%D7%A7%D7%98%D7%95%D7%A8%D7%AA\" title=\"קטורת\">פרשת הקטורת</a> · <a href=\"/index.php/%D7%95%D7%A2%D7%A8%D7%91%D7%94_%D7%9C%D7%94%27\" title=\"וערבה לה&#39;\">וערבה לה'</a> · <a href=\"/index.php/%D7%90%D7%91%D7%99%D7%99_%D7%94%D7%95%D7%94_%D7%9E%D7%A1%D7%93%D7%A8\" title=\"אביי הוה מסדר\">אביי הוה מסדר</a> · <a href=\"/index.php/%D7%90%D7%A0%D7%90_%D7%91%D7%9B%D7%97\" title=\"אנא בכח\">אנא בכח</a> · <a href=\"/index.php/%D7%A4%D7%A8%D7%A7_%D7%90%D7%99%D7%96%D7%94%D7%95_%D7%9E%D7%A7%D7%95%D7%9E%D7%9F\" title=\"פרק איזהו מקומן\">פרק איזהו מקומן</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%99%D7%99%D7%AA%D7%90_%D7%93%D7%A8%D7%91%D7%99_%D7%99%D7%A9%D7%9E%D7%A2%D7%90%D7%9C\" title=\"ברייתא דרבי ישמעאל\">ברייתא דרבי ישמעאל</a>\n<hr />\n<div style=\"display:none;\"></div>\n<table class=\"nowraplinks\" style=\"width: 100%; text-align: right;\">\n\n\n\n\n\n<tbody><tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">עשיה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%9E%D7%96%D7%9E%D7%95%D7%A8_%D7%A9%D7%99%D7%A8_%D7%97%D7%A0%D7%95%D7%9B%D7%AA_%D7%94%D7%91%D7%99%D7%AA\" class=\"mw-redirect\" title=\"מזמור שיר חנוכת הבית\">מזמור שיר חנוכת הבית</a> · <a href=\"/index.php/%D7%94%27_%D7%9E%D7%9C%D7%9A\" title=\"ה&#39; מלך\">ה' מלך</a> · <a href=\"/index.php/%D7%9C%D7%9E%D7%A0%D7%A6%D7%97_%D7%91%D7%A0%D7%92%D7%99%D7%A0%D7%95%D7%AA_%D7%9E%D7%96%D7%9E%D7%95%D7%A8_%D7%A9%D7%99%D7%A8\" class=\"mw-redirect\" title=\"למנצח בנגינות מזמור שיר\">למנצח בנגינות מזמור שיר</a> · <a href=\"/index.php/%D7%9C%D7%A9%D7%9D_%D7%99%D7%97%D7%95%D7%93\" title=\"לשם יחוד\">לשם יחוד</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">יצירה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%90%D7%9E%D7%A8\" title=\"ברוך שאמר\">ברוך שאמר</a> · <a href=\"/index.php/%D7%9E%D7%96%D7%9E%D7%95%D7%A8_%D7%9C%D7%AA%D7%95%D7%93%D7%94\" title=\"מזמור לתודה\">מזמור לתודה</a> · <a href=\"/index.php/%D7%99%D7%94%D7%99_%D7%9B%D7%91%D7%95%D7%93\" title=\"יהי כבוד\">יהי כבוד</a> · <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9E%22%D7%94\" title=\"תהלים קמ&quot;ה\">אשרי</a> · <a href=\"/index.php/%D7%A4%D7%A1%D7%95%D7%A7%D7%99_%D7%93%D7%96%D7%9E%D7%A8%D7%94\" title=\"פסוקי דזמרה\">פסוקי דזמרה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%95%D7%9A_%D7%94%27_%D7%9C%D7%A2%D7%95%D7%9C%D7%9D\" title=\"ברוך ה&#39; לעולם\">ברוך ה' לעולם</a> · <a href=\"/index.php/%D7%95%D7%99%D7%91%D7%A8%D7%9A_%D7%93%D7%95%D7%93\" title=\"ויברך דוד\">ויברך דוד</a> · <a href=\"/index.php/%D7%95%D7%99%D7%95%D7%A9%D7%A2_%D7%94%27\" title=\"ויושע ה&#39;\">ויושע ה'</a> · <a href=\"/index.php/%D7%90%D7%96_%D7%99%D7%A9%D7%99%D7%A8\" class=\"mw-redirect\" title=\"אז ישיר\">אז ישיר</a> · <a href=\"/index.php/%D7%99%D7%A9%D7%AA%D7%91%D7%97\" title=\"ישתבח\">ישתבח</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">בריאה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%95%D7%AA_%D7%A9%D7%9C%D7%A4%D7%A0%D7%99_%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%A9%D7%9E%D7%A2_(%D7%A9%D7%97%D7%A8%D7%99%D7%AA)\" title=\"ברכות שלפני קריאת שמע (שחרית)\">ברכות שלפני קריאת שמע</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%A9%D7%9E%D7%A2\" title=\"קריאת שמע\">קריאת שמע</a> · <a href=\"/index.php/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%A9%D7%9E%D7%A2_%D7%99%D7%A9%D7%A8%D7%90%D7%9C\" title=\"פרשת שמע ישראל\">שמע ישראל</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%9D_%D7%9B%D7%91%D7%95%D7%93_%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%D7%95_%D7%9C%D7%A2%D7%95%D7%9C%D7%9D_%D7%95%D7%A2%D7%93\" title=\"ברוך שם כבוד מלכותו לעולם ועד\">ברוך שם וגו'</a> · <a href=\"/index.php/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%95%D7%94%D7%99%D7%94_%D7%90%D7%9D_%D7%A9%D7%9E%D7%95%D7%A2\" title=\"פרשת והיה אם שמוע\">והיה אם שמוע</a> · <a href=\"/index.php/%D7%A4%D7%A8%D7%A9%D7%AA_%D7%A6%D7%99%D7%A6%D7%99%D7%AA\" title=\"פרשת ציצית\">ויאמר ה'</a> · <a href=\"/index.php/%D7%90%D7%9E%D7%AA_%D7%95%D7%99%D7%A6%D7%99%D7%91\" title=\"אמת ויציב\">אמת ויציב</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #deeeee; text-align: right; font-weight: bold; padding-left: 5px;\">אצילות\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A9%D7%9E%D7%95%D7%A0%D7%94_%D7%A2%D7%A9%D7%A8%D7%94\" class=\"mw-redirect\" title=\"שמונה עשרה\">שמונה עשרה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%90%D7%AA%D7%94_%D7%A7%D7%93%D7%95%D7%A9\" title=\"ברכת אתה קדוש\">אתה קדוש</a> · <a href=\"/index.php/%D7%90%D7%9E%D7%99%D7%A8%D7%AA_%D7%A7%D7%93%D7%95%D7%A9%D7%94\" title=\"אמירת קדושה\">קדושה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%A1%D7%9C%D7%97_%D7%9C%D7%A0%D7%95\" title=\"ברכת סלח לנו\">סלח לנו</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%9B%D7%94%D7%A0%D7%99%D7%9D\" title=\"ברכת כהנים\">ברכת כהנים</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<hr />\n<p><a href=\"/index.php/%D7%AA%D7%97%D7%A0%D7%95%D7%9F\" title=\"תחנון\">תחנון</a> · <a href=\"/index.php/%D7%A0%D7%A4%D7%99%D7%9C%D7%AA_%D7%90%D7%A4%D7%99%D7%99%D7%9D\" title=\"נפילת אפיים\">נפילת אפיים</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%94%D7%AA%D7%95%D7%A8%D7%94\" title=\"קריאת התורה\">קריאת התורה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%94%D7%AA%D7%95%D7%A8%D7%94_%D7%A9%D7%91%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%94%D7%AA%D7%95%D7%A8%D7%94\" class=\"mw-redirect\" title=\"ברכת התורה שבקריאת התורה\">ברכת התורה</a> · <a href=\"/index.php/%D7%90%D7%97%D7%99%D7%A0%D7%95_%D7%9B%D7%9C_%D7%91%D7%99%D7%AA_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_(%D7%AA%D7%A4%D7%99%D7%9C%D7%94)\" class=\"mw-redirect\" title=\"אחינו כל בית ישראל (תפילה)\">אחינו כל בית ישראל</a> · <a href=\"/index.php/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%9B%27\" title=\"תהלים כ&#39;\">למנצח יענך</a> · <a href=\"/index.php/%D7%95%D7%91%D7%90_%D7%9C%D7%A6%D7%99%D7%95%D7%9F\" title=\"ובא לציון\">ובא לציון</a> · <a href=\"/index.php/%D7%A9%D7%99%D7%A8_%D7%A9%D7%9C_%D7%99%D7%95%D7%9D\" title=\"שיר של יום\">שיר של יום</a> · <a href=\"/index.php/%D7%90%D7%99%D7%9F_%D7%9B%D7%90%D7%9C%D7%95%D7%A7%D7%99%D7%A0%D7%95\" title=\"אין כאלוקינו\">אין כאלוקינו</a> · <a href=\"/index.php/%D7%A2%D7%9C%D7%99%D7%A0%D7%95_%D7%9C%D7%A9%D7%91%D7%97\" title=\"עלינו לשבח\">עלינו לשבח</a> · <a href=\"/index.php/%D7%A7%D7%93%D7%99%D7%A9\" title=\"קדיש\">קדיש</a> · <a href=\"/index.php/%D7%99%D7%94%D7%90_%D7%A9%D7%9E%D7%99%D7%94_%D7%A8%D7%91%D7%94_%D7%9E%D7%91%D7%A8%D7%9A\" class=\"mw-redirect\" title=\"יהא שמיה רבה מברך\">יהא שמיה רבה</a> · <a href=\"/index.php/%D7%90%D7%9C_%D7%AA%D7%99%D7%A8%D7%90\" title=\"אל תירא\">אל תירא</a> · <a href=\"/index.php/%D7%A9%D7%A9_%D7%96%D7%9B%D7%99%D7%A8%D7%95%D7%AA\" title=\"שש זכירות\">שש זכירות</a> · <a href=\"/index.php/%D7%99%22%D7%92_%D7%A2%D7%99%D7%A7%D7%A8%D7%99_%D7%94%D7%93%D7%AA\" class=\"mw-redirect\" title=\"י&quot;ג עיקרי הדת\">י\"ג עיקרים</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%A9%D7%9E%D7%A2_%D7%A9%D7%A2%D7%9C_%D7%94%D7%9E%D7%99%D7%98%D7%94\" title=\"קריאת שמע שעל המיטה\">קריאת שמע שעל המיטה</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%AA_%D7%94%D7%9E%D7%A4%D7%99%D7%9C\" title=\"ברכת המפיל\">ברכת המפיל</a>\n</p>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">הוספות לתפילה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%99%D7%A2%D7%9C%D7%94_%D7%95%D7%99%D7%91%D7%95%D7%90\" title=\"יעלה ויבוא\">יעלה ויבוא</a> · <a href=\"/index.php/%D7%A7%D7%A8%D7%99%D7%90%D7%AA_%D7%94%D7%94%D7%9C%D7%9C\" title=\"קריאת ההלל\">הלל</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%9B%D7%99_%D7%A0%D7%A4%D7%A9%D7%99\" class=\"mw-redirect\" title=\"ברכי נפשי\">ברכי נפשי</a> · <a href=\"/index.php/%D7%9C%D7%93%D7%95%D7%93_%D7%94%27_%D7%90%D7%95%D7%A8%D7%99_%D7%95%D7%99%D7%A9%D7%A2%D7%99\" class=\"mw-redirect\" title=\"לדוד ה&#39; אורי וישעי\">לדוד ה' אורי וישעי</a> · <a href=\"/index.php/%D7%95%D7%A2%D7%9C_%D7%94%D7%A0%D7%99%D7%A1%D7%99%D7%9D\" class=\"mw-redirect\" title=\"ועל הניסים\">ועל הניסים</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">עניות בתפילה\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%90%D7%9E%D7%9F\" title=\"אמן\">אמן</a> · <a href=\"/index.php/%D7%99%D7%94%D7%90_%D7%A9%D7%9E%D7%99%D7%94_%D7%A8%D7%91%D7%90\" title=\"יהא שמיה רבא\">יהא שמיה רבא</a> · <a href=\"/index.php/%D7%91%D7%A8%D7%95%D7%9A_%D7%94%D7%95%D7%90_%D7%95%D7%91%D7%A8%D7%95%D7%9A_%D7%A9%D7%9E%D7%95\" title=\"ברוך הוא וברוך שמו\">ברוך הוא וברוך שמו</a>\n</td></tr>\n\n<tr>\n<td style=\"background-color: #F2F3F4; text-align: right; font-weight: bold; padding-left: 5px;\">ספרים בנושא\n</td>\n<td style=\"padding-right: 5px; text-align: right;\"><a href=\"/index.php/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%A2%D7%9D_%D7%93%D7%90%22%D7%97\" title=\"סידור עם דא&quot;ח\">סידור עם דא\"ח</a> · <a href=\"/index.php/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A1_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" class=\"mw-redirect\" title=\"קונטרס התפילה\">קונטרס התפילה</a> · <a href=\"/index.php/%D7%A9%D7%A2%D7%A8%D7%99_%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" class=\"mw-redirect\" title=\"שערי תפילה\">שערי תפילה</a> · <a href=\"/index.php/%D7%90%D7%95%D7%A8_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94\" class=\"mw-redirect\" title=\"אור התפילה\">אור התפילה</a> · <a href=\"/index.php/%D7%9C%D7%9C%D7%9E%D7%95%D7%93_%D7%90%D7%99%D7%9A_%D7%9C%D7%94%D7%AA%D7%A4%D7%9C%D7%9C\" class=\"mw-redirect\" title=\"ללמוד איך להתפלל\">ללמוד איך להתפלל</a> · <a href=\"/index.php/%D7%95%D7%90%D7%A0%D7%99_%D7%AA%D7%A4%D7%9C%D7%AA%D7%99\" title=\"ואני תפלתי\">ואני תפלתי</a> · <a href=\"/index.php/%D7%A2%D7%91%D7%95%D7%93%D7%AA_%D7%94%D7%AA%D7%A4%D7%99%D7%9C%D7%94_%D7%91%D7%93%D7%95%D7%A8_%D7%94%D7%A9%D7%91%D7%99%D7%A2%D7%99\" class=\"mw-redirect\" title=\"עבודת התפילה בדור השביעי\">עבודת התפילה בדור השביעי</a>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap mw-references-columns\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">ובפרט ש\"לומר\" משמע, שאחר יכול לשמוע</span>\n</li>\n<li id=\"cite_note-2\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-2\">^</a></span> <span class=\"reference-text\">תרגום מ<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA\" class=\"mw-redirect mw-disambig\" title=\"ספר השיחות\">ספר השיחות</a> תש\"נ חלק א' ע' 214</span>\n</li>\n<li id=\"cite_note-3\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-3\">^</a></span> <span class=\"reference-text\">תרגום מ<a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA\" class=\"mw-redirect mw-disambig\" title=\"ספר השיחות\">ספר השיחות</a> ה'ש\"ת ע' 157</span>\n</li>\n<li id=\"cite_note-4\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-4\">^</a></span> <span class=\"reference-text\">שער <a href=\"/index.php/%D7%A2%D7%95%D7%9C%D7%9D_%D7%94%D7%A2%D7%A9%D7%99%D7%99%D7%94\" title=\"עולם העשייה\">עולם העשייה</a> פ\"א</span>\n</li>\n<li id=\"cite_note-5\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-5\">^</a></span> <span class=\"reference-text\"><a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D\" class=\"mw-redirect mw-disambig\" title=\"ספר המאמרים\">ספר המאמרים</a> תרנ\"ט ע' ריא.</span>\n</li>\n<li id=\"cite_note-6\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-6\">^</a></span> <span class=\"reference-text\">תרגום מ<a href=\"/index.php/%D7%9C%D7%99%D7%A7%D7%95%D7%98%D7%99_%D7%A9%D7%99%D7%97%D7%95%D7%AA\" class=\"mw-redirect\" title=\"ליקוטי שיחות\">ליקוטי שיחות</a> חלק א' ע' 201.</span>\n</li>\n<li id=\"cite_note-7\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-7\">^</a></span> <span class=\"reference-text\">תרגום <a href=\"/index.php/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A9%D7%99%D7%97%D7%95%D7%AA\" class=\"mw-redirect mw-disambig\" title=\"ספר השיחות\">ספר השיחות</a> <a href=\"/index.php/%D7%AA%D7%A8%D7%A6%22%D7%96\" title=\"תרצ&quot;ז\">תרצ\"ז</a> ע' 201.</span>\n</li>\n<li id=\"cite_note-8\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-8\">^</a></span> <span class=\"reference-text\">משיחות י\"ט כסלו וש\"פ וישב תשד\"מ, נדפס לאחר מכן ב<a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=14948&amp;st=&amp;pgnum=384&amp;hilite=\">לקוטי שיחות חלק כ\"ה ע' 373</a>. בעברית, ראה <a rel=\"nofollow\" class=\"external text\" href=\"http://www.hebrewbooks.org/pdfpager.aspx?req=15767&amp;st=&amp;pgnum=150&amp;hilite=\">שערי אהבת ישראל, ע' קס</a>.</span>\n</li>\n<li id=\"cite_note-9\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-9\">^</a></span> <span class=\"reference-text\">שיחת ש\"פ מקץ תשד\"מ.</span>\n</li>\n<li id=\"cite_note-10\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-10\">^</a></span> <span class=\"reference-text\">[videos.jem.tv/video-player?clip=5907 Tishrei 5746  Levi Freidin] באתר <a href=\"/index.php/JEM\" title=\"JEM\">JEM</a> <span typeof=\"mw:File\"><span><img src=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/16px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png\" decoding=\"async\" width=\"16\" height=\"11\" class=\"mw-file-element\" srcset=\"/images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/24px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 1.5x, /images/thumb/d/d6/%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg/32px-%D7%A1%D7%9E%D7%9C_%D7%95%D7%99%D7%93%D7%99%D7%90%D7%95_%D7%9E%D7%97%D7%95%D7%93%D7%A9_5.svg.png 2x\" /></span></span>.</span>\n</li>\n<li id=\"cite_note-11\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-11\">^</a></span> <span class=\"reference-text\">מעיינות מפכים במרוקו, תשד\"מ. הובא אצל: הרב ישראל אלפנביין, <b><a rel=\"nofollow\" class=\"external text\" href=\"https://www.kcm.co.il/%D7%97%D7%A9%D7%99%D7%A4%D7%94%D7%96%D7%95%D7%94%D7%99-%D7%94%D7%9E%D7%93%D7%91%D7%A7%D7%94-%D7%A9%D7%94%D7%A8%D7%91%D7%99-%D7%94%D7%A9%D7%90%D7%99%D7%A8-%D7%91%D7%AA%D7%95%D7%9A-%D7%94%D7%A1%D7%99/\">המדבקה שהרבי השאיר בתוך הסידור שלו כעשר שנים!</a></b>, <a href=\"/index.php/%D7%9B%D7%A4%D7%A8_%D7%97%D7%91%22%D7%93_(%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%9F)\" title=\"כפר חב&quot;ד (שבועון)\">כפר חב\"ד</a> גליון 2037 עמ' 54.</span>\n</li>\n<li id=\"cite_note-12\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-12\">^</a></span> <span class=\"reference-text\"><b><a rel=\"nofollow\" class=\"external text\" href=\"http://col.org.il/news/134722\">הניגון החריג ש'הביא' השליח הרב שניאור זלמן בלומנפלד לרבי</a></b> - באתר <span typeof=\"mw:File\"><a href=\"/index.php/%D7%97%D7%91%22%D7%93_%D7%90%D7%95%D7%9F_%D7%9C%D7%99%D7%99%D7%9F\" title=\"חב&quot;ד און ליין\"><img src=\"/images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/15px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg\" decoding=\"async\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"/images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/23px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg 1.5x, /images/thumb/8/8c/%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg/30px-%D7%A1%D7%99_%D7%90%D7%95_%D7%90%D7%9C_%D7%A1%D7%9E%D7%9C%D7%99%D7%9C.jpg 2x\" /></a></span> ח' כסלו תשפ\"ב</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260413190150\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.178 seconds\nReal time usage: 0.324 seconds\nPreprocessor visited node count: 1573/1000000\nPost‐expand include size: 26342/2097152 bytes\nTemplate argument size: 25037/2097152 bytes\nHighest expansion depth: 13/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 6749/5000000 bytes\nLua time usage: 0.100/7 seconds\nLua virtual size: 6270976/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  277.108      1 -total\n 45.21%  125.277     12 תבנית:הערה\n 27.98%   77.541      2 תבנית:ניווט_קבוצות\n 24.83%   68.799      1 תבנית:תפילה\n 18.12%   50.207      3 תבנית:ציטוטון\n  8.02%   22.224      1 תבנית:הערות_שוליים\n  7.07%   19.584      1 תבנית:תת_קבוצה\n  1.95%    5.404      1 תבנית:קישור_חבד_און_ליין\n  1.31%    3.621      5 תבנית:קח\n  1.19%    3.294      1 תבנית:תקנות_הרבי\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:8721-0!canonical and timestamp 20260413190150 and revision id 800833. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "תקנות_חב\"ד"
+      },
+      {
+        "sortkey": "",
+        "*": "מבצעי_ותקנות_הרבי"
+      },
+      {
+        "sortkey": "",
+        "*": "ניגונים_שנוגנו_לפני_הרבי"
+      },
+      {
+        "sortkey": "",
+        "*": "תפילת_שחרית"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ניווט קבוצות"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:תת קבוצה"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חב\"ד און ליין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנ\"ש (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "JEM"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אביי הוה מסדר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדון עולם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אהבת ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אור התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אותיות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אז ישיר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אחינו כל בית ישראל (תפילה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אין כאלוקינו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אכילה לפני התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אל תירא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אמירת קדושה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אמת ויציב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אנא בכח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברוך ה' לעולם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברוך הוא וברוך שמו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברוך שאמר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברוך שם כבוד מלכותו לעולם ועד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברייתא דרבי ישמעאל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכות השחר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכות התורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכות שלפני קריאת שמע (שחרית)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכי נפשי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת אלקי נשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת אשר יצר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת אתה קדוש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת המפיל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת התורה שבקריאת התורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת כהנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ברכת סלח לנו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גוף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דברי כיבושין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "דיבור"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ה' מלך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הריני מקבל (תפילה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התופל כלי חרס"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התלמידים השלוחים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ואני תפלתי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ובא לציון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ויברך דוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ויושע ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ועל הניסים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "וערבה לה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זמן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חול המועד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיבור החג עם ימי החול"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חיילי צבאות ה'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ג עיקרי הדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "י\"ח תשרי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהא שמיה רבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהא שמיה רבה מברך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהי כבוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ילדי ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יעלה ויבוא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישתבח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כוס של ברכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כינוס תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כפר חב\"ד (שבועון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כתיבת חידושי תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לדוד ה' אורי וישעי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לימוד מתורת רבותינו נשיאנו בחודש כסלו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לימוד עניני בית הבחירה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לימוד עניני גאולה ומשיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ליקוטי שיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ללמוד איך להתפלל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "למנצח בנגינות מזמור שיר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לעולם יהא אדם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "לשם יחוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מבצע יום הולדת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מה טובו"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מוגה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מודה אני"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מזמור לתודה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מזמור שיר חנוכת הבית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מחשבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מצווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מצוות עשה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מרכז חב\"ד העולמי - 770"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נפילת אפיים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סוכות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סידור אדמו\"ר הזקן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סידור עם דא\"ח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סיומי מסכת בתשעת הימים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "סמיכה לרבנות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר המאמרים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר השיחות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספר התניא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ספריות ציבוריות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עבודת התפילה בדור השביעי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עולם העשייה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עיתון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עלינו לשבח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "עשה לך רב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פירוש המילות בתפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פלעדז'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פסוקי דזמרה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרק איזהו מקומן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרשת העקידה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרשת והיה אם שמוע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרשת ציצית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "פרשת שמע ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "צדקה לפני התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קביעת קופת צדקה בקיר המטבח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קדושה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קדיש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קונטרס התפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קטורת"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קרבן תמיד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת ההלל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת התורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת שמע"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת שמע קטנה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קריאת שמע שעל המיטה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ראלי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רגע של שתיקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "רש\"י"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבועון בית משיח"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שחרית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיעורים יומיים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיר של יום"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמונה עשרה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמחת בית השואבה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמחת תורה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמע ישראל"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שניאור זלמן ברגר"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שערי תפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שעת צלותא שעת קרבא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שש זכירות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלוכה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלים כ'"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תהלים קמ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תומכי תמימים קזבלנקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תחנון"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תענוג"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילה ללא כוונה כגוף ללא נשמה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילין רבינו תם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת מוסף"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת מנחה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת נעילה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת ערבית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תפילת שחרית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקנות הרבי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקנת המשקה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תקנת לימוד הרמב\"ם"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרומת הדשן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרצ\"ז"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשד\"מ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשמ\"ו"
+      },
+      {
+        "ns": 0,
+        "*": "מקום"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "טעמה של אמירה בדיבור דווקא",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 312,
+        "anchor": "טעמה_של_אמירה_בדיבור_דווקא",
+        "linkAnchor": "טעמה_של_אמירה_בדיבור_דווקא"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "תענוג עליון",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 1340,
+        "anchor": "תענוג_עליון",
+        "linkAnchor": "תענוג_עליון"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הקדמה ל\"מה טובו\"",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 2586,
+        "anchor": "הקדמה_ל\"מה_טובו\"",
+        "linkAnchor": "הקדמה_ל\"מה_טובו\""
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הוראת הרבי",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 3824,
+        "anchor": "הוראת_הרבי",
+        "linkAnchor": "הוראת_הרבי"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ניגון הריני מקבל",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 4646,
+        "anchor": "ניגון_הריני_מקבל",
+        "linkAnchor": "ניגון_הריני_מקבל"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 5925,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "הריני_מקבל",
+        "byteoffset": 6129,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "8",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

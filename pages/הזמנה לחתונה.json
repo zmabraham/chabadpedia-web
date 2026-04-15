@@ -1,0 +1,355 @@
+{
+  "parse": {
+    "title": "הזמנה לחתונה",
+    "pageid": 35406,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><figure class=\"mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/f/f5/%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg/250px-%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg\" decoding=\"async\" width=\"250\" height=\"349\" class=\"mw-file-element\" srcset=\"/images/thumb/f/f5/%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg/375px-%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg 1.5x, /images/thumb/f/f5/%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg/500px-%D7%94%D7%96%D7%9E%D7%A0%D7%AA_%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99.jpg 2x\" /></a><figcaption>אחת מההזמנות לחתונת הרבי</figcaption></figure>\n<figure class=\"mw-default-size mw-halign-left\" typeof=\"mw:File/Thumb\"><a href=\"/index.php/%D7%A7%D7%95%D7%91%D7%A5:%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg\" class=\"mw-file-description\"><img src=\"/images/thumb/4/49/%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg/220px-%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg\" decoding=\"async\" width=\"220\" height=\"142\" class=\"mw-file-element\" srcset=\"/images/thumb/4/49/%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg/330px-%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg 1.5x, /images/thumb/4/49/%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg/440px-%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%94%D7%A8%D7%91%D7%99_%D7%95%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%9E%D7%90%D7%AA_%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94.jpg 2x\" /></a><figcaption>ההזמנה לחתונה מאת אם הכלה, <a href=\"/index.php/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA_%D7%A0%D7%97%D7%9E%D7%94_%D7%93%D7%99%D7%A0%D7%94\" class=\"mw-redirect\" title=\"הרבנית נחמה דינה\">הרבנית נחמה דינה</a></figcaption></figure>\n<p>ה<b>הזמנה ל<a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%94\" title=\"חתונה\">חתונה</a></b> הנהוגה כיום בין חסידי חב\"ד, הינה נוסח אחיד המבוסס על אחת ההזמנות שכתב <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a> ל<a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90\" class=\"mw-redirect\" title=\"חתונת אדמו&quot;ר שליט&quot;א\">חתונת אדמו\"ר שליט\"א</a> בשנת <a href=\"/index.php/%D7%AA%D7%A8%D7%A4%22%D7%98\" title=\"תרפ&quot;ט\">תרפ\"ט</a>.\n</p>\n<meta property=\"mw:PageProp/toc\" />\n<h2><span id=\".D7.94.D7.94.D7.96.D7.9E.D7.A0.D7.94_.D7.94.D7.9E.D7.A7.D7.95.D7.91.D7.9C.D7.AA_.D7.9B.D7.99.D7.95.D7.9D\"></span><span class=\"mw-headline\" id=\"ההזמנה_המקובלת_כיום\">ההזמנה המקובלת כיום</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;ההזמנה המקובלת כיום&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: ההזמנה המקובלת כיום\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בנוסח המקורי מנוסחת ההזמנה כהזמנה אישית מאדמו\"ר הריי\"צ, ובנוסח המקובל כיום מבצעים בדרך כלל מספר שינויים כשהבולט שבהם הוא הפיכת הניסוח ללשון רבים, והזמנה משותפת למשפחות ה<a href=\"/index.php/%D7%97%D7%AA%D7%9F\" title=\"חתן\">חתן</a> וה<a href=\"/index.php/%D7%9B%D7%9C%D7%94\" title=\"כלה\">כלה</a>.\n</p><p>בנוסף לנוסח הקבוע, מודפסים בדרך כלל לצד ההזמנה גם פרטים נוספים הנוגעים ל<a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%94\" title=\"חתונה\">חתונה</a>, כגון זמן ומיקום ה<a href=\"/index.php/%D7%90%D7%95%D7%A4%D7%A8%D7%95%D7%A4%D7%A2%D7%A0%D7%99%D7%A9\" class=\"mw-redirect\" title=\"אופרופעניש\">עלייה לתורה</a>, זמן עריכת ה<a href=\"/index.php/%D7%A7%D7%91%D7%9C%D7%AA_%D7%A4%D7%A0%D7%99%D7%9D_(%D7%97%D7%AA%D7%95%D7%A0%D7%94)\" title=\"קבלת פנים (חתונה)\">קבלת פנים</a> וסעודת החתונה, שמות זקני החתן והכלה, ופרטים בנוגע לתחבורה אפשרית להגעה לחתונה וכדומה.\n</p>\n<h3><span id=\".D7.98.D7.A7.D7.A1.D7.98_.D7.A0.D7.95.D7.A1.D7.97_.D7.94.D7.94.D7.96.D7.9E.D7.A0.D7.94\"></span><span class=\"mw-headline\" id=\"טקסט_נוסח_ההזמנה\">טקסט נוסח ההזמנה</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=2\" title=\"עריכת פסקה: &quot;טקסט נוסח ההזמנה&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=2\" title=\"עריכת קוד המקור של הפרק: טקסט נוסח ההזמנה\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<blockquote dir=\"rtl\"><div class=\"hebrewQuotation\">\n<p>בעזהי\"ת \n</p>\n<dl><dd>אנו מודים לד' על כל הטוב אשר גמלנו, ובחסדו הגדול זיכנו בנישואי צאצאינו החתן … יחי' עם בת־גילו הכלה המהוללה מרת … תחי'.</dd></dl>\n<dl><dd>החופה תהיה בעזרת־ה'־יתברך למזל־טוב ביום … לחודש … הבא עלינו ועל כל ישראל יחיו לטובה ולברכה, ב(מיקום) בשעה החמישית*, בשעה טובה ומוצלחת.</dd></dl>\n<dl><dd>בשמחה וטוב לבב נקרא לידידינו ומכירינו, אשר יואילו נא לשמוח אתנו יחדיו, ביום שמחת לבבנו, ולברך את הזוג יחיו, ואותנו כולנו, בברכת מזל־טוב, וחיים מאושרים בגשמיות ורוחניות.</dd></dl>\n<dl><dd>הא-ל הטוב, הוא יתברך, יברך את כבודו ואנשי ביתו יחיו, בתוך כלל אחינו בני־ישראל יחיו, בברכות מאליפות מנפש ועד בשר.</dd></dl>\n<dl><dd><dl><dd>מוקיריהם ומכבדיהם</dd></dl></dd></dl>\n<dl><dd><dl><dd>הורי החתן הורי הכלה</dd></dl></dd></dl>\n<dl><dd>* החופה תהי' בשעה … קבלת פנים תהי' בשעה … באולם …</dd></dl>\n</div>\n </blockquote>\n<h3><span id=\".D7.93.D7.99.D7.95.D7.A7.D7.99.D7.9D_.D7.91.D7.A0.D7.95.D7.A1.D7.97_.D7.94.D7.94.D7.96.D7.9E.D7.A0.D7.94\"></span><span class=\"mw-headline\" id=\"דיוקים_בנוסח_ההזמנה\">דיוקים בנוסח ההזמנה</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=3\" title=\"עריכת פסקה: &quot;דיוקים בנוסח ההזמנה&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=3\" title=\"עריכת קוד המקור של הפרק: דיוקים בנוסח ההזמנה\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<p>בשיחת שבת פרשת וישלח <a href=\"/index.php/%D7%AA%D7%A9%D7%99%22%D7%93\" title=\"תשי&quot;ד\">תשי\"ד</a> לרגל חצי יובל שנים לחתונה התוועד הרבי <a href=\"/index.php/%D7%94%D7%AA%D7%95%D7%95%D7%A2%D7%93%D7%95%D7%AA\" class=\"mw-redirect\" title=\"התוועדות\">התוועדות</a> מיוחדת לרגל המאורע. ושם הסביר הרבי הרבה ממנהגי חתונה.\n</p><p>הרבי הסביר שהפסקאות בהזמנה לחתונה מתחילות במכוון באותיות אלו, אך הרבי הקודם לא רצה שישימו לב לכך. וכאשר שמו לב לא הייתה דעתו הק' נוחה מזה.\n</p><p>בחתונתה של הרבנית <a href=\"/index.php/%D7%A9%D7%99%D7%99%D7%A0%D7%90_%D7%94%D7%95%D7%A8%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F\" title=\"שיינא הורנשטיין\">שיינא הורנשטיין</a> רצו להדגיש את האותיות האלו והרבי סימן למחוק זאת.\n</p><p>בנוסף, מדייקים לכתוב בנוסח ההזמנה שהחתונה תתקיים \"בשעה החמישית\" כיון שהחתונה קשורה עם התגלות והתאחדות חלקי ה<a href=\"/index.php?title=%D7%99%D7%97%D7%99%D7%93%D7%94_%D7%A9%D7%91%D7%A0%D7%A9%D7%9E%D7%94&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"יחידה שבנשמה (הדף אינו קיים)\">יחידה שבנשמה</a> של האיש והאשה, שהיא הבחינה החמישית של חלקי הנפש, ומציינים בכוכבית את השעה המדוייקת של החופה<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup>.\n</p><p>כמו כן חסידים מקפידים להקדים את שם החתן לשם הכלה, ובשונה ממה שחדר לחוגים שונים בעקבות השפעה מתרבויות זרות.\n</p>\n<h2><span id=\".D7.94.D7.94.D7.96.D7.9E.D7.A0.D7.95.D7.AA_.D7.90.D7.A6.D7.9C_.D7.A8.D7.91.D7.95.D7.AA.D7.99.D7.A0.D7.95_.D7.A0.D7.A9.D7.99.D7.90.D7.99.D7.A0.D7.95\"></span><span class=\"mw-headline\" id=\"ההזמנות_אצל_רבותינו_נשיאינו\">ההזמנות אצל רבותינו נשיאינו</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=4\" title=\"עריכת פסקה: &quot;ההזמנות אצל רבותינו נשיאינו&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=4\" title=\"עריכת קוד המקור של הפרק: ההזמנות אצל רבותינו נשיאינו\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בחתונתו של הרבי, כתב <a href=\"/index.php/%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"אדמו&quot;ר הריי&quot;צ\">אדמו\"ר הריי\"צ</a> 13 סוגים שונים של הזמנות, הן בצורתם הן בסגנונם והן בתוכנם, שהתחלקו לסוגי המוזמנים השונים, כאשר לחלק מההזמנות צורפו כרטיסי כניסה לחתונה שהייתה סגורה לקהל הרחב.\n</p>\n<h2><span id=\".D7.94.D7.96.D7.9E.D7.A0.D7.95.D7.AA_.D7.9C.D7.90.D7.99.D7.A8.D7.95.D7.A2.D7.99.D7.9D_.D7.90.D7.97.D7.A8.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הזמנות_לאירועים_אחרים\">הזמנות לאירועים אחרים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=5\" title=\"עריכת פסקה: &quot;הזמנות לאירועים אחרים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=5\" title=\"עריכת קוד המקור של הפרק: הזמנות לאירועים אחרים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>בנוסף להזמנות לחתונה נהוג להזמין גם ל<a href=\"/index.php/%D7%91%D7%A8_%D7%9E%D7%A6%D7%95%D7%95%D7%94\" title=\"בר מצווה\">בר מצווה</a>, ואף באירועים אלו יש המשתדלים להיצמד כפי האפשר לנוסח ההזמנה לחתונת הרבי.\n</p><p>בשונה מכך, לאירוע הברית לא נוהגים להזמין, היות ועל פי הלכה כאשר מזמינים אדם כל שהוא לברית הוא מחוייב לעשות השתדלות להשתתף, ועל כן נמנעים מלהזמין אלא רק 'להודיע'.\n</p>\n<h2><span id=\".D7.9C.D7.A7.D7.A8.D7.99.D7.90.D7.94_.D7.A0.D7.95.D7.A1.D7.A4.D7.AA\"></span><span class=\"mw-headline\" id=\"לקריאה_נוספת\">לקריאה נוספת</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=6\" title=\"עריכת פסקה: &quot;לקריאה נוספת&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=6\" title=\"עריכת קוד המקור של הפרק: לקריאה נוספת\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b>מההזמנה ועד התנאים</b>, מוסף 'נשי' לשבועון כפר חב\"ד גליון 1843 עמוד 14</li></ul>\n<h2><span id=\".D7.A7.D7.99.D7.A9.D7.95.D7.A8.D7.99.D7.9D_.D7.97.D7.99.D7.A6.D7.95.D7.A0.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"קישורים_חיצוניים\">קישורים חיצוניים</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;veaction=edit&amp;section=7\" title=\"עריכת פסקה: &quot;קישורים חיצוניים&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%94%D7%96%D7%9E%D7%A0%D7%94_%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94&amp;action=edit&amp;section=7\" title=\"עריכת קוד המקור של הפרק: קישורים חיצוניים\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.teshura.com/teshurapdf/Gneivish-Kaltman%20-%20Cheshvan%2013%2C%205776.pdf\">סקירת ופענוח נוסחי ההזמנה השונים לחתונת הרבי</a></b>, תשורה מחתונת משפחת גניביש י\"ד חשון תשע\"ו</li>\n<li><a href=\"/index.php/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9E%D7%95%D7%A0%D7%93%D7%A9%D7%99%D7%99%D7%9F\" title=\"יהושע מונדשיין\">יהושע מונדשיין</a>, סקירה ואוסף היסטורי של הזמנות חב\"דיות: <b><a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=180\">פרק א'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=181\">פרק ב'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=182\">פרק ג'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=183\">פרק ד'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=184\">פרק ה'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=185\">פרק ו'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=186\">פרק ז'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=187&amp;lang=hebrew\">פרק ח'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=201&amp;lang=hebrew\">פרק ט'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=188&amp;lang=hebrew\">פרק י'</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=189\">פרק י\"א</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=190\">פרק י\"ב</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=191\">פרק י\"ג</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=192\">פרק י\"ד</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=193\">פרק ט\"ו</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=194\">פרק ט\"ז</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=195\">פרק י\"ז</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=196\">פרק י\"ח</a> • <a rel=\"nofollow\" class=\"external text\" href=\"http://www.shturem.net/index.php?section=artdays&amp;id=197\">פרק י\"ט</a></b> <span typeof=\"mw:File\"><a href=\"/index.php/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D_(%D7%90%D7%AA%D7%A8)\" title=\"קישור שטורעם\"><img alt=\"קישור שטורעם\" src=\"/images/thumb/8/89/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG/15px-%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG\" decoding=\"async\" width=\"15\" height=\"14\" class=\"mw-file-element\" srcset=\"/images/8/89/%D7%A9%D7%98%D7%95%D7%A8%D7%A2%D7%9D.PNG 1.5x\" /></a></span> <span class=\"grayText\"><small>(הקישור אינו פעיל)</small></span> <span class=\"grayText\"><small>(הקישור אינו פעיל, ו' אלול תשפ\"ב)</small></span></li></ul>\n<table class=\"collapsible autocollapse navbox nowraplinks\" style=\"width: 75%;border: 1px solid #FFCC99; background-color: #FFFFE5; clear: both; margin: 0.5em auto; margin-top: 0.5em; margin-bottom: 0.5em; padding: 0.2em; text-align: right\">\n<tbody><tr>\n<th style=\"text-align: center; padding-top: 0.1em; padding-bottom: 0.1em; background: #E5E5FF\" colspan=\"5\"><b><a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%94\" title=\"חתונה\">חתונה</a></b>\n</th></tr>\n<tr>\n<th style=\"padding-left:15px;padding-right:15px;background:#E5E5FF; color: #000000;\"><span style=\"white-space: nowrap;\">הכנות לחתונה</span>\n</th>\n<td colspan=\"2\" width=\"100%\" align=\"right\"><a href=\"/index.php/%D7%92%D7%99%D7%9C_%D7%94%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F\" title=\"גיל הנישואין\">גיל הנישואין</a> · <a href=\"/index.php/%D7%A9%D7%99%D7%93%D7%95%D7%9A\" title=\"שידוך\">שידוך</a> · <a href=\"/index.php/%D7%95%D7%95%D7%90%D7%A8%D7%98_(%D7%9C%D7%97%D7%99%D7%99%D7%9D)\" class=\"mw-redirect\" title=\"ווארט (לחיים)\">ווארט (לחיים)</a> · <a class=\"mw-selflink selflink\">הזמנה לחתונה</a> · <a href=\"/index.php/%D7%A0%D7%93%D7%95%D7%A0%D7%99%D7%94\" title=\"נדוניה\">נדוניה</a> · <a href=\"/index.php/%D7%90%D7%95%D7%99%D7%A4%D7%A8%D7%95%D7%A4%D7%A2%D7%A0%D7%99%D7%A9_(%D7%A9%D7%91%D7%AA_%D7%97%D7%AA%D7%9F)\" title=\"אויפרופעניש (שבת חתן)\">אויפרופעניש</a> · <a href=\"/index.php/%D7%A0%D7%AA%D7%99%D7%A0%D7%AA_%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%9C%D7%97%D7%AA%D7%A0%D7%99%D7%9D\" title=\"נתינת סידור לחתנים\">תפילת מנחה קודם החופה</a>\n</td></tr>\n<tr>\n<th style=\"padding-left:15px;padding-right:15px;background:#E5E5FF; color: #000000;\"><span style=\"white-space: nowrap;\">מהלך החתונה</span>\n</th>\n<td colspan=\"2\" width=\"100%\" align=\"right\"><a href=\"/index.php/%D7%A9%D7%98%D7%A8_%D7%AA%D7%A0%D7%90%D7%99%D7%9D\" title=\"שטר תנאים\">שטר תנאים</a> · <a href=\"/index.php/%D7%9B%D7%AA%D7%95%D7%91%D7%94\" title=\"כתובה\">כתובה</a> · <a href=\"/index.php/%D7%A7%D7%91%D7%9C%D7%AA_%D7%A4%D7%A0%D7%99%D7%9D_(%D7%97%D7%AA%D7%95%D7%A0%D7%94)\" title=\"קבלת פנים (חתונה)\">קבלת פנים</a> · <a href=\"/index.php/%D7%97%D7%95%D7%A4%D7%94\" title=\"חופה\">חופה</a> · <a href=\"/index.php/%D7%9E%D7%A1%D7%93%D7%A8_%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F\" title=\"מסדר קידושין\">מסדר קידושין</a> · <a href=\"/index.php/%D7%A9%D7%95%D7%A9%D7%91%D7%99%D7%A0%D7%99%D7%9D\" title=\"שושבינים\">שושבינים</a> · <a href=\"/index.php/%D7%A7%D7%99%D7%93%D7%95%D7%A9%D7%99%D7%9F\" title=\"קידושין\">קידושין</a> · <a href=\"/index.php/%D7%A9%D7%91%D7%A2_%D7%91%D7%A8%D7%9B%D7%95%D7%AA\" title=\"שבע ברכות\">שבע ברכות</a> · <a href=\"/index.php/%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F\" title=\"נישואין\">נישואין</a> · <a href=\"/index.php/%D7%97%D7%93%D7%A8_%D7%99%D7%99%D7%97%D7%95%D7%93\" title=\"חדר ייחוד\">חדר ייחוד</a>\n</td></tr>\n<tr>\n<th style=\"padding-left:15px;padding-right:15px;background:#E5E5FF; color: #000000;\"><span style=\"white-space: nowrap;\">נישואין והנהגת הבית</span>\n</th>\n<td colspan=\"2\" width=\"100%\" align=\"right\"><a href=\"/index.php/%D7%A9%D7%A0%D7%94_%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94_(%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F)\" title=\"שנה ראשונה (נישואין)\">שנה ראשונה</a> · <a href=\"/index.php/%D7%A7%D7%93%D7%95%D7%A9%D7%AA_%D7%94%D7%91%D7%99%D7%AA_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99\" class=\"mw-redirect\" title=\"קדושת הבית היהודי\">קדושת הבית היהודי</a>  · <a href=\"/index.php/%D7%A9%D7%9C%D7%95%D7%9D_%D7%91%D7%99%D7%AA\" title=\"שלום בית\">שלום בית</a> · <a href=\"/index.php/%D7%99%D7%95%D7%9D_%D7%A0%D7%99%D7%A9%D7%95%D7%90%D7%99%D7%9F\" title=\"יום נישואין\">יום נישואין</a>\n</td></tr>\n<tr>\n<th style=\"padding-left:15px;padding-right:15px;background:#E5E5FF; color: #000000;\"><span style=\"white-space: nowrap;\">ניגונים</span>\n</th>\n<td colspan=\"2\" width=\"100%\" align=\"right\"><a href=\"/index.php/%D7%A0%D7%99%D7%92%D7%95%D7%9F_%D7%9E%D7%94%D7%A8%D7%94_%D7%99%D7%A9%D7%9E%D7%A2_(%D7%A2%D7%95%D7%93_%D7%99%D7%A9%D7%9E%D7%A2)\" title=\"ניגון מהרה ישמע (עוד ישמע)\">מהרה ישמע</a> · <a href=\"/index.php/%D7%A9%D7%9E%D7%97_%D7%AA%D7%A9%D7%9E%D7%97_(%D7%A0%D7%99%D7%92%D7%95%D7%9F)\" title=\"שמח תשמח (ניגון)\">שמח תשמח</a> · <a href=\"/index.php/%D7%99%D7%A9%D7%99%D7%A9_%D7%A2%D7%9C%D7%99%D7%9A_(%D7%A0%D7%99%D7%92%D7%95%D7%9F)\" title=\"ישיש עליך (ניגון)\">ישיש עליך</a> · <a href=\"/index.php/%D7%9E%D7%99_%D7%90%D7%93%D7%99%D7%A8_(%D7%A0%D7%99%D7%92%D7%95%D7%9F)\" title=\"מי אדיר (ניגון)\">מי אדיר</a> · <a href=\"/index.php/%D7%A0%D7%99%D7%92%D7%95%D7%9F_%D7%90%D7%A9%D7%A8_%D7%91%D7%A8%D7%90\" title=\"ניגון אשר ברא\">אשר ברא</a>\n</td></tr>\n<tr>\n<th style=\"padding-left:15px;padding-right:15px;background:#E5E5FF; color: #000000;\"><span style=\"white-space: nowrap;\">ערכים קרובים</span>\n</th>\n<td colspan=\"2\" width=\"100%\" align=\"right\"><a href=\"/index.php/%D7%92%D7%99%D7%A8%D7%95%D7%A9%D7%99%D7%9F\" title=\"גירושין\">גירושין</a> · <a href=\"/index.php/%D7%96%D7%99%D7%95%D7%95%D7%92_%D7%A9%D7%A0%D7%99\" title=\"זיווג שני\">זיווג שני</a> · <a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%A9%22%D7%91\" class=\"mw-redirect\" title=\"חתונת אדמו&quot;ר הרש&quot;ב\">חתונת אדמו\"ר הרש\"ב</a> · <a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%94%D7%A8%D7%99%D7%99%22%D7%A6\" class=\"mw-redirect\" title=\"חתונת אדמו&quot;ר הריי&quot;צ\">חתונת אדמו\"ר הריי\"צ</a> · <a href=\"/index.php/%D7%97%D7%AA%D7%95%D7%A0%D7%AA_%D7%90%D7%93%D7%9E%D7%95%22%D7%A8_%D7%A9%D7%9C%D7%99%D7%98%22%D7%90\" class=\"mw-redirect\" title=\"חתונת אדמו&quot;ר שליט&quot;א\">חתונת אדמו\"ר שליט\"א</a>\n</td></tr>\n</tbody></table>\n<h2><span id=\".D7.94.D7.A2.D7.A8.D7.95.D7.AA_.D7.A9.D7.95.D7.9C.D7.99.D7.99.D7.9D\"></span><span class=\"mw-headline\" id=\"הערות_שוליים\">הערות שוליים</span></h2>\n<div class=\"reflist references-small\">     \n<div class=\"mw-references-wrap\"><ol class=\"references\">\n<li id=\"cite_note-1\"><span class=\"mw-cite-backlink\"><a href=\"#cite_ref-1\">^</a></span> <span class=\"reference-text\">לפועל משתדלים גם שלפחות חלק מהתליך החתונה יתחיל בשעה זו, כגון כתיבת <a href=\"/index.php/%D7%A9%D7%98%D7%A8_%D7%AA%D7%A0%D7%90%D7%99%D7%9D\" title=\"שטר תנאים\">שטר תנאים</a>, מעמד ה<a href=\"/index.php/%D7%A7%D7%91%D7%9C%D7%AA_%D7%A4%D7%A0%D7%99%D7%9D\" class=\"mw-redirect\" title=\"קבלת פנים\">קבלת פנים</a>, וכדומה.</span>\n</li>\n</ol></div></div>\n<!-- \nNewPP limit report\nCached time: 20260413132411\nCache expiry: 86400\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.073 seconds\nReal time usage: 0.173 seconds\nPreprocessor visited node count: 185/1000000\nPost‐expand include size: 5979/2097152 bytes\nTemplate argument size: 1342/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 534/5000000 bytes\nLua time usage: 0.020/7 seconds\nLua virtual size: 5611520/52428800 bytes\nLua estimated memory usage: 0 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  139.680      1 -total\n 66.86%   93.395      1 תבנית:ציטוט\n 16.38%   22.873      1 תבנית:הערה\n  7.53%   10.518      1 תבנית:הערות_שוליים\n  4.05%    5.660      1 תבנית:קישור_שבור\n  3.23%    4.516      1 תבנית:חתונה\n  2.52%    3.517      1 תבנית:הערות_שוליים/מרחב_שם\n  2.15%    2.998      1 תבנית:ללא_קוד_ויקי\n  1.55%    2.168      1 תבנית:שטורעם\n  1.35%    1.888      5 תבנית:שורה_אחת\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:35406-0!canonical and timestamp 20260413132411 and revision id 725300. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "hidden": "",
+        "*": "דפים_עם_קישורים_שבורים"
+      },
+      {
+        "sortkey": "",
+        "*": "מנהגי_חב\"ד"
+      },
+      {
+        "sortkey": "",
+        "*": "חתונה"
+      }
+    ],
+    "links": [
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:ציטוט"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:קישור שבור"
+      },
+      {
+        "ns": 10,
+        "exists": "",
+        "*": "תבנית:הערות שוליים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שטורעם (אתר)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אויפרופעניש (שבת חתן)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "אופרופעניש"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "בר מצווה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גיל הנישואין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "גירושין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "הרבנית נחמה דינה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "התוועדות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ווארט (לחיים)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "זיווג שני"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חדר ייחוד"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חופה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חתונה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חתונת אדמו\"ר הריי\"צ"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חתונת אדמו\"ר הרש\"ב"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חתונת אדמו\"ר שליט\"א"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "חתן"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהושע מונדשיין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יום נישואין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ישיש עליך (ניגון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כלה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "כתובה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מי אדיר (ניגון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מסדר קידושין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נדוניה"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניגון אשר ברא"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ניגון מהרה ישמע (עוד ישמע)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נישואין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "נתינת סידור לחתנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבלת פנים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קבלת פנים (חתונה)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קדושת הבית היהודי"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "קידושין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שבע ברכות"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שושבינים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שטר תנאים"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שידוך"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שיינא הורנשטיין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שלום בית"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שמח תשמח (ניגון)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "שנה ראשונה (נישואין)"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תרפ\"ט"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "תשי\"ד"
+      },
+      {
+        "ns": 0,
+        "*": "יחידה שבנשמה"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ההזמנה המקובלת כיום",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 347,
+        "anchor": "ההזמנה_המקובלת_כיום",
+        "linkAnchor": "ההזמנה_המקובלת_כיום"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "טקסט נוסח ההזמנה",
+        "number": "1.1",
+        "index": "2",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 818,
+        "anchor": "טקסט_נוסח_ההזמנה",
+        "linkAnchor": "טקסט_נוסח_ההזמנה"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "דיוקים בנוסח ההזמנה",
+        "number": "1.2",
+        "index": "3",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 1523,
+        "anchor": "דיוקים_בנוסח_ההזמנה",
+        "linkAnchor": "דיוקים_בנוסח_ההזמנה"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "ההזמנות אצל רבותינו נשיאינו",
+        "number": "2",
+        "index": "4",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 2361,
+        "anchor": "ההזמנות_אצל_רבותינו_נשיאינו",
+        "linkAnchor": "ההזמנות_אצל_רבותינו_נשיאינו"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הזמנות לאירועים אחרים",
+        "number": "3",
+        "index": "5",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 2592,
+        "anchor": "הזמנות_לאירועים_אחרים",
+        "linkAnchor": "הזמנות_לאירועים_אחרים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "לקריאה נוספת",
+        "number": "4",
+        "index": "6",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 2905,
+        "anchor": "לקריאה_נוספת",
+        "linkAnchor": "לקריאה_נוספת"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "קישורים חיצוניים",
+        "number": "5",
+        "index": "7",
+        "fromtitle": "הזמנה_לחתונה",
+        "byteoffset": 2997,
+        "anchor": "קישורים_חיצוניים",
+        "linkAnchor": "קישורים_חיצוניים"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "הערות שוליים",
+        "number": "6",
+        "index": "",
+        "byteoffset": null,
+        "anchor": "הערות_שוליים",
+        "linkAnchor": "הערות_שוליים"
+      }
+    ],
+    "showtoc": ""
+  }
+}

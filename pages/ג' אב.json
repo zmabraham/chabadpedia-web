@@ -1,0 +1,18 @@
+{
+  "parse": {
+    "title": "ג' אב",
+    "pageid": 18927,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><div class=\"redirectMsg\"><p>הפניה ל:</p><ul class=\"redirectText\"><li><a href=\"/index.php/%D7%92%27_%D7%91%D7%9E%D7%A0%D7%97%D7%9D_%D7%90%D7%91\" title=\"ג&#039; במנחם אב\">ג&#039; במנחם אב</a></li></ul></div>\n<!-- \nNewPP limit report\nCached time: 20260414044649\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 0/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 0/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:18927-0!canonical and timestamp 20260414044649 and revision id 86057. Rendering was triggered because: api-parse\n -->\n</div>"
+    },
+    "categories": [],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "ג' במנחם אב"
+      }
+    ],
+    "sections": []
+  }
+}

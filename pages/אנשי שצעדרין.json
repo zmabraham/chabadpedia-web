@@ -1,0 +1,44 @@
+{
+  "parse": {
+    "title": "אנשי שצעדרין",
+    "pageid": 90031,
+    "text": {
+      "*": "<div class=\"mw-content-rtl mw-parser-output\" lang=\"he\" dir=\"rtl\"><p>פורום <b>אנשי שצעדרין</b> היה פורום אינטרנטי חב\"די שהתנהל באווירה מחקרית ונידונו בו נושאים פנים חב\"דים שונים.\n</p>\n<h2><span id=\".D7.A2.D7.9C_.D7.94.D7.A4.D7.95.D7.A8.D7.95.D7.9D\"></span><span class=\"mw-headline\" id=\"על_הפורום\">על הפורום</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/index.php?title=%D7%90%D7%A0%D7%A9%D7%99_%D7%A9%D7%A6%D7%A2%D7%93%D7%A8%D7%99%D7%9F&amp;veaction=edit&amp;section=1\" title=\"עריכת פסקה: &quot;על הפורום&quot;\" class=\"mw-editsection-visualeditor\"><span>עריכה</span></a><span class=\"mw-editsection-divider\"> | </span><a href=\"/index.php?title=%D7%90%D7%A0%D7%A9%D7%99_%D7%A9%D7%A6%D7%A2%D7%93%D7%A8%D7%99%D7%9F&amp;action=edit&amp;section=1\" title=\"עריכת קוד המקור של הפרק: על הפורום\"><span>עריכת קוד מקור</span></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>הפורום נוסד על ידי הרב <a href=\"/index.php/%D7%9E%D7%A0%D7%97%D7%9D_%D7%9E%D7%A2%D7%A0%D7%93%D7%9C_%D7%A7%D7%A1%D7%98%D7%9C\" title=\"מנחם מענדל קסטל\">מנחם מענדל קסטל</a>.\n</p><p>הפורום עסק בבירור וליבון סוגיות היסטוריות ומחשבתיות שונות בתולדות חב\"ד, וכפורום סגור בו השתתפו בכירי החוקרים והמו\"לים החב\"דיים, זכה הפורום להילה של כבוד בתוך הקהילה החב\"דית.\n</p><p>בפורום נידונו נושאים מגוונים ופנים חב\"דים כמו דיונים על ספרים שונים ועל פרשיות שונות.\n</p><p>בפורום היו פעילים גדולי החוקרים כמו הרב <a href=\"/index.php/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9E%D7%95%D7%A0%D7%93%D7%A9%D7%99%D7%99%D7%9F\" title=\"יהושע מונדשיין\">יהושע מונדשיין</a> ועוד.\n</p><p>הפורום נסגר בשלב מסויים ושמועות אומרות שהוא מתקיים עד היום בפורמט וואצאפ.\n</p>\n<!-- \nNewPP limit report\nCached time: 20260413090458\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.127 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key chabadped_1-infopedia_:pcache:idhash:90031-0!canonical and timestamp 20260413090458 and revision id 810547. Rendering was triggered because: page-view\n -->\n</div>"
+    },
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "אתרי_אינטרנט"
+      },
+      {
+        "sortkey": "",
+        "*": "משפחת_קסטל"
+      }
+    ],
+    "links": [
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "יהושע מונדשיין"
+      },
+      {
+        "ns": 0,
+        "exists": "",
+        "*": "מנחם מענדל קסטל"
+      }
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "על הפורום",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "אנשי_שצעדרין",
+        "byteoffset": 110,
+        "anchor": "על_הפורום",
+        "linkAnchor": "על_הפורום"
+      }
+    ]
+  }
+}
