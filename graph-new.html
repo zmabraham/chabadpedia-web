@@ -1738,11 +1738,13 @@
 
         // Clear highlights
         function clearHighlights() {
+            if (!cy) return;
             cy.elements().removeClass('highlighted dimmed');
         }
 
         // Select node by ID
         function selectNodeById(id) {
+            if (!cy) return;
             const node = cy.getElementById(id);
             if (node.length > 0) {
                 node.select();
@@ -1758,6 +1760,7 @@
 
         // Isolate node with hops
         function isolateNode(hops) {
+            if (!cy) return;
             if (!selectedNode) {
                 alert('Please select a node first by clicking on it');
                 return;
@@ -2520,6 +2523,7 @@
 
         // Change layout
         function changeLayout() {
+            if (!cy) return;
             const layout = document.getElementById('layoutSelect').value;
             cy.layout({
                 name: layout,
@@ -2531,6 +2535,7 @@
 
         // Toggle labels
         function toggleLabels() {
+            if (!cy) return;
             showLabels = !showLabels;
             cy.style()
                 .selector('node')
@@ -2540,11 +2545,13 @@
 
         // Fit graph
         function fitGraph() {
+            if (!cy) return;
             cy.fit(null, 50);
         }
 
         // Reset view
         function resetView() {
+            if (!cy) return;
             cy.fit(null, 50);
             clearHighlights();
             if (currentSegment && currentSegment !== 'full') {
