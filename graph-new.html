@@ -1488,24 +1488,6 @@
             const editSections = content.querySelectorAll('.mw-editsection, .mw-editsection-visualeditor, [class*="mw-editsection"]');
             editSections.forEach(el => el.remove());
 
-            // Fix image sources - handle all ChabadPedia image paths
-            const images = content.querySelectorAll('img[src]');
-            images.forEach(img => {
-                const src = img.getAttribute('src');
-                // Handle absolute paths starting with /
-                if (src.startsWith('/images/') || src.startsWith('/thumb/')) {
-                    img.setAttribute('src', 'https://chabadpedia.co.il' + src);
-                }
-                // Handle srcset attribute as well (for responsive images)
-                const srcset = img.getAttribute('srcset');
-                if (srcset) {
-                    const newSrcset = srcset
-                        .replace(/\/images\//g, 'https://chabadpedia.co.il/images/')
-                        .replace(/\/thumb\//g, 'https://chabadpedia.co.il/thumb/');
-                    img.setAttribute('srcset', newSrcset);
-                }
-            });
-
             // Add click handlers for internal ChabadPedia links
             addInternalLinkHandlers(content);
         }
