@@ -1443,6 +1443,43 @@
                     ${articleHtml}
                 </div>
             `;
+
+            // Add click handlers for internal ChabadPedia links
+            addInternalLinkHandlers(content);
+        }
+
+        function addInternalLinkHandlers(container) {
+            const links = container.querySelectorAll('a[href]');
+            links.forEach(link => {
+                const href = link.getAttribute('href');
+
+                // Check if it's an internal ChabadPedia link
+                // Internal links start with /index.php/ or are relative
+                if (href && (href.startsWith('/index.php/') || href.startsWith('./') || !href.includes('://'))) {
+                    // Extract the page title from the link
+                    let pageTitle = href.replace('/index.php/', '');
+                    pageTitle = pageTitle.replace(/^.\//, ''); // Remove leading ./
+                    pageTitle = decodeURIComponent(pageTitle);
+                    pageTitle = pageTitle.replace(/_/g, ' '); // Replace underscores with spaces
+
+                    // Make link clickable to open article
+                    link.style.cursor = 'pointer';
+                    link.style.color = '#4fc3f7';
+                    link.style.textDecoration = 'underline';
+
+                    link.addEventListener('click', function(e) {
+                        e.preventDefault();
+
+                        // Close current article viewer
+                        closeArticleViewer();
+
+                        // Open the linked article
+                        setTimeout(() => {
+                            openArticleViewer(pageTitle);
+                        }, 100);
+                    });
+                }
+            });
         }
 
         function closeArticleViewer() {
