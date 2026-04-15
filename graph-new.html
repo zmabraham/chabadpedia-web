@@ -703,6 +703,7 @@
             <h2>🏷️ Display Options</h2>
             <div class="button-group">
                 <button onclick="toggleLabels()">Toggle Labels</button>
+                <button class="secondary" onclick="toggleEdgeLabels()">Edge Labels</button>
                 <button onclick="fitGraph()">Fit Graph</button>
             </div>
 
@@ -994,7 +995,16 @@
                             'target-arrow-color': 'rgba(255,255,255,0.2)',
                             'target-arrow-shape': 'triangle',
                             'curve-style': 'bezier',
-                            'opacity': 0.4
+                            'opacity': 0.4,
+                            'label': 'data(label)',
+                            'font-size': 9,
+                            'color': 'rgba(255,255,255,0.5)',
+                            'text-rotation': 'autorotate',
+                            'text-margin-y': -10,
+                            'text-background-opacity': 0,
+                            'text-background-color': '#000',
+                            'text-background-padding': '2px',
+                            'text-border-opacity': 0
                         }
                     },
                     {
@@ -1201,7 +1211,8 @@
                                 group: 'edges',
                                 data: {
                                     source: source,
-                                    target: target
+                                    target: target,
+                                    label: ''  // Empty by default, can show '•' when toggled
                                 }
                             });
                             edgeCount++;
@@ -1834,6 +1845,21 @@
         function searchGraph() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
             if (!query) return;
+
+            // If no graph is loaded, search directly in full dataset
+            if (!cy) {
+                const fullMatches = allNodeData.filter(n =>
+                    n.title.toLowerCase().includes(query)
+                );
+
+                if (fullMatches.length > 0) {
+                    loadGraphAndFindNode(fullMatches[0].title);
+                } else {
+                    alert('No matches found');
+                }
+                hideSuggestions();
+                return;
+            }
 
             // First try to find in current graph
             const matches = cy.nodes().filter(n => {
@@ -2557,6 +2583,18 @@
             cy.style()
                 .selector('node')
                 .style('label', function(ele) { return showLabels ? ele.data('label') : ''; })
+                .update();
+        }
+
+        let showEdgeLabels = false;
+
+        // Toggle edge labels
+        function toggleEdgeLabels() {
+            if (!cy) return;
+            showEdgeLabels = !showEdgeLabels;
+            cy.style()
+                .selector('edge')
+                .style('label', function(ele) { return showEdgeLabels ? '•' : ''; })
                 .update();
         }
 
