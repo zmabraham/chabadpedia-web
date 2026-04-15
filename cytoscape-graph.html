@@ -328,11 +328,50 @@
             </select>
             <div class="segment-info" id="segmentInfo"></div>
 
-            <h2>🔍 Search</h2>
-            <div class="search-container">
-                <input type="text" id="searchInput" placeholder="Search nodes..." autocomplete="off">
-                <div class="search-suggestions" id="searchSuggestions"></div>
+            <h2>🔍 Search & Explore</h2>
+
+            <!-- Search Mode Tabs -->
+            <div style="display: flex; gap: 5px; margin-bottom: 10px;">
+                <button id="tabSearch" class="secondary" style="flex: 1; padding: 8px; font-size: 0.8rem;" onclick="switchSearchMode('search')">Search Graph</button>
+                <button id="tabExplore" class="secondary" style="flex: 1; padding: 8px; font-size: 0.8rem;" onclick="switchSearchMode('explore')">Explore from Node</button>
             </div>
+
+            <!-- Current Graph Search -->
+            <div id="searchModeContainer">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search current graph..." autocomplete="off">
+                    <div class="search-suggestions" id="searchSuggestions"></div>
+                </div>
+            </div>
+
+            <!-- Explore from Node Mode -->
+            <div id="exploreModeContainer" style="display: none;">
+                <div class="search-container">
+                    <input type="text" id="exploreInput" placeholder="Search for a node to explore..." autocomplete="off">
+                    <div class="search-suggestions" id="exploreSuggestions"></div>
+                </div>
+                <div style="margin-top: 10px;">
+                    <button onclick="exploreFromNode()" style="background: linear-gradient(135deg, #4fc3f7, #29b6f6);">🚀 Explore</button>
+                </div>
+                <div id="exploreControls" style="display: none; margin-top: 10px;">
+                    <div style="font-size: 0.75rem; color: #888; margin-bottom: 8px;">Expand neighborhood:</div>
+                    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin-bottom: 8px;">
+                        <button onclick="expandExplore(1)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+1</button>
+                        <button onclick="expandExplore(2)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+2</button>
+                        <button onclick="expandExplore(3)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+3</button>
+                        <button onclick="expandExplore(5)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+5</button>
+                        <button onclick="expandExplore(10)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+10</button>
+                        <button onclick="expandExplore(20)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+20</button>
+                        <button onclick="expandExplore(50)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+50</button>
+                        <button onclick="expandExplore(100)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+100</button>
+                        <button onclick="expandExplore(500)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+500</button>
+                        <button onclick="expandExplore(1000)" class="secondary" style="font-size: 0.75rem; padding: 6px 4px; margin: 0;">+1000</button>
+                    </div>
+                    <div style="font-size: 0.7rem; color: #666; margin-bottom: 8px;">Current: <span id="currentHops">1</span> hop</div>
+                    <button class="secondary" style="margin-top: 5px;" onclick="resetExplore()">Reset Exploration</button>
+                </div>
+            </div>
+
             <div class="button-group">
                 <button onclick="searchGraph()">Search</button>
                 <button class="secondary" onclick="clearSearch()">Clear</button>
@@ -443,6 +482,10 @@
         let showLabels = true;
         let allNodeTitles = []; // For autocomplete
         let allNodeData = []; // Store full node data for autocomplete
+        let searchMode = 'search'; // 'search' or 'explore'
+        let exploreCenterNode = null;
+        let exploreHops = 1;
+        let fullExploreData = { nodes: [], edges: [] };
 
         // Segment definitions
         const segments = {
@@ -1084,6 +1127,325 @@
             searchGraph();
         }
 
+        // Switch between search and explore modes
+        function switchSearchMode(mode) {
+            searchMode = mode;
+
+            const tabSearch = document.getElementById('tabSearch');
+            const tabExplore = document.getElementById('tabExplore');
+            const searchContainer = document.getElementById('searchModeContainer');
+            const exploreContainer = document.getElementById('exploreModeContainer');
+
+            if (mode === 'search') {
+                tabSearch.style.background = 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
+                tabSearch.style.color = '#000';
+                tabExplore.style.background = 'rgba(255, 255, 255, 0.1)';
+                tabExplore.style.color = '#fff';
+                searchContainer.style.display = 'block';
+                exploreContainer.style.display = 'none';
+            } else {
+                tabExplore.style.background = 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
+                tabExplore.style.color = '#000';
+                tabSearch.style.background = 'rgba(255, 255, 255, 0.1)';
+                tabSearch.style.color = '#fff';
+                searchContainer.style.display = 'none';
+                exploreContainer.style.display = 'block';
+
+                // Load full node data for exploration if not already loaded
+                if (allNodeData.length === 0) {
+                    loadExploreIndex();
+                }
+            }
+        }
+
+        // Load index for exploration mode
+        async function loadExploreIndex() {
+            document.getElementById('exploreInput').placeholder = 'Loading node index...';
+
+            try {
+                // Load from the largest segment (people) for comprehensive search
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                const data = await response.json();
+
+                allNodeTitles = [];
+                allNodeData = [];
+
+                let nodesArray = [];
+                if (Array.isArray(data.nodes)) {
+                    nodesArray = data.nodes;
+                } else {
+                    for (const key in data.nodes) {
+                        nodesArray.push(data.nodes[key]);
+                    }
+                }
+
+                for (const node of nodesArray) {
+                    allNodeTitles.push(node.title);
+                    allNodeData.push({
+                        title: node.title,
+                        categories: node.categories || [],
+                        links_count: node.links_count || 0
+                    });
+                }
+
+                fullExploreData = data;
+
+                document.getElementById('exploreInput').placeholder = 'Search for a node to explore...';
+                console.log(`Loaded ${allNodeData.length} nodes for exploration`);
+            } catch (error) {
+                console.error('Error loading explore index:', error);
+                document.getElementById('exploreInput').placeholder = 'Error loading index';
+            }
+        }
+
+        // Explore from a specific node
+        async function exploreFromNode() {
+            const nodeName = document.getElementById('exploreInput').value.trim();
+            if (!nodeName) {
+                alert('Please enter a node name to explore');
+                return;
+            }
+
+            // Check if full data is loaded
+            if (fullExploreData.nodes === undefined) {
+                await loadExploreIndex();
+            }
+
+            // Find the node
+            let targetNode = null;
+            if (Array.isArray(fullExploreData.nodes)) {
+                targetNode = fullExploreData.nodes.find(n => n.title === nodeName);
+            } else {
+                for (const key in fullExploreData.nodes) {
+                    if (fullExploreData.nodes[key].title === nodeName) {
+                        targetNode = fullExploreData.nodes[key];
+                        break;
+                    }
+                }
+            }
+
+            if (!targetNode) {
+                alert(`Node "${nodeName}" not found. Try searching for a different name.`);
+                return;
+            }
+
+            exploreCenterNode = nodeName;
+            exploreHops = 1;
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loadingTitle').textContent = `Exploring: ${nodeName}`;
+
+            setTimeout(() => {
+                loadExploreNeighborhood();
+            }, 100);
+        }
+
+        // Load neighborhood for exploration
+        function loadExploreNeighborhood() {
+            if (!fullExploreData.edges) {
+                console.error('No edges data available');
+                return;
+            }
+
+            // Build node set starting from center
+            const nodesToShow = new Set([exploreCenterNode]);
+            let currentLevel = new Set([exploreCenterNode]);
+
+            // Find nodes within N hops
+            for (let hop = 0; hop < exploreHops; hop++) {
+                let nextLevel = new Set();
+
+                currentLevel.forEach(nodeId => {
+                    fullExploreData.edges.forEach(edge => {
+                        const source = edge[0];
+                        const target = edge[1];
+
+                        if (source === nodeId && !nodesToShow.has(target)) {
+                            nextLevel.add(target);
+                        }
+                        if (target === nodeId && !nodesToShow.has(source)) {
+                            nextLevel.add(source);
+                        }
+                    });
+                });
+
+                nextLevel.forEach(id => nodesToShow.add(id));
+                currentLevel = nextLevel;
+            }
+
+            // Get node data
+            let nodesArray = [];
+            if (Array.isArray(fullExploreData.nodes)) {
+                nodesArray = fullExploreData.nodes;
+            } else {
+                for (const key in fullExploreData.nodes) {
+                    nodesArray.push(fullExploreData.nodes[key]);
+                }
+            }
+
+            const filteredNodes = nodesArray.filter(n => nodesToShow.has(n.title));
+
+            // Build elements
+            const elements = [];
+            const validNodeIds = new Set(filteredNodes.map(n => n.title));
+
+            filteredNodes.forEach(node => {
+                elements.push({
+                    group: 'nodes',
+                    data: {
+                        id: node.title,
+                        label: node.title,
+                        categories: node.categories || [],
+                        links_count: node.links_count || 0,
+                        is_redirect: node.is_redirect || false
+                    }
+                });
+            });
+
+            // Add edges
+            const edgeSet = new Set();
+            fullExploreData.edges.forEach(edge => {
+                const source = edge[0];
+                const target = edge[1];
+
+                if (validNodeIds.has(source) && validNodeIds.has(target)) {
+                    const edgeKey = `${source}|${target}`;
+                    if (!edgeSet.has(edgeKey)) {
+                        edgeSet.add(edgeKey);
+                        elements.push({
+                            group: 'edges',
+                            data: {
+                                source: source,
+                                target: target
+                            }
+                        });
+                    }
+                }
+            });
+
+            // Update stats
+            document.getElementById('nodeCount').textContent = filteredNodes.length;
+            document.getElementById('edgeCount').textContent = elements.filter(e => e.group === 'edges').length;
+            document.getElementById('segmentLabel').textContent = `Exploring: ${exploreCenterNode} (${exploreHops}-hop)`;
+            document.getElementById('segmentInfo').textContent = `${exploreHops} hop${exploreHops > 1 ? 's' : ''} from center`;
+
+            // Initialize graph
+            try {
+                initCytoscape(elements);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('exploreControls').style.display = 'block';
+
+                // Select and center on the explore node
+                setTimeout(() => {
+                    selectNodeById(exploreCenterNode);
+                }, 500);
+            } catch (error) {
+                console.error('Error initializing explore graph:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Error creating graph</div>
+                    <div style="font-size: 0.9rem; color: #888; margin-top: 10px;">${error.message}</div>
+                `;
+            }
+        }
+
+        // Expand exploration by N hops
+        function expandExplore(hops) {
+            exploreHops = hops;
+            document.getElementById('currentHops').textContent = hops;
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loadingTitle').textContent = `Expanding to ${hops} hops...`;
+
+            setTimeout(() => {
+                loadExploreNeighborhood();
+            }, 100);
+        }
+
+        // Reset exploration
+        function resetExplore() {
+            exploreCenterNode = null;
+            exploreHops = 1;
+            document.getElementById('exploreControls').style.display = 'none';
+            document.getElementById('segmentLabel').textContent = '';
+            document.getElementById('segmentInfo').textContent = '';
+            document.getElementById('exploreInput').value = '';
+
+            if (cy) {
+                cy.elements().remove();
+            }
+        }
+
+        // Explore suggestions autocomplete
+        function showExploreSuggestions(query) {
+            if (!query || query.length < 1) {
+                hideExploreSuggestions();
+                return;
+            }
+
+            const suggestionsContainer = document.getElementById('exploreSuggestions');
+            const queryLower = query.toLowerCase();
+
+            // If explore data not loaded, return
+            if (allNodeData.length === 0) {
+                suggestionsContainer.innerHTML = '<div style="padding: 10px; color: #888;">Loading index...</div>';
+                suggestionsContainer.classList.add('show');
+                return;
+            }
+
+            // Find matches
+            const matches = allNodeData.filter(node =>
+                node.title.toLowerCase().includes(queryLower)
+            ).slice(0, 20);
+
+            if (matches.length === 0) {
+                hideExploreSuggestions();
+                return;
+            }
+
+            // Build suggestions HTML
+            let html = '';
+            matches.forEach(node => {
+                const title = node.title;
+                const index = title.toLowerCase().indexOf(queryLower);
+                let highlightedTitle;
+
+                if (index >= 0) {
+                    highlightedTitle =
+                        title.substring(0, index) +
+                        '<span class="match">' +
+                        title.substring(index, index + query.length) +
+                        '</span>' +
+                        title.substring(index + query.length);
+                } else {
+                    highlightedTitle = title;
+                }
+
+                const category = node.categories.length > 0 ? node.categories[0] : '';
+
+                html += `
+                    <div class="suggestion-item" onclick="selectExploreSuggestion('${title.replace(/'/g, "\\'")}')">
+                        ${highlightedTitle}
+                        ${category ? `<span class="category">${category}</span>` : ''}
+                    </div>
+                `;
+            });
+
+            html += `<div class="suggestions-count">${matches.length} result${matches.length > 1 ? 's' : ''}</div>`;
+
+            suggestionsContainer.innerHTML = html;
+            suggestionsContainer.classList.add('show');
+        }
+
+        function hideExploreSuggestions() {
+            const suggestionsContainer = document.getElementById('exploreSuggestions');
+            suggestionsContainer.classList.remove('show');
+        }
+
+        function selectExploreSuggestion(title) {
+            document.getElementById('exploreInput').value = title;
+            hideExploreSuggestions();
+            exploreFromNode();
+        }
+
         // Clear search
         function clearSearch() {
             document.getElementById('searchInput').value = '';
@@ -1177,6 +1539,19 @@
             document.addEventListener('click', function(e) {
                 if (!e.target.closest('.search-container')) {
                     hideSuggestions();
+                    hideExploreSuggestions();
+                }
+            });
+
+            // Explore input autocomplete
+            document.getElementById('exploreInput').addEventListener('input', function(e) {
+                showExploreSuggestions(e.target.value);
+            });
+
+            // Enter key for explore
+            document.getElementById('exploreInput').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    exploreFromNode();
                 }
             });
 
