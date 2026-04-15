@@ -1472,34 +1472,6 @@
                 '<p>No content available for this page.</p>';
 
             // Rewrite image URLs to point to ChabadPedia
-            // Handle /images/ URLs
-            articleHtml = articleHtml.replace(
-                /src="\/images\//gi,
-                'src="https://chabadpedia.co.il/images/'
-            );
-            // Handle /thumb/ URLs
-            articleHtml = articleHtml.replace(
-                /src="\/thumb\//gi,
-                'src="https://chabadpedia.co.il/thumb/'
-            );
-
-            // Remove edit section links (עריכה)
-            // The edit section spans can be nested, so we need to remove the whole mw-editsection
-            articleHtml = articleHtml.replace(
-                /<span class="mw-editsection"[^>]*>.*?<\/span>\s*(<span class="mw-editsection-divider">.*?<\/span>\s*)?<\/span>/gi,
-                ''
-            );
-            // Also remove visual editor edit links
-            articleHtml = articleHtml.replace(
-                /<span class="mw-editsection-visualeditor"[^>]*>.*?<\/span>/gi,
-                ''
-            );
-            // Remove any remaining edit section divs
-            articleHtml = articleHtml.replace(
-                /<div class="mw-editsection"[^>]*>.*?<\/div>/gi,
-                ''
-            );
-
             content.innerHTML = `
                 <div class="mw-parser-output">
                     ${articleHtml}
@@ -1510,14 +1482,21 @@
             const editSections = content.querySelectorAll('.mw-editsection, .mw-editsection-visualeditor, [class*="mw-editsection"]');
             editSections.forEach(el => el.remove());
 
-            // Fix image sources
-            const images = content.querySelectorAll('img[src^="/images/"], img[src^="/thumb/"]');
+            // Fix image sources - handle all ChabadPedia image paths
+            const images = content.querySelectorAll('img[src]');
             images.forEach(img => {
                 const src = img.getAttribute('src');
-                if (src.startsWith('/images/')) {
+                // Handle absolute paths starting with /
+                if (src.startsWith('/images/') || src.startsWith('/thumb/')) {
                     img.setAttribute('src', 'https://chabadpedia.co.il' + src);
-                } else if (src.startsWith('/thumb/')) {
-                    img.setAttribute('src', 'https://chabadpedia.co.il' + src);
+                }
+                // Handle srcset attribute as well (for responsive images)
+                const srcset = img.getAttribute('srcset');
+                if (srcset) {
+                    const newSrcset = srcset
+                        .replace(/\/images\//g, 'https://chabadpedia.co.il/images/')
+                        .replace(/\/thumb\//g, 'https://chabadpedia.co.il/thumb/');
+                    img.setAttribute('srcset', newSrcset);
                 }
             });
 
