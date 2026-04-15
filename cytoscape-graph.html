@@ -1446,20 +1446,18 @@
             }
         }
 
-        // Load full graph and navigate to a specific node
+        // Load node neighborhood and navigate to a specific node (much faster than full graph)
         async function loadGraphAndFindNode(nodeTitle) {
             // Show loading
             document.getElementById('loading').style.display = 'block';
-            document.getElementById('loadingTitle').textContent = `Loading full graph to find "${nodeTitle}"...`;
+            document.getElementById('loadingTitle').textContent = `Finding "${nodeTitle}"...`;
 
             try {
                 const response = await fetch('chabadpedia_knowledge_graph.json');
                 const data = await response.json();
 
-                // Convert data to Cytoscape format
-                const elements = [];
+                // Convert nodes to array
                 let nodesArray = [];
-
                 if (Array.isArray(data.nodes)) {
                     nodesArray = data.nodes;
                 } else {
@@ -1468,65 +1466,84 @@
                     }
                 }
 
-                const validNodeIds = new Set();
-
-                // Reset autocomplete data
-                allNodeTitles = [];
-                allNodeData = [];
-
-                for (const node of nodesArray) {
-                    validNodeIds.add(node.title);
-                    allNodeTitles.push(node.title);
-                    allNodeData.push({
-                        title: node.title,
-                        categories: node.categories || [],
-                        links_count: node.links_count || 0
-                    });
-
-                    elements.push({
-                        group: 'nodes',
-                        data: {
-                            id: node.title,
-                            label: node.title,
-                            categories: node.categories || [],
-                            links_count: node.links_count || 0,
-                            is_redirect: node.is_redirect || false
-                        }
-                    });
+                // Find the target node
+                const targetNode = nodesArray.find(n => n.title === nodeTitle);
+                if (!targetNode) {
+                    alert(`Node "${nodeTitle}" not found`);
+                    document.getElementById('loading').style.display = 'none';
+                    return;
                 }
 
-                // Add all edges
-                const edgeSet = new Set();
+                document.getElementById('loadingTitle').textContent = `Loading connections for "${nodeTitle}"...`;
+
+                // Find all nodes that connect to our target node
+                const connectedNodeIds = new Set([nodeTitle]);
+                const connectedEdges = [];
+
                 for (const edge of data.edges) {
                     const source = typeof edge === 'string' ? edge : edge[0];
                     const target = typeof edge === 'string' ? edge : edge[1];
 
-                    if (source && target && source !== target &&
-                        validNodeIds.has(source) && validNodeIds.has(target)) {
-                        const edgeKey = `${source}|${target}`;
-                        if (!edgeSet.has(edgeKey)) {
-                            edgeSet.add(edgeKey);
-                            elements.push({
-                                group: 'edges',
-                                data: {
-                                    source: source,
-                                    target: target
-                                }
-                            });
-                        }
+                    if (source === nodeTitle) {
+                        connectedNodeIds.add(target);
+                        connectedEdges.push([source, target]);
+                    } else if (target === nodeTitle) {
+                        connectedNodeIds.add(source);
+                        connectedEdges.push([source, target]);
                     }
                 }
 
-                // Initialize graph
-                currentSegment = 'full';
+                console.log(`Found ${connectedNodeIds.size - 1} connected nodes for "${nodeTitle}"`);
+
+                // Clear current graph and build neighborhood graph
+                cy.elements().remove();
+
+                const elements = [];
+                allNodeTitles = [];
+                allNodeData = [];
+
+                // Add all connected nodes
+                for (const nodeId of connectedNodeIds) {
+                    const nodeData = nodesArray.find(n => n.title === nodeId);
+                    if (nodeData) {
+                        elements.push({
+                            group: 'nodes',
+                            data: {
+                                id: nodeData.title,
+                                label: nodeData.title,
+                                categories: nodeData.categories || [],
+                                links_count: nodeData.links_count || 0,
+                                is_redirect: nodeData.is_redirect || false
+                            }
+                        });
+
+                        allNodeTitles.push(nodeData.title);
+                        allNodeData.push({
+                            title: nodeData.title,
+                            categories: nodeData.categories || [],
+                            links_count: nodeData.links_count || 0
+                        });
+                    }
+                }
+
+                // Add edges
+                for (const edge of connectedEdges) {
+                    elements.push({
+                        group: 'edges',
+                        data: { source: edge[0], target: edge[1] }
+                    });
+                }
+
+                // Initialize graph with neighborhood
                 initCytoscape(elements);
 
                 // Update stats
-                document.getElementById('nodeCount').textContent = nodesArray.length;
-                document.getElementById('edgeCount').textContent = data.edges.length;
-                document.getElementById('segmentInfo').textContent = `${nodesArray.length.toLocaleString()} nodes, ${data.edges.length.toLocaleString()} edges`;
+                document.getElementById('nodeCount').textContent = connectedNodeIds.size;
+                document.getElementById('edgeCount').textContent = connectedEdges.length;
+                document.getElementById('segmentInfo').textContent = `${connectedNodeIds.size.toLocaleString()} nodes (neighborhood view)`;
+                document.getElementById('segmentLabel').textContent = 'Neighborhood';
 
-                // Navigate to the node after a short delay
+                // Center on the node after layout
                 setTimeout(() => {
                     selectNodeById(nodeTitle);
                 }, 500);
