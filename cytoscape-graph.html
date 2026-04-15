@@ -281,20 +281,38 @@
         }
         .neighbors-list {
             margin-top: 10px;
-            max-height: 200px;
+            max-height: 300px;
             overflow-y: auto;
         }
         .neighbor-item {
-            padding: 3px 0;
+            padding: 6px 8px;
             font-size: 0.75rem;
             border-bottom: 1px solid rgba(255, 255, 255, 0.05);
             cursor: pointer;
-            padding: 4px 6px;
-            border-radius: 3px;
+            border-radius: 4px;
             transition: background 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
         }
         .neighbor-item:hover {
-            background: rgba(255, 215, 0, 0.1);
+            background: rgba(255, 215, 0, 0.15);
+        }
+        .neighbor-name {
+            color: #4fc3f7;
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .neighbor-count {
+            color: #888;
+            font-size: 0.65rem;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2px 6px;
+            border-radius: 10px;
+            flex-shrink: 0;
         }
         .segment-info {
             font-size: 0.75rem;
@@ -974,12 +992,18 @@
                 <div class="neighbors-list">
             `;
 
-            neighbors.slice(0, 15).forEach(n => {
-                html += `<div class="neighbor-item" onclick="selectNodeById('${n.data('id')}')">${n.data('label')}</div>`;
+            neighbors.slice(0, 20).forEach(n => {
+                const nodeId = n.data('id').replace(/"/g, '&quot;');
+                const nodeLabel = n.data('label');
+                const nodeConnections = n.data('links_count') || 0;
+                html += `<div class="neighbor-item" data-node-id="${nodeId}">
+                    <span class="neighbor-name">${nodeLabel}</span>
+                    <span class="neighbor-count">${nodeConnections}</span>
+                </div>`;
             });
 
-            if (neighbors.length > 15) {
-                html += `<div style="color: #888; font-size: 0.7rem; padding: 5px;">+ ${neighbors.length - 15} more</div>`;
+            if (neighbors.length > 20) {
+                html += `<div style="color: #888; font-size: 0.7rem; padding: 5px;">+ ${neighbors.length - 20} more connections</div>`;
             }
 
             html += '</div>';
@@ -1161,8 +1185,9 @@
             suggestionsContainer.classList.add('show');
         }
 
-        // Handle suggestion clicks via event delegation
+        // Handle suggestion clicks and neighbor clicks via event delegation
         document.addEventListener('click', function(e) {
+            // Handle search/explore suggestions
             const suggestionItem = e.target.closest('.suggestion-item');
             if (suggestionItem) {
                 const title = suggestionItem.getAttribute('data-title');
@@ -1174,6 +1199,17 @@
                         selectSuggestion(title);
                     }
                 }
+                return;
+            }
+
+            // Handle neighbor item clicks in node info panel
+            const neighborItem = e.target.closest('.neighbor-item');
+            if (neighborItem) {
+                const nodeId = neighborItem.getAttribute('data-node-id');
+                if (nodeId && cy) {
+                    selectNodeById(nodeId);
+                }
+                return;
             }
         });
 
