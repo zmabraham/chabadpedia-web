@@ -983,7 +983,14 @@
         // Show node information
         function showNodeInfo(node) {
             const data = node.data();
-            const neighbors = getNeighbors(node);
+            let neighbors = getNeighbors(node);
+
+            // Sort neighbors by connection count (highest first)
+            neighbors = neighbors.sort((a, b) => {
+                const aConns = a.data('links_count') || 0;
+                const bConns = b.data('links_count') || 0;
+                return bConns - aConns;
+            });
 
             let html = `
                 <h4 style="font-size: 1rem; margin-bottom: 10px;">${data.label}</h4>
@@ -1029,12 +1036,19 @@
             const node = cy.getElementById(nodeId);
             if (!node || node.length === 0) return;
 
-            const neighbors = getNeighbors(node);
+            let neighbors = getNeighbors(node);
             const neighborsList = document.getElementById('neighborsList');
 
             if (!neighborsList) return;
 
-            // Clear existing content except the header
+            // Sort neighbors by connection count (highest first)
+            neighbors = neighbors.sort((a, b) => {
+                const aConns = a.data('links_count') || 0;
+                const bConns = b.data('links_count') || 0;
+                return bConns - aConns;
+            });
+
+            // Clear existing content and render all neighbors
             let html = '';
 
             neighbors.forEach(n => {
