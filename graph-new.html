@@ -1103,12 +1103,15 @@
                 }
             }
 
-            // Add "Expand All Connections" button if not viewing full graph
-            if (currentSegment !== 'full' && (data.links_count || 0) > neighbors.length) {
-                const missingConns = (data.links_count || 0) - neighbors.length;
+            // Add "Load All Connections" button if node has more connections than visible
+            const totalConnections = data.links_count || 0;
+            const visibleConnections = neighbors.length;
+
+            if (totalConnections > visibleConnections) {
+                const missingConns = totalConnections - visibleConnections;
                 html += `
                     <button class="expand-all-btn" data-node-id="${data.id}" style="width: 100%; margin-top: 10px;">
-                        🔍 Load ${missingConns} more connections
+                        🔗 Load all ${totalConnections} connections (${missingConns} more)
                     </button>
                 `;
             }
