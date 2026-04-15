@@ -107,6 +107,51 @@
             outline: none;
             border-color: #ffd700;
         }
+        .search-container {
+            position: relative;
+        }
+        .search-suggestions {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: #2a2a3e;
+            border: 1px solid rgba(255, 215, 0, 0.3);
+            border-radius: 0 0 6px 6px;
+            max-height: 250px;
+            overflow-y: auto;
+            z-index: 100;
+            display: none;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+        }
+        .search-suggestions.show {
+            display: block;
+        }
+        .suggestion-item {
+            padding: 10px 12px;
+            cursor: pointer;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            font-size: 0.85rem;
+            transition: background 0.2s;
+        }
+        .suggestion-item:hover {
+            background: rgba(76, 175, 80, 0.2);
+        }
+        .suggestion-item .match {
+            color: #ffd700;
+            font-weight: 600;
+        }
+        .suggestion-item .category {
+            color: #888;
+            font-size: 0.75rem;
+            margin-left: 8px;
+        }
+        .suggestions-count {
+            padding: 8px 12px;
+            color: #666;
+            font-size: 0.75rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
         button {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             border: none;
@@ -284,7 +329,10 @@
             <div class="segment-info" id="segmentInfo"></div>
 
             <h2>🔍 Search</h2>
-            <input type="text" id="searchInput" placeholder="Search nodes...">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search nodes..." autocomplete="off">
+                <div class="search-suggestions" id="searchSuggestions"></div>
+            </div>
             <div class="button-group">
                 <button onclick="searchGraph()">Search</button>
                 <button class="secondary" onclick="clearSearch()">Clear</button>
@@ -393,6 +441,8 @@
         let currentSegment = 'full';
         let selectedNode = null;
         let showLabels = true;
+        let allNodeTitles = []; // For autocomplete
+        let allNodeData = []; // Store full node data for autocomplete
 
         // Segment definitions
         const segments = {
@@ -715,8 +765,21 @@
                 // Create a set of all valid node IDs
                 const validNodeIds = new Set();
 
+                // Reset autocomplete data
+                allNodeTitles = [];
+                allNodeData = [];
+
                 for (const node of nodesArray) {
                     validNodeIds.add(node.title);
+
+                    // Store for autocomplete
+                    allNodeTitles.push(node.title);
+                    allNodeData.push({
+                        title: node.title,
+                        categories: node.categories || [],
+                        links_count: node.links_count || 0
+                    });
+
                     elements.push({
                         group: 'nodes',
                         data: {
@@ -950,6 +1013,75 @@
             } else {
                 alert('No matches found');
             }
+
+            hideSuggestions();
+        }
+
+        // Autocomplete
+        function showSuggestions(query) {
+            if (!query || query.length < 1) {
+                hideSuggestions();
+                return;
+            }
+
+            const suggestionsContainer = document.getElementById('searchSuggestions');
+            const queryLower = query.toLowerCase();
+
+            // Find matches
+            const matches = allNodeData.filter(node =>
+                node.title.toLowerCase().includes(queryLower)
+            ).slice(0, 20); // Limit to 20 suggestions
+
+            if (matches.length === 0) {
+                hideSuggestions();
+                return;
+            }
+
+            // Build suggestions HTML
+            let html = '';
+            matches.forEach(node => {
+                // Highlight matching text
+                const title = node.title;
+                const index = title.toLowerCase().indexOf(queryLower);
+                let highlightedTitle;
+
+                if (index >= 0) {
+                    highlightedTitle =
+                        title.substring(0, index) +
+                        '<span class="match">' +
+                        title.substring(index, index + query.length) +
+                        '</span>' +
+                        title.substring(index + query.length);
+                } else {
+                    highlightedTitle = title;
+                }
+
+                // Get first category for display
+                const category = node.categories.length > 0 ? node.categories[0] : '';
+
+                html += `
+                    <div class="suggestion-item" onclick="selectSuggestion('${title.replace(/'/g, "\\'")}')">
+                        ${highlightedTitle}
+                        ${category ? `<span class="category">${category}</span>` : ''}
+                    </div>
+                `;
+            });
+
+            html += `<div class="suggestions-count">${matches.length} result${matches.length > 1 ? 's' : ''} found</div>`;
+
+            suggestionsContainer.innerHTML = html;
+            suggestionsContainer.classList.add('show');
+        }
+
+        function hideSuggestions() {
+            const suggestionsContainer = document.getElementById('searchSuggestions');
+            suggestionsContainer.classList.remove('show');
+        }
+
+        function selectSuggestion(title) {
+            document.getElementById('searchInput').value = title;
+            hideSuggestions();
+            searchGraph();
         }
 
         // Clear search
@@ -1033,6 +1165,18 @@
             document.getElementById('searchInput').addEventListener('keypress', function(e) {
                 if (e.key === 'Enter') {
                     searchGraph();
+                }
+            });
+
+            // Autocomplete - show suggestions as user types
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                showSuggestions(e.target.value);
+            });
+
+            // Hide suggestions when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-container')) {
+                    hideSuggestions();
                 }
             });
 
