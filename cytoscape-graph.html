@@ -185,6 +185,7 @@
             transform: translate(-50%, -50%);
             text-align: center;
             z-index: 1000;
+            min-width: 300px;
         }
         .spinner {
             width: 50px;
@@ -197,6 +198,41 @@
         }
         @keyframes spin {
             to { transform: rotate(360deg); }
+        }
+        .progress-bar {
+            width: 100%;
+            max-width: 300px;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            margin: 15px auto;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4fc3f7, #ffd700);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+            width: 0%;
+        }
+        .loading-steps {
+            font-size: 0.8rem;
+            color: #888;
+            margin-top: 15px;
+        }
+        .loading-step {
+            padding: 4px 0;
+            opacity: 0.5;
+            transition: opacity 0.3s;
+        }
+        .loading-step.active {
+            opacity: 1;
+            color: #4fc3f7;
+        }
+        .loading-step.done {
+            opacity: 0.7;
+            color: #66bb6a;
+        }
         }
         .neighbors-list {
             margin-top: 10px;
@@ -334,7 +370,18 @@
             <div id="cy"></div>
             <div id="loading">
                 <div class="spinner"></div>
-                <div style="color: #4fc3f7;">Loading Knowledge Graph...</div>
+                <div style="color: #4fc3f7; font-size: 1.1rem;" id="loadingTitle">Loading Knowledge Graph...</div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="loading-steps">
+                    <div class="loading-step" id="step1">○ Fetching data...</div>
+                    <div class="loading-step" id="step2">○ Processing nodes...</div>
+                    <div class="loading-step" id="step3">○ Processing edges...</div>
+                    <div class="loading-step" id="step4">○ Building graph...</div>
+                    <div class="loading-step" id="step5">○ Running layout...</div>
+                    <div class="loading-step" id="step6">○ Done!</div>
+                </div>
             </div>
         </div>
     </div>
@@ -607,20 +654,52 @@
             }
         }
 
+        // Update loading progress
+        function updateProgress(step, percentage) {
+            const steps = ['step1', 'step2', 'step3', 'step4', 'step5', 'step6'];
+
+            // Mark previous steps as done
+            for (let i = 0; i < step - 1; i++) {
+                document.getElementById(steps[i])?.classList.add('done');
+                document.getElementById(steps[i])?.classList.remove('active');
+            }
+
+            // Mark current step as active
+            document.getElementById(steps[step - 1])?.classList.add('active');
+            document.getElementById(steps[step - 1])?.classList.remove('done');
+
+            // Update progress bar
+            document.getElementById('progressFill').style.width = percentage + '%';
+        }
+
+        // Reset loading UI
+        function resetLoadingUI() {
+            const steps = ['step1', 'step2', 'step3', 'step4', 'step5', 'step6'];
+            steps.forEach(id => {
+                document.getElementById(id)?.classList.remove('active', 'done');
+            });
+            document.getElementById('progressFill').style.width = '0%';
+        }
+
         // Load segment data
         async function loadSegment(segmentId) {
             currentSegment = segmentId;
             const segment = segments[segmentId];
 
+            resetLoadingUI();
             document.getElementById('loading').style.display = 'block';
             document.getElementById('segmentLabel').textContent = segment.name;
+            document.getElementById('loadingTitle').textContent = `Loading ${segment.name}...`;
 
             try {
+                updateProgress(1, 10); // Fetching data
                 const response = await fetch(segment.file);
                 const data = await response.json();
 
                 // Convert data to Cytoscape format
                 const elements = [];
+
+                updateProgress(2, 25); // Processing nodes
 
                 // Add nodes - handle both array and object formats
                 let nodesArray = [];
@@ -649,6 +728,8 @@
                         }
                     });
                 }
+
+                updateProgress(3, 50); // Processing edges
 
                 // Add edges (limit for performance on full graph)
                 const edgeSet = new Set();
@@ -690,11 +771,14 @@
                     console.log(`Limited to ${maxEdges} edges out of ${data.edges.length} for performance`);
                 }
 
+                updateProgress(4, 70); // Building graph
+
                 fullGraphData = { elements: elements, metadata: data.metadata };
 
                 console.log(`Loading segment: ${segmentId}`);
                 console.log(`Elements: ${elements.length} (${elements.filter(e => e.group === 'nodes').length} nodes, ${elements.filter(e => e.group === 'edges').length} edges)`);
 
+                updateProgress(5, 85); // Running layout
                 initCytoscape(elements);
 
                 // Update stats
@@ -702,7 +786,12 @@
                 document.getElementById('edgeCount').textContent = data.metadata?.total_edges || elements.filter(e => e.group === 'edges').length;
                 document.getElementById('segmentInfo').textContent = `${segment.nodes.toLocaleString()} nodes, ${segment.edges.toLocaleString()} edges`;
 
-                document.getElementById('loading').style.display = 'none';
+                updateProgress(6, 100); // Done
+
+                // Hide loading after a brief delay to show completion
+                setTimeout(() => {
+                    document.getElementById('loading').style.display = 'none';
+                }, 500);
 
             } catch (error) {
                 console.error('Error loading segment:', error);
@@ -949,9 +1038,13 @@
 
             // Don't auto-load - let user choose
             document.getElementById('loading').innerHTML = `
-                <div style="color: #4fc3f7; font-size: 1.2rem;">👆 Select a segment to begin</div>
+                <div style="color: #4fc3f7; font-size: 1.3rem;">🌐 ChabadPedia Knowledge Graph</div>
+                <div style="color: #ffd700; font-size: 1rem; margin-top: 15px;">👇 Select a segment to begin</div>
                 <div style="color: #888; font-size: 0.9rem; margin-top: 10px;">
                     Choose from the dropdown in the sidebar
+                </div>
+                <div style="color: #666; font-size: 0.8rem; margin-top: 20px;">
+                    Faster segments: Concepts (1K), Publications (816), Places (1.4K)
                 </div>
             `;
 
