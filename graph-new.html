@@ -6,7 +6,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <title>ChabadPedia Knowledge Graph - v2026-04-14-22:15</title>
+    <title>ChabadPedia Knowledge Graph - v2026-04-14-22:35</title>
     <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -1177,6 +1177,12 @@
 
         // Expand to load all connections - loads only the node's neighborhood
         async function expandAllConnections(nodeId) {
+            // Remove welcome message if exists
+            const welcomeMsg = document.getElementById('welcomeMessage');
+            if (welcomeMsg) {
+                welcomeMsg.remove();
+            }
+
             // Show loading state
             const btn = document.querySelector('.expand-all-btn');
             if (btn) {
@@ -1184,13 +1190,27 @@
                 btn.disabled = true;
             }
 
+            // Show progress bar
+            const progressBar = document.querySelector('.progress-bar');
+            const loadingSteps = document.querySelector('.loading-steps');
+            if (progressBar) progressBar.style.display = 'block';
+            if (loadingSteps) loadingSteps.style.display = 'block';
+
             document.getElementById('loading').style.display = 'block';
             document.getElementById('loadingTitle').textContent = 'Loading connections...';
+            resetLoadingUI();
 
             try {
+                updateProgress(1, 10); // Fetching data
+
                 // Load full graph data
                 const response = await fetch('chabadpedia_knowledge_graph.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 const data = await response.json();
+
+                updateProgress(2, 30); // Processing nodes
 
                 // Convert nodes to array
                 let nodesArray = [];
@@ -1221,8 +1241,14 @@
 
                 console.log(`Found ${connectedNodeIds.size - 1} connected nodes, ${connectedEdges.length} edges`);
 
-                // Clear current graph and build neighborhood graph
-                cy.elements().remove();
+                updateProgress(3, 50); // Building graph
+
+                // Clear current graph if it exists
+                if (cy) {
+                    cy.elements().remove();
+                    cy.destroy();
+                    cy = null;
+                }
 
                 const elements = [];
 
@@ -1256,6 +1282,8 @@
                     }
                 }
 
+                updateProgress(4, 70); // Processing edges
+
                 // Add edges only if both endpoints exist
                 for (const edge of connectedEdges) {
                     const source = edge[0];
@@ -1269,8 +1297,12 @@
                     }
                 }
 
+                updateProgress(5, 90); // Initializing
+
                 // Initialize graph with neighborhood
                 initCytoscape(elements);
+
+                updateProgress(6, 100); // Done
 
                 // Update stats
                 document.getElementById('nodeCount').textContent = connectedNodeIds.size;
@@ -1278,14 +1310,16 @@
                 document.getElementById('segmentInfo').textContent = `${connectedNodeIds.size.toLocaleString()} nodes (neighborhood view)`;
                 document.getElementById('segmentLabel').textContent = 'Neighborhood';
 
-                // Center on the node after layout
+                // Hide loading and center on the node after a short delay
                 setTimeout(() => {
+                    document.getElementById('loading').style.display = 'none';
                     selectNodeById(nodeId);
                 }, 500);
 
             } catch (error) {
                 console.error('Error loading connections:', error);
-                alert('Error loading connections');
+                alert(`Error loading connections: ${error.message}`);
+                document.getElementById('loading').style.display = 'none';
             } finally {
                 // Reset button
                 const btn = document.querySelector('.expand-all-btn');
@@ -1589,12 +1623,38 @@
 
         // Load node neighborhood and navigate to a specific node (much faster than full graph)
         async function loadGraphAndFindNode(nodeTitle) {
+            // Remove welcome message if exists
+            const welcomeMsg = document.getElementById('welcomeMessage');
+            if (welcomeMsg) {
+                welcomeMsg.remove();
+            }
+
             // Show loading
             document.getElementById('loading').style.display = 'block';
             document.getElementById('loadingTitle').textContent = `Finding "${nodeTitle}"...`;
 
+            // Show progress bar
+            const progressBar = document.querySelector('.progress-bar');
+            const loadingSteps = document.querySelector('.loading-steps');
+            if (progressBar) progressBar.style.display = 'block';
+            if (loadingSteps) loadingSteps.style.display = 'block';
+            resetLoadingUI();
+
             try {
+                updateProgress(1, 10); // Fetching data
+
+                // Check if node is in node index
+                if (!nodeIndexLoaded || !nodeIndex || !nodeIndex.nodes[nodeTitle]) {
+                    throw new Error(`Node "${nodeTitle}" not found in index. Try searching for a different term.`);
+                }
+
+                updateProgress(2, 20); // Processing data
+
+                // Load the full dataset (we need it for edges)
                 const response = await fetch('chabadpedia_knowledge_graph.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 const data = await response.json();
 
                 // Convert nodes to array
@@ -1610,12 +1670,11 @@
                 // Find the target node
                 const targetNode = nodesArray.find(n => n.title === nodeTitle);
                 if (!targetNode) {
-                    alert(`Node "${nodeTitle}" not found`);
-                    document.getElementById('loading').style.display = 'none';
-                    return;
+                    throw new Error(`Node "${nodeTitle}" not found in dataset`);
                 }
 
                 document.getElementById('loadingTitle').textContent = `Loading connections for "${nodeTitle}"...`;
+                updateProgress(3, 40); // Finding connections
 
                 // Find all nodes that connect to our target node
                 const connectedNodeIds = new Set([nodeTitle]);
@@ -1636,12 +1695,16 @@
 
                 console.log(`Found ${connectedNodeIds.size - 1} connected nodes for "${nodeTitle}"`);
 
-                // Clear current graph and build neighborhood graph
-                cy.elements().remove();
+                updateProgress(4, 60); // Building graph
+
+                // Clear current graph if it exists
+                if (cy) {
+                    cy.elements().remove();
+                    cy.destroy();
+                    cy = null;
+                }
 
                 const elements = [];
-                allNodeTitles = [];
-                allNodeData = [];
 
                 // Add all connected nodes
                 for (const nodeId of connectedNodeIds) {
@@ -1657,13 +1720,6 @@
                                 is_redirect: nodeData.is_redirect || false
                             }
                         });
-
-                        allNodeTitles.push(nodeData.title);
-                        allNodeData.push({
-                            title: nodeData.title,
-                            categories: nodeData.categories || [],
-                            links_count: nodeData.links_count || 0
-                        });
                     }
                 }
 
@@ -1675,8 +1731,12 @@
                     });
                 }
 
+                updateProgress(5, 80); // Initializing
+
                 // Initialize graph with neighborhood
                 initCytoscape(elements);
+
+                updateProgress(6, 100); // Done
 
                 // Update stats
                 document.getElementById('nodeCount').textContent = connectedNodeIds.size;
@@ -1684,14 +1744,16 @@
                 document.getElementById('segmentInfo').textContent = `${connectedNodeIds.size.toLocaleString()} nodes (neighborhood view)`;
                 document.getElementById('segmentLabel').textContent = 'Neighborhood';
 
-                // Center on the node after layout
+                // Hide loading after a short delay
                 setTimeout(() => {
+                    document.getElementById('loading').style.display = 'none';
+                    // Center on the node after layout
                     selectNodeById(nodeTitle);
                 }, 500);
 
             } catch (error) {
                 console.error('Error loading graph:', error);
-                alert('Error loading graph to find node');
+                alert(`Error: ${error.message}`);
                 document.getElementById('loading').style.display = 'none';
             }
         }
@@ -2205,35 +2267,45 @@
             }
         }
 
-        // Load nodes by category
+        // Load nodes by category - optimized to use segment files
         async function loadByCategory(categoryName) {
             console.log('Loading category:', categoryName);
+
+            // Remove welcome message if exists
+            const welcomeMsg = document.getElementById('welcomeMessage');
+            if (welcomeMsg) {
+                welcomeMsg.remove();
+            }
+
+            // Show progress bar and steps
+            const progressBar = document.querySelector('.progress-bar');
+            const loadingSteps = document.querySelector('.loading-steps');
+            if (progressBar) progressBar.style.display = 'block';
+            if (loadingSteps) loadingSteps.style.display = 'block';
+
             document.getElementById('loading').style.display = 'block';
             document.getElementById('loadingTitle').textContent = `Loading "${categoryName}"...`;
+            resetLoadingUI();
 
             try {
-                const response = await fetch('chabadpedia_knowledge_graph.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
+                updateProgress(1, 10); // Fetching data
+
+                // Use node index to find which nodes are in this category
+                if (!nodeIndexLoaded || !nodeIndex) {
+                    throw new Error('Node index not loaded yet. Please wait a moment and try again.');
                 }
-                const data = await response.json();
 
-                console.log('Fetched data, processing...');
+                // Find nodes in this category from the index
+                const categoryNodeTitles = new Set();
+                const categoryNodes = [];
 
-                // Convert nodes to array
-                let nodesArray = [];
-                if (Array.isArray(data.nodes)) {
-                    nodesArray = data.nodes;
-                } else {
-                    for (const key in data.nodes) {
-                        nodesArray.push(data.nodes[key]);
+                for (const title in nodeIndex.nodes) {
+                    const node = nodeIndex.nodes[title];
+                    if (node.categories && node.categories.includes(categoryName)) {
+                        categoryNodeTitles.add(title);
+                        categoryNodes.push(node);
                     }
                 }
-
-                // Find nodes in this category
-                const categoryNodes = nodesArray.filter(n =>
-                    n.categories && n.categories.includes(categoryName)
-                );
 
                 console.log(`Found ${categoryNodes.length} nodes in category "${categoryName}"`);
 
@@ -2243,8 +2315,7 @@
                     return;
                 }
 
-                // Build node set
-                const nodeIds = new Set(categoryNodes.map(n => n.title));
+                updateProgress(2, 30); // Processing nodes
 
                 // Clear current graph if it exists, then build category graph
                 if (cy) {
@@ -2269,13 +2340,27 @@
                     });
                 }
 
+                updateProgress(3, 50); // Loading edges
+
+                // Load edges from full dataset (unfortunately we need this for edges)
+                // But we can optimize by only checking edges between our category nodes
+                const response = await fetch('chabadpedia_knowledge_graph.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+
+                updateProgress(4, 70); // Processing edges
+
                 // Add edges between category nodes
                 const edgeSet = new Set();
+                let edgeCount = 0;
+
                 for (const edge of data.edges) {
                     const source = typeof edge === 'string' ? edge : edge[0];
                     const target = typeof edge === 'string' ? edge : edge[1];
 
-                    if (nodeIds.has(source) && nodeIds.has(target)) {
+                    if (categoryNodeTitles.has(source) && categoryNodeTitles.has(target)) {
                         const edgeKey = `${source}|${target}`;
                         if (!edgeSet.has(edgeKey)) {
                             edgeSet.add(edgeKey);
@@ -2283,18 +2368,34 @@
                                 group: 'edges',
                                 data: { source: source, target: target }
                             });
+                            edgeCount++;
+
+                            // Optional: limit edges for very large categories
+                            if (edgeCount > 50000) {
+                                console.warn('Edge limit reached (50,000), some edges may be missing');
+                                break;
+                            }
                         }
                     }
                 }
 
+                updateProgress(5, 90); // Building graph
+
                 // Initialize graph
                 initCytoscape(elements);
+
+                updateProgress(6, 100); // Done
 
                 // Update stats
                 document.getElementById('nodeCount').textContent = categoryNodes.length;
                 document.getElementById('edgeCount').textContent = edgeSet.size;
                 document.getElementById('segmentInfo').textContent = `${categoryNodes.length.toLocaleString()} nodes in "${categoryName}"`;
                 document.getElementById('segmentLabel').textContent = categoryName;
+
+                // Hide loading after a short delay
+                setTimeout(() => {
+                    document.getElementById('loading').style.display = 'none';
+                }, 500);
 
             } catch (error) {
                 console.error('Error loading category:', error);
@@ -2454,7 +2555,7 @@
                     Choose from the dropdown in the sidebar
                 </div>
                 <div style="color: #666; font-size: 0.75rem; margin-top: 15px;">
-                    v2026-04-14-22:15 • Node index loaded: 4,344 nodes
+                    v2026-04-14-22:35 • Node index loaded: 4,344 nodes
                 </div>
                 <div style="color: #666; font-size: 0.8rem; margin-top: 10px;">
                     Faster segments: Concepts (1K), Publications (816), Places (1.4K)
