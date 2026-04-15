@@ -314,6 +314,19 @@
             border-radius: 10px;
             flex-shrink: 0;
         }
+        .show-more-neighbors {
+            color: #4fc3f7;
+            font-size: 0.7rem;
+            padding: 8px;
+            cursor: pointer;
+            text-align: center;
+            border-radius: 4px;
+            transition: background 0.2s;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .show-more-neighbors:hover {
+            background: rgba(76, 252, 247, 0.1);
+        }
         .segment-info {
             font-size: 0.75rem;
             color: #888;
@@ -989,7 +1002,7 @@
 
             html += `
                 <div class="detail" style="margin-top: 10px;"><strong>Connected to (${neighbors.length}):</strong></div>
-                <div class="neighbors-list">
+                <div class="neighbors-list" id="neighborsList" data-node-id="${data.id}">
             `;
 
             neighbors.slice(0, 20).forEach(n => {
@@ -1003,12 +1016,40 @@
             });
 
             if (neighbors.length > 20) {
-                html += `<div style="color: #888; font-size: 0.7rem; padding: 5px;">+ ${neighbors.length - 20} more connections</div>`;
+                html += `<div class="show-more-neighbors" data-node-id="${data.id}">
+                    + ${neighbors.length - 20} more connections
+                </div>`;
             }
 
             html += '</div>';
 
             document.getElementById('nodeInfo').innerHTML = html;
+        }
+
+        // Show all neighbors for a node
+        function showAllNeighbors(nodeId) {
+            const node = cy.getElementById(nodeId);
+            if (!node || node.length === 0) return;
+
+            const neighbors = getNeighbors(node);
+            const neighborsList = document.getElementById('neighborsList');
+
+            if (!neighborsList) return;
+
+            // Clear existing content except the header
+            let html = '';
+
+            neighbors.forEach(n => {
+                const nId = n.data('id').replace(/"/g, '&quot;');
+                const nodeLabel = n.data('label');
+                const nodeConnections = n.data('links_count') || 0;
+                html += `<div class="neighbor-item" data-node-id="${nId}">
+                    <span class="neighbor-name">${nodeLabel}</span>
+                    <span class="neighbor-count">${nodeConnections}</span>
+                </div>`;
+            });
+
+            neighborsList.innerHTML = html;
         }
 
         // Get neighbors of a node
@@ -1208,6 +1249,16 @@
                 const nodeId = neighborItem.getAttribute('data-node-id');
                 if (nodeId && cy) {
                     selectNodeById(nodeId);
+                }
+                return;
+            }
+
+            // Handle "show more neighbors" click
+            const showMoreLink = e.target.closest('.show-more-neighbors');
+            if (showMoreLink) {
+                const nodeId = showMoreLink.getAttribute('data-node-id');
+                if (nodeId) {
+                    showAllNeighbors(nodeId);
                 }
                 return;
             }
