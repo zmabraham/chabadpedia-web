@@ -2572,8 +2572,8 @@
         // Load full node index for autocomplete (lightweight - just names)
         async function loadFullNodeIndex() {
             try {
-                console.log('Loading node index (2.85 MB)...');
-                const response = await fetch('chabadpedia_node_index.json');
+                console.log('Loading node index (5.89 MB)...');
+                const response = await fetch('chabadpedia_node_index_v2.json');
                 nodeIndex = await response.json();
 
                 // Populate autocomplete data from index
