@@ -2173,12 +2173,18 @@
 
         // Load nodes by category
         async function loadByCategory(categoryName) {
+            console.log('Loading category:', categoryName);
             document.getElementById('loading').style.display = 'block';
             document.getElementById('loadingTitle').textContent = `Loading "${categoryName}"...`;
 
             try {
                 const response = await fetch('chabadpedia_knowledge_graph.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
                 const data = await response.json();
+
+                console.log('Fetched data, processing...');
 
                 // Convert nodes to array
                 let nodesArray = [];
@@ -2195,8 +2201,13 @@
                     n.categories && n.categories.includes(categoryName)
                 );
 
+                console.log(`Found ${categoryNodes.length} nodes in category "${categoryName}"`);
+
                 if (categoryNodes.length === 0) {
                     alert(`No nodes found in category: ${categoryName}`);
+                    document.getElementById('loading').style.display = 'none';
+                    return;
+                }
                     document.getElementById('loading').style.display = 'none';
                     return;
                 }
@@ -2254,7 +2265,8 @@
 
             } catch (error) {
                 console.error('Error loading category:', error);
-                alert('Error loading category');
+                alert(`Error loading category: ${error.message}`);
+                document.getElementById('loading').style.display = 'none';
             }
         }
 
