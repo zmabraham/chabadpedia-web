@@ -1206,34 +1206,45 @@
                 return;
             }
 
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('loadingTitle').textContent = `Searching for "${nodeName}"...`;
+
             // Check if full data is loaded
             if (fullExploreData.nodes === undefined) {
                 await loadExploreIndex();
             }
 
-            // Find the node
+            // Find the node (case-insensitive search)
             let targetNode = null;
+            let matchedTitle = null;
+
             if (Array.isArray(fullExploreData.nodes)) {
-                targetNode = fullExploreData.nodes.find(n => n.title === nodeName);
+                targetNode = fullExploreData.nodes.find(n => n.title.toLowerCase() === nodeName.toLowerCase());
             } else {
                 for (const key in fullExploreData.nodes) {
-                    if (fullExploreData.nodes[key].title === nodeName) {
+                    if (fullExploreData.nodes[key].title.toLowerCase() === nodeName.toLowerCase()) {
                         targetNode = fullExploreData.nodes[key];
+                        matchedTitle = targetNode.title;
                         break;
                     }
                 }
             }
 
             if (!targetNode) {
-                alert(`Node "${nodeName}" not found. Try searching for a different name.`);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Node not found</div>
+                    <div style="font-size: 0.9rem; color: #888; margin-top: 10px;">"${nodeName}"</div>
+                    <div style="font-size: 0.8rem; color: #666; margin-top: 20px;">Try a different spelling or search for a partial match</div>
+                    <button onclick="document.getElementById('loading').style.display='none'" style="margin-top: 20px;">Close</button>
+                `;
                 return;
             }
 
-            exploreCenterNode = nodeName;
+            // Use the actual title from the data (preserves original spelling/case)
+            exploreCenterNode = matchedTitle || targetNode.title;
             exploreHops = 1;
 
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('loadingTitle').textContent = `Exploring: ${nodeName}`;
+            document.getElementById('loadingTitle').textContent = `Exploring: ${exploreCenterNode}`;
 
             setTimeout(() => {
                 loadExploreNeighborhood();
@@ -1244,8 +1255,14 @@
         function loadExploreNeighborhood() {
             if (!fullExploreData.edges) {
                 console.error('No edges data available');
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #ff7043;">Error loading data</div>
+                    <div style="font-size: 0.9rem; color: #888;">No edge data available</div>
+                `;
                 return;
             }
+
+            console.log(`Exploring ${exploreCenterNode} with ${exploreHops} hops`);
 
             // Build node set starting from center
             const nodesToShow = new Set([exploreCenterNode]);
@@ -1272,6 +1289,8 @@
                 nextLevel.forEach(id => nodesToShow.add(id));
                 currentLevel = nextLevel;
             }
+
+            console.log(`Found ${nodesToShow.size} nodes within ${exploreHops} hops`);
 
             // Get node data
             let nodesArray = [];
