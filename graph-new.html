@@ -1378,6 +1378,33 @@
 
         // Article Viewer Functions
         const articleCache = new Map(); // Cache for loaded articles
+        let redirectMap = null; // Will be loaded from redirect_map.json
+
+        // Load redirect map
+        async function loadRedirectMap() {
+            try {
+                const response = await fetch('redirect_map.json');
+                if (response.ok) {
+                    redirectMap = await response.json();
+                    console.log(`✓ Loaded redirect map with ${Object.keys(redirectMap).length} entries`);
+                }
+            } catch (error) {
+                console.log('Redirect map not available:', error.message);
+            }
+        }
+
+        // Resolve redirect - follows redirect chain to final target
+        function resolveRedirect(title, visited = new Set()) {
+            if (!redirectMap || !redirectMap[title]) {
+                return title;
+            }
+            if (visited.has(title)) {
+                console.warn('Redirect loop detected:', title);
+                return title;
+            }
+            visited.add(title);
+            return resolveRedirect(redirectMap[title], visited);
+        }
 
         async function openArticleViewer(nodeTitle) {
             const viewer = document.getElementById('articleViewer');
@@ -1406,6 +1433,16 @@
         async function loadArticle(nodeTitle) {
             const content = document.getElementById('articleContent');
             const meta = document.getElementById('articleCategories');
+
+            // Resolve redirect if this title is a redirect
+            const resolvedTitle = resolveRedirect(nodeTitle);
+            if (resolvedTitle !== nodeTitle) {
+                console.log(`Redirect: '${nodeTitle}' -> '${resolvedTitle}'`);
+                // Update the title display
+                document.getElementById('articleTitle').textContent = resolvedTitle;
+                // Load the target article
+                nodeTitle = resolvedTitle;
+            }
 
             // Check cache first
             if (articleCache.has(nodeTitle)) {
@@ -1472,11 +1509,17 @@
                 '<p>No content available for this page.</p>';
 
             // Fix image URLs BEFORE setting innerHTML (browser loads images immediately)
+            // Replace all /images/ paths with full ChabadPedia URLs
             articleHtml = articleHtml
                 .replace(/src="\/images\//gi, 'src="https://chabadpedia.co.il/images/')
                 .replace(/src='\/images\//gi, "src='https://chabadpedia.co.il/images/")
-                .replace(/srcset="([^"]*)\/images\//gi, 'srcset="$1https://chabadpedia.co.il/images/')
-                .replace(/srcset='([^']*)\/images\//gi, "srcset='$1https://chabadpedia.co.il/images/");
+                // For srcset, replace all occurrences of /images/ throughout the attribute
+                .replace(/srcset="([^"]+)"/gi, function(match, srcsetContent) {
+                    return 'srcset="' + srcsetContent.replace(/\/images\//g, 'https://chabadpedia.co.il/images/') + '"';
+                })
+                .replace(/srcset='([^']+)'/gi, function(match, srcsetContent) {
+                    return "srcset='" + srcsetContent.replace(/\/images\//g, "https://chabadpedia.co.il/images/") + "'";
+                });
 
             content.innerHTML = `
                 <div class="mw-parser-output">
@@ -2846,6 +2889,9 @@
 
             // Load category index (async, non-blocking)
             loadCategoryIndex();
+
+            // Load redirect map (async, non-blocking)
+            loadRedirectMap();
 
             // Category input autocomplete
             document.getElementById('categoryInput').addEventListener('input', function(e) {
