@@ -544,6 +544,39 @@
         .article-content a:hover {
             text-decoration: underline;
         }
+        .article-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .article-content .thumb {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 10px;
+            border-radius: 4px;
+            margin: 15px 0;
+        }
+        .article-content .thumbcaption {
+            font-size: 0.85rem;
+            color: #888;
+            text-align: center;
+            margin-top: 5px;
+        }
+        .article-content table {
+            border-collapse: collapse;
+            margin: 15px 0;
+            width: 100%;
+        }
+        .article-content th,
+        .article-content td {
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 8px 12px;
+            text-align: right;
+        }
+        .article-content th {
+            background: rgba(255, 215, 0, 0.1);
+            color: #ffd700;
+        }
         .article-loading {
             display: flex;
             align-items: center;
@@ -1434,9 +1467,29 @@
             }
 
             // Display article content
-            const articleHtml = parse.text && parse.text['*'] ?
+            let articleHtml = parse.text && parse.text['*'] ?
                 parse.text['*'] :
                 '<p>No content available for this page.</p>';
+
+            // Rewrite image URLs to point to ChabadPedia
+            articleHtml = articleHtml.replace(
+                /src="\/images\//g,
+                'src="https://chabadpedia.co.il/images/'
+            );
+            articleHtml = articleHtml.replace(
+                /src="\/thumb\//g,
+                'src="https://chabadpedia.co.il/thumb/'
+            );
+
+            // Remove edit section links (עריכה)
+            articleHtml = articleHtml.replace(
+                /<span class="mw-editsection">.*?<\/span>/gi,
+                ''
+            );
+            articleHtml = articleHtml.replace(
+                /<span class="mw-editsection-like">.*?<\/span>/gi,
+                ''
+            );
 
             content.innerHTML = `
                 <div class="mw-parser-output">
