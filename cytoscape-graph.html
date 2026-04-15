@@ -1091,147 +1091,22 @@
         // Global cache for full graph data
         let fullGraphRawData = null;
 
-        // Expand to load all connections for a node from full dataset
+        // Expand to load all connections - loads full graph and centers on node
         async function expandAllConnections(nodeId) {
-            const node = cy.getElementById(nodeId);
-            if (!node || node.length === 0) return;
-
             // Show loading state
             const btn = document.querySelector('.expand-all-btn');
             if (btn) {
-                btn.textContent = '⏳ Loading...';
+                btn.textContent = '⏳ Loading full graph...';
                 btn.disabled = true;
             }
 
-            try {
-                // Load full graph data if not already loaded
-                if (!fullGraphRawData) {
-                    const response = await fetch('chabadpedia_knowledge_graph.json');
-                    fullGraphRawData = await response.json();
-                }
+            // Load the full graph
+            await loadSegment('full');
 
-                // Convert nodes to array if needed
-                let nodesArray = [];
-                if (Array.isArray(fullGraphRawData.nodes)) {
-                    nodesArray = fullGraphRawData.nodes;
-                } else {
-                    for (const key in fullGraphRawData.nodes) {
-                        nodesArray.push(fullGraphRawData.nodes[key]);
-                    }
-                }
-
-                // Find the node in full data
-                const targetNode = nodesArray.find(n => n.title === nodeId);
-                if (!targetNode) {
-                    console.log('Node not found in full dataset');
-                    return;
-                }
-
-                // Get all node IDs currently in graph
-                const currentNodeIds = new Set(cy.nodes().map(n => n.id()));
-
-                // Find all edges connected to this node
-                const newElements = [];
-                const addedNodeIds = new Set();
-
-                // Track all nodes that should be added
-                const nodesToAdd = new Set();
-                nodesToAdd.add(nodeId);
-
-                // Find all connected nodes from edges
-                for (const edge of fullGraphRawData.edges) {
-                    const source = typeof edge === 'string' ? edge : edge[0];
-                    const target = typeof edge === 'string' ? edge : edge[1];
-
-                    if (source === nodeId && !currentNodeIds.has(target)) {
-                        nodesToAdd.add(target);
-                    } else if (target === nodeId && !currentNodeIds.has(source)) {
-                        nodesToAdd.add(source);
-                    }
-                }
-
-                // Add the new nodes
-                for (const nodeIdToAdd of nodesToAdd) {
-                    if (nodeIdToAdd !== nodeId && !currentNodeIds.has(nodeIdToAdd)) {
-                        const nodeData = nodesArray.find(n => n.title === nodeIdToAdd);
-                        if (nodeData) {
-                            newElements.push({
-                                group: 'nodes',
-                                data: {
-                                    id: nodeData.title,
-                                    label: nodeData.title,
-                                    categories: nodeData.categories || [],
-                                    links_count: nodeData.links_count || 0,
-                                    is_redirect: nodeData.is_redirect || false
-                                }
-                            });
-                            addedNodeIds.add(nodeIdToAdd);
-                        }
-                    }
-                }
-
-                // Add all edges from/to this node
-                for (const edge of fullGraphRawData.edges) {
-                    const source = typeof edge === 'string' ? edge : edge[0];
-                    const target = typeof edge === 'string' ? edge : edge[1];
-
-                    if ((source === nodeId || target === nodeId) &&
-                        !cy.getElementById(`${source}-${target}`).length &&
-                        !cy.getElementById(`${target}-${source}`).length) {
-                        newElements.push({
-                            group: 'edges',
-                            data: { source: source, target: target }
-                        });
-                    }
-                }
-
-                console.log(`Expanding: adding ${newElements.filter(e => e.group === 'nodes').length} nodes and ${newElements.filter(e => e.group === 'edges').length} edges`);
-
-                // Add new elements to graph
-                if (newElements.length > 0) {
-                    cy.add(newElements);
-
-                    // Update autocomplete data
-                    for (const elem of newElements) {
-                        if (elem.group === 'nodes') {
-                            allNodeTitles.push(elem.data.label);
-                            allNodeData.push({
-                                title: elem.data.label,
-                                categories: elem.data.categories || [],
-                                links_count: elem.data.links_count || 0
-                            });
-                        }
-                    }
-
-                    // Run a quick layout on just the new nodes
-                    const newNode = cy.getElementById(nodeId);
-                    const newNodesCollection = cy.nodes().filter(n => addedNodeIds.has(n.id()) || n.id() === nodeId);
-
-                    cy.layout({
-                        name: 'cose',
-                        animate: true,
-                        animationDuration: 500,
-                        fit: false,
-                        randomize: false,
-                        nodeRepulsion: 400000,
-                        idealEdgeLength: 60,
-                        gravity: 80
-                    }).run();
-
-                    // Update node info to show all connections
-                    showNodeInfo(newNode);
-                }
-
-            } catch (error) {
-                console.error('Error expanding connections:', error);
-            } finally {
-                // Reset button
-                const btn = document.querySelector('.expand-all-btn');
-                if (btn) {
-                    btn.textContent = '✓ Expanded';
-                    setTimeout(() => btn.style.display = 'none', 2000);
-                }
-            }
+            // After loading, center on the node
+            setTimeout(() => {
+                selectNodeById(nodeId);
+            }, 1000);
         }
 
         // Get neighbors of a node
