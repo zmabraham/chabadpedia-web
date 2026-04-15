@@ -120,7 +120,7 @@
             border-radius: 0 0 6px 6px;
             max-height: 250px;
             overflow-y: auto;
-            z-index: 100;
+            z-index: 10000;
             display: none;
             box-shadow: 0 4px 12px rgba(0,0,0,0.5);
         }
@@ -229,7 +229,7 @@
             left: 50%;
             transform: translate(-50%, -50%);
             text-align: center;
-            z-index: 1000;
+            z-index: 999;
             min-width: 300px;
         }
         .spinner {
@@ -762,7 +762,10 @@
             document.getElementById(steps[step - 1])?.classList.remove('done');
 
             // Update progress bar
-            document.getElementById('progressFill').style.width = percentage + '%';
+            const progressFill = document.getElementById('progressFill');
+            if (progressFill) {
+                progressFill.style.width = percentage + '%';
+            }
         }
 
         // Reset loading UI
@@ -771,7 +774,10 @@
             steps.forEach(id => {
                 document.getElementById(id)?.classList.remove('active', 'done');
             });
-            document.getElementById('progressFill').style.width = '0%';
+            const progressFill = document.getElementById('progressFill');
+            if (progressFill) {
+                progressFill.style.width = '0%';
+            }
         }
 
         // Load segment data
@@ -901,10 +907,34 @@
 
             } catch (error) {
                 console.error('Error loading segment:', error);
-                document.getElementById('loading').innerHTML = `
-                    <div style="color: #ff7043;">Error loading graph</div>
-                    <div style="font-size: 0.9rem; color: #888;">${error.message}</div>
-                `;
+                const loadingTitle = document.getElementById('loadingTitle');
+                const loadingDiv = document.getElementById('loading');
+
+                if (loadingTitle) {
+                    loadingTitle.innerHTML = `<span style="color: #ff7043;">Error loading graph</span>`;
+                }
+
+                // Add error message below the title
+                const errorDiv = document.createElement('div');
+                errorDiv.style.color = '#ff7043';
+                errorDiv.style.fontSize = '0.9rem';
+                errorDiv.style.marginTop = '10px';
+                errorDiv.textContent = error.message;
+                loadingDiv.appendChild(errorDiv);
+
+                // Add a "Close" button
+                const closeBtn = document.createElement('button');
+                closeBtn.textContent = 'Close';
+                closeBtn.style.marginTop = '20px';
+                closeBtn.style.padding = '8px 16px';
+                closeBtn.style.cursor = 'pointer';
+                closeBtn.onclick = () => {
+                    loadingDiv.style.display = 'none';
+                    // Remove the error elements we added
+                    errorDiv.remove();
+                    closeBtn.remove();
+                };
+                loadingDiv.appendChild(closeBtn);
             }
         }
 
@@ -1080,7 +1110,7 @@
                 return;
             }
 
-            // Build suggestions HTML
+            // Build suggestions HTML using data attributes
             let html = '';
             matches.forEach(node => {
                 // Highlight matching text
@@ -1102,8 +1132,10 @@
                 // Get first category for display
                 const category = node.categories.length > 0 ? node.categories[0] : '';
 
+                // Use data attribute with properly escaped value
+                const escapedTitle = title.replace(/"/g, '&quot;');
                 html += `
-                    <div class="suggestion-item" onclick="selectSuggestion('${title.replace(/'/g, "\\'")}')">
+                    <div class="suggestion-item" data-title="${escapedTitle}">
                         ${highlightedTitle}
                         ${category ? `<span class="category">${category}</span>` : ''}
                     </div>
@@ -1115,6 +1147,22 @@
             suggestionsContainer.innerHTML = html;
             suggestionsContainer.classList.add('show');
         }
+
+        // Handle suggestion clicks via event delegation
+        document.addEventListener('click', function(e) {
+            const suggestionItem = e.target.closest('.suggestion-item');
+            if (suggestionItem) {
+                const title = suggestionItem.getAttribute('data-title');
+                if (title) {
+                    // Check if it's an explore suggestion or regular suggestion
+                    if (suggestionItem.classList.contains('explore-suggestion')) {
+                        selectExploreSuggestion(title);
+                    } else {
+                        selectSuggestion(title);
+                    }
+                }
+            }
+        });
 
         function hideSuggestions() {
             const suggestionsContainer = document.getElementById('searchSuggestions');
@@ -1420,7 +1468,7 @@
                 return;
             }
 
-            // Build suggestions HTML
+            // Build suggestions HTML using data attributes
             let html = '';
             matches.forEach(node => {
                 const title = node.title;
@@ -1440,8 +1488,10 @@
 
                 const category = node.categories.length > 0 ? node.categories[0] : '';
 
+                // Use data attribute with properly escaped value
+                const escapedTitle = title.replace(/"/g, '&quot;');
                 html += `
-                    <div class="suggestion-item" onclick="selectExploreSuggestion('${title.replace(/'/g, "\\'")}')">
+                    <div class="suggestion-item explore-suggestion" data-title="${escapedTitle}">
                         ${highlightedTitle}
                         ${category ? `<span class="category">${category}</span>` : ''}
                     </div>
